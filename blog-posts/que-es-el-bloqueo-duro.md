@@ -1,0 +1,17 @@
+---
+title: "¿Qué es el bloqueo duro?"
+slug: "¿que-es-el-bloqueo-duro"
+date: "2010-02-25"
+oldUrl: "/2010/02/25/%c2%bfque-es-el-bloqueo-duro/"
+description: "Qué es el bloqueo duro en Velneo v7: el sistema de control de concurrencia que revoluciona la gestión de registros en aplicaciones multiusuario."
+category: "desarrollo-software"
+tags: ["velneo", "desarrollo de software"]
+readingTime: 1
+author: "Alfonso Gutiérrez"
+commentCount: 9
+wordCount: 83
+noindex: true
+image: ""
+---
+
+La versión V7 7.3 de Velneo [ha salido cargada de novedades](http://velneo.es/velneo-v7-7-3-%E2%80%93-video-de-novedades-de-la-version/), una de las que me impresionó desde el primer momento es el bloqueo duro y lo que supone en el sistema de transacciones. Como todo, es una utilidad que hay que saber utilizar correctamente en los sitios adecuados, no es algo trivial sino algo que hay que saber analizar correctamente antes de implementar. Siempre es un placer estar con Juan y que te transmita en directo este tipo de cosas. \

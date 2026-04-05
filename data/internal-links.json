@@ -1,0 +1,178 @@
+{
+  "ejemplos-de-input-output-y-actividades": {
+    "relatedPosts": ["¿que-son-las-variables-de-control", "¿que-es-la-estrategia-funcional"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "percepcion-y-cultura": {
+    "relatedPosts": ["¿cuales-son-las-orientaciones-culturales-segun-harrison1972", "lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "como-crear-programas": {
+    "relatedPosts": ["como-se-hacer-crecer-una-empresa-de-software", "lenguajes-de-programacion"],
+    "pillarGuide": "guia-desarrollo-software-moderno"
+  },
+  "¿que-son-las-variables-de-control": {
+    "relatedPosts": ["ejemplos-de-input-output-y-actividades", "¿que-es-la-estrategia-funcional"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "¿que-es-pmm": {
+    "relatedPosts": ["¿que-son-las-barreras-de-entrada", "¿que-es-la-teoria-del-subconsumo"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "¿que-es-la-estrategia-funcional": {
+    "relatedPosts": ["¿que-son-las-barreras-de-entrada", "factores-activos-y-pasivos-de-una-empresa"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "¿que-es-la-teoria-del-subconsumo": {
+    "relatedPosts": ["¿que-es-pmm", "¿que-son-las-barreras-de-entrada"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "¿que-son-las-barreras-de-entrada": {
+    "relatedPosts": ["¿que-es-la-estrategia-funcional", "como-se-hacer-crecer-una-empresa-de-software"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "factores-activos-y-pasivos-de-una-empresa": {
+    "relatedPosts": ["¿que-es-la-estrategia-funcional", "¿que-son-las-barreras-de-entrada"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "como-se-hacer-crecer-una-empresa-de-software": {
+    "relatedPosts": ["como-crear-programas", "5-ideas-para-vender-software-por-internet"],
+    "pillarGuide": "guia-desarrollo-software-moderno"
+  },
+  "sociedad-industrial-vs-sociedad-conocimiento": {
+    "relatedPosts": ["percepcion-y-cultura", "lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "agentes-de-voz-con-ia-analisis-completo-del-panorama-2025": {
+    "relatedPosts": ["plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana", "ventas-inteligentes-por-voz"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "como-es-el-ciclo-de-adopcion-tecnologica": {
+    "relatedPosts": ["lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial", "transformacion-digital-claves-de-una-empresa-ia-first"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "como-la-ia-de-vo-revoluciona-el-marketing-ia-en-2024": {
+    "relatedPosts": ["transforma-tu-marketing-con-ia-beneficios-y-aplicaciones-clave", "como-la-ia-de-voz-conversacional-transformara-nuestros-negocios"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "como-la-ia-de-voz-conversacional-transformara-nuestros-negocios": {
+    "relatedPosts": ["ventas-inteligentes-por-voz", "modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana": {
+    "relatedPosts": ["que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas", "ventas-inteligentes-por-voz"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "demostracion-de-software": {
+    "relatedPosts": ["la-demostracion-de-software", "historia-del-crm"],
+    "pillarGuide": "guia-desarrollo-software-moderno"
+  },
+  "guia-para-hacer-prompts-en-google-veo-2": {
+    "relatedPosts": ["impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025", "open-ai-presenta-deep-research"],
+    "pillarGuide": "guia-ia-generativa-creacion-contenido"
+  },
+  "historia-del-crm": {
+    "relatedPosts": ["transformacion-digital-claves-de-una-empresa-ia-first", "como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "ia-de-voz-en-la-educacion-personalizacion-accesibilidad-y-nuevos-modelos-docentes": {
+    "relatedPosts": ["modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional", "tendencias-de-la-sintesis-de-voz-por-ia-para-2025"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "ia-en-2025-las-10-tendencias-mas-destacadas": {
+    "relatedPosts": ["los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio", "impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025": {
+    "relatedPosts": ["ia-en-2025-las-10-tendencias-mas-destacadas", "guia-para-hacer-prompts-en-google-veo-2"],
+    "pillarGuide": "guia-ia-generativa-creacion-contenido"
+  },
+  "jovenes-en-la-red-dominio-gratis": {
+    "relatedPosts": ["como-es-el-ciclo-de-adopcion-tecnologica", "lenguajes-de-programacion"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "la-demostracion-de-software": {
+    "relatedPosts": ["demostracion-de-software", "historia-del-crm"],
+    "pillarGuide": "guia-desarrollo-software-moderno"
+  },
+  "la-era-de-la-inteligencia": {
+    "relatedPosts": ["reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi", "los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp": {
+    "relatedPosts": ["modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-tra", "open-ai-presenta-deep-research"],
+    "pillarGuide": "guia-desarrollo-software-moderno"
+  },
+  "lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial": {
+    "relatedPosts": ["como-es-el-ciclo-de-adopcion-tecnologica", "la-era-de-la-inteligencia"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "lenguajes-de-programacion": {
+    "relatedPosts": ["modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-tra", "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp"],
+    "pillarGuide": "guia-desarrollo-software-moderno"
+  },
+  "los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio": {
+    "relatedPosts": ["ia-en-2025-las-10-tendencias-mas-destacadas", "reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "meta-acelera-su-estrategia-de-ia-por-voz-innovacion-llama-4-y-el-futuro-de-la-conversacion-digital": {
+    "relatedPosts": ["novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz", "modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional": {
+    "relatedPosts": ["tendencias-de-la-sintesis-de-voz-por-ia-para-2025", "meta-acelera-su-estrategia-de-ia-por-voz-innovacion-llama-4-y-el-futuro-de-la-conversacion-digital"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-tra": {
+    "relatedPosts": ["open-ai-presenta-deep-research", "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp"],
+    "pillarGuide": "guia-desarrollo-software-moderno"
+  },
+  "novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz": {
+    "relatedPosts": ["meta-acelera-su-estrategia-de-ia-por-voz-innovacion-llama-4-y-el-futuro-de-la-conversacion-digital", "agentes-de-voz-con-ia-analisis-completo-del-panorama-2025"],
+    "pillarGuide": "guia-herramientas-productividad-2026"
+  },
+  "open-ai-presenta-deep-research": {
+    "relatedPosts": ["modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-tra", "reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi"],
+    "pillarGuide": "guia-herramientas-productividad-2026"
+  },
+  "plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana": {
+    "relatedPosts": ["agentes-de-voz-con-ia-analisis-completo-del-panorama-2025", "como-la-ia-de-voz-conversacional-transformara-nuestros-negocios"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas": {
+    "relatedPosts": ["como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana", "ventas-inteligentes-por-voz"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi": {
+    "relatedPosts": ["la-era-de-la-inteligencia", "los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "stargate-project-vs-proyecto-manhattan-un-salto-cuantico-en-la-inversion-tecnologica": {
+    "relatedPosts": ["la-era-de-la-inteligencia", "ia-en-2025-las-10-tendencias-mas-destacadas"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "tendencias-de-la-sintesis-de-voz-por-ia-para-2025": {
+    "relatedPosts": ["modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional", "novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz"],
+    "pillarGuide": "guia-ia-generativa-creacion-contenido"
+  },
+  "terminos-anglosajones-de-moda-sobre-rrhh": {
+    "relatedPosts": ["transformacion-digital-claves-de-una-empresa-ia-first", "como-es-el-ciclo-de-adopcion-tecnologica"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "transforma-tu-marketing-con-ia-beneficios-y-aplicaciones-clave": {
+    "relatedPosts": ["como-la-ia-de-vo-revoluciona-el-marketing-ia-en-2024", "como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana"],
+    "pillarGuide": "guia-ia-generativa-creacion-contenido"
+  },
+  "transformacion-digital-claves-de-una-empresa-ia-first": {
+    "relatedPosts": ["historia-del-crm", "que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "vcena-con-desarrolladores": {
+    "relatedPosts": ["lenguajes-de-programacion", "demostracion-de-software"],
+    "pillarGuide": "guia-desarrollo-software-moderno"
+  },
+  "ventas-inteligentes-por-voz": {
+    "relatedPosts": ["que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas", "como-la-ia-de-voz-conversacional-transformara-nuestros-negocios"],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  }
+}

@@ -1,0 +1,20 @@
+---
+title: "Información Velneo V7"
+slug: "v7-que-viene-que-viene"
+date: "2008-05-02"
+oldUrl: "/2008/05/02/v7-que-viene-que-viene/"
+description: "Velneo V7 está en camino: novedades, mejoras esperadas y lo que significa para los desarrolladores de la plataforma."
+category: "desarrollo-software"
+tags: ["velneo"]
+author: "Alfonso Gutiérrez"
+commentCount: 21
+wordCount: 596
+readingTime: 3
+image: ""
+---
+
+V7, mucho se ha escrito, hablado, y comentado sobre el nuevo producto de Velneo. Durante los últimos meses hemos recibido feedback por parte de la comunidad sobre nuestra política de comunicación de V7. Tanto a la gente que nos ha *“dado cañita”* como a la gente que nos ha apoyado incondicionalmente. “Gracias”. Sin todos vosotros no estaríamos aquí. Durante estos últimos meses sólo hemos dado información sobre V7 a los betatester, manteniendo el más absoluto silencio en cuanto a los avances de la herramienta. El 19 de Mayo abriremos la zona de betatester. No sólo los suscriptores podrán acceder a la documentación, todos vosotros podréis empezar a valorar, si la espera o estrategia han sido o no acertadas. Además entre los recursos que os vais encontrar se encuentra un blog privado de betatester donde esperamos toda vuestra participación. Llevamos 2 años trabajando en ese blog con lo que tomaros con calma la lectura de toda la documentación
+Para poder acceder a esta zona sólo deberéis de estar validados en Velneo Directo y os aparecerá una nueva pestaña como muestra la imagen:  Espero que pronto llegue la reconciliación con la parte más crítica de la comunidad derivada de nuestros retrasos en la aparición de la plataforma: \ Nuestro niño es Internet, y nuestra Coca-Cola… V7
+¿Habrá reconciliación? Nosotros estamos convencidos de que si. Sabemos que apreciáis la tecnología y cuando conozcáis V7, se entenderán muchos ¿Por qué?. ***¿Por qué ahora?*** Bien después de equivocarnos una vez y vender algo que no estaba acabado en la Conference06, no queríamos hablar de nada hasta que pudiéramos “tocar” la plataforma completa con todos los componentes. Y esto ya se ha producido internamente, se acabó el último componente de la plataforma V7, vclient y con él la plataforma está completa a nivel de subproductos. Ahora habrá que pulir, estabilizar, etc….  ***¿Por qué tanto tiempo?*** Se ha comentado [varias veces](/2007/08/20/historia-de-v7/), que V7 es algo más que una nueva versión, es un nuevo producto que ha cogido las grandes virtudes de Velneo 6.x pero con una arquitectura más abstracta, flexible y abierta. Todos veréis que las posibilidades de la nueva versión son espectaculares. ***¿Por qué se anunció en vConference 06?*** Bien porque no teníamos de p
+idea de lo que hacíamos, llevábamos poco tiempo con el proyecto, y los plazos en software son como son, **NOS EQUIVOCAMOS**. Además se reescribió varias veces, tirando el producto y empezando de nuevo porque [nuestro arquitecto así lo requirió](/2007/11/29/habla-un-genio/) y nosotros apoyamos 100% sus decisiones, sabemos que sino tenemos un producto excepcional (el mejor), en este mercado no tenemos nada que hacer. Tenemos que tener el mejor producto del mercado, para tener una sola oportunidad ante los grandes. Por eso antepusimos durante los últimos años la calidad del producto ante todo, servicios, resultados, cash flow, imagen, .... nuestra apuesta ha sido 100% Calidad de producto.... y el resultado es V7. ***¿Quiero saber más?*** A partir de ahora queremos centralizar toda la documentación/información en el Blog de Betatester dentro de Velneo Directo, por lo cual agradeceríamos que todo el mundo escriba y opine en ese Foro. Ahora mismo no nos interesa crear Buzz sobre V7 en la red
+Queremos contar con vuestras opiniones, reflexiones, ideas, V7 es un cambio grande en la filosofía de escribir software y nuestra comunidad tiene que tenerlo todo claro antes de que se genere Buzz en Internet. Por último quiero agradecer el apoyo incondicional de toda la gente que ha estado ahí, con una fe ciega de que este proyecto lo íbamos a sacar adelante, GRACIAS DE PARTE DE TODO EL EQUIPO

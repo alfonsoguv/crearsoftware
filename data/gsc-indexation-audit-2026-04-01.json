@@ -1,0 +1,1697 @@
+{
+  "generatedAt": "2026-04-01T16:10:12.828Z",
+  "siteUrl": "sc-domain:crearsoftware.com",
+  "requestedSiteUrl": "sc-domain:crearsoftware.com",
+  "usedFallbackProperty": false,
+  "inspectedUrlCount": 100,
+  "indexedCount": 73,
+  "notIndexedCount": 26,
+  "errorCount": 1,
+  "byCoverageState": {
+    "Google no reconoce esta URL": 10,
+    "Rastreada: actualmente sin indexar": 16
+  },
+  "indexed": [
+    {
+      "url": "https://crearsoftware.com/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/",
+      "userCanonical": null,
+      "lastCrawlTime": "2026-04-01T15:31:08Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=10&cst&app-download=android",
+        "https://www.crearsoftware.com/",
+        "https://crearsoftware.com/2012/12/03/la-venta-de-software/",
+        "https://crearsoftware.com/2013/03/24/software-funcionalidad/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/",
+      "userCanonical": "https://crearsoftware.com/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/",
+      "lastCrawlTime": "2026-03-30T17:02:29Z",
+      "referringUrls": [
+        "https://crearsoftware.com/autor/",
+        "https://crearsoftware.com/feed/",
+        "http://alfonsogu.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
+      "userCanonical": "https://crearsoftware.com/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
+      "lastCrawlTime": "2026-03-29T21:00:19Z",
+      "referringUrls": [
+        "https://crearsoftware.com/author/alfonsogu/feed/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/03/10/agentes-de-voz-con-ia-analisis-completo-del-panorama-2025/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/03/10/agentes-de-voz-con-ia-analisis-completo-del-panorama-2025/",
+      "userCanonical": "https://crearsoftware.com/2025/03/10/agentes-de-voz-con-ia-analisis-completo-del-panorama-2025/",
+      "lastCrawlTime": "2026-03-11T00:32:55Z",
+      "referringUrls": [
+        "https://crearsoftware.com/author/alfonsogu/feed/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/03/09/meta-acelera-su-estrategia-de-ia-por-voz-innovacion-llama-4-y-el-futuro-de-la-conversacion-digital/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/03/09/meta-acelera-su-estrategia-de-ia-por-voz-innovacion-llama-4-y-el-futuro-de-la-conversacion-digital/",
+      "userCanonical": "https://crearsoftware.com/2025/03/09/meta-acelera-su-estrategia-de-ia-por-voz-innovacion-llama-4-y-el-futuro-de-la-conversacion-digital/",
+      "lastCrawlTime": "2026-02-16T04:08:25Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=2&cst&archives-list&archives-type=tags",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/02/25/open-ai-presenta-deep-research/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/02/25/open-ai-presenta-deep-research/",
+      "userCanonical": "https://crearsoftware.com/2025/02/25/open-ai-presenta-deep-research/",
+      "lastCrawlTime": "2026-03-13T14:06:49Z",
+      "referringUrls": [
+        "https://crearsoftware.com/",
+        "https://crearsoftware.com/feed/",
+        "http://alfonsogu.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/",
+      "userCanonical": "https://crearsoftware.com/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/",
+      "lastCrawlTime": "2026-03-18T23:21:54Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?archives-list&query-0-page=1",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/",
+      "userCanonical": "https://crearsoftware.com/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/",
+      "lastCrawlTime": "2026-03-23T22:39:46Z",
+      "referringUrls": [
+        "https://crearsoftware.com/feed/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/30/ia-de-voz-en-la-educacion-personalizacion-accesibilidad-y-nuevos-modelos-docentes/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/30/ia-de-voz-en-la-educacion-personalizacion-accesibilidad-y-nuevos-modelos-docentes/",
+      "userCanonical": "https://crearsoftware.com/2025/01/30/ia-de-voz-en-la-educacion-personalizacion-accesibilidad-y-nuevos-modelos-docentes/",
+      "lastCrawlTime": "2026-03-01T21:42:58Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/21/?archives-list&archives-type=cats&query-0-page=1",
+        "https://crearsoftware.com/page/26/?s_=%20saas",
+        "https://crearsoftware.com/",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/25/la-era-de-la-inteligencia/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/25/la-era-de-la-inteligencia/",
+      "userCanonical": "https://crearsoftware.com/2025/01/25/la-era-de-la-inteligencia/",
+      "lastCrawlTime": "2026-02-21T07:27:04Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?cst&app-download=windowsphone&query-0-page=9",
+        "https://crearsoftware.com/feed/",
+        "https://crearsoftware.com/page/2/?query-0-page=1&cst&app-download=windowsphone"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/22/stargate-project-vs-proyecto-manhattan-un-salto-cuantico-en-la-inversion-tecnologica/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/22/stargate-project-vs-proyecto-manhattan-un-salto-cuantico-en-la-inversion-tecnologica/",
+      "userCanonical": "https://crearsoftware.com/2025/01/22/stargate-project-vs-proyecto-manhattan-un-salto-cuantico-en-la-inversion-tecnologica/",
+      "lastCrawlTime": "2026-03-22T16:06:28Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=10&cst&app-download=android",
+        "https://crearsoftware.com/page/26/?s_=%20saas",
+        "https://crearsoftware.com/",
+        "http://alfonsogu.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/12/lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/12/lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial/",
+      "userCanonical": "https://crearsoftware.com/2025/01/12/lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial/",
+      "lastCrawlTime": "2026-03-19T08:37:58Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=1&cst&app-download=windowsphone",
+        "https://crearsoftware.com/page/2/?s_=+saas",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/10/transformacion-digital-claves-de-una-empresa-ia-first/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/10/transformacion-digital-claves-de-una-empresa-ia-first/",
+      "userCanonical": "https://crearsoftware.com/2025/01/10/transformacion-digital-claves-de-una-empresa-ia-first/",
+      "lastCrawlTime": "2026-03-24T06:18:20Z",
+      "referringUrls": [
+        "https://crearsoftware.com/feed/",
+        "https://crearsoftware.com/2009/04/11/%C2%BFque-es-un-cpd/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/09/transforma-tu-marketing-con-ia-beneficios-y-aplicaciones-clave/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/09/transforma-tu-marketing-con-ia-beneficios-y-aplicaciones-clave/",
+      "userCanonical": "https://crearsoftware.com/2025/01/09/transforma-tu-marketing-con-ia-beneficios-y-aplicaciones-clave/",
+      "lastCrawlTime": "2025-11-24T05:31:35Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?app-download=android&query-0-page=11",
+        "https://crearsoftware.com/2025/01/10/transformacion-digital-claves-de-una-empresa-ia-first/",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/08/ia-en-2025-las-10-tendencias-mas-destacadas/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/08/ia-en-2025-las-10-tendencias-mas-destacadas/",
+      "userCanonical": "https://crearsoftware.com/2025/01/08/ia-en-2025-las-10-tendencias-mas-destacadas/",
+      "lastCrawlTime": "2025-12-03T23:07:57Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/3/?query-0-page=2",
+        "https://crearsoftware.com/page/2/?s_=+saas",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/",
+      "userCanonical": "https://crearsoftware.com/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/",
+      "lastCrawlTime": "2026-03-14T02:10:17Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/2/?cst&s_=saas&query-0-page=16",
+        "https://crearsoftware.com/page/40/?archives-list&archives-type=months",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/",
+      "userCanonical": "https://crearsoftware.com/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/",
+      "lastCrawlTime": "2025-12-03T04:56:39Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=15&cst&app-download=android",
+        "https://crearsoftware.com/page/40/?archives-list&archives-type=months",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/03/tendencias-de-la-sintesis-de-voz-por-ia-para-2025/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/03/tendencias-de-la-sintesis-de-voz-por-ia-para-2025/",
+      "userCanonical": "https://crearsoftware.com/2025/01/03/tendencias-de-la-sintesis-de-voz-por-ia-para-2025/",
+      "lastCrawlTime": "2026-03-22T03:39:38Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=16&cst&app-download=android",
+        "https://crearsoftware.com/page/40/?archives-list&archives-type=months",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/01/los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/01/los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio/",
+      "userCanonical": "https://crearsoftware.com/2025/01/01/los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio/",
+      "lastCrawlTime": "2026-02-15T15:32:57Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?query-0-page=17&cst&s_=+saas",
+        "https://crearsoftware.com/page/2/?s_=+saas",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2024/12/28/que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2024/12/28/que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas/",
+      "userCanonical": "https://crearsoftware.com/2024/12/28/que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas/",
+      "lastCrawlTime": "2026-02-17T06:01:09Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?query-0-page=20&app-download=windowsphone",
+        "https://crearsoftware.com/page/41/?query-0-page=2&app-download=windowsphone",
+        "https://crearsoftware.com/page/40/?archives-list&archives-type=months",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2024/11/08/como-la-ia-de-voz-conversacional-transformara-nuestros-negocios/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2024/11/08/como-la-ia-de-voz-conversacional-transformara-nuestros-negocios/",
+      "userCanonical": "https://crearsoftware.com/2024/11/08/como-la-ia-de-voz-conversacional-transformara-nuestros-negocios/",
+      "lastCrawlTime": "2026-01-18T18:06:03Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?cst&query-0-page=2",
+        "https://crearsoftware.com/",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2024/10/24/ventas-inteligentes-por-voz/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2024/10/24/ventas-inteligentes-por-voz/",
+      "userCanonical": "https://crearsoftware.com/2024/10/24/ventas-inteligentes-por-voz/",
+      "lastCrawlTime": "2026-02-03T23:39:07Z",
+      "referringUrls": [
+        "https://crearsoftware.com/",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2023/04/23/la-empresa-que-quiere-durar-cien-anos-la-cafeteria/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2023/04/23/la-empresa-que-quiere-durar-cien-anos-la-cafeteria/",
+      "userCanonical": "https://crearsoftware.com/2023/04/23/la-empresa-que-quiere-durar-cien-anos-la-cafeteria/",
+      "lastCrawlTime": "2026-03-22T16:43:40Z",
+      "referringUrls": [
+        "https://crearsoftware.com/feed/",
+        "https://jjfalcon.blogspot.com/2011/02/un-dia-con-arduino.html?view=flipcard"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2021/04/24/plataforma-para-eventos-online/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2021/04/24/plataforma-para-eventos-online/",
+      "userCanonical": "https://crearsoftware.com/2021/04/24/plataforma-para-eventos-online/",
+      "lastCrawlTime": "2026-03-14T18:54:38Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=3&cst&archives-list&archives-type=tags",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2021/03/07/macroscopio-sublime/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2021/03/07/macroscopio-sublime/",
+      "userCanonical": "https://crearsoftware.com/2021/03/07/macroscopio-sublime/",
+      "lastCrawlTime": "2026-03-01T04:38:26Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=3&cst&archives-list&archives-type=tags",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2020/12/24/del-dogfooding-a-probar-tus-recetas/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2020/12/24/del-dogfooding-a-probar-tus-recetas/",
+      "userCanonical": "https://crearsoftware.com/2020/12/24/del-dogfooding-a-probar-tus-recetas/",
+      "lastCrawlTime": "2026-03-14T23:28:45Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=3&cst&archives-list&archives-type=tags",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2020/09/29/como-introducir-en-el-mercado-un-software-innovador/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2020/09/29/como-introducir-en-el-mercado-un-software-innovador/",
+      "userCanonical": "https://crearsoftware.com/2020/09/29/como-introducir-en-el-mercado-un-software-innovador/",
+      "lastCrawlTime": "2026-01-16T13:21:52Z",
+      "referringUrls": [
+        "https://crearsoftware.com/",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2020/08/21/como-creo-steve-jobs-el-iphone/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2020/08/21/como-creo-steve-jobs-el-iphone/",
+      "userCanonical": "https://crearsoftware.com/2020/08/21/como-creo-steve-jobs-el-iphone/",
+      "lastCrawlTime": "2026-03-05T13:43:43Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=4&archives-list&archives-type=tags",
+        "https://crearsoftware.com/feed/",
+        "https://crearsoftware.com/2018/02/27/que-puede-aprender-el-software-de-otros-sectores/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2018/02/27/que-puede-aprender-el-software-de-otros-sectores/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2018/02/27/que-puede-aprender-el-software-de-otros-sectores/",
+      "userCanonical": "https://crearsoftware.com/2018/02/27/que-puede-aprender-el-software-de-otros-sectores/",
+      "lastCrawlTime": "2026-03-31T00:50:27Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=4&archives-list&archives-type=tags",
+        "https://crearsoftware.com/feed/",
+        "https://wp.me/p3FOR-2lv",
+        "http://crearsoftware.com/2018/02/27/que-puede-aprender-el-software-de-otros-sectores/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2017/10/13/soporte-tecnico-de-software-la-relacion-humana/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2017/10/13/soporte-tecnico-de-software-la-relacion-humana/",
+      "userCanonical": "https://crearsoftware.com/2017/10/13/soporte-tecnico-de-software-la-relacion-humana/",
+      "lastCrawlTime": "2026-02-11T20:32:50Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/40/?query-0-page=34&cst&archives-list&archives-type=months",
+        "https://crearsoftware.com/feed/",
+        "https://crearsoftware.com/category/software-2/",
+        "http://www.velneoesfera.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2017/09/15/como-mejorar-el-soporte-tecnico-de-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2017/09/15/como-mejorar-el-soporte-tecnico-de-software/",
+      "userCanonical": "https://crearsoftware.com/2017/09/15/como-mejorar-el-soporte-tecnico-de-software/",
+      "lastCrawlTime": "2026-03-04T19:57:52Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/26/?query-0-page=4&cst&s_=+saas",
+        "https://crearsoftware.com/feed/",
+        "http://crearsoftware.com/2017/09/15/como-mejorar-el-soporte-tecnico-de-software/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2017/05/19/que-es-un-product-manager/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2017/05/19/que-es-un-product-manager/",
+      "userCanonical": "https://crearsoftware.com/2017/05/19/que-es-un-product-manager/",
+      "lastCrawlTime": "2026-03-18T03:54:01Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/33/?query-0-page=4&s_=+saas",
+        "https://crearsoftware.com/page/41/?query-0-page=4&archives-list&archives-type=tags",
+        "http://velneo-ecuador.blogspot.com/2013/10/respaldo-de-bases-de-datos-en-velneo-v7.html?m=0",
+        "http://crearsoftware.com/2017/05/19/product-manager-en-software-empresarial/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2017/02/26/software-empresarial-ventas-vs-producto/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2017/02/26/software-empresarial-ventas-vs-producto/",
+      "userCanonical": "https://crearsoftware.com/2017/02/26/software-empresarial-ventas-vs-producto/",
+      "lastCrawlTime": "2026-03-19T01:25:38Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?query-0-page=5&archives-list",
+        "https://crearsoftware.com/",
+        "https://crearsoftware.com/2017/02/26/software-empresarial-ventas-vs-producto/?ak_action=reject_mobile",
+        "https://www.trendsmap.com/local/es/vigo"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2016/06/27/software-crm-para-vendedores/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2016/06/27/software-crm-para-vendedores/",
+      "userCanonical": "https://crearsoftware.com/2016/06/27/software-crm-para-vendedores/",
+      "lastCrawlTime": "2026-03-19T06:51:59Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?query-0-page=5&cst&s_=saas",
+        "https://crearsoftware.com/",
+        "https://crearsoftware.com/2016/06/27/software-crm-para-vendedores/?ak_action=reject_mobile"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2016/05/23/como-vender-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2016/05/23/como-vender-software/",
+      "userCanonical": "https://crearsoftware.com/2016/05/23/como-vender-software/",
+      "lastCrawlTime": "2026-02-11T09:38:48Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=5&cst&archives-list&archives-type=tags",
+        "http://wp.me/p3FOR-23O",
+        "http://crearsoftware.com/2016/05/23/como-vender-software"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2016/04/26/software-para-equipos-de-ventas/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2016/04/26/software-para-equipos-de-ventas/",
+      "userCanonical": "https://crearsoftware.com/2016/04/26/software-para-equipos-de-ventas/",
+      "lastCrawlTime": "2026-02-27T11:42:00Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/26/?query-0-page=5&cst&s_=+saas",
+        "http://crearsoftware.com/2016/04/26/software-para-equipos-de-ventas/",
+        "http://crearsoftware.com/2016/04/26/software-para-equipos-de-ventas"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2016/02/03/oculus-software-que-emociona/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2016/02/03/oculus-software-que-emociona/",
+      "userCanonical": "https://crearsoftware.com/2016/02/03/oculus-software-que-emociona/",
+      "lastCrawlTime": "2026-03-24T05:24:40Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?query-0-page=5&cst&s_=saas",
+        "https://crearsoftware.com/",
+        "https://crearsoftware.com/2016/02/03/oculus-software-que-emociona/?ak_action=reject_mobile"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2015/12/27/software-abandono-y-nacimiento/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2015/12/27/software-abandono-y-nacimiento/",
+      "userCanonical": "https://crearsoftware.com/2015/12/27/software-abandono-y-nacimiento/",
+      "lastCrawlTime": "2026-03-23T16:01:06Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/33/?query-0-page=5&cst&s_=+saas",
+        "https://crearsoftware.com/author/alfonsogu/",
+        "http://crearsoftware.com/2015/12/27/software-abandono-y-nacimiento/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2015/07/07/cuando-dejas-de-programar/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2015/07/07/cuando-dejas-de-programar/",
+      "userCanonical": "https://crearsoftware.com/2015/07/07/cuando-dejas-de-programar/",
+      "lastCrawlTime": "2026-02-22T11:58:32Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=5&cst&archives-list&archives-type=tags",
+        "https://crearsoftware.com/2015/05/18/historia-del-crm/",
+        "http://crearsoftware.com/2015/07/07/cuando-dejas-de-programar",
+        "http://crearsoftware.com/2015/07/07/cuando-dejas-de-programar/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2015/05/18/historia-del-crm/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2015/05/18/historia-del-crm/",
+      "userCanonical": "https://crearsoftware.com/2015/05/18/historia-del-crm/",
+      "lastCrawlTime": "2026-03-13T15:01:19Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/26/?query-0-page=5&cst&s_=+saas",
+        "http://wp.me/p3FOR-1Qc",
+        "http://crearsoftware.com/2015/05/18/historia-del-crm/",
+        "http://ow.ly/Ntw3r"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2015/05/06/por-que-los-productos-de-software-se-convierten-en-monstruos/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2015/05/06/por-que-los-productos-de-software-se-convierten-en-monstruos/",
+      "userCanonical": "https://crearsoftware.com/2015/05/06/por-que-los-productos-de-software-se-convierten-en-monstruos/",
+      "lastCrawlTime": "2026-01-29T11:44:52Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?query-0-page=5&cst&s_=saas",
+        "https://crearsoftware.com/2015/05/18/historia-del-crm/",
+        "http://crearsoftware.com/2015/05/06/por-que-los-productos-de-software-se-convierten-en-monstruos/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2015/04/29/el-software-la-persistencia-y-la-venta/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2015/04/29/el-software-la-persistencia-y-la-venta/",
+      "userCanonical": "https://crearsoftware.com/2015/04/29/el-software-la-persistencia-y-la-venta/",
+      "lastCrawlTime": "2026-03-09T21:21:48Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?query-0-page=6&cst",
+        "https://crearsoftware.com/page/41/?query-0-page=5&cst&archives-list&archives-type=tags",
+        "http://crearsoftware.com/2015/04/29/el-software-la-persistencia-y-la-venta/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2015/02/23/evento-de-software-para-desarrolladores-en-madrid/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2015/02/23/evento-de-software-para-desarrolladores-en-madrid/",
+      "userCanonical": "https://crearsoftware.com/2015/02/23/evento-de-software-para-desarrolladores-en-madrid/",
+      "lastCrawlTime": "2026-01-25T06:48:44Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/2/?query-0-page=5&cst&s_=+saas",
+        "https://crearsoftware.com/category/software-2/",
+        "http://crearsoftware.com/2015/02/23/evento-de-software-para-desarrolladores-en-madrid/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2015/02/06/16-anos-creando-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2015/02/06/16-anos-creando-software/",
+      "userCanonical": "https://crearsoftware.com/2015/02/06/16-anos-creando-software/",
+      "lastCrawlTime": "2026-03-19T16:06:32Z",
+      "referringUrls": [
+        "https://crearsoftware.com/2014/09/03/crea-una-empresa-de-software-olvida-las-start-up/",
+        "https://crearsoftware.com/author/alfonsogu/",
+        "http://crearsoftware.com/2015/02/06/16-anos-creando-software/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/09/03/crea-una-empresa-de-software-olvida-las-start-up/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/09/03/crea-una-empresa-de-software-olvida-las-start-up/",
+      "userCanonical": "https://crearsoftware.com/2014/09/03/crea-una-empresa-de-software-olvida-las-start-up/",
+      "lastCrawlTime": "2026-03-23T22:25:24Z",
+      "referringUrls": [
+        "https://crearsoftware.com/tag/venta-software/feed/",
+        "https://wp.me/p3FOR-1NN",
+        "http://crearsoftware.com/2014/09/03/crea-una-empresa-de-software-olvida-las-start-up/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/08/26/vender-software-por-telefono/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/08/26/vender-software-por-telefono/",
+      "userCanonical": "https://crearsoftware.com/2014/08/26/vender-software-por-telefono/",
+      "lastCrawlTime": "2026-03-21T15:35:20Z",
+      "referringUrls": [
+        "https://crearsoftware.com/tag/software/",
+        "http://crearsoftware.com/2014/08/26/vender-software-por-telefono/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/08/19/4-aplicaciones-que-no-pueden-faltar-en-una-empresa-de-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/08/19/4-aplicaciones-que-no-pueden-faltar-en-una-empresa-de-software/",
+      "userCanonical": "https://crearsoftware.com/2014/08/19/4-aplicaciones-que-no-pueden-faltar-en-una-empresa-de-software/",
+      "lastCrawlTime": "2026-02-27T11:42:47Z",
+      "referringUrls": [
+        "https://crearsoftware.com/tag/software/feed/",
+        "https://crearsoftware.com/tag/empresas-de-software/",
+        "http://crearsoftware.com/2014/08/19/4-aplicaciones-que-no-pueden-faltar-en-una-empresa-de-software",
+        "https://crearsoftware.com/tag/aplicaciones/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/06/03/que-puede-aprender-el-software-de-cholo-simeone/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/06/03/que-puede-aprender-el-software-de-cholo-simeone/",
+      "userCanonical": "https://crearsoftware.com/2014/06/03/que-puede-aprender-el-software-de-cholo-simeone/",
+      "lastCrawlTime": "2026-04-01T03:15:36Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/26/?query-0-page=6&cst&s_=+saas",
+        "https://crearsoftware.com/page/2/",
+        "https://crearsoftware.com/tag/empresas-de-software/",
+        "https://crearsoftware.com/2014/08/19/4-aplicaciones-que-no-pueden-faltar-en-una-empresa-de-software/?utm_content=buffer4ec8e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/05/08/como-programar-y-ganar-dinero/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/05/08/como-programar-y-ganar-dinero/",
+      "userCanonical": "https://crearsoftware.com/2014/05/08/como-programar-y-ganar-dinero/",
+      "lastCrawlTime": "2026-04-01T14:04:35Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?archives-list&query-0-page=7",
+        "http://crearsoftware.com/2014/05/08/como-programar-y-ganar-dinero/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/05/01/desarrollo-de-software-iterativo-e-incremental/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/05/01/desarrollo-de-software-iterativo-e-incremental/",
+      "userCanonical": "https://crearsoftware.com/2014/05/01/desarrollo-de-software-iterativo-e-incremental/",
+      "lastCrawlTime": "2026-02-03T16:45:49Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/21/?query-0-page=7&cst&archives-list&archives-type=cats",
+        "http://crearsoftware.com/2014/05/01/desarrollo-de-software-iterativo-e-incremental/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/04/03/el-software-y-la-muerte-de-las-licencias/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/04/03/el-software-y-la-muerte-de-las-licencias/",
+      "userCanonical": "https://crearsoftware.com/2014/04/03/el-software-y-la-muerte-de-las-licencias/",
+      "lastCrawlTime": "2026-03-23T23:02:22Z",
+      "referringUrls": [
+        "https://www.velneo.com/blog/dos-versiones-al-ano-todos-los-anos-gracias-a-la-comunidad",
+        "http://wp.me/p3FOR-1Ml",
+        "https://crearsoftware.com/",
+        "https://crearsoftware.com/2014/03/26/crear-software-online/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/03/26/crear-software-online/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/03/26/crear-software-online/",
+      "userCanonical": "https://crearsoftware.com/2014/03/26/crear-software-online/",
+      "lastCrawlTime": "2026-03-29T21:07:49Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/26/?query-0-page=7&cst&s_=+saas",
+        "http://wp.me/p3FOR-1LT",
+        "https://crearsoftware.com/2014/03/20/crear-software-para-empresas/",
+        "https://crearsoftware.com/tag/empresas-de-software/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/03/20/crear-software-para-empresas/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/03/20/crear-software-para-empresas/",
+      "userCanonical": "https://crearsoftware.com/2014/03/20/crear-software-para-empresas/",
+      "lastCrawlTime": "2026-03-03T11:26:41Z",
+      "referringUrls": [
+        "https://crearsoftware.com/tag/software-empresarial/",
+        "http://wp.me/p3FOR-1Lf",
+        "https://crearsoftware.com/2014/03/20/crear-software-para-empresas/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/02/17/evento-de-software-online/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/02/17/evento-de-software-online/",
+      "userCanonical": "https://crearsoftware.com/2014/02/17/evento-de-software-online/",
+      "lastCrawlTime": "2025-12-13T01:11:28Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?query-0-page=61&cst",
+        "https://crearsoftware.com/2014/03/20/opinion-de-un-experto-en-bbdd-informix-ag-sistems-oracle-sobre-el-paradigma-velneo/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/02/06/crear-software-sin-programar/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/02/06/crear-software-sin-programar/",
+      "userCanonical": "https://crearsoftware.com/2014/02/06/crear-software-sin-programar/",
+      "lastCrawlTime": "2025-12-15T02:12:41Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/21/?query-0-page=7&cst&archives-list&archives-type=cats",
+        "http://crearsoftware.com/2014/02/06/crear-software-sin-programar/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/02/02/para-quien-se-desarrolla-un-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/02/02/para-quien-se-desarrolla-un-software/",
+      "userCanonical": "https://crearsoftware.com/2014/02/02/para-quien-se-desarrolla-un-software/",
+      "lastCrawlTime": "2026-02-19T05:27:27Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?archives-list&query-0-page=8",
+        "http://wp.me/p3FOR-1KC",
+        "http://crearsoftware.com/2014/02/02/para-quien-se-desarrolla-un-software/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/11/20/desarrollo-de-aplicaciones-empresariales/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/11/20/desarrollo-de-aplicaciones-empresariales/",
+      "userCanonical": "https://crearsoftware.com/2013/11/20/desarrollo-de-aplicaciones-empresariales/",
+      "lastCrawlTime": "2026-01-26T18:20:51Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/2/?query-0-page=69&cst&archives-list=1",
+        "http://wp.me/p3FOR-1Jv",
+        "https://crearsoftware.com/2013/11/23/lecciones-de-wordpress-para-el-mundo-del-software/",
+        "https://crearsoftware.com/page/2/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/10/31/ciclo-de-vida-de-un-proyecto-de-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/10/31/ciclo-de-vida-de-un-proyecto-de-software/",
+      "userCanonical": "https://crearsoftware.com/2013/10/31/ciclo-de-vida-de-un-proyecto-de-software/",
+      "lastCrawlTime": "2026-03-31T01:32:26Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?archives-list&query-0-page=8",
+        "http://wp.me/p3FOR-1Jp",
+        "https://crearsoftware.com/2013/10/31/ciclo-de-vida-de-un-proyecto-de-software/",
+        "https://crearsoftware.com/page/2/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/10/23/el-comportamiento-en-el-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/10/23/el-comportamiento-en-el-software/",
+      "userCanonical": "https://crearsoftware.com/2013/10/23/el-comportamiento-en-el-software/",
+      "lastCrawlTime": "2026-03-01T04:39:42Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?archives-list&query-0-page=8",
+        "http://alfonsogu.com/2013/10/23/el-comportamiento-en-el-software/",
+        "https://crearsoftware.com/2013/10/31/ciclo-de-vida-de-un-proyecto-de-software/",
+        "https://crearsoftware.com/2013/10/01/vender-software-y-hardware/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/10/01/vender-software-y-hardware/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/10/01/vender-software-y-hardware/",
+      "userCanonical": "https://crearsoftware.com/2013/10/01/vender-software-y-hardware/",
+      "lastCrawlTime": "2026-03-17T17:22:07Z",
+      "referringUrls": [
+        "https://crearsoftware.com/2013/10/01/vender-software-y-hardware/feed/",
+        "http://wp.me/p3FOR-1IL",
+        "https://crearsoftware.com/2013/10/23/el-comportamiento-en-el-software/",
+        "https://crearsoftware.com/tag/software/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/09/20/presupuestos-de-una-empresa-de-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/09/20/presupuestos-de-una-empresa-de-software/",
+      "userCanonical": "https://crearsoftware.com/2013/09/20/presupuestos-de-una-empresa-de-software/",
+      "lastCrawlTime": "2026-03-29T17:20:48Z",
+      "referringUrls": [
+        "https://crearsoftware.com/sitemap.xml",
+        "http://alfonsogu.com/2013/09/20/presupuestos-de-una-empresa-de-software/",
+        "https://crearsoftware.com/2013/10/01/vender-software-y-hardware/",
+        "http://crearsoftware.com/2013/09/20/presupuestos-de-una-empresa-de-software/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/06/25/software-la-cuarta-revolucion-industrial/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/06/25/software-la-cuarta-revolucion-industrial/",
+      "userCanonical": "https://crearsoftware.com/2013/06/25/software-la-cuarta-revolucion-industrial/",
+      "lastCrawlTime": "2026-03-11T15:15:07Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?cst&app-download=windowsphone&query-0-page=9",
+        "http://alfonsogu.com/2013/06/25/software-la-cuarta-revolucion-industrial/",
+        "https://crearsoftware.com/2013/06/17/vender-software-por-internet/",
+        "https://crearsoftware.com/tag/crear-software/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/06/17/vender-software-por-internet/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/06/17/vender-software-por-internet/",
+      "userCanonical": "https://crearsoftware.com/2013/06/17/vender-software-por-internet/",
+      "lastCrawlTime": "2026-02-04T13:08:58Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?cst&app-download=windowsphone&query-0-page=9",
+        "http://wp.me/p3FOR-1Gk",
+        "https://crearsoftware.com/2013/05/29/test-software/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/05/29/test-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/05/29/test-software/",
+      "userCanonical": "https://crearsoftware.com/2013/05/29/test-software/",
+      "lastCrawlTime": "2026-03-29T08:38:20Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=10&cst&app-download=android",
+        "https://crearsoftware.com/2013/05/29/test-software/amp/",
+        "https://crearsoftware.com/2013/05/29/test-software/",
+        "https://crearsoftware.com/2013/05/25/desarrollo-de-aplicaciones/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/04/27/el-formulario-de-100-000-euros/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/04/27/el-formulario-de-100-000-euros/",
+      "userCanonical": "https://crearsoftware.com/2013/04/27/el-formulario-de-100-000-euros/",
+      "lastCrawlTime": "2026-02-13T13:03:29Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=10&cst&app-download=android",
+        "https://wp.me/p3FOR-1ED",
+        "https://crearsoftware.com/2013/04/27/el-formulario-de-100-000-euros/",
+        "https://crearsoftware.com/tag/diseno/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/04/17/5-ideas-para-vender-software-por-internet/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/04/17/5-ideas-para-vender-software-por-internet/",
+      "userCanonical": "https://crearsoftware.com/2013/04/17/5-ideas-para-vender-software-por-internet/",
+      "lastCrawlTime": "2026-02-27T23:35:49Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=10&cst&app-download=android",
+        "http://alfonsogu.com/2013/04/17/5-ideas-para-vender-software-por-internet/",
+        "https://crearsoftware.com/2013/04/27/el-formulario-de-100-000-euros/",
+        "https://crearsoftware.com/tag/programadores/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/04/04/crecimiento-de-una-empresa-de-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/04/04/crecimiento-de-una-empresa-de-software/",
+      "userCanonical": "https://crearsoftware.com/2013/04/04/crecimiento-de-una-empresa-de-software/",
+      "lastCrawlTime": "2026-04-01T02:43:29Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=10&cst&app-download=android",
+        "https://wp.me/p3FOR-8B",
+        "https://crearsoftware.com/2013/04/04/crecimiento-de-una-empresa-de-software/",
+        "https://crearsoftware.com/2013/03/24/software-funcionalidad/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/03/24/software-funcionalidad/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/03/24/software-funcionalidad/",
+      "userCanonical": "https://crearsoftware.com/2013/03/24/software-funcionalidad/",
+      "lastCrawlTime": "2026-02-15T15:09:10Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=10&cst&app-download=android",
+        "http://alfonsogu.com/2013/03/24/software-funcionalidad/",
+        "https://crearsoftware.com/2013/04/04/crecimiento-de-una-empresa-de-software/",
+        "https://uxinperu.wordpress.com/category/uncategorized/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/03/19/inbound-marketing-y-empresas-de-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/03/19/inbound-marketing-y-empresas-de-software/",
+      "userCanonical": "https://crearsoftware.com/2013/03/19/inbound-marketing-y-empresas-de-software/",
+      "lastCrawlTime": "2026-03-29T21:45:11Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=10&cst&app-download=android",
+        "https://crearsoftware.com/author/alfonsogu/page/4/",
+        "https://crearsoftware.com/2013/03/24/software-funcionalidad/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/03/14/crm-lead/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/03/14/crm-lead/",
+      "userCanonical": "https://crearsoftware.com/2013/03/14/crm-lead/",
+      "lastCrawlTime": "2026-03-20T00:48:26Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=10&cst&app-download=android",
+        "https://alfonsogu.com/2013/03/03/diseno-de-software-2",
+        "https://crearsoftware.com/2013/03/14/crm-lead/",
+        "https://crearsoftware.com/2013/03/19/inbound-marketing-y-empresas-de-software/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/02/21/porque-el-software-se-esta-comiendo-el-mundo/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/02/21/porque-el-software-se-esta-comiendo-el-mundo/",
+      "userCanonical": "https://crearsoftware.com/2013/02/21/porque-el-software-se-esta-comiendo-el-mundo/",
+      "lastCrawlTime": "2026-03-22T04:42:00Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?query-0-page=11&cst",
+        "http://alfonsogu.com/2013/02/21/porque-el-software-se-esta-comiendo-el-mundo/",
+        "https://crearsoftware.com/2013/02/16/obama/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/02/02/10-preguntas-antes-de-empezar-a-programar/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/02/02/10-preguntas-antes-de-empezar-a-programar/",
+      "userCanonical": "https://crearsoftware.com/2013/02/02/10-preguntas-antes-de-empezar-a-programar/",
+      "lastCrawlTime": "2026-04-01T04:06:52Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/40/?query-0-page=11&cst&archives-list&archives-type=months",
+        "http://wp.me/p3FOR-1rP",
+        "https://crearsoftware.com/2013/02/07/hacer-sofware-sencillo-es-muy-dificil/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/01/16/ventajas-cloud-computing/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/01/16/ventajas-cloud-computing/",
+      "userCanonical": "https://crearsoftware.com/2013/01/16/ventajas-cloud-computing/",
+      "lastCrawlTime": "2026-02-06T17:37:26Z",
+      "referringUrls": [
+        "https://crearsoftware.com/tag/saas/",
+        "https://crearsoftware.com/sitemap.xml",
+        "https://crearsoftware.com/2013/01/15/software-programacion/",
+        "https://alfonsogu.wordpress.com/tag/nube/"
+      ],
+      "sitemaps": []
+    }
+  ],
+  "notIndexed": [
+    {
+      "url": "https://crearsoftware.com/blog/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/sobre/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/",
+      "userCanonical": "https://crearsoftware.com/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/",
+      "lastCrawlTime": "2026-01-01T14:00:52Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/2/?cst&s_=saas&query-0-page=3",
+        "https://crearsoftware.com/?query-0-page=3&s_=saas",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/",
+      "userCanonical": "https://crearsoftware.com/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/",
+      "lastCrawlTime": "2025-12-09T09:48:33Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?query-0-page=3&s_=saas",
+        "https://crearsoftware.com/page/2/?s_=+saas&query-0-page=2",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2024/12/15/como-la-ia-de-vo-revoluciona-el-marketing-ia-en-2024/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2024/12/15/como-la-ia-de-vo-revoluciona-el-marketing-ia-en-2024/",
+      "userCanonical": "https://crearsoftware.com/2024/12/15/como-la-ia-de-vo-revoluciona-el-marketing-ia-en-2024/",
+      "lastCrawlTime": "2026-01-14T20:17:17Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/2/?query-0-page=2&s_=+saas",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2021/01/23/api-apps-y-extensiones/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": "2025-11-17T19:47:34Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=3&cst&archives-list&archives-type=tags",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2017/08/30/software-empresarial-soporte-y-mantenimiento/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2015/02/26/aprender-en-software-nos-da-alas/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2015/02/26/aprender-en-software-nos-da-alas/",
+      "userCanonical": "https://crearsoftware.com/2015/02/26/aprender-en-software-nos-da-alas/",
+      "lastCrawlTime": "2025-11-29T21:27:53Z",
+      "referringUrls": [
+        "https://crearsoftware.com/tag/aprender/",
+        "https://crearsoftware.com/page/2/?query-0-page=5&cst&archives-list=1",
+        "http://wp.me/p3FOR-1Ph",
+        "https://crearsoftware.com/page/2/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/05/22/crear-software-cloud/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/05/22/crear-software-cloud/",
+      "userCanonical": "https://crearsoftware.com/2014/05/22/crear-software-cloud/",
+      "lastCrawlTime": "2026-03-09T19:43:15Z",
+      "referringUrls": [
+        "https://crearsoftware.com/2014/05/08/como-programar-y-ganar-dinero/",
+        "http://wp.me/p3FOR-1MM",
+        "http://crearsoftware.com/2014/05/22/crear-software-cloud/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/04/18/crear-software-para-windows/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/04/18/crear-software-para-windows/",
+      "userCanonical": "https://crearsoftware.com/2014/04/18/crear-software-para-windows/",
+      "lastCrawlTime": "2026-03-02T05:19:55Z",
+      "referringUrls": [
+        "https://crearsoftware.com/2014/04/03/el-software-y-la-muerte-de-las-licencias/",
+        "https://wp.me/p3FOR-1Ml",
+        "http://crearsoftware.com/2014/04/18/crear-software-para-windows/",
+        "https://crearsoftware.com/",
+        "http://crearsoftware.com/2014/04/03/el-software-y-la-muerte-de-las-licencias/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/01/22/asi-aprendi-que-vender-software-es-lo-mas-importante/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/12/20/5-aprendizajes-para-crear-software/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/12/20/5-aprendizajes-para-crear-software/",
+      "userCanonical": "https://crearsoftware.com/2013/12/20/5-aprendizajes-para-crear-software/",
+      "lastCrawlTime": "2026-03-22T15:50:59Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?query-0-page=8&s_=+saas",
+        "https://crearsoftware.com/tag/cloud/feed/",
+        "https://crearsoftware.com/2013/11/23/lecciones-de-wordpress-para-el-mundo-del-software/",
+        "https://crearsoftware.com/tag/software/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/11/23/lecciones-de-wordpress-para-el-mundo-del-software/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/11/23/lecciones-de-wordpress-para-el-mundo-del-software/",
+      "userCanonical": "https://crearsoftware.com/2013/11/23/lecciones-de-wordpress-para-el-mundo-del-software/",
+      "lastCrawlTime": "2025-12-19T04:22:59Z",
+      "referringUrls": [
+        "https://crearsoftware.com/2013/11/23/lecciones-de-wordpress-para-el-mundo-del-software/feed/",
+        "https://crearsoftware.com/2008/05/22/%C2%BFhacia-donde-van-los-blogs/",
+        "https://crearsoftware.com/2013/11/23/lecciones-de-wordpress-para-el-mundo-del-software/",
+        "https://crearsoftware.com/page/2/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/08/25/el-85-del-software-empresarial-se-ejecuta-en-microsoft-windows/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/08/25/el-85-del-software-empresarial-se-ejecuta-en-microsoft-windows/",
+      "userCanonical": "https://crearsoftware.com/2013/08/25/el-85-del-software-empresarial-se-ejecuta-en-microsoft-windows/",
+      "lastCrawlTime": "2025-11-01T00:23:44Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?cst&app-download=windowsphone&query-0-page=9",
+        "https://crearsoftware.com/?archives-list&query-0-page=9",
+        "https://crearsoftware.com/2013/08/28/entrevista-sobre-velneo/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/08/19/el-coste-de-una-nueva-funcionalidad-en-software/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/08/19/el-coste-de-una-nueva-funcionalidad-en-software/",
+      "userCanonical": "https://crearsoftware.com/2013/08/19/el-coste-de-una-nueva-funcionalidad-en-software/",
+      "lastCrawlTime": "2025-12-16T05:32:22Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?cst&app-download=windowsphone&query-0-page=9",
+        "https://crearsoftware.com/sitemap.xml",
+        "https://crearsoftware.com/2013/08/12/el-futuro-esta-en-el-desarrollo-de-software/",
+        "https://crearsoftware.com/tag/diseno/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/07/30/futuro-desarrollo-software/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/07/30/futuro-desarrollo-software/",
+      "userCanonical": "https://crearsoftware.com/2013/07/30/futuro-desarrollo-software/",
+      "lastCrawlTime": "2025-12-13T06:26:52Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?cst&app-download=windowsphone&query-0-page=9",
+        "https://crearsoftware.com/tag/qt/feed/",
+        "https://crearsoftware.com/2013/08/12/el-futuro-esta-en-el-desarrollo-de-software/",
+        "https://crearsoftware.com/tag/google/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/07/14/ganar-dinero-programando/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/07/14/ganar-dinero-programando/",
+      "userCanonical": "https://crearsoftware.com/2013/07/14/ganar-dinero-programando/",
+      "lastCrawlTime": "2026-02-17T00:10:46Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?cst&app-download=windowsphone&query-0-page=9",
+        "https://crearsoftware.com/?query-0-page=9&cst&archives-list",
+        "https://crearsoftware.com/2013/06/25/software-la-cuarta-revolucion-industrial/",
+        "https://crearsoftware.com/tag/crear-software/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/05/25/desarrollo-de-aplicaciones/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/05/08/programador/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/05/08/programador/",
+      "userCanonical": "https://crearsoftware.com/2013/05/08/programador/",
+      "lastCrawlTime": "2025-11-04T03:49:03Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=10&cst&app-download=android",
+        "https://crearsoftware.com/tag/herramienta/",
+        "https://crearsoftware.com/2013/04/27/el-formulario-de-100-000-euros/",
+        "https://crearsoftware.com/2013/05/25/desarrollo-de-aplicaciones/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/02/27/aprender-a-programar/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/02/23/usuario-software/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/02/23/usuario-software/",
+      "userCanonical": "https://crearsoftware.com/2013/02/23/usuario-software/",
+      "lastCrawlTime": "2026-03-31T07:09:17Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=11&cst",
+        "https://crearsoftware.com/page/5/?query-0-page=11&cst",
+        "https://crearsoftware.com/page/41/?query-0-page=11&cst&archives-list&archives-type=tags",
+        "https://crearsoftware.com/2013/02/21/porque-el-software-se-esta-comiendo-el-mundo/",
+        "https://crearsoftware.com/tag/programadores/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/02/16/obama/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/02/10/5-verdades-sobre-el-diseno-de-software/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/01/29/5-webs-donde-cualquiera-puede-aprender-a-programar/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/01/29/5-webs-donde-cualquiera-puede-aprender-a-programar/",
+      "userCanonical": "https://crearsoftware.com/2013/01/29/5-webs-donde-cualquiera-puede-aprender-a-programar/",
+      "lastCrawlTime": "2025-10-31T22:19:53Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?query-0-page=11&cst&archives-list",
+        "https://crearsoftware.com/page/40/?query-0-page=11&cst&archives-list&archives-type=months",
+        "https://crearsoftware.com/2013/01/22/los-programadores-somos-unos-mentirosos/",
+        "https://crearsoftware.com/tag/programar/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/01/22/los-programadores-somos-unos-mentirosos/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://crearsoftware.com/2013/08/12/el-futuro-esta-en-el-desarrollo-de-software/",
+      "error": {
+        "status": "timeout",
+        "body": "This operation was aborted"
+      }
+    }
+  ]
+}

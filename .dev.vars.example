@@ -1,0 +1,8 @@
+# Google Search Console
+# Reuse the same Search Console credentials you already have in deepdna
+# or run `npm run seo:gsc:connect` after setting GSC_CLIENT_ID.
+GSC_CLIENT_ID=
+GSC_CLIENT_SECRET=
+GSC_REFRESH_TOKEN=
+GSC_ACCESS_TOKEN=
+GSC_SITE_URL=sc-domain:crearsoftware.com

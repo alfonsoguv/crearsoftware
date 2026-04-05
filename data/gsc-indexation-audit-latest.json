@@ -1,0 +1,431 @@
+{
+  "generatedAt": "2026-04-02T18:38:24.950Z",
+  "siteUrl": "sc-domain:crearsoftware.com",
+  "requestedSiteUrl": "sc-domain:crearsoftware.com",
+  "usedFallbackProperty": false,
+  "inspectedUrlCount": 25,
+  "indexedCount": 20,
+  "notIndexedCount": 5,
+  "errorCount": 0,
+  "byCoverageState": {
+    "Google no reconoce esta URL": 3,
+    "Rastreada: actualmente sin indexar": 2
+  },
+  "indexed": [
+    {
+      "url": "https://crearsoftware.com/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/",
+      "userCanonical": null,
+      "lastCrawlTime": "2026-04-01T15:31:08Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=10&cst&app-download=android",
+        "https://www.crearsoftware.com/",
+        "https://crearsoftware.com/2012/12/03/la-venta-de-software/",
+        "https://crearsoftware.com/2013/03/24/software-funcionalidad/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/",
+      "userCanonical": "https://crearsoftware.com/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/",
+      "lastCrawlTime": "2026-03-30T17:02:29Z",
+      "referringUrls": [
+        "https://crearsoftware.com/autor/",
+        "https://crearsoftware.com/feed/",
+        "http://alfonsogu.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
+      "userCanonical": "https://crearsoftware.com/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
+      "lastCrawlTime": "2026-03-29T21:00:19Z",
+      "referringUrls": [
+        "https://crearsoftware.com/author/alfonsogu/feed/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/03/10/agentes-de-voz-con-ia-analisis-completo-del-panorama-2025/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/03/10/agentes-de-voz-con-ia-analisis-completo-del-panorama-2025/",
+      "userCanonical": "https://crearsoftware.com/2025/03/10/agentes-de-voz-con-ia-analisis-completo-del-panorama-2025/",
+      "lastCrawlTime": "2026-03-11T00:32:55Z",
+      "referringUrls": [
+        "https://crearsoftware.com/author/alfonsogu/feed/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/03/09/meta-acelera-su-estrategia-de-ia-por-voz-innovacion-llama-4-y-el-futuro-de-la-conversacion-digital/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/03/09/meta-acelera-su-estrategia-de-ia-por-voz-innovacion-llama-4-y-el-futuro-de-la-conversacion-digital/",
+      "userCanonical": "https://crearsoftware.com/2025/03/09/meta-acelera-su-estrategia-de-ia-por-voz-innovacion-llama-4-y-el-futuro-de-la-conversacion-digital/",
+      "lastCrawlTime": "2026-02-16T04:08:25Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=2&cst&archives-list&archives-type=tags",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/02/25/open-ai-presenta-deep-research/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/02/25/open-ai-presenta-deep-research/",
+      "userCanonical": "https://crearsoftware.com/2025/02/25/open-ai-presenta-deep-research/",
+      "lastCrawlTime": "2026-03-13T14:06:49Z",
+      "referringUrls": [
+        "https://crearsoftware.com/",
+        "https://crearsoftware.com/feed/",
+        "http://alfonsogu.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/",
+      "userCanonical": "https://crearsoftware.com/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/",
+      "lastCrawlTime": "2026-03-31T23:29:54Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?archives-list&query-0-page=1",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/",
+      "userCanonical": "https://crearsoftware.com/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/",
+      "lastCrawlTime": "2026-03-23T22:39:46Z",
+      "referringUrls": [
+        "https://crearsoftware.com/feed/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/30/ia-de-voz-en-la-educacion-personalizacion-accesibilidad-y-nuevos-modelos-docentes/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/30/ia-de-voz-en-la-educacion-personalizacion-accesibilidad-y-nuevos-modelos-docentes/",
+      "userCanonical": "https://crearsoftware.com/2025/01/30/ia-de-voz-en-la-educacion-personalizacion-accesibilidad-y-nuevos-modelos-docentes/",
+      "lastCrawlTime": "2026-03-01T21:42:58Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/21/?archives-list&archives-type=cats&query-0-page=1",
+        "https://crearsoftware.com/page/26/?s_=%20saas",
+        "https://crearsoftware.com/",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/25/la-era-de-la-inteligencia/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/25/la-era-de-la-inteligencia/",
+      "userCanonical": "https://crearsoftware.com/2025/01/25/la-era-de-la-inteligencia/",
+      "lastCrawlTime": "2026-02-21T07:27:04Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?cst&app-download=windowsphone&query-0-page=9",
+        "https://crearsoftware.com/feed/",
+        "https://crearsoftware.com/page/2/?query-0-page=1&cst&app-download=windowsphone"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/22/stargate-project-vs-proyecto-manhattan-un-salto-cuantico-en-la-inversion-tecnologica/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/22/stargate-project-vs-proyecto-manhattan-un-salto-cuantico-en-la-inversion-tecnologica/",
+      "userCanonical": "https://crearsoftware.com/2025/01/22/stargate-project-vs-proyecto-manhattan-un-salto-cuantico-en-la-inversion-tecnologica/",
+      "lastCrawlTime": "2026-04-02T03:53:16Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=10&cst&app-download=android",
+        "https://crearsoftware.com/page/26/?s_=%20saas",
+        "https://crearsoftware.com/",
+        "http://alfonsogu.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/12/lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/12/lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial/",
+      "userCanonical": "https://crearsoftware.com/2025/01/12/lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial/",
+      "lastCrawlTime": "2026-03-19T08:37:58Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=1&cst&app-download=windowsphone",
+        "https://crearsoftware.com/page/2/?s_=+saas",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/10/transformacion-digital-claves-de-una-empresa-ia-first/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/10/transformacion-digital-claves-de-una-empresa-ia-first/",
+      "userCanonical": "https://crearsoftware.com/2025/01/10/transformacion-digital-claves-de-una-empresa-ia-first/",
+      "lastCrawlTime": "2026-03-24T06:18:20Z",
+      "referringUrls": [
+        "https://crearsoftware.com/feed/",
+        "https://crearsoftware.com/2009/04/11/%C2%BFque-es-un-cpd/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/09/transforma-tu-marketing-con-ia-beneficios-y-aplicaciones-clave/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/09/transforma-tu-marketing-con-ia-beneficios-y-aplicaciones-clave/",
+      "userCanonical": "https://crearsoftware.com/2025/01/09/transforma-tu-marketing-con-ia-beneficios-y-aplicaciones-clave/",
+      "lastCrawlTime": "2025-11-24T05:31:35Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?app-download=android&query-0-page=11",
+        "https://crearsoftware.com/2025/01/10/transformacion-digital-claves-de-una-empresa-ia-first/",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/08/ia-en-2025-las-10-tendencias-mas-destacadas/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/08/ia-en-2025-las-10-tendencias-mas-destacadas/",
+      "userCanonical": "https://crearsoftware.com/2025/01/08/ia-en-2025-las-10-tendencias-mas-destacadas/",
+      "lastCrawlTime": "2025-12-03T23:07:57Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/3/?query-0-page=2",
+        "https://crearsoftware.com/page/2/?s_=+saas",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/",
+      "userCanonical": "https://crearsoftware.com/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/",
+      "lastCrawlTime": "2026-03-14T02:10:17Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/2/?cst&s_=saas&query-0-page=16",
+        "https://crearsoftware.com/page/40/?archives-list&archives-type=months",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/",
+      "userCanonical": "https://crearsoftware.com/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/",
+      "lastCrawlTime": "2025-12-03T04:56:39Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=15&cst&app-download=android",
+        "https://crearsoftware.com/page/40/?archives-list&archives-type=months",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/03/tendencias-de-la-sintesis-de-voz-por-ia-para-2025/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/03/tendencias-de-la-sintesis-de-voz-por-ia-para-2025/",
+      "userCanonical": "https://crearsoftware.com/2025/01/03/tendencias-de-la-sintesis-de-voz-por-ia-para-2025/",
+      "lastCrawlTime": "2026-03-22T03:39:38Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/41/?query-0-page=16&cst&app-download=android",
+        "https://crearsoftware.com/page/40/?archives-list&archives-type=months",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/01/los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/01/01/los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio/",
+      "userCanonical": "https://crearsoftware.com/2025/01/01/los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio/",
+      "lastCrawlTime": "2026-04-01T22:45:25Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/2/?cst&s_=saas&query-0-page=19",
+        "https://crearsoftware.com/page/25/?query-0-page=17&cst&s_=+saas",
+        "https://crearsoftware.com/page/2/?s_=+saas",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2024/12/28/que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2024/12/28/que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas/",
+      "userCanonical": "https://crearsoftware.com/2024/12/28/que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas/",
+      "lastCrawlTime": "2026-02-17T06:01:09Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?query-0-page=20&app-download=windowsphone",
+        "https://crearsoftware.com/page/41/?query-0-page=2&app-download=windowsphone",
+        "https://crearsoftware.com/page/40/?archives-list&archives-type=months",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    }
+  ],
+  "notIndexed": [
+    {
+      "url": "https://crearsoftware.com/blog/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/sobre/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/",
+      "userCanonical": "https://crearsoftware.com/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/",
+      "lastCrawlTime": "2026-01-01T14:00:52Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/2/?cst&s_=saas&query-0-page=3",
+        "https://crearsoftware.com/?query-0-page=3&s_=saas",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/",
+      "userCanonical": "https://crearsoftware.com/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/",
+      "lastCrawlTime": "2025-12-09T09:48:33Z",
+      "referringUrls": [
+        "https://crearsoftware.com/?query-0-page=3&s_=saas",
+        "https://crearsoftware.com/page/2/?s_=+saas&query-0-page=2",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{headTitle}} — {{siteName}}</title>
+  <meta name="description" content="{{metaDescription}}">
+  <link rel="canonical" href="{{canonicalUrl}}">
+  <link rel="alternate" type="application/rss+xml" title="{{siteName}}" href="{{siteUrl}}/feed.xml">
+  {{socialMeta}}
+  <link rel="stylesheet" href="/css/variables.css">
+  <link rel="stylesheet" href="/css/fonts.css">
+  <style>
+    /* === Critical CSS — Blog Post === */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: var(--font-body);
+      font-size: var(--text-base);
+      line-height: var(--leading-body);
+      color: var(--color-text);
+      background-color: var(--color-bg);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    a {
+      color: var(--color-link);
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 2px;
+      transition: color var(--transition-base);
+    }
+    a:hover { color: var(--color-link-hover); }
+    a:focus-visible {
+      outline: 2px solid var(--color-accent);
+      outline-offset: 2px;
+      border-radius: var(--radius-sm);
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      border-radius: var(--radius-md);
+    }
+
+    /* --- Header / Nav --- */
+    .site-header {
+      border-bottom: 1px solid var(--color-border);
+      padding: var(--space-4) var(--space-8);
+    }
+    .header-inner {
+      max-width: var(--width-nav);
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .site-logo {
+      font-family: var(--font-heading);
+      font-size: var(--text-xl);
+      font-weight: var(--weight-bold);
+      color: var(--color-text);
+      text-decoration: none;
+    }
+    .site-logo:hover { color: var(--color-accent); }
+    .site-nav { display: flex; gap: var(--space-6); list-style: none; }
+    .site-nav a {
+      font-size: var(--text-sm);
+      font-weight: var(--weight-medium);
+      color: var(--color-text);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      text-decoration: none;
+    }
+    .site-nav a:hover { color: var(--color-accent); }
+
+    .nav-toggle {
+      display: none;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: var(--space-2);
+      color: var(--color-text);
+    }
+    .nav-toggle svg { width: 24px; height: 24px; }
+
+    /* --- Breadcrumbs --- */
+    .breadcrumbs {
+      max-width: var(--width-grid);
+      margin: 0 auto;
+      padding: var(--space-4) var(--space-8);
+      font-size: var(--text-sm);
+      color: var(--color-text-muted);
+    }
+    .breadcrumbs a {
+      color: var(--color-text-muted);
+      text-decoration: none;
+    }
+    .breadcrumbs a:hover { color: var(--color-accent); }
+    .breadcrumbs span { margin: 0 var(--space-2); }
+
+    /* --- Article Layout --- */
+    .article-layout {
+      max-width: var(--width-grid);
+      margin: 0 auto;
+      padding: 0 var(--space-8);
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: var(--space-8);
+    }
+
+    /* --- TOC (sidebar) --- */
+    .toc-sidebar {
+      display: none;
+    }
+    .toc-mobile {
+      margin-bottom: var(--space-8);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-md);
+      overflow: hidden;
+    }
+    .toc-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      padding: var(--space-4);
+      background: var(--color-bg-alt);
+      border: none;
+      cursor: pointer;
+      font-family: var(--font-body);
+      font-size: var(--text-sm);
+      font-weight: var(--weight-medium);
+      color: var(--color-text);
+    }
+    .toc-toggle svg {
+      width: 16px;
+      height: 16px;
+      transition: transform var(--transition-base);
+    }
+    .toc-toggle[aria-expanded="true"] svg { transform: rotate(180deg); }
+    .toc-content {
+      display: none;
+      padding: var(--space-4);
+    }
+    .toc-content.is-open { display: block; }
+    .toc-content ul {
+      list-style: none;
+      padding-left: var(--space-4);
+    }
+    .toc-content > ul { padding-left: 0; }
+    .toc-content li { margin-bottom: var(--space-2); }
+    .toc-content a {
+      font-size: var(--text-sm);
+      color: var(--color-text-muted);
+      text-decoration: none;
+      transition: color var(--transition-base);
+    }
+    .toc-content a:hover { color: var(--color-accent); }
+
+    /* --- Post Header --- */
+    .post-header {
+      margin-bottom: var(--space-10);
+      padding-top: var(--space-8);
+    }
+    .post-category-badge {
+      display: inline-block;
+      font-size: var(--text-xs);
+      font-weight: var(--weight-medium);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--color-secondary);
+      background: rgba(107, 142, 90, 0.1);
+      padding: var(--space-1) var(--space-3);
+      border-radius: var(--radius-full);
+      margin-bottom: var(--space-4);
+      text-decoration: none;
+    }
+    .post-category-badge:hover { color: var(--color-secondary); }
+    .post-header h1 {
+      font-family: var(--font-heading);
+      font-size: var(--text-h1);
+      line-height: var(--leading-heading);
+      margin-bottom: var(--space-6);
+    }
+    .post-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--space-4);
+      font-size: var(--text-sm);
+      color: var(--color-text-muted);
+      align-items: center;
+    }
+    .post-meta-divider {
+      color: var(--color-border);
+    }
+
+    /* --- Article Content --- */
+    .article-content {
+      max-width: var(--width-article);
+    }
+
+    .article-content h2 {
+      font-family: var(--font-heading);
+      font-size: var(--text-h2);
+      line-height: var(--leading-heading);
+      margin-top: var(--space-12);
+      margin-bottom: var(--space-6);
+    }
+    .article-content h3 {
+      font-family: var(--font-heading);
+      font-size: var(--text-h3);
+      line-height: var(--leading-heading);
+      margin-top: var(--space-10);
+      margin-bottom: var(--space-4);
+    }
+    .article-content p {
+      margin-bottom: var(--space-6);
+    }
+    .article-content ul, .article-content ol {
+      margin-bottom: var(--space-6);
+      padding-left: var(--space-6);
+    }
+    .article-content li {
+      margin-bottom: var(--space-2);
+    }
+    .article-content blockquote {
+      margin: var(--space-8) 0;
+      padding: var(--space-6) var(--space-8);
+      border-left: 3px solid var(--color-accent);
+      background: var(--color-bg-alt);
+      border-radius: 0 var(--radius-md) var(--radius-md) 0;
+      font-style: italic;
+    }
+    .article-content blockquote p:last-child { margin-bottom: 0; }
+
+    .article-content code {
+      font-family: var(--font-code);
+      font-size: 0.9em;
+      background: var(--color-code-bg);
+      padding: 0.1em 0.3em;
+      border-radius: var(--radius-sm);
+    }
+    .article-content pre {
+      margin: var(--space-8) 0;
+      padding: var(--space-6);
+      background: var(--color-code-bg);
+      border-radius: var(--radius-md);
+      overflow-x: auto;
+      border: 1px solid var(--color-border);
+    }
+    .article-content pre code {
+      background: none;
+      padding: 0;
+      font-size: var(--text-sm);
+      line-height: 1.6;
+    }
+    .article-content img {
+      margin: var(--space-8) 0;
+      box-shadow: var(--shadow-sm);
+    }
+    .article-content figure {
+      margin: var(--space-8) 0;
+    }
+    .article-content figcaption {
+      font-size: var(--text-sm);
+      color: var(--color-text-muted);
+      text-align: center;
+      margin-top: var(--space-3);
+    }
+    .article-content table {
+      width: 100%;
+      margin: var(--space-8) 0;
+      border-collapse: collapse;
+    }
+    .article-content th, .article-content td {
+      padding: var(--space-3) var(--space-4);
+      border: 1px solid var(--color-border);
+      text-align: left;
+    }
+    .article-content th {
+      background: var(--color-bg-alt);
+      font-weight: var(--weight-medium);
+      font-size: var(--text-sm);
+    }
+    .article-content hr {
+      border: none;
+      border-top: 1px solid var(--color-border);
+      margin: var(--space-10) 0;
+    }
+    .article-content strong { font-weight: var(--weight-bold); }
+    .article-content em { font-style: italic; }
+
+    /* --- Author Box --- */
+    .author-box {
+      display: flex;
+      gap: var(--space-6);
+      padding: var(--space-8);
+      background: var(--color-bg-alt);
+      border-radius: var(--radius-md);
+      margin-top: var(--space-12);
+    }
+    .author-photo {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      object-fit: cover;
+      flex-shrink: 0;
+      background: var(--color-border);
+    }
+    .author-info h3 {
+      font-family: var(--font-heading);
+      font-size: var(--text-base);
+      margin-bottom: var(--space-2);
+    }
+    .author-info p {
+      font-size: var(--text-sm);
+      color: var(--color-text-muted);
+    }
+
+    /* --- Share Buttons --- */
+    .share-buttons {
+      display: flex;
+      align-items: center;
+      gap: var(--space-4);
+      margin-top: var(--space-10);
+      padding-top: var(--space-8);
+      border-top: 1px solid var(--color-border);
+    }
+    .share-label {
+      font-size: var(--text-sm);
+      font-weight: var(--weight-medium);
+      color: var(--color-text-muted);
+    }
+    .share-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 40px;
+      height: 40px;
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-md);
+      color: var(--color-text-muted);
+      background: none;
+      cursor: pointer;
+      transition: border-color var(--transition-base), color var(--transition-base);
+      text-decoration: none;
+    }
+    .share-btn:hover {
+      border-color: var(--color-accent);
+      color: var(--color-accent);
+    }
+    .share-btn:focus-visible {
+      outline: 2px solid var(--color-accent);
+      outline-offset: 2px;
+    }
+    .share-btn svg { width: 18px; height: 18px; }
+
+    /* --- Related Posts --- */
+    .related-posts {
+      margin-top: var(--space-16);
+      padding-top: var(--space-12);
+      border-top: 1px solid var(--color-border);
+    }
+    .related-posts h2 {
+      font-family: var(--font-heading);
+      font-size: var(--text-h2);
+      margin-bottom: var(--space-8);
+    }
+    .related-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: var(--space-6);
+    }
+    .related-card {
+      padding: var(--space-6);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-md);
+      transition: box-shadow var(--transition-base);
+    }
+    .related-card:hover { box-shadow: var(--shadow-sm); }
+    .related-card h3 {
+      font-family: var(--font-heading);
+      font-size: var(--text-base);
+      margin-bottom: var(--space-2);
+    }
+    .related-card h3 a {
+      color: var(--color-text);
+      text-decoration: none;
+    }
+    .related-card h3 a:hover { color: var(--color-accent); }
+    .related-card p {
+      font-size: var(--text-sm);
+      color: var(--color-text-muted);
+    }
+
+    /* --- Footer --- */
+    .site-footer {
+      border-top: 1px solid var(--color-border);
+      padding: var(--space-12) var(--space-8);
+      margin-top: var(--space-16);
+    }
+    .footer-inner {
+      max-width: var(--width-nav);
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: var(--space-6);
+      text-align: center;
+    }
+    .footer-links {
+      display: flex;
+      gap: var(--space-6);
+      list-style: none;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .footer-links a {
+      font-size: var(--text-sm);
+      color: var(--color-text-muted);
+      text-decoration: none;
+    }
+    .footer-links a:hover { color: var(--color-accent); }
+    .footer-copy {
+      font-size: var(--text-xs);
+      color: var(--color-text-muted);
+    }
+
+    /* --- Tablet (768px+) --- */
+    @media (min-width: 768px) {
+      .related-grid { grid-template-columns: repeat(3, 1fr); }
+      .footer-inner {
+        flex-direction: row;
+        justify-content: space-between;
+        text-align: left;
+      }
+    }
+
+    /* --- Desktop (1024px+) --- */
+    @media (min-width: 1024px) {
+      .article-layout {
+        grid-template-columns: 220px 1fr;
+        gap: var(--space-12);
+      }
+      .toc-mobile { display: none; }
+      .toc-sidebar {
+        display: block;
+        position: sticky;
+        top: var(--space-8);
+        align-self: start;
+        max-height: calc(100vh - 4rem);
+        overflow-y: auto;
+      }
+      .toc-sidebar h2 {
+        font-family: var(--font-body);
+        font-size: var(--text-xs);
+        font-weight: var(--weight-medium);
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: var(--color-text-muted);
+        margin-bottom: var(--space-4);
+      }
+      .toc-sidebar ul {
+        list-style: none;
+        padding-left: 0;
+      }
+      .toc-sidebar ul ul { padding-left: var(--space-4); }
+      .toc-sidebar li { margin-bottom: var(--space-2); }
+      .toc-sidebar a {
+        font-size: var(--text-sm);
+        color: var(--color-text-muted);
+        text-decoration: none;
+        transition: color var(--transition-base);
+      }
+      .toc-sidebar a:hover { color: var(--color-accent); }
+      .post-header h1 { font-size: 2.8rem; }
+    }
+
+    /* --- Mobile --- */
+    @media (max-width: 767px) {
+      .site-header { padding: var(--space-4); }
+      .nav-toggle { display: block; }
+      .site-nav {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: var(--color-bg);
+        border-bottom: 1px solid var(--color-border);
+        flex-direction: column;
+        padding: var(--space-4);
+        gap: var(--space-4);
+      }
+      .site-nav.is-open { display: flex; }
+      .site-header { position: relative; }
+      .breadcrumbs { padding: var(--space-4); }
+      .article-layout { padding: 0 var(--space-4); }
+      .post-header h1 { font-size: 1.8rem; }
+      .author-box { flex-direction: column; align-items: center; text-align: center; }
+      .site-footer { padding: var(--space-8) var(--space-4); }
+    }
+
+    /* --- Print --- */
+    @media print {
+      .site-header, .site-footer, .toc-sidebar, .toc-mobile,
+      .share-buttons, .related-posts, .nav-toggle { display: none; }
+      body { background: white; color: black; font-size: 12pt; }
+      .article-content a { color: black; text-decoration: underline; }
+      .article-content a::after { content: " (" attr(href) ")"; font-size: 0.8em; }
+    }
+  </style>
+  {{jsonLd}}
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/" class="site-logo" aria-label="{{siteName}} — Inicio">{{siteName}}</a>
+      <button class="nav-toggle" aria-label="Abrir menú" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false');document.querySelector('.site-nav').classList.toggle('is-open')">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+      <nav>
+        <ul class="site-nav" role="navigation" aria-label="Navegación principal">
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/blog/">Categorías</a></li>
+          <li><a href="/sobre/">Sobre</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Breadcrumbs -->
+  <nav class="breadcrumbs" aria-label="Migas de pan">
+    {{breadcrumbs}}
+  </nav>
+
+  <main>
+    <div class="article-layout">
+
+      <!-- TOC Sidebar (Desktop) -->
+      <aside class="toc-sidebar" aria-label="Tabla de contenidos">
+        <h2>Contenido</h2>
+        {{toc}}
+      </aside>
+
+      <!-- Article -->
+      <article>
+        <!-- TOC Mobile -->
+        <div class="toc-mobile">
+          <button class="toc-toggle" aria-expanded="false" onclick="var c=this.nextElementSibling;c.classList.toggle('is-open');this.setAttribute('aria-expanded',c.classList.contains('is-open'))">
+            <span>Tabla de contenidos</span>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="toc-content">
+            {{toc}}
+          </div>
+        </div>
+
+        <!-- Post Header -->
+        <header class="post-header">
+          <a href="/categoria/{{categorySlug}}/" class="post-category-badge">{{category}}</a>
+          <h1>{{title}}</h1>
+          <div class="post-meta">
+            <time datetime="{{date}}">{{dateFormatted}}</time>
+            <span class="post-meta-divider" aria-hidden="true">·</span>
+            <span>{{readingTime}} min de lectura</span>
+            <span class="post-meta-divider" aria-hidden="true">·</span>
+            <span>Por <a href="/autor/{{authorSlug}}/">{{author}}</a></span>
+          </div>
+        </header>
+
+        <!-- Content -->
+        <div class="article-content">
+          {{content}}
+        </div>
+
+        <!-- Author Box -->
+        <div class="author-box">
+          <img class="author-photo" src="{{authorPhoto}}" alt="{{author}}" width="72" height="72" loading="lazy">
+          <div class="author-info">
+            <h3><a href="/autor/{{authorSlug}}/">{{author}}</a></h3>
+            <p>{{authorBio}}</p>
+          </div>
+        </div>
+
+        <!-- Share Buttons -->
+        <div class="share-buttons">
+          <span class="share-label">Compartir:</span>
+          <a href="https://twitter.com/intent/tweet?url={{shareUrl}}&text={{shareTitle}}" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Compartir en Twitter">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          </a>
+          <a href="https://www.linkedin.com/sharing/share-offsite/?url={{shareUrl}}" target="_blank" rel="noopener noreferrer" class="share-btn" aria-label="Compartir en LinkedIn">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+          </a>
+          <button class="share-btn" aria-label="Copiar enlace" onclick="if(navigator.share){navigator.share({title:'{{shareTitleJs}}',url:'{{shareUrlJs}}'})}else{navigator.clipboard.writeText('{{shareUrlJs}}');this.setAttribute('aria-label','Enlace copiado')}">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+          </button>
+        </div>
+
+        <!-- Related Posts -->
+        <section class="related-posts" aria-label="Artículos relacionados">
+          <h2>Artículos relacionados</h2>
+          <div class="related-grid">
+            {{relatedPosts}}
+          </div>
+        </section>
+      </article>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-copy">&copy; 2007–2026 {{siteName}}. Todos los derechos reservados.</p>
+      <ul class="footer-links">
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/blog/">Categorías</a></li>
+        <li><a href="/sobre/">Sobre</a></li>
+        <li><a href="/feed.xml" aria-label="RSS Feed">RSS</a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <!-- Analytics: Add tracking code here -->
+  <!-- Cloudflare Web Analytics will be configured in CF dashboard -->
+</body>
+</html>

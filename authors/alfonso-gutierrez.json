@@ -1,0 +1,22 @@
+{
+  "name": "Alfonso Gutiérrez",
+  "slug": "alfonso-gutierrez",
+  "role": "Fundador & CTO",
+  "company": "Crear Software",
+  "bio": "Emprendedor tecnológico con más de 18 años de experiencia en desarrollo de software empresarial. Fundador de múltiples empresas tecnológicas. Escribe sobre inteligencia artificial, desarrollo de software y transformación digital.",
+  "shortBio": "Emprendedor tech con 18+ años creando software empresarial.",
+  "expertise": [
+    "Desarrollo de software empresarial",
+    "Inteligencia artificial aplicada",
+    "Transformación digital",
+    "Arquitectura de sistemas",
+    "Gestión de equipos técnicos"
+  ],
+  "experience": "18+ años",
+  "links": {
+    "website": "https://crearsoftware.com",
+    "github": "https://github.com/alfonsoguv",
+    "linkedin": ""
+  },
+  "image": "/images/alfonso-gutierrez.svg"
+}

@@ -1,0 +1,38 @@
+{
+  "targetCategories": {
+    "inteligencia-artificial": {
+      "name": "Inteligencia Artificial",
+      "description": "AI, machine learning, LLMs, chatbots"
+    },
+    "desarrollo-software": {
+      "name": "Desarrollo de Software",
+      "description": "Programming, coding, development, frameworks"
+    },
+    "tecnologia-empresarial": {
+      "name": "Tecnología Empresarial",
+      "description": "Enterprise tech, SaaS, ERP, CRM"
+    },
+    "innovacion-digital": {
+      "name": "Innovación Digital",
+      "description": "Digital transformation, startups, trends"
+    },
+    "productividad-herramientas": {
+      "name": "Productividad y Herramientas",
+      "description": "Tools, productivity, workflows"
+    }
+  },
+  "wordpressCategoryMapping": {
+    "1937": "innovacion-digital",
+    "Citas": "innovacion-digital",
+    "Emprendedores": "innovacion-digital",
+    "Empresa": "tecnologia-empresarial",
+    "Floss": "innovacion-digital",
+    "PaaS/SaaS": "tecnologia-empresarial",
+    "Personas": "innovacion-digital",
+    "Software": "desarrollo-software",
+    "Tecnología": "innovacion-digital",
+    "Velneo": "desarrollo-software",
+    "Viajes": "innovacion-digital",
+    "gestion de empresas": "tecnologia-empresarial"
+  }
+}

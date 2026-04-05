@@ -1,0 +1,37 @@
+# Cloudflare Pages Redirects
+# Migración WordPress → Cloudflare Pages (crearsoftware.com)
+
+# WordPress categories → new categories (1:1 mapping)
+/category/tecnologia/ /categoria/innovacion-digital/ 301
+/category/software-2/ /categoria/desarrollo-software/ 301
+/category/software/ /categoria/desarrollo-software/ 301
+/category/empresa/ /categoria/tecnologia-empresarial/ 301
+/category/personas/ /categoria/innovacion-digital/ 301
+/category/velneo/ /categoria/desarrollo-software/ 301
+/category/citas/ /categoria/innovacion-digital/ 301
+/category/viajes/ /categoria/innovacion-digital/ 301
+/category/floss/ /categoria/innovacion-digital/ 301
+/category/emprendedores/ /categoria/innovacion-digital/ 301
+/category/paassaas/ /categoria/tecnologia-empresarial/ 301
+/category/gestion-de-empresas/ /categoria/tecnologia-empresarial/ 301
+/category/1937/ /categoria/innovacion-digital/ 301
+/category/* /blog/ 301
+
+# WordPress author → new author page
+/author/alfonsogu/ /autor/alfonso-gutierrez/ 301
+/author/alfonsogutierrez/ /autor/alfonso-gutierrez/ 301
+/author/* /autor/alfonso-gutierrez/ 301
+
+# WordPress tag URLs → blog index (tags no longer have dedicated pages)
+/tag/* /blog/ 301
+
+# WordPress feed → RSS del nuevo sitio
+/feed/ /feed.xml 301
+/comments/feed/ /feed.xml 301
+/*/feed/ /feed.xml 301
+
+# WordPress pagination → blog index
+/page/* /blog/ 301
+
+# Internal convenience URLs
+/categorias/ /blog/ 301

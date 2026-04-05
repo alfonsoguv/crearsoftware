@@ -1,0 +1,15 @@
+---
+title: "El mercado y el estado"
+slug: "el-mercado-y-el-estado"
+date: "2007-10-15"
+oldUrl: "/2007/10/15/el-mercado-y-el-estado/"
+description: "Interesante artículo en liberalismo.org , con un atractivo titular 'Los fallos del mercado y la falta de arrogancia' Sobre el artículo me hago las..."
+category: "tecnologia-empresarial"
+tags: ["marketing","software","economía","apple"]
+readingTime: 3
+author: "Alfonso Gutiérrez"
+commentCount: 1
+wordCount: 418
+image: ""
+---
+Interesante artículo en [liberalismo.org](http://www.liberalismo.org/) , con un atractivo titular "[Los fallos del mercado y la falta de arrogancia"](http://www.liberalismo.org/articulo/195) Sobre el artículo me hago las siguentes preguntas: ***a) ¿Puede el Estado conocer cuáles son las necesidades de los individuos?*** El estado puede intuir la necesidades de los individuos pero nunca saberlas de una forma científica, real y eficaz. Los individuos somos tan volubles como variables, nuestras necesidades, inquietudes y reflexiones cambian a una velocidad abismal, cuando el estado cree saber lo que queremos ya estamos en una fase totalmente nueva y desconocida. La comunicación social aumenta está sensación de velocidad y cambio constante en el que los individuos estamos sumergidos. Los avances tecnológicos de hoy día que aumentan nuestra capacidad de comunicarnos entre nosotros desencadenan nueva información y nuevas necesidades. Quizá una pregunta para responder a la anterior sería: *¿Conocemos los individuos nuestras propias necesidades?* Si nos resulta difícil saber lo que queremos como podemos pensar que el Estado conoce remotamente lo que necesitamos, es imposible. ***b) ¿Los bienes y servicios no provistos por el mercado son consecuencia directa de la ausencia de voluntad por parte de los consumidores para que éstos sean ofertados?*** Es obvio que si los consumidores quieren algo en el 99% de los casos el mercado lo ofrecerá a corto o medio plazo. El poder del consumidor es alto, consigue que se le oferte todo lo que quiera. Si un grupo de consumidores necesita algo siempre aparece un buen oferente para ese nicho. Estamos en la época del marketing donde cientos de miles de expertos se encargan de averiguar lo que necesita el consumidor, lo que desea, lo que sueña, incluso lo que necesita pero todavía no sabe. Vamos es improbable que los consumidores demanden algo y no exista oferta para cubrir esa demanda. ***¿Qué hay en el 1% restante?*** Pues  desde mi punto de vista dos cosas: •    Bienes y servicios que actualmente por el desarrollo de nuestra tecnología no podemos ofrecer, a la gente le gustaría no envejecer, volar, vivir Marte, comunicarse por telepatía,… por tanto no existe oferta para una serie de servicios que aún no se pueden ofertar por falta de tecnología pero no me cabe la menor duda que seguro que se está trabajando en muchos de estos campos y que con el tiempo serán ofertados al mercado. •    Quizá existan necesidades que los individuos no sabemos que tenemos y que los responsables de Marketing no han sabido localizar… *no se me ocurre ninguna porque sino la estaría desarrollando…jejeje.*

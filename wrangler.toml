@@ -1,0 +1,10 @@
+name = "crearsoftware"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "dist"
+
+# KV Namespace binding — replace NAMESPACE_ID once created
+# To create: npx wrangler kv namespace create CS_KV
+# Then paste the id below
+# [[kv_namespaces]]
+# binding = "CS_KV"
+# id = "NAMESPACE_ID"

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Alfonso Gutiérrez</title>
+  <desc id="desc">Avatar editorial de Alfonso Gutiérrez para Crear Software.</desc>
+  <defs>
+    <linearGradient id="portrait" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f3eadc" />
+      <stop offset="100%" stop-color="#dce8ef" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="48" fill="url(#portrait)" />
+  <circle cx="256" cy="178" r="102" fill="#d7c1a7" />
+  <path d="M154 186c7-64 46-108 102-108 60 0 100 43 104 110-24-17-49-24-76-24-39 0-77 13-130 22z" fill="#243341" />
+  <path d="M118 430c23-90 84-138 138-138 56 0 116 48 138 138" fill="#243341" />
+  <circle cx="220" cy="190" r="8" fill="#243341" />
+  <circle cx="292" cy="190" r="8" fill="#243341" />
+  <path d="M218 238c13 14 27 21 42 21 15 0 29-7 42-21" fill="none" stroke="#243341" stroke-linecap="round" stroke-width="10" />
+</svg>

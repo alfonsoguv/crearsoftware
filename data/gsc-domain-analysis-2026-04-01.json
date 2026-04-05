@@ -1,0 +1,2017 @@
+{
+  "generatedAt": "2026-04-01T15:59:16.078Z",
+  "configuredSiteUrl": "sc-domain:crearsoftware.com",
+  "siteUrl": "sc-domain:crearsoftware.com",
+  "authMode": "OAuth refresh token",
+  "currentRange": {
+    "startDate": "2026-01-01",
+    "endDate": "2026-03-31"
+  },
+  "previousRange": {
+    "startDate": "2025-10-03",
+    "endDate": "2025-12-31"
+  },
+  "sitemaps": [],
+  "summary": {
+    "current": {
+      "clicks": 383,
+      "impressions": 80834,
+      "ctr": 0.004738105252740183,
+      "position": 14.959435386099909
+    },
+    "previous": {
+      "clicks": 591,
+      "impressions": 69925,
+      "ctr": 0.008451912763675367,
+      "position": 18.05089739006078
+    },
+    "clickDelta": -208,
+    "impressionDelta": 10909,
+    "ctrDelta": -0.0037138075109351834,
+    "positionDelta": -3.0914620039608707
+  },
+  "topPages": [
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/"
+      ],
+      "clicks": 121,
+      "impressions": 29081,
+      "ctr": 0.004160792269866923,
+      "position": 4.006602248891029
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/02/14/percepcion-y-cultura/"
+      ],
+      "clicks": 41,
+      "impressions": 4973,
+      "ctr": 0.008244520410215162,
+      "position": 2.8174140357932838
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/wp-content/uploads/2009/03/venta-personal-y-direccion-de-ventas.pdf"
+      ],
+      "clicks": 17,
+      "impressions": 1707,
+      "ctr": 0.00995899238429994,
+      "position": 11.352079671939075
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/"
+      ],
+      "clicks": 15,
+      "impressions": 1334,
+      "ctr": 0.011244377811094454,
+      "position": 8.10944527736132
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/06/29/sociedad-industrial-vs-sociedad-conocimiento/"
+      ],
+      "clicks": 10,
+      "impressions": 164,
+      "ctr": 0.06097560975609756,
+      "position": 3.6341463414634148
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/10/27/%C2%BFcuales-son-las-orientaciones-culturales-segun-harrison1972/"
+      ],
+      "clicks": 9,
+      "impressions": 448,
+      "ctr": 0.020089285714285716,
+      "position": 5.502232142857143
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/"
+      ],
+      "clicks": 9,
+      "impressions": 510,
+      "ctr": 0.01764705882352941,
+      "position": 8.337254901960783
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/"
+      ],
+      "clicks": 8,
+      "impressions": 1047,
+      "ctr": 0.007640878701050621,
+      "position": 6.826170009551098
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/04/27/carta-de-bill-gates-en-favor-del-software-propietario/"
+      ],
+      "clicks": 8,
+      "impressions": 539,
+      "ctr": 0.014842300556586271,
+      "position": 8.37291280148423
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/09/16/%C2%BFque-son-las-variables-de-control/"
+      ],
+      "clicks": 8,
+      "impressions": 1670,
+      "ctr": 0.004790419161676647,
+      "position": 10.510778443113772
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/03/19/factores-activos-y-pasivos-de-una-empresa/"
+      ],
+      "clicks": 5,
+      "impressions": 365,
+      "ctr": 0.0136986301369863,
+      "position": 6.572602739726028
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2008/05/18/%C2%BFque-son-las-barreras-de-entrada/"
+      ],
+      "clicks": 5,
+      "impressions": 502,
+      "ctr": 0.0099601593625498,
+      "position": 12.54581673306773
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/07/08/8-conceptos-basicos-para-la-excelencia/"
+      ],
+      "clicks": 5,
+      "impressions": 715,
+      "ctr": 0.006993006993006993,
+      "position": 4.689510489510489
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2010/10/29/listado-de-consultoras-espanolas-en-shangai/"
+      ],
+      "clicks": 5,
+      "impressions": 69,
+      "ctr": 0.07246376811594203,
+      "position": 9.869565217391305
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/"
+      ],
+      "clicks": 5,
+      "impressions": 2060,
+      "ctr": 0.0024271844660194173,
+      "position": 20.275242718446602
+    }
+  ],
+  "topQueries": [
+    {
+      "keys": [
+        "crear software"
+      ],
+      "clicks": 5,
+      "impressions": 586,
+      "ctr": 0.008532423208191127,
+      "position": 6.244027303754266
+    },
+    {
+      "keys": [
+        "inputs"
+      ],
+      "clicks": 4,
+      "impressions": 1483,
+      "ctr": 0.0026972353337828725,
+      "position": 5.874578556979096
+    },
+    {
+      "keys": [
+        "inputs y outputs"
+      ],
+      "clicks": 3,
+      "impressions": 1853,
+      "ctr": 0.0016189962223421479,
+      "position": 3.144090663788451
+    },
+    {
+      "keys": [
+        "inputs y outputs ejemplos"
+      ],
+      "clicks": 2,
+      "impressions": 83,
+      "ctr": 0.024096385542168676,
+      "position": 1.4096385542168675
+    },
+    {
+      "keys": [
+        "variables de control"
+      ],
+      "clicks": 2,
+      "impressions": 136,
+      "ctr": 0.014705882352941176,
+      "position": 11.551470588235293
+    },
+    {
+      "keys": [
+        "agentes de voz con ia"
+      ],
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 19
+    },
+    {
+      "keys": [
+        "barreras de entrada"
+      ],
+      "clicks": 1,
+      "impressions": 47,
+      "ctr": 0.02127659574468085,
+      "position": 25.170212765957448
+    },
+    {
+      "keys": [
+        "crea software"
+      ],
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 5.863636363636363
+    },
+    {
+      "keys": [
+        "crear un software"
+      ],
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 10.6
+    },
+    {
+      "keys": [
+        "cual es la vision de google"
+      ],
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 11.666666666666666
+    },
+    {
+      "keys": [
+        "definición de excelencia"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "keys": [
+        "efecto catedral"
+      ],
+      "clicks": 1,
+      "impressions": 85,
+      "ctr": 0.011764705882352941,
+      "position": 7.811764705882353
+    },
+    {
+      "keys": [
+        "estrategia funcional"
+      ],
+      "clicks": 1,
+      "impressions": 340,
+      "ctr": 0.0029411764705882353,
+      "position": 6.679411764705883
+    },
+    {
+      "keys": [
+        "etelos"
+      ],
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 11
+    },
+    {
+      "keys": [
+        "frases de programacion"
+      ],
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 26.5
+    }
+  ],
+  "topQueriesByImpressions": [
+    {
+      "keys": [
+        "input y output"
+      ],
+      "clicks": 1,
+      "impressions": 3973,
+      "ctr": 0.0002516989680342311,
+      "position": 2.540901082305562
+    },
+    {
+      "keys": [
+        "inputs y outputs"
+      ],
+      "clicks": 3,
+      "impressions": 1853,
+      "ctr": 0.0016189962223421479,
+      "position": 3.144090663788451
+    },
+    {
+      "keys": [
+        "inputs"
+      ],
+      "clicks": 4,
+      "impressions": 1483,
+      "ctr": 0.0026972353337828725,
+      "position": 5.874578556979096
+    },
+    {
+      "keys": [
+        "crear software"
+      ],
+      "clicks": 5,
+      "impressions": 586,
+      "ctr": 0.008532423208191127,
+      "position": 6.244027303754266
+    },
+    {
+      "keys": [
+        "input output"
+      ],
+      "clicks": 1,
+      "impressions": 526,
+      "ctr": 0.0019011406844106464,
+      "position": 10.840304182509506
+    },
+    {
+      "keys": [
+        "como hacer un programa"
+      ],
+      "clicks": 0,
+      "impressions": 493,
+      "ctr": 0,
+      "position": 9.217038539553753
+    },
+    {
+      "keys": [
+        "estrategia de desarrollo de marca"
+      ],
+      "clicks": 0,
+      "impressions": 430,
+      "ctr": 0,
+      "position": 73.83488372093024
+    },
+    {
+      "keys": [
+        "estrategia de marca paraguas"
+      ],
+      "clicks": 0,
+      "impressions": 414,
+      "ctr": 0,
+      "position": 54.690821256038646
+    },
+    {
+      "keys": [
+        "en economía input"
+      ],
+      "clicks": 0,
+      "impressions": 347,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "keys": [
+        "estrategia funcional"
+      ],
+      "clicks": 1,
+      "impressions": 340,
+      "ctr": 0.0029411764705882353,
+      "position": 6.679411764705883
+    },
+    {
+      "keys": [
+        "crm vigo"
+      ],
+      "clicks": 0,
+      "impressions": 305,
+      "ctr": 0,
+      "position": 20.652459016393443
+    },
+    {
+      "keys": [
+        "assessment center"
+      ],
+      "clicks": 0,
+      "impressions": 292,
+      "ctr": 0,
+      "position": 76.65753424657534
+    },
+    {
+      "keys": [
+        "como crear un software"
+      ],
+      "clicks": 0,
+      "impressions": 278,
+      "ctr": 0,
+      "position": 17.528776978417266
+    },
+    {
+      "keys": [
+        "imput o input"
+      ],
+      "clicks": 0,
+      "impressions": 260,
+      "ctr": 0,
+      "position": 2.9923076923076923
+    },
+    {
+      "keys": [
+        "output y input"
+      ],
+      "clicks": 1,
+      "impressions": 251,
+      "ctr": 0.00398406374501992,
+      "position": 2.816733067729084
+    }
+  ],
+  "pageWinners": [
+    {
+      "keys": [
+        "https://crearsoftware.com/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/"
+      ],
+      "clicks": 15,
+      "impressions": 1334,
+      "ctr": 0.011244377811094454,
+      "position": 8.10944527736132,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/"
+        ],
+        "clicks": 5,
+        "impressions": 1768,
+        "ctr": 0.002828054298642534,
+        "position": 8.300339366515837
+      },
+      "clickDelta": 10,
+      "impressionDelta": -434,
+      "ctrDelta": 0.00841632351245192,
+      "positionDelta": -0.19089408915451678
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/09/16/%C2%BFque-son-las-variables-de-control/"
+      ],
+      "clicks": 8,
+      "impressions": 1670,
+      "ctr": 0.004790419161676647,
+      "position": 10.510778443113772,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2009/09/16/%C2%BFque-son-las-variables-de-control/"
+        ],
+        "clicks": 1,
+        "impressions": 1142,
+        "ctr": 0.0008756567425569177,
+        "position": 11.889667250437828
+      },
+      "clickDelta": 7,
+      "impressionDelta": 528,
+      "ctrDelta": 0.003914762419119729,
+      "positionDelta": -1.3788888073240564
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2010/10/29/listado-de-consultoras-espanolas-en-shangai/"
+      ],
+      "clicks": 5,
+      "impressions": 69,
+      "ctr": 0.07246376811594203,
+      "position": 9.869565217391305,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2010/10/29/listado-de-consultoras-espanolas-en-shangai/"
+        ],
+        "clicks": 1,
+        "impressions": 38,
+        "ctr": 0.02631578947368421,
+        "position": 49.81578947368421
+      },
+      "clickDelta": 4,
+      "impressionDelta": 31,
+      "ctrDelta": 0.04614797864225782,
+      "positionDelta": -39.94622425629291
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/06/29/sociedad-industrial-vs-sociedad-conocimiento/"
+      ],
+      "clicks": 10,
+      "impressions": 164,
+      "ctr": 0.06097560975609756,
+      "position": 3.6341463414634148,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/06/29/sociedad-industrial-vs-sociedad-conocimiento/"
+        ],
+        "clicks": 7,
+        "impressions": 182,
+        "ctr": 0.038461538461538464,
+        "position": 4.027472527472527
+      },
+      "clickDelta": 3,
+      "impressionDelta": -18,
+      "ctrDelta": 0.022514071294559096,
+      "positionDelta": -0.3933261860091126
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/04/26/%C2%BFque-es-la-estrategia-funcional/"
+      ],
+      "clicks": 4,
+      "impressions": 960,
+      "ctr": 0.004166666666666667,
+      "position": 7.04375,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/04/26/%C2%BFque-es-la-estrategia-funcional/"
+        ],
+        "clicks": 1,
+        "impressions": 1306,
+        "ctr": 0.0007656967840735069,
+        "position": 8.245022970903523
+      },
+      "clickDelta": 3,
+      "impressionDelta": -346,
+      "ctrDelta": 0.00340096988259316,
+      "positionDelta": -1.2012729709035233
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/07/16/caracteristicas-de-un-blog/"
+      ],
+      "clicks": 3,
+      "impressions": 149,
+      "ctr": 0.020134228187919462,
+      "position": 33.07382550335571,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/07/16/caracteristicas-de-un-blog/"
+        ],
+        "clicks": 0,
+        "impressions": 150,
+        "ctr": 0,
+        "position": 33.81333333333333
+      },
+      "clickDelta": 3,
+      "impressionDelta": -1,
+      "ctrDelta": 0.020134228187919462,
+      "positionDelta": -0.7395078299776259
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/08/29/%C2%BF-cual-es-la-historia-de-los-blogs/"
+      ],
+      "clicks": 3,
+      "impressions": 17,
+      "ctr": 0.17647058823529413,
+      "position": 6.0588235294117645,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/08/29/%C2%BF-cual-es-la-historia-de-los-blogs/"
+        ],
+        "clicks": 0,
+        "impressions": 31,
+        "ctr": 0,
+        "position": 16.516129032258064
+      },
+      "clickDelta": 3,
+      "impressionDelta": -14,
+      "ctrDelta": 0.17647058823529413,
+      "positionDelta": -10.4573055028463
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2011/11/16/historia-de-velneo-ii-relatos-de-una-empresa-de-software/"
+      ],
+      "clicks": 3,
+      "impressions": 51,
+      "ctr": 0.058823529411764705,
+      "position": 14.333333333333334,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2011/11/16/historia-de-velneo-ii-relatos-de-una-empresa-de-software/"
+        ],
+        "clicks": 0,
+        "impressions": 40,
+        "ctr": 0,
+        "position": 14.475
+      },
+      "clickDelta": 3,
+      "impressionDelta": 11,
+      "ctrDelta": 0.058823529411764705,
+      "positionDelta": -0.14166666666666572
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/09/17/%C2%BFcuales-son-los-problemas-de-la-programacion/"
+      ],
+      "clicks": 2,
+      "impressions": 111,
+      "ctr": 0.018018018018018018,
+      "position": 17.73873873873874,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/09/17/%C2%BFcuales-son-los-problemas-de-la-programacion/"
+        ],
+        "clicks": 0,
+        "impressions": 84,
+        "ctr": 0,
+        "position": 20.261904761904763
+      },
+      "clickDelta": 2,
+      "impressionDelta": 27,
+      "ctrDelta": 0.018018018018018018,
+      "positionDelta": -2.5231660231660236
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/08/26/la-regla-1-9-90/"
+      ],
+      "clicks": 2,
+      "impressions": 72,
+      "ctr": 0.027777777777777776,
+      "position": 11.527777777777779,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2009/08/26/la-regla-1-9-90/"
+        ],
+        "clicks": 0,
+        "impressions": 45,
+        "ctr": 0,
+        "position": 9.622222222222222
+      },
+      "clickDelta": 2,
+      "impressionDelta": 27,
+      "ctrDelta": 0.027777777777777776,
+      "positionDelta": 1.9055555555555568
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2010/03/29/%C2%BFde-que-vive-google/"
+      ],
+      "clicks": 2,
+      "impressions": 71,
+      "ctr": 0.028169014084507043,
+      "position": 6.028169014084507,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2010/03/29/%C2%BFde-que-vive-google/"
+        ],
+        "clicks": 0,
+        "impressions": 38,
+        "ctr": 0,
+        "position": 6.7894736842105265
+      },
+      "clickDelta": 2,
+      "impressionDelta": 33,
+      "ctrDelta": 0.028169014084507043,
+      "positionDelta": -0.7613046701260195
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2008/05/18/%C2%BFque-son-las-barreras-de-entrada/"
+      ],
+      "clicks": 5,
+      "impressions": 502,
+      "ctr": 0.0099601593625498,
+      "position": 12.54581673306773,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2008/05/18/%C2%BFque-son-las-barreras-de-entrada/"
+        ],
+        "clicks": 4,
+        "impressions": 661,
+        "ctr": 0.006051437216338881,
+        "position": 11.594553706505295
+      },
+      "clickDelta": 1,
+      "impressionDelta": -159,
+      "ctrDelta": 0.00390872214621092,
+      "positionDelta": 0.9512630265624349
+    }
+  ],
+  "pageLosers": [
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/"
+      ],
+      "clicks": 121,
+      "impressions": 29081,
+      "ctr": 0.004160792269866923,
+      "position": 4.006602248891029,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/"
+        ],
+        "clicks": 174,
+        "impressions": 19358,
+        "ctr": 0.008988531873127389,
+        "position": 4.406653579915281
+      },
+      "clickDelta": -53,
+      "impressionDelta": 9723,
+      "ctrDelta": -0.004827739603260466,
+      "positionDelta": -0.40005133102425194
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/"
+      ],
+      "clicks": 9,
+      "impressions": 510,
+      "ctr": 0.01764705882352941,
+      "position": 8.337254901960783,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/"
+        ],
+        "clicks": 41,
+        "impressions": 807,
+        "ctr": 0.05080545229244114,
+        "position": 6.897149938042132
+      },
+      "clickDelta": -32,
+      "impressionDelta": -297,
+      "ctrDelta": -0.03315839346891173,
+      "positionDelta": 1.4401049639186514
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/wp-content/uploads/2009/03/venta-personal-y-direccion-de-ventas.pdf"
+      ],
+      "clicks": 17,
+      "impressions": 1707,
+      "ctr": 0.00995899238429994,
+      "position": 11.352079671939075,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/wp-content/uploads/2009/03/venta-personal-y-direccion-de-ventas.pdf"
+        ],
+        "clicks": 47,
+        "impressions": 3781,
+        "ctr": 0.012430573922242793,
+        "position": 10.99629727585295
+      },
+      "clickDelta": -30,
+      "impressionDelta": -2074,
+      "ctrDelta": -0.002471581537942852,
+      "positionDelta": 0.3557823960861253
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/10/27/%C2%BFcuales-son-las-orientaciones-culturales-segun-harrison1972/"
+      ],
+      "clicks": 9,
+      "impressions": 448,
+      "ctr": 0.020089285714285716,
+      "position": 5.502232142857143,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/10/27/%C2%BFcuales-son-las-orientaciones-culturales-segun-harrison1972/"
+        ],
+        "clicks": 37,
+        "impressions": 556,
+        "ctr": 0.06654676258992806,
+        "position": 5.370503597122302
+      },
+      "clickDelta": -28,
+      "impressionDelta": -108,
+      "ctrDelta": -0.04645747687564235,
+      "positionDelta": 0.13172854573484116
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/02/14/percepcion-y-cultura/"
+      ],
+      "clicks": 41,
+      "impressions": 4973,
+      "ctr": 0.008244520410215162,
+      "position": 2.8174140357932838,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2009/02/14/percepcion-y-cultura/"
+        ],
+        "clicks": 56,
+        "impressions": 2707,
+        "ctr": 0.020687107499076467,
+        "position": 4.123383819726635
+      },
+      "clickDelta": -15,
+      "impressionDelta": 2266,
+      "ctrDelta": -0.012442587088861305,
+      "positionDelta": -1.3059697839333508
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/02/14/relativismo-vs-universalismo/"
+      ],
+      "clicks": 0,
+      "impressions": 159,
+      "ctr": 0,
+      "position": 6.830188679245283,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2009/02/14/relativismo-vs-universalismo/"
+        ],
+        "clicks": 11,
+        "impressions": 517,
+        "ctr": 0.02127659574468085,
+        "position": 8.972920696324952
+      },
+      "clickDelta": -11,
+      "impressionDelta": -358,
+      "ctrDelta": -0.02127659574468085,
+      "positionDelta": -2.142732017079669
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/"
+      ],
+      "clicks": 2,
+      "impressions": 311,
+      "ctr": 0.006430868167202572,
+      "position": 7.491961414790997,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/"
+        ],
+        "clicks": 12,
+        "impressions": 534,
+        "ctr": 0.02247191011235955,
+        "position": 7.747191011235955
+      },
+      "clickDelta": -10,
+      "impressionDelta": -223,
+      "ctrDelta": -0.01604104194515698,
+      "positionDelta": -0.25522959644495824
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/08/20/historia-de-v7/"
+      ],
+      "clicks": 3,
+      "impressions": 201,
+      "ctr": 0.014925373134328358,
+      "position": 19.27860696517413,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/08/20/historia-de-v7/"
+        ],
+        "clicks": 11,
+        "impressions": 258,
+        "ctr": 0.04263565891472868,
+        "position": 14.670542635658915
+      },
+      "clickDelta": -8,
+      "impressionDelta": -57,
+      "ctrDelta": -0.027710285780400322,
+      "positionDelta": 4.608064329515216
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2008/10/25/problemas-de-comunicacion-ascendente/"
+      ],
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 5.675,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2008/10/25/problemas-de-comunicacion-ascendente/"
+        ],
+        "clicks": 9,
+        "impressions": 52,
+        "ctr": 0.17307692307692307,
+        "position": 4
+      },
+      "clickDelta": -8,
+      "impressionDelta": -12,
+      "ctrDelta": -0.14807692307692308,
+      "positionDelta": 1.6749999999999998
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/02/14/realismo-idealismo-y-constructivismo/"
+      ],
+      "clicks": 3,
+      "impressions": 461,
+      "ctr": 0.006507592190889371,
+      "position": 7.401301518438178,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2009/02/14/realismo-idealismo-y-constructivismo/"
+        ],
+        "clicks": 10,
+        "impressions": 419,
+        "ctr": 0.02386634844868735,
+        "position": 8.291169451073985
+      },
+      "clickDelta": -7,
+      "impressionDelta": 42,
+      "ctrDelta": -0.01735875625779798,
+      "positionDelta": -0.8898679326358074
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/04/27/carta-de-bill-gates-en-favor-del-software-propietario/"
+      ],
+      "clicks": 8,
+      "impressions": 539,
+      "ctr": 0.014842300556586271,
+      "position": 8.37291280148423,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/04/27/carta-de-bill-gates-en-favor-del-software-propietario/"
+        ],
+        "clicks": 14,
+        "impressions": 570,
+        "ctr": 0.02456140350877193,
+        "position": 8.03859649122807
+      },
+      "clickDelta": -6,
+      "impressionDelta": -31,
+      "ctrDelta": -0.009719102952185659,
+      "positionDelta": 0.3343163102561597
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/03/19/factores-activos-y-pasivos-de-una-empresa/"
+      ],
+      "clicks": 5,
+      "impressions": 365,
+      "ctr": 0.0136986301369863,
+      "position": 6.572602739726028,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/03/19/factores-activos-y-pasivos-de-una-empresa/"
+        ],
+        "clicks": 11,
+        "impressions": 537,
+        "ctr": 0.020484171322160148,
+        "position": 5.718808193668528
+      },
+      "clickDelta": -6,
+      "impressionDelta": -172,
+      "ctrDelta": -0.006785541185173848,
+      "positionDelta": 0.8537945460574994
+    }
+  ],
+  "ctrOpportunities": [
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/"
+      ],
+      "clicks": 121,
+      "impressions": 29081,
+      "ctr": 0.004160792269866923,
+      "position": 4.006602248891029,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/"
+        ],
+        "clicks": 174,
+        "impressions": 19358,
+        "ctr": 0.008988531873127389,
+        "position": 4.406653579915281
+      },
+      "clickDelta": -53,
+      "impressionDelta": 9723,
+      "ctrDelta": -0.004827739603260466,
+      "positionDelta": -0.40005133102425194
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/02/14/percepcion-y-cultura/"
+      ],
+      "clicks": 41,
+      "impressions": 4973,
+      "ctr": 0.008244520410215162,
+      "position": 2.8174140357932838,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2009/02/14/percepcion-y-cultura/"
+        ],
+        "clicks": 56,
+        "impressions": 2707,
+        "ctr": 0.020687107499076467,
+        "position": 4.123383819726635
+      },
+      "clickDelta": -15,
+      "impressionDelta": 2266,
+      "ctrDelta": -0.012442587088861305,
+      "positionDelta": -1.3059697839333508
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2012/04/04/como-crear-programas/"
+      ],
+      "clicks": 2,
+      "impressions": 3376,
+      "ctr": 0.0005924170616113745,
+      "position": 11.771623222748815,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2012/04/04/como-crear-programas/"
+        ],
+        "clicks": 3,
+        "impressions": 3306,
+        "ctr": 0.0009074410163339383,
+        "position": 10.637326073805202
+      },
+      "clickDelta": -1,
+      "impressionDelta": 70,
+      "ctrDelta": -0.0003150239547225638,
+      "positionDelta": 1.134297148943613
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/wp-content/uploads/2009/03/venta-personal-y-direccion-de-ventas.pdf"
+      ],
+      "clicks": 17,
+      "impressions": 1707,
+      "ctr": 0.00995899238429994,
+      "position": 11.352079671939075,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/wp-content/uploads/2009/03/venta-personal-y-direccion-de-ventas.pdf"
+        ],
+        "clicks": 47,
+        "impressions": 3781,
+        "ctr": 0.012430573922242793,
+        "position": 10.99629727585295
+      },
+      "clickDelta": -30,
+      "impressionDelta": -2074,
+      "ctrDelta": -0.002471581537942852,
+      "positionDelta": 0.3557823960861253
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/03/20/%C2%BFque-es-pmm/"
+      ],
+      "clicks": 0,
+      "impressions": 1687,
+      "ctr": 0,
+      "position": 10.529342027267338,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2009/03/20/%C2%BFque-es-pmm/"
+        ],
+        "clicks": 1,
+        "impressions": 1547,
+        "ctr": 0.0006464124111182935,
+        "position": 10.229476405946993
+      },
+      "clickDelta": -1,
+      "impressionDelta": 140,
+      "ctrDelta": -0.0006464124111182935,
+      "positionDelta": 0.299865621320345
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/09/16/%C2%BFque-son-las-variables-de-control/"
+      ],
+      "clicks": 8,
+      "impressions": 1670,
+      "ctr": 0.004790419161676647,
+      "position": 10.510778443113772,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2009/09/16/%C2%BFque-son-las-variables-de-control/"
+        ],
+        "clicks": 1,
+        "impressions": 1142,
+        "ctr": 0.0008756567425569177,
+        "position": 11.889667250437828
+      },
+      "clickDelta": 7,
+      "impressionDelta": 528,
+      "ctrDelta": 0.003914762419119729,
+      "positionDelta": -1.3788888073240564
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/"
+      ],
+      "clicks": 15,
+      "impressions": 1334,
+      "ctr": 0.011244377811094454,
+      "position": 8.10944527736132,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/"
+        ],
+        "clicks": 5,
+        "impressions": 1768,
+        "ctr": 0.002828054298642534,
+        "position": 8.300339366515837
+      },
+      "clickDelta": 10,
+      "impressionDelta": -434,
+      "ctrDelta": 0.00841632351245192,
+      "positionDelta": -0.19089408915451678
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/"
+      ],
+      "clicks": 8,
+      "impressions": 1047,
+      "ctr": 0.007640878701050621,
+      "position": 6.826170009551098,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/"
+        ],
+        "clicks": 8,
+        "impressions": 573,
+        "ctr": 0.013961605584642234,
+        "position": 8.024432809773124
+      },
+      "clickDelta": 0,
+      "impressionDelta": 474,
+      "ctrDelta": -0.0063207268835916135,
+      "positionDelta": -1.1982628002220261
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/04/26/%C2%BFque-es-la-estrategia-funcional/"
+      ],
+      "clicks": 4,
+      "impressions": 960,
+      "ctr": 0.004166666666666667,
+      "position": 7.04375,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/04/26/%C2%BFque-es-la-estrategia-funcional/"
+        ],
+        "clicks": 1,
+        "impressions": 1306,
+        "ctr": 0.0007656967840735069,
+        "position": 8.245022970903523
+      },
+      "clickDelta": 3,
+      "impressionDelta": -346,
+      "ctrDelta": 0.00340096988259316,
+      "positionDelta": -1.2012729709035233
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/10/13/%C2%BFque-es-la-teoria-del-subconsumo/"
+      ],
+      "clicks": 2,
+      "impressions": 799,
+      "ctr": 0.0025031289111389237,
+      "position": 5.11514392991239,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2009/10/13/%C2%BFque-es-la-teoria-del-subconsumo/"
+        ],
+        "clicks": 1,
+        "impressions": 733,
+        "ctr": 0.001364256480218281,
+        "position": 7.072305593451569
+      },
+      "clickDelta": 1,
+      "impressionDelta": 66,
+      "ctrDelta": 0.0011388724309206427,
+      "positionDelta": -1.9571616635391784
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2015/05/18/historia-del-crm/"
+      ],
+      "clicks": 2,
+      "impressions": 762,
+      "ctr": 0.0026246719160104987,
+      "position": 7.965879265091863,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2015/05/18/historia-del-crm/"
+        ],
+        "clicks": 1,
+        "impressions": 670,
+        "ctr": 0.0014925373134328358,
+        "position": 7.592537313432836
+      },
+      "clickDelta": 1,
+      "impressionDelta": 92,
+      "ctrDelta": 0.0011321346025776628,
+      "positionDelta": 0.37334195165902706
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/07/08/8-conceptos-basicos-para-la-excelencia/"
+      ],
+      "clicks": 5,
+      "impressions": 715,
+      "ctr": 0.006993006993006993,
+      "position": 4.689510489510489,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2009/07/08/8-conceptos-basicos-para-la-excelencia/"
+        ],
+        "clicks": 6,
+        "impressions": 168,
+        "ctr": 0.03571428571428571,
+        "position": 8.642857142857142
+      },
+      "clickDelta": -1,
+      "impressionDelta": 547,
+      "ctrDelta": -0.02872127872127872,
+      "positionDelta": -3.953346653346653
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/04/27/carta-de-bill-gates-en-favor-del-software-propietario/"
+      ],
+      "clicks": 8,
+      "impressions": 539,
+      "ctr": 0.014842300556586271,
+      "position": 8.37291280148423,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/04/27/carta-de-bill-gates-en-favor-del-software-propietario/"
+        ],
+        "clicks": 14,
+        "impressions": 570,
+        "ctr": 0.02456140350877193,
+        "position": 8.03859649122807
+      },
+      "clickDelta": -6,
+      "impressionDelta": -31,
+      "ctrDelta": -0.009719102952185659,
+      "positionDelta": 0.3343163102561597
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/"
+      ],
+      "clicks": 9,
+      "impressions": 510,
+      "ctr": 0.01764705882352941,
+      "position": 8.337254901960783,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/"
+        ],
+        "clicks": 41,
+        "impressions": 807,
+        "ctr": 0.05080545229244114,
+        "position": 6.897149938042132
+      },
+      "clickDelta": -32,
+      "impressionDelta": -297,
+      "ctrDelta": -0.03315839346891173,
+      "positionDelta": 1.4401049639186514
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/10/14/%C2%BFcuales-son-las-diferentes-orientaciones-hacia-el-mercado-de-las-empresas/"
+      ],
+      "clicks": 3,
+      "impressions": 470,
+      "ctr": 0.006382978723404255,
+      "position": 6.9,
+      "previous": {
+        "keys": [
+          "https://crearsoftware.com/2007/10/14/%C2%BFcuales-son-las-diferentes-orientaciones-hacia-el-mercado-de-las-empresas/"
+        ],
+        "clicks": 3,
+        "impressions": 261,
+        "ctr": 0.011494252873563218,
+        "position": 8.199233716475096
+      },
+      "clickDelta": 0,
+      "impressionDelta": 209,
+      "ctrDelta": -0.005111274150158963,
+      "positionDelta": -1.2992337164750953
+    }
+  ],
+  "queryOpportunities": [
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/",
+        "inputs"
+      ],
+      "clicks": 4,
+      "impressions": 1483,
+      "ctr": 0.0026972353337828725,
+      "position": 5.874578556979096
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/",
+        "crear software"
+      ],
+      "clicks": 5,
+      "impressions": 529,
+      "ctr": 0.00945179584120983,
+      "position": 4.648393194706994
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/",
+        "input output"
+      ],
+      "clicks": 1,
+      "impressions": 526,
+      "ctr": 0.0019011406844106464,
+      "position": 10.840304182509506
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2012/04/04/como-crear-programas/",
+        "como hacer un programa"
+      ],
+      "clicks": 0,
+      "impressions": 476,
+      "ctr": 0,
+      "position": 8.926470588235293
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/",
+        "outputs"
+      ],
+      "clicks": 0,
+      "impressions": 399,
+      "ctr": 0,
+      "position": 9.523809523809524
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/03/20/%C2%BFque-es-pmm/",
+        "pmm"
+      ],
+      "clicks": 0,
+      "impressions": 352,
+      "ctr": 0,
+      "position": 11.715909090909092
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/04/26/%C2%BFque-es-la-estrategia-funcional/",
+        "estrategia funcional"
+      ],
+      "clicks": 1,
+      "impressions": 340,
+      "ctr": 0.0029411764705882353,
+      "position": 6.679411764705883
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/wp-content/uploads/2009/03/venta-personal-y-direccion-de-ventas.pdf",
+        "venta personal"
+      ],
+      "clicks": 0,
+      "impressions": 273,
+      "ctr": 0,
+      "position": 7.212454212454213
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/09/16/%C2%BFque-son-las-variables-de-control/",
+        "variable de control"
+      ],
+      "clicks": 1,
+      "impressions": 234,
+      "ctr": 0.004273504273504274,
+      "position": 12.97008547008547
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/wp-content/uploads/2009/03/venta-personal-y-direccion-de-ventas.pdf",
+        "ventas personales"
+      ],
+      "clicks": 1,
+      "impressions": 203,
+      "ctr": 0.0049261083743842365,
+      "position": 7.512315270935961
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/tag/ibound/",
+        "ibound"
+      ],
+      "clicks": 0,
+      "impressions": 183,
+      "ctr": 0,
+      "position": 8.163934426229508
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/",
+        "que son los inputs"
+      ],
+      "clicks": 0,
+      "impressions": 175,
+      "ctr": 0,
+      "position": 7.4
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2012/05/16/como-se-hacer-crecer-una-empresa-de-software/",
+        "como crecer empresa software"
+      ],
+      "clicks": 0,
+      "impressions": 175,
+      "ctr": 0,
+      "position": 10.645714285714286
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/03/20/%C2%BFque-es-pmm/",
+        "que es pmm"
+      ],
+      "clicks": 0,
+      "impressions": 172,
+      "ctr": 0,
+      "position": 10.05813953488372
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/09/16/%C2%BFque-son-las-variables-de-control/",
+        "que es una variable de control"
+      ],
+      "clicks": 0,
+      "impressions": 169,
+      "ctr": 0,
+      "position": 9.378698224852071
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/10/13/%C2%BFque-es-la-teoria-del-subconsumo/",
+        "subconsumo"
+      ],
+      "clicks": 1,
+      "impressions": 168,
+      "ctr": 0.005952380952380952,
+      "position": 5.226190476190476
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/",
+        "soft crar"
+      ],
+      "clicks": 0,
+      "impressions": 168,
+      "ctr": 0,
+      "position": 5.839285714285714
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/",
+        "que es inputs y outputs"
+      ],
+      "clicks": 0,
+      "impressions": 159,
+      "ctr": 0,
+      "position": 4.7924528301886795
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/",
+        "que son inputs"
+      ],
+      "clicks": 0,
+      "impressions": 145,
+      "ctr": 0,
+      "position": 6.055172413793104
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2009/09/16/%C2%BFque-son-las-variables-de-control/",
+        "variables de control"
+      ],
+      "clicks": 2,
+      "impressions": 136,
+      "ctr": 0.014705882352941176,
+      "position": 11.551470588235293
+    }
+  ],
+  "risingQueries": [
+    {
+      "keys": [
+        "inputs"
+      ],
+      "clicks": 4,
+      "impressions": 1483,
+      "ctr": 0.0026972353337828725,
+      "position": 5.874578556979096,
+      "previous": {
+        "keys": [
+          "inputs"
+        ],
+        "clicks": 0,
+        "impressions": 493,
+        "ctr": 0,
+        "position": 8.440162271805274
+      },
+      "clickDelta": 4,
+      "impressionDelta": 990,
+      "ctrDelta": 0.0026972353337828725,
+      "positionDelta": -2.565583714826178
+    },
+    {
+      "keys": [
+        "variables de control"
+      ],
+      "clicks": 2,
+      "impressions": 136,
+      "ctr": 0.014705882352941176,
+      "position": 11.551470588235293,
+      "previous": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0
+      },
+      "clickDelta": 2,
+      "impressionDelta": 136,
+      "ctrDelta": 0.014705882352941176,
+      "positionDelta": 11.551470588235293
+    },
+    {
+      "keys": [
+        "barreras de entrada"
+      ],
+      "clicks": 1,
+      "impressions": 47,
+      "ctr": 0.02127659574468085,
+      "position": 25.170212765957448,
+      "previous": {
+        "keys": [
+          "barreras de entrada"
+        ],
+        "clicks": 0,
+        "impressions": 52,
+        "ctr": 0,
+        "position": 24.98076923076923
+      },
+      "clickDelta": 1,
+      "impressionDelta": -5,
+      "ctrDelta": 0.02127659574468085,
+      "positionDelta": 0.189443535188218
+    },
+    {
+      "keys": [
+        "crear un software"
+      ],
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 10.6,
+      "previous": {
+        "keys": [
+          "crear un software"
+        ],
+        "clicks": 0,
+        "impressions": 18,
+        "ctr": 0,
+        "position": 11.222222222222221
+      },
+      "clickDelta": 1,
+      "impressionDelta": 22,
+      "ctrDelta": 0.025,
+      "positionDelta": -0.6222222222222218
+    },
+    {
+      "keys": [
+        "efecto catedral"
+      ],
+      "clicks": 1,
+      "impressions": 85,
+      "ctr": 0.011764705882352941,
+      "position": 7.811764705882353,
+      "previous": {
+        "keys": [
+          "efecto catedral"
+        ],
+        "clicks": 0,
+        "impressions": 48,
+        "ctr": 0,
+        "position": 8.270833333333332
+      },
+      "clickDelta": 1,
+      "impressionDelta": 37,
+      "ctrDelta": 0.011764705882352941,
+      "positionDelta": -0.4590686274509794
+    },
+    {
+      "keys": [
+        "estrategia funcional"
+      ],
+      "clicks": 1,
+      "impressions": 340,
+      "ctr": 0.0029411764705882353,
+      "position": 6.679411764705883,
+      "previous": {
+        "keys": [
+          "estrategia funcional"
+        ],
+        "clicks": 0,
+        "impressions": 499,
+        "ctr": 0,
+        "position": 7.597194388777555
+      },
+      "clickDelta": 1,
+      "impressionDelta": -159,
+      "ctrDelta": 0.0029411764705882353,
+      "positionDelta": -0.9177826240716724
+    },
+    {
+      "keys": [
+        "input output"
+      ],
+      "clicks": 1,
+      "impressions": 526,
+      "ctr": 0.0019011406844106464,
+      "position": 10.840304182509506,
+      "previous": {
+        "keys": [
+          "input output"
+        ],
+        "clicks": 0,
+        "impressions": 88,
+        "ctr": 0,
+        "position": 16.454545454545453
+      },
+      "clickDelta": 1,
+      "impressionDelta": 438,
+      "ctrDelta": 0.0019011406844106464,
+      "positionDelta": -5.614241272035947
+    },
+    {
+      "keys": [
+        "nokia 888"
+      ],
+      "clicks": 1,
+      "impressions": 58,
+      "ctr": 0.017241379310344827,
+      "position": 6.948275862068965,
+      "previous": {
+        "keys": [
+          "nokia 888"
+        ],
+        "clicks": 0,
+        "impressions": 54,
+        "ctr": 0,
+        "position": 5.888888888888889
+      },
+      "clickDelta": 1,
+      "impressionDelta": 4,
+      "ctrDelta": 0.017241379310344827,
+      "positionDelta": 1.059386973180076
+    },
+    {
+      "keys": [
+        "output y input"
+      ],
+      "clicks": 1,
+      "impressions": 251,
+      "ctr": 0.00398406374501992,
+      "position": 2.816733067729084,
+      "previous": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0
+      },
+      "clickDelta": 1,
+      "impressionDelta": 251,
+      "ctrDelta": 0.00398406374501992,
+      "positionDelta": 2.816733067729084
+    },
+    {
+      "keys": [
+        "que son las barreras de entrada"
+      ],
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 9.1875,
+      "previous": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0
+      },
+      "clickDelta": 1,
+      "impressionDelta": 32,
+      "ctrDelta": 0.03125,
+      "positionDelta": 9.1875
+    },
+    {
+      "keys": [
+        "que son las variables de control"
+      ],
+      "clicks": 1,
+      "impressions": 52,
+      "ctr": 0.019230769230769232,
+      "position": 8.288461538461538,
+      "previous": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0
+      },
+      "clickDelta": 1,
+      "impressionDelta": 52,
+      "ctrDelta": 0.019230769230769232,
+      "positionDelta": 8.288461538461538
+    },
+    {
+      "keys": [
+        "roger harrison"
+      ],
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 6.53125,
+      "previous": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0
+      },
+      "clickDelta": 1,
+      "impressionDelta": 32,
+      "ctrDelta": 0.03125,
+      "positionDelta": 6.53125
+    }
+  ],
+  "countries": [
+    {
+      "keys": [
+        "mex"
+      ],
+      "clicks": 145,
+      "impressions": 20189,
+      "ctr": 0.00718212888206449,
+      "position": 11.216008717618505
+    },
+    {
+      "keys": [
+        "esp"
+      ],
+      "clicks": 98,
+      "impressions": 23242,
+      "ctr": 0.004216504603734618,
+      "position": 22.95237070820067
+    },
+    {
+      "keys": [
+        "col"
+      ],
+      "clicks": 29,
+      "impressions": 7029,
+      "ctr": 0.004125764689144971,
+      "position": 8.88618580167876
+    },
+    {
+      "keys": [
+        "per"
+      ],
+      "clicks": 23,
+      "impressions": 4887,
+      "ctr": 0.004706363822385922,
+      "position": 8.796603233067321
+    },
+    {
+      "keys": [
+        "arg"
+      ],
+      "clicks": 13,
+      "impressions": 3766,
+      "ctr": 0.0034519383961763143,
+      "position": 10.39644184811471
+    },
+    {
+      "keys": [
+        "gtm"
+      ],
+      "clicks": 12,
+      "impressions": 1720,
+      "ctr": 0.0069767441860465115,
+      "position": 8.769186046511628
+    },
+    {
+      "keys": [
+        "ven"
+      ],
+      "clicks": 11,
+      "impressions": 1729,
+      "ctr": 0.006362058993637941,
+      "position": 10.016194331983806
+    },
+    {
+      "keys": [
+        "chl"
+      ],
+      "clicks": 10,
+      "impressions": 2241,
+      "ctr": 0.004462293618920125,
+      "position": 8.255689424364123
+    },
+    {
+      "keys": [
+        "bol"
+      ],
+      "clicks": 7,
+      "impressions": 1093,
+      "ctr": 0.006404391582799634,
+      "position": 7.884720951509607
+    },
+    {
+      "keys": [
+        "dom"
+      ],
+      "clicks": 7,
+      "impressions": 805,
+      "ctr": 0.008695652173913044,
+      "position": 8.998757763975156
+    },
+    {
+      "keys": [
+        "usa"
+      ],
+      "clicks": 7,
+      "impressions": 4497,
+      "ctr": 0.00155659328441183,
+      "position": 16.456304202801867
+    },
+    {
+      "keys": [
+        "pan"
+      ],
+      "clicks": 3,
+      "impressions": 329,
+      "ctr": 0.00911854103343465,
+      "position": 13.21580547112462
+    },
+    {
+      "keys": [
+        "slv"
+      ],
+      "clicks": 3,
+      "impressions": 703,
+      "ctr": 0.004267425320056899,
+      "position": 6.7980085348506405
+    },
+    {
+      "keys": [
+        "cri"
+      ],
+      "clicks": 2,
+      "impressions": 440,
+      "ctr": 0.004545454545454545,
+      "position": 9.036363636363637
+    },
+    {
+      "keys": [
+        "ecu"
+      ],
+      "clicks": 2,
+      "impressions": 1674,
+      "ctr": 0.0011947431302270011,
+      "position": 9.19115890083632
+    },
+    {
+      "keys": [
+        "pri"
+      ],
+      "clicks": 2,
+      "impressions": 198,
+      "ctr": 0.010101010101010102,
+      "position": 4.348484848484849
+    },
+    {
+      "keys": [
+        "che"
+      ],
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 11.033333333333333
+    },
+    {
+      "keys": [
+        "civ"
+      ],
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 23.25
+    },
+    {
+      "keys": [
+        "cze"
+      ],
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 8.125
+    },
+    {
+      "keys": [
+        "hnd"
+      ],
+      "clicks": 1,
+      "impressions": 535,
+      "ctr": 0.001869158878504673,
+      "position": 8.123364485981309
+    },
+    {
+      "keys": [
+        "irl"
+      ],
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 13.222222222222221
+    },
+    {
+      "keys": [
+        "ita"
+      ],
+      "clicks": 1,
+      "impressions": 132,
+      "ctr": 0.007575757575757576,
+      "position": 9.931818181818182
+    },
+    {
+      "keys": [
+        "nam"
+      ],
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.333333333333333
+    },
+    {
+      "keys": [
+        "pry"
+      ],
+      "clicks": 1,
+      "impressions": 299,
+      "ctr": 0.0033444816053511705,
+      "position": 7.538461538461538
+    },
+    {
+      "keys": [
+        "ury"
+      ],
+      "clicks": 1,
+      "impressions": 193,
+      "ctr": 0.0051813471502590676,
+      "position": 7.66321243523316
+    }
+  ],
+  "devices": [
+    {
+      "keys": [
+        "DESKTOP"
+      ],
+      "clicks": 238,
+      "impressions": 38754,
+      "ctr": 0.006141301543066522,
+      "position": 21.160422149971616
+    },
+    {
+      "keys": [
+        "MOBILE"
+      ],
+      "clicks": 139,
+      "impressions": 39616,
+      "ctr": 0.0035086833602584813,
+      "position": 8.270092891760905
+    },
+    {
+      "keys": [
+        "TABLET"
+      ],
+      "clicks": 6,
+      "impressions": 1134,
+      "ctr": 0.005291005291005291,
+      "position": 6.49647266313933
+    }
+  ]
+}

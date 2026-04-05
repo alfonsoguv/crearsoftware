@@ -1,0 +1,19 @@
+---
+title: "Realismo, Idealismo y constructivismo"
+slug: "realismo-idealismo-y-constructivismo"
+date: "2009-02-14"
+oldUrl: "/2009/02/14/realismo-idealismo-y-constructivismo/"
+description: "Comparativa entre realismo, idealismo y constructivismo: cómo estas corrientes filosóficas aplican a la empresa y la tecnología."
+category: "desarrollo-software"
+tags: ["desarrollo de software"]
+author: "Alfonso Gutiérrez"
+commentCount: 1
+wordCount: 491
+readingTime: 3
+image: ""
+---
+
+**Realismo:** El realismo entiende la relación entre individuo y mundo basándose en el significado de las cosas. Percibimos mediante unos elementos de representación que nos capacitan para significar la realidad. La mente computa y procesa la realidad en base a unas estructuras simbólicas. Tenemos una red de significados interiorizados en base a un conocimiento pretérito. Para el realismo, la realidad conocida existe aunque nosotros no la conozcamos, nosotros la percibimos y significamos por un proceso de estructuras simbólicas. A la realidad conocida no le afecta para nada el hecho de que nosotros la conozcamos. Sin embargo para **el Idealismo**, la realidad conocida tiene existencia sólo en la medida en que nosotros la conocemos. La realidad conocida le afecta o influye el hecho de ser conocida por nosotros, es como es, porque nosotros la conocemos; la realidad conocida no es independiente del sujeto cognoscente mientras que para el realismo la realidad conocida es independiente del sujeto
+Para el idealismo existe la imposibilidad de conocer las cosas tal como son ya que para el idealismo TODO es subjetivo. Todo depende de los sentidos y el entendimiento. En el idealismo no existe una realidad fuera de nuestros pensamiento, lo que es duro de aceptar. Para Kant nuestra mente influye en el objeto conocido, pero más allá de la realidad conocida hay otra realidad plena, independiente de nuestro pensamiento, incognoscible pero cierta: la cosa en sí. Por tanto el idealismo considera que en el acto de conocimiento el sujeto que conoce influye en la realidad conocida, que la mente está sometida a unos procesos o mecanismos que determinan y construyen la realidad del objeto conocido. Por último **el constructivismo**, se basa en que sólo conocemos lo que realmente hemos construido. El conocimiento proviene de la actividad del mismo sujeto. La realidad que percibe el sujeto es fruto de su propia construcción intelectual
+En todo el proceso la experiencia pretérita es básica para el conocimiento de la realidad. La experiencia es el resultado de la actividad y las formas de vida que nos han transmitido nuestro entorno. Nuestro entorno social presente y pasado influye en nuestro conocimiento de la realidad. Ya que existe una memoria colectiva que nos ayuda a significar las cosas. Para el constructivismo el desarrollo humano se basa en etapas y la niñez es una etapa clave ya que  es cuando construimos nuestra manera de significar la realidad en base a unas palabras y símbolos. Interpretamos los acontecimientos en base a unos significados y modelos culturas propios a las experiencias que vivimos cuando éramos niños. Las personas que rodean al niño y el entorno cultural en que nos desarrollamos son básicos en nuestra significación de la realidad. La historia y el pasado de ese entorno presente hace que el entorno pasado nos influencia en nuestra manera de interpretar la realidad hoy
+Por tanto el sujeto, su entorno (sobre todo niñez) y la historia humana son la base de nuestro conocimiento de la realidad

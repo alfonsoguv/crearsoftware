@@ -1,0 +1,30 @@
+{
+  "name": "crearsoftware",
+  "version": "1.0.0",
+  "description": "crearsoftware.com - Blog sobre desarrollo de software, IA y tecnología empresarial",
+  "main": "index.js",
+  "scripts": {
+    "build": "bash build.sh",
+    "dev": "wrangler pages dev dist --port 8789",
+    "migrate": "node scripts/migrate-wp.js",
+    "cleanup:content": "node scripts/cleanup-content.mjs",
+    "audit": "node scripts/audit-build.mjs",
+    "audit:noindex": "node scripts/audit-noindex.mjs",
+    "test:navigation": "node scripts/test-navigation.mjs",
+    "seo:gsc": "node scripts/gsc-seo-report.mjs",
+    "seo:gsc:analysis": "node scripts/gsc-domain-analysis.mjs",
+    "seo:gsc:connect": "node scripts/gsc-connect.mjs",
+    "seo:gsc:indexation": "node scripts/gsc-indexation-audit.mjs",
+    "seo:gsc:submit-sitemap": "node scripts/gsc-submit-sitemap.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "marked": "^17.0.5",
+    "playwright": "^1.58.2",
+    "turndown": "^7.2.2",
+    "xml2js": "^0.6.2"
+  }
+}
