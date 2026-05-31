@@ -102,6 +102,7 @@
       transition: background-color var(--transition-base);
     }
     .news-form button:hover { background: var(--color-accent-hover); }
+    .news-form button:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 2px; }
     .news-form button[disabled] { cursor: wait; opacity: 0.8; }
     .news-status {
       min-height: 1.5rem; margin-top: var(--space-3); font-size: var(--text-sm); color: var(--color-text-muted);
@@ -118,7 +119,13 @@
     .footer-copy { font-family: var(--font-code); font-size: var(--text-xs); color: var(--color-text-muted); }
 
     @media (max-width: 560px) {
+      .masthead .col { gap: var(--space-4); flex-wrap: wrap; }
       .mainnav { gap: var(--space-4); }
+    }
+
+    @media (max-width: 480px) {
+      .news-form { flex-direction: column; }
+      .news-form input, .news-form button { width: 100%; min-width: 0; }
     }
 
     @media print {
@@ -142,6 +149,7 @@
   </header>
 
   <main>
+    <h1 class="sr-only">{{siteName}} — desarrollo de software, inteligencia artificial y el oficio de crear tecnología</h1>
     <!-- Intro -->
     <section class="intro">
       <div class="col">
@@ -170,7 +178,7 @@
           <input type="email" id="newsletter-email" name="email" placeholder="tu@email.com" aria-label="Correo electrónico" required autocomplete="email" inputmode="email" spellcheck="false" autocapitalize="none">
           <button type="submit">Suscribirme</button>
         </form>
-        <p class="news-status" aria-live="polite"></p>
+        <p class="news-status" role="status" aria-live="polite"></p>
       </div>
     </section>
   </main>

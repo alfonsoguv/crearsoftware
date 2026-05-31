@@ -92,15 +92,6 @@ const CATEGORY_LABELS = {
   'productividad-herramientas': 'Productividad y Herramientas',
 };
 
-// Category icons for home page
-const CATEGORY_ICONS = {
-  'inteligencia-artificial': '🤖',
-  'desarrollo-software': '💻',
-  'tecnologia-empresarial': '🏢',
-  'innovacion-digital': '🚀',
-  'productividad-herramientas': '⚡',
-};
-
 // ---------------------------------------------------------------------------
 // Frontmatter parser (lightweight, no gray-matter dependency needed)
 // Parses YAML-like frontmatter between --- delimiters
