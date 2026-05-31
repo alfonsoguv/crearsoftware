@@ -1,6 +1,9 @@
 # Cloudflare Pages Redirects
 # Migración WordPress → Cloudflare Pages (crearsoftware.com)
 
+# Legacy attachments (PDF que rankeaba en vez del post)
+/wp-content/uploads/2009/03/venta-personal-y-direccion-de-ventas.pdf /2009/03/22/la-venta-personal-en-internet-saas-paas/ 301
+
 # WordPress categories → new categories (1:1 mapping)
 /category/tecnologia/ /categoria/innovacion-digital/ 301
 /category/software-2/ /categoria/desarrollo-software/ 301

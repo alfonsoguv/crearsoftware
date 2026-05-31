@@ -1,9 +1,9 @@
 ---
-title: "¿Qué es Input y Output? Definición y Ejemplos de Entradas y Salidas"
+title: "Input y Output: qué son, diferencias y ejemplos"
 slug: "ejemplos-de-input-output-y-actividades"
 date: "2007-06-23"
 oldUrl: "/2007/06/23/ejemplos-de-input-output-y-actividades/"
-description: "¿Qué es un input y un output? Definición clara de entradas y salidas con ejemplos prácticos en fábricas, hospitales y bancos para cualquier proceso."
+description: "Qué es un input y un output: definición clara de entradas y salidas, su diferencia y ejemplos prácticos (fábrica, hospital, banco). Guía rápida con tabla."
 category: "tecnologia-empresarial"
 tags: ["marketing","productividad","software","gestión empresarial","estrategia"]
 readingTime: 5
@@ -26,6 +26,15 @@ image: "/wp-content/uploads/2007/06/alambrada.jpg"
 -   **Inputs (Entradas):** Son los recursos, materiales o información que necesita una organización para iniciar un proceso o prestar un servicio.
 -   **Outputs (Salidas):** Son los resultados finales del proceso, es decir, los productos, servicios o beneficios que se obtienen tras las actividades realizadas.
 -   **Actividades (Procesos):** Conjunto de tareas que se llevan a cabo para transformar los Inputs en Outputs. Incluyen acciones como ensamblar, analizar, diseñar, producir o cualquier otra labor interna.
+
+### Diferencia entre input y output (resumen)
+
+|  | Input (entrada) | Output (salida) |
+|---|---|---|
+| Qué es | Recurso, material o información que entra en el proceso | Resultado que sale tras el proceso |
+| Dirección | Entra y se transforma o consume | Se produce y se entrega |
+| Ejemplo (fábrica) | Piezas y componentes | Coche terminado |
+| Ejemplo (hospital) | Paciente enfermo | Paciente tratado |
 
 * * *
 
@@ -174,3 +183,10 @@ Sí. En cadenas de producción y procesos encadenados es muy común: el output d
 ¡Deja tus comentarios y comparte tu experiencia con los procesos de Input, Output y Actividades en tu sector! Así podremos seguir mejorando y profundizando en diferentes casos de estudio.
 
 * * *
+
+
+* * *
+
+## Inputs, outputs y desarrollo de software
+
+Este modelo de **inputs → actividades → outputs** es la base de cualquier proceso que se quiere automatizar o digitalizar. En desarrollo de software, definir bien las entradas y salidas de cada proceso es el primer paso antes de empezar a programar la solución. Si quieres llevar esta lógica a un sistema real, te ayudará entender [el ciclo de vida de un proyecto de software](/2013/10/31/ciclo-de-vida-de-un-proyecto-de-software/), [cómo empezar un proyecto de software empresarial](/2011/09/15/%c2%bfcomo-empezar-un-proyecto-de-software-empresarial/), [cómo crear programas](/2012/04/04/como-crear-programas/).

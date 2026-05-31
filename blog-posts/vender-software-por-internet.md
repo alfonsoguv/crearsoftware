@@ -1,9 +1,9 @@
 ---
-title: "Vender software por internet"
+title: "Cómo vender software por internet: guía completa para desarrolladores y empresas"
 slug: "vender-software-por-internet"
 date: "2013-06-17"
 oldUrl: "/2013/06/17/vender-software-por-internet/"
-description: "Cómo vender software por Internet: estrategias, canales y claves para comercializar productos digitales online."
+description: "Cómo vender software por internet: estrategias, canales de venta, precios y 5 ideas prácticas para comercializar tus programas online."
 category: "desarrollo-software"
 tags: ["velneo","marketing digital","google","apple","ventas"]
 author: "Alfonso Gutiérrez"

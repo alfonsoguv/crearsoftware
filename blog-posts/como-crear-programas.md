@@ -1,9 +1,9 @@
 ---
-title: "¿Cómo crear programas?"
+title: "Cómo crear un programa o software en 5 pasos"
 slug: "como-crear-programas"
 date: "2012-04-04"
 oldUrl: "/2012/04/04/como-crear-programas/"
-description: "Cómo crear programas en 5 pasos: analiza al usuario, diseña el flujo de información, crea el proyecto de datos, prueba los cimientos y diseña el interfaz."
+description: "Cómo crear un programa o software paso a paso: analiza al usuario, diseña el flujo de datos, monta el proyecto, prueba los cimientos y diseña el interfaz."
 category: "desarrollo-software"
 tags: ["crear programas", "desarrollo de software", "diseño", "velneo", "programación"]
 author: "Alfonso Gutiérrez"

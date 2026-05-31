@@ -1,9 +1,9 @@
 ---
-title: "La Guía Definitiva sobre el Protocolo de Contexto del Modelo (MCP)"
+title: "Protocolo de Contexto de Modelo (MCP): qué es y guía 2025"
 slug: "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp"
 date: "2025-04-14"
 oldUrl: "/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/"
-description: "Todo sobre el Protocolo MCP (Model Context Protocol): qué es, cómo funciona, casos de uso y cómo implementarlo en tus proyectos de inteligencia artificial."
+description: "Qué es el Protocolo de Contexto de Modelo (MCP), cómo funciona, casos de uso, herramientas de automatización 2025 y cómo conectarlo a Google Drive, Calendar y Zoom."
 category: "inteligencia-artificial"
 tags: ["mcp","inteligencia artificial","productividad","liderazgo","marketing"]
 readingTime: 55
