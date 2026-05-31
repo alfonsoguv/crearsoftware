@@ -31,7 +31,7 @@ marked.setOptions({
 // Load templates from templates/ directory
 // ---------------------------------------------------------------------------
 const templates = {};
-const templateFiles = ['blog-post', 'home', 'blog-index', 'category-page', 'guide-page', 'author-page', 'manifest-page'];
+const templateFiles = ['blog-post', 'home', 'blog-index', 'category-page', 'guide-page', 'manifest-page'];
 for (const name of templateFiles) {
   const filePath = join(TEMPLATES_DIR, `${name}.html`);
   if (existsSync(filePath)) {
@@ -66,7 +66,7 @@ Crear Software es un blog editorial sobre desarrollo de software, inteligencia a
 
 ## Quién escribe
 
-El sitio está editado por [Alfonso Gutiérrez](/autor/alfonso-gutierrez/), fundador y tecnólogo con trayectoria en software empresarial, ventas consultivas y construcción de equipos.
+El sitio está editado por Alfonso Gutiérrez, fundador y tecnólogo con trayectoria en software empresarial, ventas consultivas y construcción de equipos.
 
 ## Cómo está organizado el contenido
 
@@ -779,7 +779,6 @@ for (const post of posts) {
     "author": {
       "@type": "Person",
       "name": author.name,
-      "url": `${SITE_URL}/autor/${author.slug}/`,
     },
     "publisher": {
       "@type": "Organization",
@@ -1087,7 +1086,6 @@ for (const guide of guides) {
     "author": {
       "@type": "Person",
       "name": "Alfonso Gutiérrez",
-      "url": `${SITE_URL}/autor/alfonso-gutierrez/`,
     },
     "publisher": {
       "@type": "Organization",
@@ -1133,98 +1131,6 @@ for (const guide of guides) {
 
   writeFileSync(join(guideDir, 'index.html'), guideHTML);
   console.log(`  [guia] /guia/${slug}/`);
-}
-
-// ---------------------------------------------------------------------------
-// Generate author pages at /autor/{slug}/index.html
-// ---------------------------------------------------------------------------
-for (const author of Object.values(authors)) {
-  const authorPosts = posts.filter(p => resolveAuthor(p).slug === author.slug);
-  const authorUrl = `${SITE_URL}/autor/${author.slug}/`;
-
-  // Build social links HTML matching .author-link structure
-  const socialLinks = [];
-  if (author.links) {
-    if (author.links.linkedin) {
-      socialLinks.push(`<a href="${author.links.linkedin}" class="author-link" rel="noopener noreferrer" target="_blank">
-        <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
-        LinkedIn</a>`);
-    }
-    if (author.links.github) {
-      socialLinks.push(`<a href="${author.links.github}" class="author-link" rel="noopener noreferrer" target="_blank">
-        <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
-        GitHub</a>`);
-    }
-    if (author.links.website) {
-      socialLinks.push(`<a href="${author.links.website}" class="author-link" rel="noopener noreferrer" target="_blank">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
-        Web</a>`);
-    }
-  }
-  const authorSocialLinksHTML = socialLinks.join('\n      ');
-
-  // Build expertise string
-  const expertiseStr = (author.expertise || []).join(', ');
-
-  // Build credentials list items
-  const credentialsHTML = (author.expertise || []).map(e => `<li>${e}</li>`).join('\n            ');
-
-  // Build author posts HTML
-  const authorPostsHTML = authorPosts.length > 0
-    ? authorPosts.map(p => buildPostCard(p)).join('')
-    : '<p>No hay artículos todavía.</p>';
-
-  // Person JSON-LD for author page
-  const personSchema = {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "name": author.name,
-    "url": authorUrl,
-    "description": author.bio || '',
-  };
-  if (author.role) personSchema.jobTitle = author.role;
-  const sameAs = [];
-  if (author.links) {
-    if (author.links.linkedin) sameAs.push(author.links.linkedin);
-    if (author.links.github) sameAs.push(author.links.github);
-    if (author.links.website) sameAs.push(author.links.website);
-  }
-  if (sameAs.length > 0) personSchema.sameAs = sameAs;
-  if (author.image) personSchema.image = getAbsoluteImageUrl(author.image);
-  const authorBreadcrumbs = buildBreadcrumbJsonLd([
-    { name: 'Inicio', url: SITE_URL },
-    { name: author.name, url: authorUrl },
-  ]);
-
-  const authorPageHTML = renderTemplate(templates['author-page'], {
-    siteName: SITE_NAME,
-    siteUrl: SITE_URL,
-    headTitle: escapeHtml(author.name),
-    author: author.name,
-    authorRole: author.role || '',
-    authorPhoto: author.image || DEFAULT_AUTHOR_IMAGE,
-    authorExperience: author.experience || '',
-    authorExpertise: expertiseStr,
-    authorCredentials: credentialsHTML,
-    authorBio: author.bio || '',
-    authorSocialLinks: authorSocialLinksHTML,
-    posts: authorPostsHTML,
-    canonicalUrl: authorUrl,
-    metaDescription: escapeHtml(author.bio || ''),
-    socialMeta: buildSocialMeta({
-      title: `${author.name} | ${SITE_NAME}`,
-      description: author.bio || '',
-      url: authorUrl,
-      image: author.image || DEFAULT_OG_IMAGE,
-      author: author.name,
-    }),
-    jsonLd: `<script type="application/ld+json">${JSON.stringify([personSchema, authorBreadcrumbs])}</script>`,
-  });
-
-  const authorDir = join(OUTPUT_DIR, 'autor', author.slug);
-  mkdirSync(authorDir, { recursive: true });
-  writeFileSync(join(authorDir, 'index.html'), authorPageHTML);
-  console.log(`  [autor] /autor/${author.slug}/`);
 }
 
 // ---------------------------------------------------------------------------
@@ -1274,15 +1180,6 @@ for (const guide of guides) {
   });
 }
 
-// Author entries
-for (const author of Object.values(authors)) {
-  sitemapEntries.push({
-    loc: `/autor/${author.slug}/`,
-    lastmod: today,
-    freq: 'monthly',
-    priority: '0.6',
-  });
-}
 
 const sitemapXML = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -1343,5 +1240,4 @@ console.log(`Build completo:`);
 console.log(`  ${postCount} artículos`);
 console.log(`  ${Object.keys(categories).length} categorías`);
 console.log(`  ${guides.length} guías`);
-console.log(`  ${Object.keys(authors).length} autores`);
 console.log(`  ${sitemapEntries.length} URLs en sitemap`);
