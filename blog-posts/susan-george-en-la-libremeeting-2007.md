@@ -10,8 +10,12 @@ author: "Alfonso Gutiérrez"
 commentCount: 2
 wordCount: 905
 readingTime: 5
-image: ""
+image: "/wp-content/uploads/2007/05/otromundo_es_posible.jpg"
 ---
+
+![Otro Mundo es posible si…](/wp-content/uploads/2007/05/otromundo_es_posible.jpg)
+
+![Susan George](/wp-content/uploads/2007/05/05diagonal39-web_pagina_1_imagen_0002.jpg)
 
 Estas son las notas que tomé de la interesante intervención de Susan George, autora del libro *Otro mundo es posible si...*
 

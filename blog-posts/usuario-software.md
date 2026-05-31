@@ -13,9 +13,11 @@ readingTime: 4
 image: ""
 ---
 
-**Un software sin usuarios es como un desierto sin oasis, está totalmente muerto.**
+> **Un software sin usuarios es como un desierto sin oasis: está totalmente muerto.**
 
-Llevo unas semanas leyendo el libro [Inspired](http://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408), el cual recomiendo en especial a los responsables de proyectos de software. En este blog ya hemos hablado varias veces de la metodología de desarrollo de nuevos productos de software denominada [MVP (Mínimo producto viable)](/2012/01/05/como-hacer-un-programa/). El mínimo producto viable es una gran metodología que se trata en [Inspired](http://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408). Según este libro lo más importante es conseguir **usuarios reales** que validen tu MVP.
+Llevo unas semanas leyendo el libro [Inspired](http://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408), el cual recomiendo en especial a los responsables de proyectos de software.
+
+En este blog ya hemos hablado varias veces de la metodología de desarrollo de nuevos productos de software denominada [MVP (Mínimo producto viable)](/2012/01/05/como-hacer-un-programa/). El mínimo producto viable es una gran metodología que se trata en [Inspired](http://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408). Según este libro, lo más importante es conseguir **usuarios reales** que validen tu MVP.
 
 ## 1. Seis usuarios contentos
 

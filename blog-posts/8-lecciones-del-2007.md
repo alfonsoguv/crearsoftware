@@ -10,26 +10,50 @@ author: "Alfonso Gutiérrez"
 commentCount: 1
 wordCount: 409
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2008/01/661266555.jpg"
 ---
 
-**El video funciona:** texto, gráficos, audio, todos ellos tienen sitio en internet. Pero el video es un animal diferente. Nada expresa las cosas como un video, la gente se sienta abre sus sentidos y empieza a recibir. Desde mi punto de vista es una manera "pasiva" de recibir información. No hay que realizar ningún tipo de esfuerzo. Sólo hay un problema, la indexación. El contenido interno de un video no se puede indexar en internet. Todo llegará y cuando llegue revolucionará la red.
+![8 lecciones del 2007](/wp-content/uploads/2008/01/661266555.jpg)
 
-**Lo simple es mejor:** Las cosas cuanto más claras y sencillas, mejor para todos. Vivimos en un mundo que nos envía miles de mensajes; por la calle, en casa, en el trabajo,... si queremos que algo nos cale debe ser simple y claro.
+Cerrar un año es una buena ocasión para mirar atrás y quedarse con lo aprendido. Estas son las **8 lecciones** que me llevo de 2007.
 
-**Lo importante son las ideas:** los gráficos, la música,... nunca podrán sustituir una buena idea. Hay que tener ideas geniales y saber hacer un diseño adecuado.
+## 1. El vídeo funciona
 
-- Mala idea + Mal diseño = vete pa casa
-- Mala idea + Buen diseño = una mala experiencia bonita
-- Buena idea + Mal diseño = una buena experiencia pasada de moda
-- Buena idea + Buen diseño = APPLE (triunfo seguro)
+Texto, gráficos, audio… todos ellos tienen su sitio en internet. Pero el vídeo es un animal diferente. Nada expresa las cosas como un vídeo: la gente se sienta, abre sus sentidos y empieza a recibir.
 
-**Céntrate en la creatividad:** Deja la improvisación a los genios, si quieres hacer grandes trabajos, céntrate y dale vueltas. Cuando maduras las ideas puedes llegar a ser creativo. Invierte tiempo en las cosas realmente importantes.
+Desde mi punto de vista, es una manera **"pasiva"** de recibir información: no hay que realizar ningún tipo de esfuerzo. Sólo hay un problema, la indexación. El contenido interno de un vídeo no se puede indexar en internet. Pero todo llegará, y cuando llegue revolucionará la red.
 
-**Lo importante es que te sientan:** Lo contrario de el amor no es el odio, es la indiferencia. Me pasó con el video de felicitación de navidad, fue el post más friki y más raro que había realizado desde que empecé el blog. Pues bien fue el más visto, el más criticado y más admirado. Es increíble como hay gente que le gustó mucho y a otros no les gustó nada. Al final la indiferencia es lo peor que existe.
+## 2. Lo simple es mejor
 
-**Saca al niño que tienes dentro:** Vivimos en un mundo de apariencias y formalismos. Todos necesitamos desafiar lo convencional, lo que se espera. Recuerda no tomarte demasiado en serio. Reírse de uno mismo es la mejor terapia.
+Las cosas, cuanto más claras y sencillas, mejor para todos. Vivimos en un mundo que nos envía miles de mensajes: por la calle, en casa, en el trabajo… Si queremos que algo nos cale, debe ser simple y claro.
 
-**No reinventes el mundo:** Tienes internet como herramienta, no intentes solucionar todos los problemas que se pongan delante, existen un mundo de soluciones delante de ti. Sólo tienes que buscarlas, mucha gente ya tuvo el mismo problema antes que tú.
+## 3. Lo importante son las ideas
 
-**Lo pequeño es bonito:** Si tu empresa es pequeña, no olvides que todas las grandes algún día fueron pequeñas. Sueña y no te dejes intimidar.
+Los gráficos, la música… nunca podrán sustituir una buena idea. Hay que tener ideas geniales y saber acompañarlas de un diseño adecuado.
+
+- **Mala idea + mal diseño** = vete pa casa
+- **Mala idea + buen diseño** = una mala experiencia bonita
+- **Buena idea + mal diseño** = una buena experiencia pasada de moda
+- **Buena idea + buen diseño** = APPLE (triunfo seguro)
+
+## 4. Céntrate en la creatividad
+
+Deja la improvisación a los genios. Si quieres hacer grandes trabajos, céntrate y dale vueltas. Cuando maduras las ideas, puedes llegar a ser creativo. Invierte tiempo en las cosas realmente importantes.
+
+## 5. Lo importante es que te sientan
+
+> Lo contrario del amor no es el odio, es la indiferencia.
+
+Me pasó con el vídeo de felicitación de Navidad: fue el post más friki y más raro que había realizado desde que empecé el blog. Pues bien, fue el más visto, el más criticado y el más admirado. Es increíble cómo a unos les gustó mucho y a otros no les gustó nada. Al final, la indiferencia es lo peor que existe.
+
+## 6. Saca al niño que tienes dentro
+
+Vivimos en un mundo de apariencias y formalismos. Todos necesitamos desafiar lo convencional, lo que se espera de nosotros. Recuerda no tomarte demasiado en serio: reírse de uno mismo es la mejor terapia.
+
+## 7. No reinventes el mundo
+
+Tienes internet como herramienta. No intentes solucionar todos los problemas que se te pongan delante: existe un mundo de soluciones delante de ti. Sólo tienes que buscarlas, porque mucha gente ya tuvo el mismo problema antes que tú.
+
+## 8. Lo pequeño es bonito
+
+Si tu empresa es pequeña, no olvides que todas las grandes algún día fueron pequeñas. Sueña y no te dejes intimidar.

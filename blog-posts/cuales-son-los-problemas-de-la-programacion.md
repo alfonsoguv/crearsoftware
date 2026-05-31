@@ -10,14 +10,16 @@ author: "Alfonso Gutiérrez"
 commentCount: 14
 wordCount: 1014
 readingTime: 6
-image: ""
+image: "/wp-content/uploads/2007/09/645631533.jpg"
 ---
+
+![Problemas de la programación](/wp-content/uploads/2007/09/645631533.jpg)
 
 Llevo varios días con este fabuloso [post en mi](http://www.versioncero.com/articulo/563/10-problemas-abiertos-en-informatica-practica) escritorio. Quería escribir sobre él, porque me parece que nos viene como anillo al dedo. Se tratan los que considera Sergio Montero los 10 problemas de la informática práctica, sobre todo referente al desarrollo de software. Voy a copiar literalmente lo que expone nuestro amigo y comentaré debajo mis opiniones.
 
 ## Problema 1: Programación colaborativa distribuida
 
-*El nóbel de la informática práctica se lo llevará quien invente una metodología sólida para desarrollar código igual que funcionan las redes P2P, dividiendo el trabajo en tareas de no más de 1 hora que puedan ser ejecutadas redundantemente por varios programadores geográficamente dispersos. Por ahora disponemos de herramienta de recogida de requisitos, diseño UML, control de versiones, testeo, bug trackers, etc. Pero los mejores programas (y casi los únicos que funcionan bien) siguen siendo desarrollados por un grupo muy reducido y cohesionado de programadores. No existe un genuino "divide y vencerás" aplicado a la producción de código. A más programadores implicados, menor productividad por programador y menor predictibilidad del resultado final del proyecto.*
+*El Nobel de la informática práctica se lo llevará quien invente una metodología sólida para desarrollar código igual que funcionan las redes P2P, dividiendo el trabajo en tareas de no más de 1 hora que puedan ser ejecutadas redundantemente por varios programadores geográficamente dispersos. Por ahora disponemos de herramienta de recogida de requisitos, diseño UML, control de versiones, testeo, bug trackers, etc. Pero los mejores programas (y casi los únicos que funcionan bien) siguen siendo desarrollados por un grupo muy reducido y cohesionado de programadores. No existe un genuino "divide y vencerás" aplicado a la producción de código. A más programadores implicados, menor productividad por programador y menor predictibilidad del resultado final del proyecto.*
 
 CLARO, absolutamente de acuerdo, hace falta una plataforma con BBDD, que integre todo, que además te permita montar una "red de servidores", de donde se puedan heredar y modificar un conjunto de "cajas" de datos y de "cajas" de objetos. Algo rápido, transparente y que integre todo en una sola plataforma. Un plataforma que te permita conectarte a un "servidor" y heredar de ahí toda la programación. Que también te permita que varios programadores puedan modificar diferentes partes a la vez en remoto desde sus casas, para poder tener un desarrollo realmente en "comunidad".
 
@@ -33,19 +35,19 @@ De nuevo los que consigan realizar una plataforma para realizar aplicaciones en 
 
 ## Problema 3: La temporalidad en el modelo relacional
 
-*¿Porqué nadie ha implementado aún un modelo relacional extendido que incluya manejo de la temporalidad? Para poder expresar con naturalidad cosas como que un empleado perteneció a un departamento dado entre tal y cual fecha, por ejemplo. Los históricos y los solapamientos de fechas hay que manejarlos a mano en la base de datos. Lo cual resulta muy engorroso.*
+*¿Por qué nadie ha implementado aún un modelo relacional extendido que incluya manejo de la temporalidad? Para poder expresar con naturalidad cosas como que un empleado perteneció a un departamento dado entre tal y cual fecha, por ejemplo. Los históricos y los solapamientos de fechas hay que manejarlos a mano en la base de datos. Lo cual resulta muy engorroso.*
 
 Parece que nuestro amigo Sergio Montoro Ten, me lee el pensamiento, llevo tiempo preparando un artículo basado en algo que leí en [Slashdot](http://slashdot.org/), que habla de la muerte del modelo relacional, llevamos más de 25 años basando todo el desarrollo de software en el Modelo Relacional, nadie inventa un nuevo modelo, con nuevos punteros que solucione los problemas que tiene el desarrollador. Bueno lo único innovador que he visto es lo de un tal [Velneo](http://www.velneo.es), pero aún se puede dar una vuelta más, que realmente revolucionaría si a ese modelo se le suma, herencia, instancias y distribución del código. No obstante escribiré otro post solo sobre estos aspectos.
 
 ## Problema 4: La multimoneda
 
-*¿Porqué no existe un tipo moneda que funcione bien en las bases de datos? Me refiero a uno que te permita sumar 3 euros con 5 dólares y te dé el resultado correcto en función de un tipo de cambio dado externamente.*
+*¿Por qué no existe un tipo de moneda que funcione bien en las bases de datos? Me refiero a uno que te permita sumar 3 euros con 5 dólares y te dé el resultado correcto en función de un tipo de cambio dado externamente.*
 
 Ok. Pero y los campos fórmula en memoria a nivel de tabla, ¿serán una solución? Pues [Velneo](http://www.velneo.es) también los tiene.
 
 ## Problema 5: Integridad referencial en los borrados
 
-*¿Cómo borrar algo de una base de datos si infringir las reglas de integridad referencial? En realidad, la solución es simple, nunca borrar nada, sino en cambio dar bajas lógicas. Pero entonces ¿porqué no tenemos un procedimiento predefinido para las bajas lógicas?*
+*¿Cómo borrar algo de una base de datos sin infringir las reglas de integridad referencial? En realidad, la solución es simple, nunca borrar nada, sino en cambio dar bajas lógicas. Pero entonces ¿porqué no tenemos un procedimiento predefinido para las bajas lógicas?*
 
 Sin palabras... ¿los históricos? [El resto del artículo está muy chulo](http://www.versioncero.com/articulo/563/10-problemas-abiertos-en-informatica-practica) y sigue exponiendo problemas que están solucionados en la actual versión de [Velneo.](http://www.velneo.es)
 

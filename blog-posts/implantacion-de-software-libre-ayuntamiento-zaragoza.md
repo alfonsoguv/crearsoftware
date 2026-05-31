@@ -10,7 +10,7 @@ readingTime: 3
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 447
-image: ""
+image: "/wp-content/uploads/2007/04/ricardo-cavero.jpg"
 ---
 
 En la conferencia de Linux World acaba de acabar su presentación,Ricardo Cavero, Concejal de Ciencia y Tecnología del Ayuntamiento de Zaragoza.Su exposición fue muy interesante y se resume en lineas generales: ¿Por qué migra Zaragoza a Software Libre?
@@ -23,7 +23,11 @@ En la conferencia de Linux World acaba de acabar su presentación,Ricardo Cavero
 
 • Opción politica, independencia Tecnológica. La administración tiene el “deber” de impulsar el software libre porque existe una dependencia de una empresa Americana, que no puede seguir ocurriendo en Europa. Llevamos mucho tiempo cautivos. El peso del monopolio arrasa y la administración pública no lo puede permitir.
 
-• Desarrollo económico local. <!-- Imagen: Ricardo Cavero --> Se van a Migrar 2500 escritorios a Novell SuSE Desktop + Open Office. La resistencia al cambio está presente el todo el proceso. La dependencia de Access es algo critico en el ayuntamiento. 1200-1500 MDB en el ayuntamiento, uno de los grandes problemas de la migración, otro gran problema es la normalización de documentos.
+• Desarrollo económico local.
+
+![Ricardo Cavero](/wp-content/uploads/2007/04/ricardo-cavero.jpg)
+
+Se van a Migrar 2500 escritorios a Novell SuSE Desktop + Open Office. La resistencia al cambio está presente el todo el proceso. La dependencia de Access es algo critico en el ayuntamiento. 1200-1500 MDB en el ayuntamiento, uno de los grandes problemas de la migración, otro gran problema es la normalización de documentos.
 
 Fases de la migración: 1. Plan Comunicación 2. Formación 3. Migración (Open Office) 4. Migración (Linux) 5. Consolidación Access. La parte más crítica es la parte de ofimática y Access. Se hace muy énfasis en la importancia/dependencia del access existente en el ayuntamiento. Gran cantidad de bases de datos locales de usuario.
 

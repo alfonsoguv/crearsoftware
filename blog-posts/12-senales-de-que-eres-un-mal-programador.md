@@ -1,17 +1,19 @@
 ---
 title: "12 señales de que eres un mal programador"
 slug: "12-senales-de-que-eres-un-mal-programador"
-date: "2007-11-28"
+date: "2007-11-29"
 oldUrl: "/2007/11/29/12-senales-de-que-eres-un-mal-programador/"
-description: "Las 12 señales que indican malas prácticas de programación: desde el fanatismo por un lenguaje hasta ignorar la gestión de errores."
+description: "12 señales que delatan malas prácticas de programación: del fanatismo por un lenguaje a confundir registrar errores con gestionarlos."
 category: "desarrollo-software"
 tags: ["programación", "buenas prácticas", "desarrollo de software", "código", "errores"]
 author: "Alfonso Gutiérrez"
 commentCount: 7
 wordCount: 920
 readingTime: 5
-image: ""
+image: "/wp-content/uploads/2007/11/212162124.jpg"
 ---
+
+![12 señales de que eres un mal programador](/wp-content/uploads/2007/11/212162124.jpg)
 
 Traducido del mensaje original [en Digg](http://digg.com/programming/12_Signs_You_re_a_Crappy_Programmer_and_don_t_know_it "12 señales de que eres un mal programador").
 

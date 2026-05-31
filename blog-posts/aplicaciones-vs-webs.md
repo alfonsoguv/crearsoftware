@@ -10,10 +10,12 @@ author: "Alfonso Gutiérrez"
 commentCount: 11
 wordCount: 311
 readingTime: 2
-image: ""
+image: "/wp-content/uploads/2012/07/googleapp.png"
 ---
 
-***Si sólo tienes un martillo todo te parece un clavo.***
+![Interfaz de la app de Google+ para iPad](/wp-content/uploads/2012/07/googleapp.png)
+
+> ***Si sólo tienes un martillo, todo te parece un clavo.***
 
 Una **aplicación** es un tipo de [programa informático](http://es.wikipedia.org/wiki/Programa_inform%C3%A1tico "Programa informático") diseñado como herramienta para permitir a un usuario realizar uno o diversos tipos de trabajo.
 
@@ -27,4 +29,12 @@ Una **página web** es el nombre de un [documento](http://es.wikipedia.org/wiki/
 
 [Google](https://www.google.es/) ha sido el abanderado de **LA WEB Y HTML5 PARA TODO** y han dado un paso muy acertado que **contradice en cierta manera su dogma.** Acaban de sacar una [APP para IPAD](http://appleweblog.com/2012/07/google-ipad-disponible-app-store) de su producto estrella de futuro [Google+.](https://plus.google.com/) Para mi ya habían cedido en su empeño 100% web cuando tuvieron que sacar una [APP de Gmail](http://itunes.apple.com/us/app/gmail/id422689480?mt=8) para Ipad, visto que nadie usaba su interfaz web.
 
-La aplicación de Google+ está trabajada y tiene un enfoque 100% aplicación consiguiendo una experiencia totalmente diferente a Google+ en Navegador Web. Una imagen vale más que mil palabras: dispositivos distintos, interfaces distintos.
+La aplicación de Google+ está trabajada y tiene un enfoque 100% aplicación, consiguiendo una experiencia totalmente diferente a Google+ en navegador web. Una imagen vale más que mil palabras:
+
+Aquí podemos ver el **interfaz de la app de Google para iPad**; se puede observar cómo no tiene nada que ver con la web de Google+: **dispositivos distintos, interfaces distintos.**
+
+[![Interfaz de la app de Google+ para iPad](/wp-content/uploads/2012/07/googleapp.png)](/wp-content/uploads/2012/07/googleapp.png)
+
+**Interfaz de Google+ en navegador web**
+
+[![Interfaz de Google+ en navegador web](/wp-content/uploads/2012/07/googleescritorio.png)](/wp-content/uploads/2012/07/googleescritorio.png)

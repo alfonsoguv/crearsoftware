@@ -10,8 +10,10 @@ author: "Alfonso Gutiérrez"
 commentCount: 1
 wordCount: 638
 readingTime: 4
-image: ""
+image: "/wp-content/uploads/2007/04/software-libre.png"
 ---
+
+![Software libre](/wp-content/uploads/2007/04/software-libre.png)
 
 Aprovechando que aún me quedan 4 horas de espera en el aeropuerto antes de regreso a casa voy a exponer las conclusiones finales sobre el Evento Linux World Summit.
 

@@ -1,5 +1,5 @@
 ---
-title: "Percepción y Cultura: Cómo la Cultura Moldea Nuestro Pensamiento"
+title: "Influencia de la Cultura en la Percepción Humana"
 slug: "percepcion-y-cultura"
 date: "2009-02-14"
 oldUrl: "/2009/02/14/percepcion-y-cultura/"
@@ -10,8 +10,10 @@ readingTime: 5
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 886
-image: ""
+image: "/wp-content/uploads/2009/02/percepcion.jpg"
 ---
+
+![Percepción](/wp-content/uploads/2009/02/percepcion.jpg)
 
 ## Introducción
 

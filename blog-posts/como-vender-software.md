@@ -10,8 +10,10 @@ author: "Alfonso Gutiérrez"
 commentCount: 15
 wordCount: 347
 readingTime: 2
-image: ""
+image: "/wp-content/uploads/2016/05/junc3adn_equipo_club_junc3adn_1926_hj37.jpg"
 ---
+
+![Equipo de fútbol del Club Junín, 1926](/wp-content/uploads/2016/05/junc3adn_equipo_club_junc3adn_1926_hj37.jpg)
 
 **Un equipo sin delanteros no mete goles**
 

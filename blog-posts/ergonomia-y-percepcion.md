@@ -3,13 +3,59 @@ title: "Ergonomía y percepción"
 slug: "ergonomia-y-percepcion"
 date: "2009-02-14"
 oldUrl: "/2009/02/14/ergonomia-y-percepcion/"
-description: "Ergonomía es una palabra compuesta por dos partículas griegas: ergos y nomos las que significan - respectivamente - actividad y normas o leyes..."
+description: "Ergonomía: las normas que regulan la actividad humana. Cómo la secuencia percepción-decisión-acción varía según el contexto social y nuestras experiencias."
 category: "productividad-herramientas"
 tags: ["software","apple","programación"]
 readingTime: 3
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 594
-image: ""
+image: "/wp-content/uploads/2009/02/kiwi.jpg"
 ---
-Ergonomía es una palabra compuesta por dos partículas griegas: ergos y nomos las que significan - respectivamente - actividad y normas o leyes naturales. Una traducción literal sería la de las normas que regulan la actividad humana. ([http://es.wikipedia.org/wiki/Ergonom%C3%ADa](http://es.wikipedia.org/wiki/Ergonom%C3%ADa)) Me gustaría llamar la atención sobre los dos aspectos, el físico y el psicológico, que son importantes diferenciar en la relación del ser humano y el sistema donde trabaja, y que dan pié a distinguir dos subdisciplinas dentro de la Ergonomía; la Física y la Cognitiva. Los ergonomistas tratan temas tales como el proceso de recepción de señales e información, la habilidad para procesarla y actuar con base en la información obtenida, conocimientos y experiencia previa. Para poder realizar su tarea una persona tiene que percibir los estímulos del ambiente, recibir información de otras personas, decidir qué acciones son las apropiadas, llevar a cabo estas acciones, transmitir información a otras personas para que puedan realizar sus tareas, etc. (basado Cañas y Waern, 2001). Hay una gran cantidad de información en la red sobre el concepto ergonomía, mi reflexión está basada en la lectura de los diferentes artículos de las siguientes Webs: [http://www.ergonautas.upv.es](http://www.ergonautas.upv.es)/ [http://training.itcilo.it/actrav\_cdrom2/es/osh/ergo/ergonomi.htm](http://training.itcilo.it/actrav_cdrom2/es/osh/ergo/ergonomi.htm) [http://www.iea.cc/](http://www.iea.cc/) [http://www.iea.cc/browse.php?contID=what\_is\_ergonomics](http://www.iea.cc/browse.php?contID=what_is_ergonomics) [http://www.ergonomics.org.uk/](http://www.ergonomics.org.uk/) [http://www.ergonomia.cl](http://www.ergonomia.cl) [http://www.ugr.es/~ergocogn/theoretical.htm](http://www.ugr.es/~ergocogn/theoretical.htm) El modelo de ergonomía cognitivo tradicional considerará la conducta humana como el resultado de la secuencia **percepción-decisión-acción**, ya que el procesamiento de la información humana es esencialmente reactivo. De esta manera, se considerará que una determinada conducta es correcta o errónea dependiendo del resultado del funcionamiento de esta secuencia. Sin embargo, en una situación real, la conducta puede ser correcta o errónea dependiendo del contexto donde ocurra. En este punto podemos observar que en la secuencia **percepción-decisión-acción**, variará totalmente dependiendo del contexto social en el que nos encontremos. La influencia social, hace que la percepción que tenemos de un determinado objeto, varíe en función de las relaciones del sujeto con los demás y con el conjunto de reglas que regulan estas relaciones. Por tanto la percepción no depende exclusivamente de los mecanismos perceptivos, sino que en muchos casos depende de las experiencias pretéritas, de nuestro interés, de nuestro deseo, de la influencia social, etc. Desde el punto de vista objetivo, la percepción está ligada al tiempo, al espacio, la calidad, influencia social, escala de valores,... El origen de nuestro conocimiento se encuentra en la captación de la información en el mundo real, es decir la percepción. La percepción varía en función de nuestro contexto social, y con ello varía la secuencia percepción-decisión-acción. La ergonomía tiene que tener en cuenta al contexto social como una base para sus estudios y desarrollos de la relación con nuestro entorno. Las mismas secuencias ergonómicas de percepción-decisión-acción, variarán notablemente dependiendo de ¿dónde estemos? Y de cuales hayan sido nuestras experiencias pretéritas, por tanto a la hora de realizar un estudio ergonómico cognitivo podemos obtener el resultado que dos personas que reciben el mismo estímulo, toman decisiones y acciones muy diferentes. En algunos casos tenemos reacciones universales, como demuestran los estudios del profesor Dan Ariely en el libro Las Leyes del Deseo, en el que demuestra entre otras cosas, [por qué todo es relativo](/2008/10/05/%c2%bfpor-que-todo-es-relativo/), que la percepción de una cara que expresa felicidad, tristeza, es igual para la gran mayoría de los humanos independientemente de su contexto social. Ya que en todas las culturas la expresión del sentimiento de felicidad es expresada/recibida de una manera muy similar en todos los contextos. Sin embargo no es así para todas las percepciones y culturas. Por ejemplo en nuestra cultura la escala musical tiene ocho tonos, mientras no es así en todas las culturas.
+![kiwi](/wp-content/uploads/2009/02/kiwi.jpg)
+
+Ergonomía es una palabra compuesta por dos partículas griegas: *ergos* y *nomos*, las que significan —respectivamente— actividad y normas o leyes naturales. Una traducción literal sería la de **las normas que regulan la actividad humana** ([http://es.wikipedia.org/wiki/Ergonom%C3%ADa](http://es.wikipedia.org/wiki/Ergonom%C3%ADa)).
+
+Me gustaría llamar la atención sobre los dos aspectos, el físico y el psicológico, que es importante diferenciar en la relación del ser humano y el sistema donde trabaja, y que dan pie a distinguir dos subdisciplinas dentro de la Ergonomía: la Física y la Cognitiva.
+
+## La tarea de los ergonomistas
+
+Los ergonomistas tratan temas tales como el proceso de recepción de señales e información, la habilidad para procesarla y actuar con base en la información obtenida, conocimientos y experiencia previa. Para poder realizar su tarea, una persona tiene que:
+
+- percibir los estímulos del ambiente;
+- recibir información de otras personas;
+- decidir qué acciones son las apropiadas;
+- llevar a cabo estas acciones;
+- transmitir información a otras personas para que puedan realizar sus tareas, etc.
+
+(basado en Cañas y Waern, 2001).
+
+Hay una gran cantidad de información en la red sobre el concepto ergonomía. Mi reflexión está basada en la lectura de los diferentes artículos de las siguientes webs:
+
+- [http://www.ergonautas.upv.es](http://www.ergonautas.upv.es)/
+- [http://training.itcilo.it/actrav\_cdrom2/es/osh/ergo/ergonomi.htm](http://training.itcilo.it/actrav_cdrom2/es/osh/ergo/ergonomi.htm)
+- [http://www.iea.cc/](http://www.iea.cc/)
+- [http://www.iea.cc/browse.php?contID=what\_is\_ergonomics](http://www.iea.cc/browse.php?contID=what_is_ergonomics)
+- [http://www.ergonomics.org.uk/](http://www.ergonomics.org.uk/)
+- [http://www.ergonomia.cl](http://www.ergonomia.cl)
+- [http://www.ugr.es/~ergocogn/theoretical.htm](http://www.ugr.es/~ergocogn/theoretical.htm)
+
+## La secuencia percepción-decisión-acción
+
+El modelo de ergonomía cognitivo tradicional considerará la conducta humana como el resultado de la secuencia **percepción-decisión-acción**, ya que el procesamiento de la información humana es esencialmente reactivo.
+
+De esta manera, se considerará que una determinada conducta es correcta o errónea dependiendo del resultado del funcionamiento de esta secuencia. Sin embargo, en una situación real, la conducta puede ser correcta o errónea dependiendo del contexto donde ocurra. En este punto podemos observar que la secuencia **percepción-decisión-acción** variará totalmente dependiendo del contexto social en el que nos encontremos.
+
+La influencia social hace que la percepción que tenemos de un determinado objeto varíe en función de las relaciones del sujeto con los demás y con el conjunto de reglas que regulan estas relaciones.
+
+Por tanto, la percepción no depende exclusivamente de los mecanismos perceptivos, sino que en muchos casos depende de las experiencias pretéritas, de nuestro interés, de nuestro deseo, de la influencia social, etc. Desde el punto de vista objetivo, la percepción está ligada al tiempo, al espacio, la calidad, la influencia social, la escala de valores...
+
+## El contexto social como base del estudio ergonómico
+
+El origen de nuestro conocimiento se encuentra en la captación de la información en el mundo real, es decir, la percepción. La percepción varía en función de nuestro contexto social, y con ello varía la secuencia percepción-decisión-acción. La ergonomía tiene que tener en cuenta el contexto social como una base para sus estudios y desarrollos de la relación con nuestro entorno.
+
+Las mismas secuencias ergonómicas de percepción-decisión-acción variarán notablemente dependiendo de ¿dónde estemos? Y de cuáles hayan sido nuestras experiencias pretéritas. Por tanto, a la hora de realizar un estudio ergonómico cognitivo podemos obtener el resultado de que dos personas que reciben el mismo estímulo toman decisiones y acciones muy diferentes.
+
+En algunos casos tenemos reacciones universales, como demuestran los estudios del profesor Dan Ariely en el libro *Las Leyes del Deseo*, en el que demuestra, entre otras cosas, [por qué todo es relativo](/2008/10/05/%c2%bfpor-que-todo-es-relativo/), que la percepción de una cara que expresa felicidad o tristeza es igual para la gran mayoría de los humanos independientemente de su contexto social. Ya que en todas las culturas la expresión del sentimiento de felicidad es expresada/recibida de una manera muy similar en todos los contextos.
+
+Sin embargo, no es así para todas las percepciones y culturas. Por ejemplo, en nuestra cultura la escala musical tiene ocho tonos, mientras que no es así en todas las culturas.

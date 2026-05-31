@@ -14,6 +14,6 @@ noindex: true
 image: ""
 ---
 
-Interesante el articulo que lei hace poco en El País. En el podeis ver como las empresas Españolas están cogiendo un gran número de concesiones en Irlanda. Es curioso, ellos arrasan en TIC y nosotros en infraestructuras.
+Interesante el articulo que lei hace poco en [El País](/wp-content/uploads/2007/04/el_pais1.jpg). En el podeis ver como las empresas Españolas están cogiendo un gran número de concesiones en Irlanda. Es curioso, ellos arrasan en TIC y nosotros en infraestructuras.
 
-Este artículo demuestra la teoría que comenté en otros post sobre las deficiencias en infraestructuras en Irlanda. De momento la empresa española se beneficia. Aqui dejo los dos links al artículo: El pais I El pais II
+Este artículo demuestra la teoría que comenté en otros post sobre las deficiencias en infraestructuras en Irlanda. De momento la empresa española se beneficia. Aqui dejo los dos links al artículo: [El pais I](/wp-content/uploads/2007/04/el_pais1.jpg) · [El pais II](/wp-content/uploads/2007/04/el_pais2.jpg)

@@ -11,6 +11,8 @@ author: "Alfonso Gutiérrez"
 commentCount: 2
 wordCount: 57
 noindex: true
-image: ""
+image: "/wp-content/uploads/2007/03/gastos-id-total.png"
 ---
-<!-- Imagen: Gasto total en i+d por habitante en España --> En la gráfica de la arriba vemos el gasto total en I+D por habitante en 1993,1998 y 2003, en España y los cuatro grandes países Europeos. Este gráfico pone en evidencia que en España, en 2003, el gastos en I+D por habitante representa solamente un 42% del gasto medio por habitante en Alemania, Francia y Reino Unido.
+![Gasto total en i+d por habitante en España](/wp-content/uploads/2007/03/gastos-id-total.png)
+
+En la gráfica de la arriba vemos el gasto total en I+D por habitante en 1993,1998 y 2003, en España y los cuatro grandes países Europeos. Este gráfico pone en evidencia que en España, en 2003, el gastos en I+D por habitante representa solamente un 42% del gasto medio por habitante en Alemania, Francia y Reino Unido.

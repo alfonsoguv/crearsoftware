@@ -10,7 +10,7 @@ readingTime: 4
 author: "Alfonso Gutiérrez"
 commentCount: 13
 wordCount: 672
-image: ""
+image: "/wp-content/uploads/2007/05/vinyl_music_pillow_262818_l.jpg"
 ---
 
 **Esta es la entrevista que leí esta mañana en** [Baquia:](/wp-content/uploads/2007/05/baquiapdf-200705.pdf "Baquia") \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ *Pedro Farré, abogado y Director de Relaciones Corporativas de la Sociedad General de Autores (SGAE), contesta algunas preguntas sobre temas de actualidad en Baquía.*
@@ -35,4 +35,6 @@ O google? O Microsoft Word? O Windows???? Y los modelos de negocio pues muchos: 
 
 La publicidad parece ser la base para poder ganar dinero con el nuevo modelo económico, así Google esta creciendo lo que está creciendo, pero los modelos de suscripción , servicios , etc.. aún están por explorar. La gente no quiere pagar por la copia pero **si** **por un sinfín de servicios nuevos, nunca gastamos menos, simplemente cambiamos nuestras inversiones.....** **...y eso si que lo elegimos los usuarios y no las multinacionales....**.
 
-**...porque sabemos lo que queremos y no queremos pagar.....** <!-- Imagen: musica -->
+**...porque sabemos lo que queremos y no queremos pagar.....**
+
+![musica](/wp-content/uploads/2007/05/vinyl_music_pillow_262818_l.jpg)

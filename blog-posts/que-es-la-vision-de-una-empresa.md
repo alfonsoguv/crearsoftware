@@ -10,12 +10,12 @@ readingTime: 3
 author: "Alfonso Gutiérrez"
 commentCount: 7
 wordCount: 448
-image: ""
+image: "/wp-content/uploads/2007/04/subscribe2.png"
 ---
 
-Define lo que la organización quiere lograr en el futuro, es lo que aspira a ser. El propósito de la visión es guiar, controlar y alentar a la organización en su conjunto para alcanzar el estado deseable de la organización. .
+Define lo que la organización quiere lograr en el futuro, es lo que aspira a ser. El propósito de la visión es **guiar, controlar y alentar a la organización** en su conjunto para alcanzar el estado deseable de la organización.
 
-### **¿Qué debemos tener en cuenta para definir la visión de una empresa?**
+## ¿Qué debemos tener en cuenta para definir la visión de una empresa?
 
 -   Debe ser factible alcanzarla, no debe ser una fantasía.
 -   Qué queremos lograr.
@@ -33,13 +33,9 @@ Define lo que la organización quiere lograr en el futuro, es lo que aspira a se
 -   Lenguaje sencillo, gráfico y metafórico.
 -   Debemos comenzar por revisar las prioridades que establecimos para los valores y determinar cuáles necesitan ser tratados en la visión.
 
-## .
+## ¿A qué preguntas tiene que responder la visión de una empresa?
 
-### .
-
-### **¿A qué preguntas tiene que responder la visión de una empresa?**
-
--   .¿Qué es lo que yo veo como clave para el futuro de nuestra empresa?
+-   ¿Qué es lo que yo veo como clave para el futuro de nuestra empresa?
 -   ¿Qué contribución única debemos hacer en el futuro?
 -   ¿Qué me emocionaría acerca de ser parte de esta empresa en el futuro?
 -   ¿Qué valores necesitan ser acentuados?
@@ -53,10 +49,15 @@ Define lo que la organización quiere lograr en el futuro, es lo que aspira a se
 -   ¿Dónde queremos estar?
 -   ¿Qué queremos ser?
 -   ¿Cuáles son nuestros deseos o aspiraciones?
--   ¿Hacía donde nos dirigimos?
+-   ¿Hacia dónde nos dirigimos?
 
-. .
+## Ejemplos de visión de empresa
 
-### **Ejemplos de visión de empresa.**
+-   **KMPG**: Ser líderes en los mercados en los que participamos.
+-   **FORD**: Convertirnos en la compañía principal del mundo de productos y servicios para el automóvil.
+-   **Samsung**: “Liderar la revolución de la convergencia digital”.
+-   **Wal-Mart**: “Ser el más eficiente operador multiformato de bajo costo, ofreciendo a los clientes el mejor valor por su dinero”.
+-   **SUN**: La red es la computadora, nosotros vemos a todo el mundo participando en la red.
+-   **Yahoo**: Ser el proveedor esencial de internet para empresas y personas.
 
-**.** **KMPG**: Ser líderes en los mercados en los que participamos. **FORD:** Convertirnos en la compañía principal del mundo de productos y servicios para el automóvil. **Samsung**: “Liderar la revolución de la convergencia digital”. **Wal-Mart**: “Ser el más eficiente operador multiformato de bajo costo, ofreciendo a los clientes el mejor valor por su dinero”. **SUN:** La red es la computadora, nosotros vemos a todo el mundo participando en la red. **Yahoo:** Ser el proveedor esencial de internet para empresas y personas. . . .  . . .
+[![Subscribe](/wp-content/uploads/2007/04/subscribe2.png)](http://alfonsogu.us6.list-manage.com/subscribe?u=7410d8033a00025e6d9b5b945&id=84828e99e2)

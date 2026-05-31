@@ -596,7 +596,7 @@ console.log(`\nCrear Software - Build\n${'='.repeat(40)}`);
 function getPostUrl(post) {
   if (post.oldUrl) {
     // Ensure it starts with / and ends with /
-    let url = post.oldUrl;
+    let url = decodeURIComponent(post.oldUrl);
     if (!url.startsWith('/')) url = '/' + url;
     if (!url.endsWith('/')) url = url + '/';
     return url;

@@ -3,7 +3,7 @@ title: "¿Qué es un bot SDR y cómo puede ayudar a tus ventas?"
 slug: "que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas"
 date: "2024-12-28"
 oldUrl: "/2024/12/28/que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas/"
-description: "Qué es un bot SDR y cómo puede triplicar tus ventas: automatización de la cualificación de leads con inteligencia artificial. Guía con ejemplo práctico."
+description: "Qué es un bot SDR y cómo automatiza la cualificación de leads con inteligencia artificial para optimizar tu embudo de ventas. Con ejemplo práctico."
 category: "tecnologia-empresarial"
 tags: ["automatización", "ventas", "inteligencia artificial"]
 readingTime: 5
@@ -38,7 +38,7 @@ Esta **automatización comercial** no solo ahorra tiempo, sino que también au
 
 * * *
 
-## Ejemplo práctico: TechSolutions
+## Ejemplo práctico del uso de un bot SDR
 
 Imagina a “TechSolutions”, una empresa ficticia de software que recibe diariamente decenas de consultas a través de su formulario web y sus redes sociales. Antes de implementar un bot SDR, el equipo de ventas dedicaba varias horas a la semana a filtrar prospectos y determinar cuál era su nivel de interés real, retrasando la atención de oportunidades más avanzadas.
 

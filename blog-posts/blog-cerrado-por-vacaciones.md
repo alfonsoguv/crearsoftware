@@ -11,7 +11,9 @@ commentCount: 0
 wordCount: 0
 readingTime: 1
 noindex: true
-image: ""
+image: "/wp-content/uploads/2007/08/cerrado-por-vacaciones1.jpg"
 ---
+
+![Cerrado por vacaciones](/wp-content/uploads/2007/08/cerrado-por-vacaciones1.jpg)
 
 Blog cerrado por vacaciones.

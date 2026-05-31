@@ -3,14 +3,14 @@ title: "5 ideas para vender Software por Internet"
 slug: "5-ideas-para-vender-software-por-internet"
 date: "2013-04-17"
 oldUrl: "/2013/04/17/5-ideas-para-vender-software-por-internet/"
-description: "5 ideas prácticas para vender software por internet: desde contratar comerciales hasta generar leads y usar email marketing."
+description: "5 ideas prácticas para vender software por internet: desde contratar buenos comerciales hasta generar leads y usar el email."
 category: "desarrollo-software"
 tags: ["vender software", "marketing digital", "leads", "comercial", "ventas online"]
 author: "Alfonso Gutiérrez"
 commentCount: 27
 wordCount: 555
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2007/04/subscribe2.png"
 ---
 
 **Si no tienes clientes, deja de programar**
@@ -38,3 +38,5 @@ La primera fase de una venta [es conseguir leads](/2013/03/14/crm-lead/), promoc
 Por este orden estos son los tres métodos más eficaces para vender software. Las visitas se tienen que usar para ventas de software superiores a 5.000 euros, para importes menores céntrate en teléfono y métodos on-line (skype, webcast), el email sigue siendo el mejor método para conseguir ventas con menor coste. Construir listas de correos de calidad te llevará años (a que esperas para empezar). Si no tienes un objetivo de llamadas o visitas mensuales no cumplirás objetivos.
 
 **Grandes desarrollos de software con una pobre estructura comercial cierran, desarrollos pobres con una buena estructura comercial sobreviven**. Si además de sobrevivir quieres crecer [entonces necesitas los pilares del crecimiento de una empresa de software.](/2013/04/04/crecimiento-de-una-empresa-de-software/)
+
+[![Subscribe](/wp-content/uploads/2007/04/subscribe2.png)](http://alfonsogu.us6.list-manage.com/subscribe?u=7410d8033a00025e6d9b5b945&id=84828e99e2)

@@ -10,8 +10,10 @@ author: "Alfonso Gutiérrez"
 commentCount: 1
 wordCount: 256
 readingTime: 2
-image: ""
+image: "/wp-content/uploads/2007/07/imagen_googleearth.jpeg"
 ---
+
+![cork](/wp-content/uploads/2007/07/imagen_googleearth.jpeg)
 
 Día intenso, desde las 5:45 en pie para llegar a [Cork,](http://es.wikipedia.org/wiki/Cork) bonita ciudad por cierto. El viaje fue como la seda, tuve que pasar por Madrid ya que desde Vigo no hay vuelo directo a esta ciudad irlandesa.
 

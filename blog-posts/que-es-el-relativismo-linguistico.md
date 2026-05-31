@@ -3,14 +3,44 @@ title: "¿Qué es el relativismo lingüístico?"
 slug: "¿que-es-el-relativismo-linguistico"
 date: "2009-02-14"
 oldUrl: "/2009/02/14/%c2%bfque-es-el-relativismo-linguistico/"
-description: "El relativismo lingüístico: cómo el lenguaje influye en nuestro pensamiento y visión del mundo. Aplicaciones en comunicación y gestión empresarial."
+description: "El relativismo lingüístico sostiene que el lenguaje moldea el pensamiento y la visión del mundo. Repaso a sus autores y por qué no comparto su determinismo."
 category: "productividad-herramientas"
 tags: ["comunicación", "psicología", "cultura"]
 readingTime: 3
 author: "Alfonso Gutiérrez"
 commentCount: 1
 wordCount: 491
-image: ""
+image: "/wp-content/uploads/2009/02/puente.jpg"
 ---
 
-El relativismo lingüístico defiende la importancia del lenguaje sobre nuestro pensamiento y la visión del mundo que tenemos. Según la tendencia y el autor nos encontramos con unos principios que van desde un relativismo lingüístico hasta un determinismo al asegurar que la lengua no es un mero instrumento para la comunicación de las ideas sino que en si mismo las forma y actúa de programa y guía de la actividad mental del individuo, del análisis de sus impresiones y de la síntesis de los registros de su mente, determinando el pensamiento. Existen variaciones según los autores, para Herder el lenguaje no sólo era el instrumento  del pensamiento, sino que también era su tesorería y su forma. No sólo pensamos en una lengua, sino que lo hacemos por medio de ésta, el lenguaje forma el pensamiento y en cierto sentido, lo limita; **Wilhelm von Humboldt** sustituye el concepto de comunidad lingüística por el de nación y el de forma del pensamiento de una comunidad por el de espíritu de la nación. El lenguaje crea la nación y, además, determina el comportamiento de cada uno de sus miembros. Sapir, incorpora la teoría de que el lenguaje es un producto social que, de una manera o de otra, refleja o generaliza los intercambios que una comunidad  lingüística determina hace con la naturaleza Por último [**Benjamín Lee Whorf**](http://en.wikipedia.org/wiki/Benjamin_Whorf) un curioso investigador que realizó muchas investigaciones sobre el lenguaje y su influencia, afirmó tras sus múltiples experimentos que el sistema del lenguaje influye directamente en la manera de percibir y experimentar la realidad, y también en el comportamiento de las personas. Encuentro muchas limitaciones o errores en estos principios. Para mi el lenguaje es una herramienta más pero no tiene un peso tan definitivo en nuestro comportamiento como indican las teorías del relativismo lingüístico. Según estas teorías  ***¿Todos los países que hablan la misma lengua se parecen?***. El lenguaje tiene un papel más en la definición de una cultura, pero no el único. Existen países o naciones (como decía Humboldt)  que tienen la misma lengua pero que sus culturas no se parecen en nada. Por el contrario existen otros países con lenguajes diferentes pero con comportamientos y percepciones de la realidad parecidos. No puedo estar de acuerdo por tanto con que el lenguaje tenga un papel tan determinante en nosotros. ***¿Como explican estas teorías el comportamiento de los sordomudos?*** Existen más sentidos que el oído. Hoy día vemos una imagen y nos puede transmitir emociones sin que por ello tenga que influir el lenguaje. El lenguaje es una manera de traducir emociones para entendernos. Pero lo que sentimos está muy por encima de la palabras que lo expresan. ***Las palabras son limitadas y las ideas no***. *¿Nunca te ha pasado que no encuentras las palabras para expresar una idea o un sentimiento?.* Existen ideas y sentimientos que sobrepasan nuestro léxico. Por lo tanto el lenguaje me influye pero no determina lo que yo soy.
+![puente](/wp-content/uploads/2009/02/puente.jpg)
+
+El relativismo lingüístico defiende la importancia del lenguaje sobre nuestro pensamiento y la visión del mundo que tenemos.
+
+Según la tendencia y el autor, nos encontramos con unos principios que van desde un relativismo lingüístico hasta un determinismo, al asegurar que la lengua no es un mero instrumento para la comunicación de las ideas, sino que en sí misma las forma y actúa de programa y guía de la actividad mental del individuo, del análisis de sus impresiones y de la síntesis de los registros de su mente, determinando el pensamiento.
+
+## Los autores y sus matices
+
+Existen variaciones según los autores. Para **Herder**, el lenguaje no sólo era el instrumento del pensamiento, sino que también era su tesorería y su forma. No sólo pensamos en una lengua, sino que lo hacemos por medio de ésta: el lenguaje forma el pensamiento y, en cierto sentido, lo limita.
+
+**Wilhelm von Humboldt** sustituye el concepto de comunidad lingüística por el de nación, y el de forma del pensamiento de una comunidad por el de espíritu de la nación. El lenguaje crea la nación y, además, determina el comportamiento de cada uno de sus miembros.
+
+**Sapir** incorpora la teoría de que el lenguaje es un producto social que, de una manera o de otra, refleja o generaliza los intercambios que una comunidad lingüística determina hace con la naturaleza.
+
+Por último, [**Benjamín Lee Whorf**](http://en.wikipedia.org/wiki/Benjamin_Whorf), un curioso investigador que realizó muchas investigaciones sobre el lenguaje y su influencia, afirmó tras sus múltiples experimentos que el sistema del lenguaje influye directamente en la manera de percibir y experimentar la realidad, y también en el comportamiento de las personas.
+
+## Mis objeciones
+
+Encuentro muchas limitaciones o errores en estos principios. Para mí, el lenguaje es una herramienta más, pero no tiene un peso tan definitivo en nuestro comportamiento como indican las teorías del relativismo lingüístico.
+
+Según estas teorías:
+
+> ***¿Todos los países que hablan la misma lengua se parecen?***
+
+El lenguaje tiene un papel más en la definición de una cultura, pero no el único. Existen países o naciones (como decía Humboldt) que tienen la misma lengua, pero que sus culturas no se parecen en nada. Por el contrario, existen otros países con lenguajes diferentes pero con comportamientos y percepciones de la realidad parecidos. No puedo estar de acuerdo, por tanto, con que el lenguaje tenga un papel tan determinante en nosotros.
+
+> ***¿Cómo explican estas teorías el comportamiento de los sordomudos?***
+
+Existen más sentidos que el oído. Hoy día vemos una imagen y nos puede transmitir emociones sin que por ello tenga que influir el lenguaje. El lenguaje es una manera de traducir emociones para entendernos, pero lo que sentimos está muy por encima de las palabras que lo expresan.
+
+***Las palabras son limitadas y las ideas no.*** *¿Nunca te ha pasado que no encuentras las palabras para expresar una idea o un sentimiento?* Existen ideas y sentimientos que sobrepasan nuestro léxico. Por lo tanto, el lenguaje me influye, pero no determina lo que yo soy.

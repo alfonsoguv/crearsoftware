@@ -10,7 +10,7 @@ readingTime: 2
 author: "Alfonso Gutiérrez"
 commentCount: 6
 wordCount: 362
-image: ""
+image: "/wp-content/uploads/2007/05/resistencia_l.jpg"
 ---
 
 Ya comenté en [este artículo](/2007/03/25/velneo-%c2%bfmoda-o-tendencia/) que los usuarios, ciudadanos o individuos (como nos quieran llamar) tenemos muy claro lo que queremos, hoy día todavía hay informes [como este](http://blogs.baquia.com/zumodered/post/2007/05/17/software-original-ay-eso-es-) que se asustan de que en España el 50% del software es pirata, las grandes compañías deben adaptarse a los cambios que demandamos, con Internet tenemos más fuerza porque estamos más unidos y sabemos lo que queremos.
@@ -22,4 +22,4 @@ Ya comenté en [este artículo](/2007/03/25/velneo-%c2%bfmoda-o-tendencia/) que 
 -   **La gente no quiere pagar por** conexión a Intenet, ¿os acordais cuando nos cobraban por cada vez que nos conectábamos a Internet? . Muchos ISP murieron en la transformación del modelo, ahora protestamos porque queremos pagar menos por la tarifa plana.
 -   **La gente no quiere pagar por** usar software, primero el pirateo y ahora el movimiento de Software Libre están gritando a las grandes multinacionales que CAMBIEN EL MODELO DE NEGOCIO. Pero como siempre prefieren resistirse al cambio y morir lentamente.
 
-<!-- Imagen: resistencia -->
+![resistencia](/wp-content/uploads/2007/05/resistencia_l.jpg)

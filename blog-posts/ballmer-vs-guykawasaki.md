@@ -14,4 +14,8 @@ noindex: true
 image: ""
 ---
 
-¿Qué pasa cuando un evangelizador de Apple entrevista al presidente de Microsoft? Pues lo que puedes ver en la siguiente entrevista, es una entrevista muy divertida en la que los dos usan sus habilidades. ¿Qué pasa con Vista? Deja de jugar con ese Macbook Air... de película.
+¿Qué pasa cuando un evangelizador de Apple entrevista al presidente de Microsoft?
+
+Pues lo que puedes ver en la siguiente entrevista: es una entrevista muy divertida en la que los dos usan sus habilidades. ¿Qué pasa con Vista? Deja de jugar con ese Macbook Air... de película.
+
+[Ver el vídeo en YouTube](http://es.youtube.com/watch?v=Ar_r2kE9Ej4)

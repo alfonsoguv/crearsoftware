@@ -11,8 +11,10 @@ author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 31
 noindex: true
-image: ""
+image: "/wp-content/uploads/2007/06/fe.jpg"
 ---
+
+![fe](/wp-content/uploads/2007/06/fe.jpg)
 
 ***El mundo (o mundos) virtual de internet es real. Igual que hay muchas cosas que c*onsideramos reales y son virtuales, como el dinero o la fe religiosa**
 

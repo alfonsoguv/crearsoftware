@@ -10,10 +10,12 @@ author: "Alfonso Gutiérrez"
 commentCount: 2
 wordCount: 372
 readingTime: 2
-image: ""
+image: "/wp-content/uploads/2007/09/651161562.jpg"
 ---
 
-Impresionante el artículo de [Network sobre el Open Source.](http://www.networkworld.com/news/2007/092007-open-source-unavoidable.html) En el artículo nuestros amigos de [Gartner,](http://www.gartner.com/) de los cuales [hablé hace poco](/2007/09/14/velneocomunidad-el-oracle-de-la-pyme/) por la relación con [Velneo,](http://www.velneo.es) explican que el open source es imposible de frenar y que en el 2011, un 80% del software comercial contendrá partes de Open Source.
+![¿Cuándo se impondrá el Open Source?](/wp-content/uploads/2007/09/651161562.jpg)
+
+Impresionante el artículo de [Network World sobre el Open Source](http://www.networkworld.com/news/2007/092007-open-source-unavoidable.html). En él, nuestros amigos de [Gartner](http://www.gartner.com/) —de quienes [hablé hace poco](/2007/09/14/velneocomunidad-el-oracle-de-la-pyme/) por su relación con [Velneo](http://www.velneo.es)— explican que el open source es imposible de frenar y que en 2011 un 80 % del software comercial contendrá partes de open source.
 
 Todos sabemos que la influencia de [Gartner](http://www.gartner.com/) en el mercado mundial es absoluta, así que si estos chicos dicen algo, se suele cumplir, porque el mercado se mueve hacia donde ellos dictan. (casi siempre)
 

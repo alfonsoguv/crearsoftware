@@ -1,5 +1,5 @@
 ---
-title: "¿Qué es Open ID?"
+title: "¿Qué es OpenID?"
 slug: "¿que-es-open-id"
 date: "2007-12-02"
 oldUrl: "/2007/12/02/%c2%bfque-es-open-id/"
@@ -10,41 +10,34 @@ readingTime: 2
 author: "Alfonso Gutiérrez"
 commentCount: 7
 wordCount: 246
-image: ""
+image: "/wp-content/uploads/2007/12/lock_close_opened_262367_l.jpg"
 ---
 
-Hace unas semanas David (mi early adopter preferido), me informó de la existencia de [Open ID](http://openid.net/). Para no enrollarme con muchos detalles Open ID viene a ser un proyecto para que todos tengamos un sólo usuario y con él nos podamos validar en cualquier Web. La verdad que estoy un poco arto de tener que darme de alta cada vez en un servicio en Internet, y estar siempre introduciendo los mismos datos, una y otra vez. Parece que la idea de Open ID es solucionar este problema que nos afecta a todos los que trabajamos en internet cada día. En mi conversación con David, dejé clara mi postura, la idea me parecía ***genial,*** pero necesitaba el apoyo de uno de los grandes, Microsoft, Google, ..... si ninguno de estos lo utilizan va a ser complicado que este sistema se haga realmente popular y necesario en internet. Anoche [Google anunció que soportará Open ID para los comentarios de Blogger.](http://bloggerindraft.blogspot.com/2007/11/new-feature-openid-commenting.html) Google se une a una serie de empresas importantes en la red que ya son servidores de Open ID:
+![Candado: identidad y seguridad en la Web](/wp-content/uploads/2007/12/lock_close_opened_262367_l.jpg)
 
- ![AOL](http://openid.net/redirect.php?site=www.aol.com)
+Hace unas semanas David (mi *early adopter* preferido) me informó de la existencia de [OpenID](http://openid.net/). Para no enrollarme con muchos detalles, OpenID viene a ser un proyecto para que todos tengamos un solo usuario y con él nos podamos validar en cualquier web.
 
-openid.aol.com/**screenname**
+La verdad es que estoy un poco harto de tener que darme de alta cada vez en un servicio en Internet, e ir siempre introduciendo los mismos datos una y otra vez. Parece que la idea de OpenID es solucionar este problema, que nos afecta a todos los que trabajamos en Internet cada día.
 
- ![LiveDoor](http://openid.net/redirect.php?site=www.livedoor.com)
+## Una buena idea que necesita el respaldo de los grandes
 
-profile.livedoor.com/**username**
+En mi conversación con David dejé clara mi postura: la idea me parecía ***genial***, pero necesitaba el apoyo de uno de los grandes, como Microsoft o Google. Si ninguno de estos lo utiliza, va a ser complicado que este sistema se haga realmente popular y necesario en Internet.
 
- ![LiveJournal](http://openid.net/redirect.php?site=www.livejournal.com)
+Anoche [Google anunció que soportará OpenID para los comentarios de Blogger](http://bloggerindraft.blogspot.com/2007/11/new-feature-openid-commenting.html). Con ello, Google se une a una serie de empresas importantes en la red que ya son servidores de OpenID.
 
-**username**.livejournal.com
+## Empresas que ya son servidores de OpenID
 
- ![Orange (France Telecom](http://www.orange.fr/)
+| Proveedor | Tu identidad OpenID |
+| --- | --- |
+| **AOL** | `openid.aol.com/screenname` |
+| **LiveDoor** | `profile.livedoor.com/username` |
+| **LiveJournal** | `username.livejournal.com` |
+| **Orange (France Telecom)** | [openid.orange.fr](http://www.orange.fr/bin/frame.cgi?u=http%3A//openid.orange.fr/) |
+| **SmugMug** | `username.smugmug.com` |
+| **Technorati** | `technorati.com/people/technorati/username` |
+| [**Vox**](http://openid.net/redirect.php?site=www.vox.com) | `member.vox.com` |
+| **WordPress.com** | `username.wordpress.com` |
 
-[http://openid.orange.fr/](http://www.orange.fr/bin/frame.cgi?u=http%3A//openid.orange.fr/)
+## Un primer paso, no la solución completa
 
- ![SmugMug](http://openid.net/redirect.php?site=www.smugmug.com)
-
-**username**.smugmug.com
-
- ![Technorati](http://openid.net/redirect.php?site=www.technorati.com)
-
-technorati.com/people/technorati/**username**
-
-![Vox](http://openid.net/redirect.php?site=www.vox.com)
-
-**member**.vox.com
-
- ![WordPress.com](http://openid.net/redirect.php?site=www.wordpress.com)
-
-**username**.wordpress.com
-
-Quiero matizar que de momento Google no será servidor de Open ID, sólo soportará los usuarios que estén validados con esta tecnología. Pero de todas maneras es un gran paso para este nuevo proyecto que puede dar mucho que hablar si sigue así.....
+Quiero matizar que, de momento, **Google no será servidor de OpenID**: solo soportará a los usuarios que estén validados con esta tecnología. Pero, de todas maneras, es un gran paso para este nuevo proyecto, que puede dar mucho que hablar si sigue así…

@@ -10,7 +10,7 @@ readingTime: 1
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 194
-image: ""
+image: "/wp-content/uploads/2007/05/water_ripples_rings_271466_m.jpg"
 ---
 
 A continuación voy a describir las que creo que pueden ser las medidas a adoptar para mejorar el problema que tenemos es España con la innovación.
@@ -27,4 +27,6 @@ A continuación voy a describir las que creo que pueden ser las medidas a adopta
 
 • Pensar en global, crear tecnología para el mundo. (exportar). En mis reflexiones insisto en que existe una tendencia cultural en España que tenemos que cambiar, en los últimos 15 años se han creado en España emporios mundiales de la construcción y la banca, porque culturalmente estamos enfocados a este tipo de industrias.
 
-Hemos tenido un crecimiento económico Español bueno en los últimos años, pero p**or indicadores de innovación hemos visto que somos un país realmente pobre**, tenemos que cambiar esta tendencia y para ello TODOS tenemos que poner nuestro granito de arena. <!-- Imagen: agua -->
+Hemos tenido un crecimiento económico Español bueno en los últimos años, pero p**or indicadores de innovación hemos visto que somos un país realmente pobre**, tenemos que cambiar esta tendencia y para ello TODOS tenemos que poner nuestro granito de arena.
+
+![agua](/wp-content/uploads/2007/05/water_ripples_rings_271466_m.jpg)

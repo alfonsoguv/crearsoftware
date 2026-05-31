@@ -13,20 +13,26 @@ readingTime: 2
 image: ""
 ---
 
-**Los nativos digitales manejan la tecnología como los ángeles pero no tienen ni idea de cómo crearla**
+**Los nativos digitales manejan la tecnología como los ángeles, pero no tienen ni idea de cómo crearla.**
 
-Cuando ves a un niño de cinco años jugando con un Ipad simplemente alucinas, parece que han nacido para interactuar con el software. El software ha evolucionado de una manera vertiginosa, los [nativos digitales](http://es.wikipedia.org/wiki/Nativo_digital) no son capaces de comprender lo que significa tener un ordenador y no tener internet, no han vivido la evolución y la creación. En esta [charla de TED](http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code.html) el profesor Resnick explica la diferencia entre usar tecnología y crearla. Una cosa es tener capacidad para leer y otra muy distinta tener capacidad para escribir. Aprender a codificar implica pensar creativamente, razonar sistemáticamente y trabajar en colaboración, estas habilidades son aplicables a cualquier profesión y situación.
+Cuando ves a un niño de cinco años jugando con un iPad simplemente alucinas: parece que han nacido para interactuar con el software. El software ha evolucionado de una manera vertiginosa, y los [nativos digitales](http://es.wikipedia.org/wiki/Nativo_digital) no son capaces de comprender lo que significa tener un ordenador y no tener internet; no han vivido la evolución ni la creación.
 
-Estos son 5 recursos web donde cualquiera puede aprender a programar:
+En esta [charla de TED](http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code.html), el profesor Resnick explica la diferencia entre usar la tecnología y crearla. Una cosa es tener capacidad para leer y otra muy distinta tener capacidad para escribir.
 
-1.- [Scratch](http://scratch.mit.edu/), un software de programación desarrollado en MIT Media Lab pensado para que la gente pueda crear y compartir sus propias animaciones.
+Aprender a codificar implica pensar creativamente, razonar sistemáticamente y trabajar en colaboración: habilidades aplicables a cualquier profesión y situación.
 
-2.- [Codecademy](http://www.codecademy.com/), puedes aprender lecciones simples de JavaScript, HTML and CSS, Python and Ruby.
+## 5 webs para aprender a programar
 
-3.- Stanford University's [Udacity](https://www.udacity.com/) son cursos OnLine que te proponen una introducción [Computer Science](https://www.udacity.com/course/cs101), de manera gratuita.
+Estos son cinco recursos web donde cualquiera puede aprender a programar:
 
-4.- [Treehouse](http://teamtreehouse.com/), videos y ejercicios para aprender a desarrollar webs, Iphone y Android Apps sin conocimientos informáticos.
+1. **[Scratch](http://scratch.mit.edu/)**: un software de programación desarrollado en el MIT Media Lab, pensado para que la gente pueda crear y compartir sus propias animaciones.
 
-5.- [Code School](http://www.codeschool.com/) ofrece cursos de diferentes lenguajes de programación, herramientas de diseño y de creación de webs.
+2. **[Codecademy](http://www.codecademy.com/)**: puedes aprender lecciones simples de JavaScript, HTML y CSS, Python y Ruby.
 
-Basado en el artículo de [TED 10 places where anyone can learn to code](http://blog.ted.com/2013/01/29/10-places-where-anyone-can-learn-to-code/)
+3. **[Udacity](https://www.udacity.com/)**, de la Stanford University: cursos online que te proponen una introducción a la [Computer Science](https://www.udacity.com/course/cs101) de manera gratuita.
+
+4. **[Treehouse](http://teamtreehouse.com/)**: vídeos y ejercicios para aprender a desarrollar webs y apps de iPhone y Android sin conocimientos informáticos.
+
+5. **[Code School](http://www.codeschool.com/)**: ofrece cursos de diferentes lenguajes de programación, herramientas de diseño y de creación de webs.
+
+> Basado en el artículo de [TED, 10 places where anyone can learn to code](http://blog.ted.com/2013/01/29/10-places-where-anyone-can-learn-to-code/).

@@ -14,4 +14,6 @@ noindex: true
 image: ""
 ---
 
-> **"El que más pequeño lo deja es el que más claro lo tiene, el que hace algo grande y complicado es porque él mismo lo tiene complicado en su cabeza"** - Juan Muñoz-Cobos
+> **"El que más pequeño lo deja es el que más claro lo tiene, el que hace algo grande y complicado es porque él mismo lo tiene complicado en su cabeza"** — Juan Muñoz-Cobos
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=c2LSCWug_N8)

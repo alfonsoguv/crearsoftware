@@ -15,3 +15,5 @@ image: ""
 ---
 
 Navegando por la red me encontré otro interesante vídeo de introducción al concepto SaaS.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=URdNFcV0xCQ)

@@ -3,13 +3,45 @@ title: "Estrategias de desarrollo de marca."
 slug: "estrategias-de-desarrollo-de-marca"
 date: "2008-03-16"
 oldUrl: "/2008/03/16/estrategias-de-desarrollo-de-marca/"
-description: "El desarrollo de esta estrategia se establece sobre la base del capital que la marca posee y sobre los efectos que éste ejerce sobre el consumidor y su..."
+description: "Seis esquemas para gestionar la relación entre marca y productos: marca producto, línea, gama, paraguas, fuente y garantía."
 category: "tecnologia-empresarial"
 tags: ["software","gestión empresarial","estrategia","economía","seguridad"]
 readingTime: 3
 author: "Alfonso Gutiérrez"
 commentCount: 1
 wordCount: 469
-image: ""
+image: "/wp-content/uploads/2008/03/showimagephp.jpeg"
 ---
-El desarrollo de esta estrategia se establece sobre la base del capital que la marca posee y sobre los efectos que éste ejerce sobre el consumidor y su comportamiento. De este modo, cuanto más amplio sea el conjunto de asociaciones que forman el capital, mayor será la calidad percibida en el producto, y cuanto más elevada sea su notoriedad y más amplia la base de clientes fieles, habrá más posibilidades de extender la marca. El análisis de las prácticas de las empresas permite identificar seis esquemas para gestionar la relación entre marca y productos: la marca producto, la marca línea, la marca gama, la marca paraguas, la marca fuente y la marca garantía. A estos tipos de relaciones funcionales hay que añadir la cuestión de si el nombre de la marca debe coincidir o no con el de la empresa. ## 1.La estrategia de marca producto supone vincular de manera exclusiva un nombre a un solo producto y a un único posicionamiento. La consecuencia de esta estrategia es que cada nuevo producto recibe un nombre, demodo que la empresa tiene una cartera de marcas que coincide con su cartera de productos. ## 2.La estrategia de marca línea responde al deseo de proporcionar una oferta de productos coherente bajo el mismo nombre. Esta estrategia puede ir desde el ofrecimiento de distintas prestaciones de la marca hasta la inclusión de diferentes productos en el seno de una misma promesa específica y que, por lo tanto, son percibidos por el consumidor como "vinculados unos a otros". ## 3.La estrategia de marca gama supone agrupar bajo un mismo nombre de marca, y comunicar bajo la misma promesa, un conjunto de productos que pertenecen al mismo territorio de competencia profesional. En la estructura de gama, los productos conservan los nombres corrientes o genéricos. ## 4.La estrategia de marca paraguas supone utilizar el mismo nombre de marca para comercializar diferentes productos en distintos mercados. Utilizando el nombre genérico, cada producto realiza su propia comunicación, desarrolla sus promesas y establece su posicionamiento. ## 5.La estrategia de marca fuente es prácticamente idéntica a la de marca paraguas, salvo que los productos tienen nombre propio. Ya no se les denomina por un nombre genérico (perfume o agua de colonia), sino que reciben una denominación específica, como Aire de Loewe, Anaïs, de Cacharel, o Poison, de Christian Dior. Frecuentemente, la estrategia de marca fuente se confunde con la estrategia de marca garantía. Sin embargo, mientras que en la primera lo que domina es el "espíritu de familia", a pesar de que los productos mantengan una personalidad por sus nombres propios, en la marca garantía los productos son autónomos y sólo tienen en común la garantía. ## 6.Finalmente, encontramos la estrategia de marca garantía. En este caso, la marca base es la que da fundamento y seguridad a las demás marcas que rubrica. [fuente: www.uoc.edu](http://www.uoc.edu)
+![show](/wp-content/uploads/2008/03/showimagephp.jpeg)
+
+El desarrollo de esta estrategia se establece sobre la base del capital que la marca posee y sobre los efectos que éste ejerce sobre el consumidor y su comportamiento. De este modo, cuanto más amplio sea el conjunto de asociaciones que forman el capital, mayor será la calidad percibida en el producto, y cuanto más elevada sea su notoriedad y más amplia la base de clientes fieles, habrá más posibilidades de extender la marca.
+
+El análisis de las prácticas de las empresas permite identificar **seis esquemas para gestionar la relación entre marca y productos**: la marca producto, la marca línea, la marca gama, la marca paraguas, la marca fuente y la marca garantía. A estos tipos de relaciones funcionales hay que añadir la cuestión de si el nombre de la marca debe coincidir o no con el de la empresa.
+
+## 1. La estrategia de marca producto
+
+Supone vincular de manera exclusiva un nombre a un solo producto y a un único posicionamiento. La consecuencia de esta estrategia es que cada nuevo producto recibe un nombre, de modo que la empresa tiene una cartera de marcas que coincide con su cartera de productos.
+
+## 2. La estrategia de marca línea
+
+Responde al deseo de proporcionar una oferta de productos coherente bajo el mismo nombre. Esta estrategia puede ir desde el ofrecimiento de distintas prestaciones de la marca hasta la inclusión de diferentes productos en el seno de una misma promesa específica y que, por lo tanto, son percibidos por el consumidor como "vinculados unos a otros".
+
+## 3. La estrategia de marca gama
+
+Supone agrupar bajo un mismo nombre de marca, y comunicar bajo la misma promesa, un conjunto de productos que pertenecen al mismo territorio de competencia profesional. En la estructura de gama, los productos conservan los nombres corrientes o genéricos.
+
+## 4. La estrategia de marca paraguas
+
+Supone utilizar el mismo nombre de marca para comercializar diferentes productos en distintos mercados. Utilizando el nombre genérico, cada producto realiza su propia comunicación, desarrolla sus promesas y establece su posicionamiento.
+
+## 5. La estrategia de marca fuente
+
+Es prácticamente idéntica a la de marca paraguas, salvo que los productos tienen nombre propio. Ya no se les denomina por un nombre genérico (perfume o agua de colonia), sino que reciben una denominación específica, como Aire de Loewe, Anaïs, de Cacharel, o Poison, de Christian Dior.
+
+Frecuentemente, la estrategia de marca fuente se confunde con la estrategia de marca garantía. Sin embargo, mientras que en la primera lo que domina es el "espíritu de familia", a pesar de que los productos mantengan una personalidad por sus nombres propios, en la marca garantía los productos son autónomos y sólo tienen en común la garantía.
+
+## 6. La estrategia de marca garantía
+
+Finalmente, encontramos la estrategia de marca garantía. En este caso, la marca base es la que da fundamento y seguridad a las demás marcas que rubrica.
+
+[fuente: www.uoc.edu](http://www.uoc.edu)

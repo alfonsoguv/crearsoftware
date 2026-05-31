@@ -10,8 +10,10 @@ readingTime: 2
 author: "Alfonso Gutiérrez"
 commentCount: 1
 wordCount: 224
-image: ""
+image: "/wp-content/uploads/2007/06/notas-musicales.jpg"
 ---
+
+![Notas musicales](/wp-content/uploads/2007/06/notas-musicales.jpg)
 
 Según [Steve Jobs:](http://es.wikipedia.org/wiki/Steve_Jobs) La innovación se produce cuando se reúnen personas que valen y se ayudan unas a otras (el buen tiempo y la buena comida también ayudan). Pero igualmente importante es la mentalidad, la determinación, según Jobs, "*expresar algo que tu percibes como la verdad, para que otros puedan beneficiarse de ello".* La innovación es simplemente el fruto de esa determinación.
 

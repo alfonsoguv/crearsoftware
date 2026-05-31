@@ -10,10 +10,14 @@ readingTime: 2
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 212
-image: ""
+image: "/wp-content/uploads/2007/03/top20.jpg"
 ---
 
-Vamos a ver algunos de los resultados del informe de la IMD de este año. Lo primero que vamos a mostrar es el top 20 de los paises más competitivos. <!-- Imagen: TOP 20 MD World Competitiveness Yearbook 2006 --> Pues como podeis ver, en los cuatro primeros puestos están los de siempre, USA, Hong Kong, después empiezan a escalar posiciones Dinamarca, Austria y Australia.
+Vamos a ver algunos de los resultados del informe de la IMD de este año. Lo primero que vamos a mostrar es el top 20 de los paises más competitivos.
+
+![TOP 20 IMD World Competitiveness Yearbook 2006](/wp-content/uploads/2007/03/top20.jpg)
+
+Pues como podeis ver, en los cuatro primeros puestos están los de siempre, USA, Hong Kong, después empiezan a escalar posiciones Dinamarca, Austria y Australia.
 
 Me gustaría comentar que Irlanda sigue poco a poco escalando posiciones y ya está en el puesto 11, todos sabemos que la politica de I+D+I de este país y la creciente inversión extranjera en el mismo está haciendo que sea un país a estudiar en todo el mundo. De todo modos tambíen tiene sus puntos malos, su política quizá sea un poco cortoplacista y nos de algún susto en el futuro.
 

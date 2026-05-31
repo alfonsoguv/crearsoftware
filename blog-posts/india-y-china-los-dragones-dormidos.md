@@ -10,8 +10,10 @@ readingTime: 2
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 373
-image: ""
+image: "/wp-content/uploads/2007/04/china.jpg"
 ---
+
+![China](/wp-content/uploads/2007/04/china.jpg)
 
 Antes de comentar mi opinión sobre lo que está ocurriendo con estos dos paises me gustaría dar unos datos que posicionarán mi visión. **Población :** China 1.313.973.713
 

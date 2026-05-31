@@ -10,7 +10,7 @@ author: "Alfonso Gutiérrez"
 commentCount: 29
 wordCount: 663
 readingTime: 4
-image: ""
+image: "/wp-content/uploads/2008/03/velneo.png"
 ---
 
 [Velneo](http://velneo.es) es una empresa 100% Internet y su distribución y comercialización se apoya en esa filosofía. Esto hace de Velneo una empresa diferente al resto de sus competidores cuyos modelos de negocio están basados en recursos físicos o presenciales. Gracias a este modelo comercial, Velneo es una empresa ágil y con unos costes muy controlados pero con la capacidad de llegar a todos los mercados mundiales.
@@ -19,7 +19,11 @@ Internet es para Velneo su escaparate, su almacén, su tienda y, por supuesto, e
 
 ## Esquema de distribución en 4 fases
 
-En el siguiente gráfico podemos observar el esquema de distribución que Velneo utiliza para darse a conocer, atraer, fidelizar y comercializar. Como se puede apreciar en el esquema existen 4 fases por las que pasan los miembros de la comunidad Velneo y entre cada fase existe un procedimiento de salto basado en acciones que Velneo fomenta.
+En el siguiente gráfico podemos observar el esquema de distribución que Velneo utiliza para darse a conocer, atraer, fidelizar y comercializar.
+
+![Esquema de distribución y comercialización de Velneo](/wp-content/uploads/2008/03/velneo.png)
+
+Como se puede apreciar en el esquema, existen 4 fases por las que pasan los miembros de la comunidad Velneo, y entre cada fase existe un procedimiento de salto basado en acciones que Velneo fomenta.
 
 ## Fase 1: Atraer visitantes
 

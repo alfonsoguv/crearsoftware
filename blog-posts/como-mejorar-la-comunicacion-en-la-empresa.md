@@ -10,10 +10,12 @@ author: "Alfonso Gutiérrez"
 commentCount: 5
 wordCount: 505
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2008/10/chip.jpg"
 ---
 
-La comunicación es la base de cualquier relación, empresarial, de amor, de amigo, de familia. ***La comunicación es la clave de todo.*** Todos los puntos de vista en la vida son respetables. En las empresas existen 3 tipos de comunicación: descendente, ascendente y horizontal. En cada una de ellas existen unos tipos de problemas diferentes:
+![Chip](/wp-content/uploads/2008/10/chip.jpg)
+
+La comunicación es la base de cualquier relación: empresarial, de amor, de amigo, de familia. ***La comunicación es la clave de todo.*** Todos los puntos de vista en la vida son respetables. En las empresas existen 3 tipos de comunicación: descendente, ascendente y horizontal. En cada una de ellas existen unos tipos de problema diferentes:
 
 1.  [Problemas de comunicación descendente.](/2008/10/25/la-comunicacion-en-las-empresas/)
 2.  [Problemas de comunicación ascendente.](/2008/10/25/problemas-de-comunicacion-ascendente/)

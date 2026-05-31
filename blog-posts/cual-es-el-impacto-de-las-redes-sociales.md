@@ -1,5 +1,5 @@
 ---
-title: "¿Cúal es el impacto de las redes sociales?"
+title: "¿Cuál es el impacto de las redes sociales?"
 slug: "¿cual-es-el-impacto-de-las-redes-sociales"
 date: "2010-08-31"
 oldUrl: "/2010/08/31/%c2%bfcual-es-el-impacto-de-las-redes-sociales/"
@@ -14,4 +14,6 @@ noindex: true
 image: ""
 ---
 
-Facebook y cía cada día están más presentes en nuestras vidas, desplazan viejas costumbres y se instalan nuevas. Sin darnos cuenta algo está cambiando en nuestra forma de comportarnos. Mi amigo José Carlos de [Saasmania](http://www.saasmania.com/) me pasó este vídeo que nos muestra unos datos interesantes de cómo está cambiando nuestra forma de comunicarnos.
+Facebook y cía cada día están más presentes en nuestras vidas: desplazan viejas costumbres y se instalan nuevas. Sin darnos cuenta, algo está cambiando en nuestra forma de comportarnos. Mi amigo José Carlos de [Saasmania](http://www.saasmania.com/) me pasó este vídeo, que nos muestra unos datos interesantes de cómo está cambiando nuestra forma de comunicarnos.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=Naf0jxDd-R0&feature=player_embedded)

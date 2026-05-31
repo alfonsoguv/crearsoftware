@@ -3,17 +3,19 @@ title: "8 Errores del proceso de cambio"
 slug: "8-errores-del-proceso-de-cambio"
 date: "2009-06-23"
 oldUrl: "/2009/06/23/8-errores-del-proceso-de-cambio/"
-description: "Los 8 errores más comunes en procesos de cambio organizacional según John Kotter: complacencia, visión y cultura empresarial."
+description: "Los 8 errores más comunes en los procesos de cambio organizacional según John Kotter: complacencia, visión y cultura empresarial."
 category: "tecnologia-empresarial"
 tags: ["gestión del cambio", "liderazgo", "john kotter", "organización", "cultura empresarial"]
 author: "Alfonso Gutiérrez"
 commentCount: 4
 wordCount: 485
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2009/06/change-2.jpg"
 ---
 
-Los cambios son una de las cosas más difíciles de implantar en una organización, cuando más grande es la organización más difíciles son de implantar los cambios o las nuevas iniciativas. Según [John Kotter](http://en.wikipedia.org/wiki/John_Kotter) estos son los principales errores a la hora de iniciar un cambio dentro de la organización:
+Los cambios son una de las cosas más difíciles de implantar en una organización: cuanto más grande es la organización, más difíciles son de implantar los cambios o las nuevas iniciativas.
+
+Según [John Kotter](http://en.wikipedia.org/wiki/John_Kotter), estos son los principales errores a la hora de iniciar un cambio dentro de la organización:
 
 ## 1. Demasiada complacencia
 
@@ -46,3 +48,5 @@ La "fatiga del proceso" es una amenaza constante, que tiende a crear el deseo de
 ## 8. Descuidar el anclaje de los cambios en la cultura de la organización
 
 Si no se logran las modificaciones culturales profundas, el proceso de cambio puede dar marcha atrás cuando finalice la implantación de las reformas. La cultura organizacional tiene una gran capacidad de reinstalarse si no ha sido modificada en el proceso de cambio.
+
+![Proceso de cambio](/wp-content/uploads/2009/06/change-2.jpg)

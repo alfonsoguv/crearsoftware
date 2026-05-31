@@ -10,7 +10,7 @@ author: "Alfonso Gutiérrez"
 commentCount: 4
 wordCount: 855
 readingTime: 5
-image: ""
+image: "/wp-content/uploads/2007/06/tabla1.png"
 ---
 
 ## Criterios de selección inicial
@@ -23,9 +23,15 @@ Para poder valorar cuantitativamente la “comunidad” elegimos dos indicadores
 
 Ambos indicadores son orientativos pero nos colocan en una escala que nos permite eliminar claramente algunas de las opciones existentes. Recordemos que en Google indexan palabras como “mambo” que tienen más que un solo significado de gestión de CMS y que la forma de generar revisiones puede ser muy diferente entre plataformas, pero como hemos mencionado nos permitirá hacer un primer filtro.
 
+![tabla1](/wp-content/uploads/2007/06/tabla1.png)
+
+
 ## Análisis en profundidad de las mejores plataformas
 
 A continuación filtramos los mejores resultados y vamos a estudiar más profundamente las cuatro mejores plataformas según la información que hemos extraído.
+
+![tabla2](/wp-content/uploads/2007/06/tabla2.png)
+
 
 Los datos de la anterior tabla son cuantitativos de la comparación con ambas plataformas; de la plataforma Drupal no hemos conseguido encontrar información detallada de los datos que estamos comparando. A esta información podemos añadir que la plataforma Joomla es una segregación de los mejores desarrolladores de la plataforma “Mambo” con lo que los datos mencionados pueden llevarnos a engaño, ya que son superiores si sumamos la experiencia y líneas de código de Mambo a las que se han desarrollado en el proyecto Joomla.
 
@@ -37,7 +43,13 @@ Por tanto y aunque los datos cuantitativos de Moodle son buenos, podemos descart
 
 ## Comparativa final: Joomla, OpenCMS y Drupal
 
-Por último vamos a entrar en mayor detalle en el estudio de los tres gestores de contenidos que nos quedan: Joomla, OpenCMS, Drupal. A continuación vamos a analizar la facilidad de uso de la plataforma. Para ello generamos una matriz: en el eje “x” ponemos de más a menos la facilidad de uso de la plataforma y en el eje “y”, la facilidad de personalización de la plataforma, dos aspectos que nos parecen muy importantes para poder tomar la decisión de qué plataforma vamos a utilizar.
+Por último vamos a entrar en mayor detalle en el estudio de los tres gestores de contenidos que nos quedan: Joomla, OpenCMS, Drupal.
+
+![tabla3](/wp-content/uploads/2007/06/tabla3.png)
+ A continuación vamos a analizar la facilidad de uso de la plataforma. Para ello generamos una matriz: en el eje “x” ponemos de más a menos la facilidad de uso de la plataforma y en el eje “y”, la facilidad de personalización de la plataforma, dos aspectos que nos parecen muy importantes para poder tomar la decisión de qué plataforma vamos a utilizar.
+
+![tabla4](/wp-content/uploads/2007/06/tabla4.png)
+
 
 Hemos incluido para poder escalar la valoración otras dos de las plataformas nombradas en un inicio (EZ y TYPO3). Como podemos observar en dos de los aspectos claves de elección --facilidad de uso y capacidad de personalización--, Joomla es la plataforma más sólida para poder crear, mantener y personalizar webs fácilmente.
 

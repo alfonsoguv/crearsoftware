@@ -10,8 +10,10 @@ author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 168
 readingTime: 1
-image: ""
+image: "/wp-content/uploads/2007/05/face_glasses_terry_782949_l.jpg"
 ---
+
+![critica y enfado](/wp-content/uploads/2007/05/face_glasses_terry_782949_l.jpg)
 
 **Cualquiera puede enfadarse, eso es algo muy sencillo. Pero enfadarse con la persona adecuada, en el grado exacto, en el momento oportuno, con el propósito justo y del modo correcto, eso, ciertamente, no resulta tan sencillo.**
 

@@ -10,8 +10,10 @@ readingTime: 4
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 638
-image: ""
+image: "/wp-content/uploads/2007/07/soviet_ebay_fantastic_18922_l.jpg"
 ---
+
+![Soviet](/wp-content/uploads/2007/07/soviet_ebay_fantastic_18922_l.jpg)
 
 **Producto:** El producto de Telefónica siempre se ve como un producto de calidad y seguridad. Suelen ser el número 1 de los segmentos en los que están presentes por lo tanto su producto siempre es transmitido como el mejor, no a si su servicio, que muchas veces no se considera el mejor. Pero lo que nadie suele discutir es que sus productos son los más fiables, seguros y de mayor calidad de los segmentos en los que están presentes.
 

@@ -1,5 +1,5 @@
 ---
-title: "Ciclo de Adopción Tecnológica (3 Parte)"
+title: "Ciclo de Adopción Tecnológica (3º Parte)"
 slug: "ciclo-de-adopcion-tecnologica-3º-parte"
 date: "2008-07-22"
 oldUrl: "/2008/07/22/ciclo-de-adopcion-tecnologica-3%c2%ba-parte/"
@@ -15,8 +15,12 @@ image: ""
 
 Vamos con la tercera parte de la saga:
 
-1.  [Ciclo de adopción (1 Parte)](/2008/07/03/%c2%bfcomo-es-el-ciclo-de-adopcion-tecnologica/)
-2.  [Ciclo de adopción (2 Parte)](/2008/07/07/ciclo-de-adopcion-de-tecnologia-parte-2/)
+1.  [Ciclo de adopción (1º Parte)](/2008/07/03/%c2%bfcomo-es-el-ciclo-de-adopcion-tecnologica/)
+2.  [Ciclo de adopción (2º Parte)](/2008/07/07/ciclo-de-adopcion-de-tecnologia-parte-2/)
+
+Aquí os dejo el vídeo. Como en los dos anteriores, os pido disculpas por la calidad de la imagen y el sonido (para la próxima mejoraremos :) ).
+
+> Vídeo originalmente alojado en blip.tv (`posts_id=1094411`). La plataforma blip.tv cerró en 2015 y el vídeo ya no está disponible.
 
 ## Ejemplo Silicon Graphics
 
@@ -49,16 +53,13 @@ En 1993 Jeff Millar tomó las riendas de Documentum (gestión documental). En es
 
 Industria: Software de finanzas personal.
 
-- Cuando Quicken llegó al mercado el software más vendido y con más funcionalidad era Managing Your Money.
-- Era mucho mejor producto que Quicken con más funcionalidades y capacidades de análisis.
+- Cuando Quicken llegó al mercado, el software más vendido y con más funcionalidad era Managing your software.
+- Era mucho mejor producto que Quicken, con más funcionalidades y capacidades de análisis.
 - Los entusiastas financieros habían asumido el uso del programa como estándar.
-- El tipo de software aún no había pasado al abismo, sólo los innovadores y early adopters financieros estaban usando el software.
-- Los pragmáticos usaban cheques para pagar sus facturas y como mucho alguna hoja de Excel o papel para llevar sus cuentas.
-
-¿Cómo podía Intuit penetrar en los pragmáticos y además ganar al competidor líder en early adopter?
-
-- La gente tenía ordenador en casa pero ¿por qué un pragmático iba a usar su software?
-- Los cheques: había mucha gente que pagaba sus facturas por cheque a mano. Desarrollaron software, plantillas y se posicionaron en el mercado con el software que mejor imprimía los cheques. Incluso llegaron a patentar una solución para poder cuadrar los cheques en cualquier impresora.
+- El tipo de software aún no había pasado al abismo: sólo los innovadores y early adopters financieros estaban usando el software.
+- Los pragmáticos usaban cheques para pagar sus facturas y, como mucho, alguna hoja de Excel o papel para llevar sus cuentas. ¿Cómo podía Intuit penetrar en los pragmáticos y además ganar al competidor líder en early adopters?
+- Bien, la gente tenía ordenador en casa, pero ¿por qué un pragmático iba a usar su software?
+- Los cheques: había mucha gente que pagaba sus facturas por cheque, y lo hacía a mano. Desarrollaron software y plantillas, y se posicionaron en el mercado con el software que mejor imprimía los cheques. Incluso llegaron a patentar una solución para poder cuadrar los cheques en cualquier impresora.
 - El producto completo estaba en el mercado.
 - La alternativa al papel y al boli, ese fue su nicho y así ganaron el mercado.
 

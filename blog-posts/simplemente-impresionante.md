@@ -3,7 +3,7 @@ title: "Simplemente impresionante"
 slug: "simplemente-impresionante"
 date: "2008-01-03"
 oldUrl: "/2008/01/03/simplemente-impresionante/"
-description: "Momentos simplemente impresionantes en tecnología: innovaciones y logros que dejan huella en la industria."
+description: "El vídeo más visto y comentado de internet en 2007: la naturaleza en estado puro que te deja sin palabras."
 category: "innovacion-digital"
 tags: ["innovación digital"]
 author: "Alfonso Gutiérrez"
@@ -14,4 +14,8 @@ noindex: true
 image: ""
 ---
 
-La verdad que la naturaleza te sorprende cada día, después de ver esto me creo cualquier cosa.... (por cierto video más visto y más comentado de internet 2007) \
+La verdad es que la naturaleza te sorprende cada día. Después de ver esto, me creo cualquier cosa.
+
+> Por cierto, fue el vídeo más visto y más comentado de internet en 2007.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=LU8DDYz68kM)

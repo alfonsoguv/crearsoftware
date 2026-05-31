@@ -10,10 +10,12 @@ author: "Alfonso Gutiérrez"
 commentCount: 11
 wordCount: 591
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2007/09/travel_radblog_rawlinson_752347_l.jpg"
 ---
 
-Interesante la conversación esta mañana con los chicos de [Gartner,](http://www.gartner.com/) para quien no lo sepa se trata de una de las mejores consultoras del mundo en el apartado de tecnología. Desde mi punto de vista la mejor del mundo junto con [Forrester,](http://www.forrester.com/rb/research) lo peor es que no estamos todavía acostumbrados a explicar ¿qué es Velneo? en inglés, la verdad que hasta cuesta en español. *En resumen esta gente marca las tendencias del mercado tecnológico con sus predicciones y análisis.*
+![Velneo + Comunidad = el Oracle de la pyme](/wp-content/uploads/2007/09/travel_radblog_rawlinson_752347_l.jpg)
+
+Interesante la conversación de esta mañana con los chicos de [Gartner](http://www.gartner.com/). Para quien no lo sepa, se trata de una de las mejores consultoras del mundo en tecnología —desde mi punto de vista, la mejor junto con [Forrester](http://www.forrester.com/rb/research)—. Lo peor es que todavía no estamos acostumbrados a explicar qué es Velneo en inglés; la verdad es que hasta cuesta en español. *En resumen esta gente marca las tendencias del mercado tecnológico con sus predicciones y análisis.*
 
 ## La conversación con Gartner
 

@@ -37,7 +37,12 @@ image: ""
 
 ## Perspectiva e implantación
 
--   **Principio 8:** según el autor, "la perspectiva equivale a 50 puntos de coeficiente intelectual". Para descubrir oportunidades, uno debe observar el mundo con nuevos ojos, es decir, desde una nueva perspectiva. Por tanto, éste es un punto de vista que defiende que la imaginación determina la capacidad de una organización para ser estratégica. A fin de crear una nueva perspectiva, se deben realizar cuatro tareas principales: 1. Identificar las creencias y convenciones arraigadas en la industria; 2. Encontrar discontinuidades en la tecnología, los estilos de vida, los hábitos de trabajo o la geopolítica que pudieran generar oportunidades para escribir de nuevo las normas de la industria; 3. Alcanzar una comprensión profunda de sus competencias básicas; 4. Emplear todo su conocimiento para identificar las ideas revolucionarias, las opciones de estrategia no convencionales que se pudieran aprovechar en este ámbito.
+-   **Principio 8:** según el autor, "la perspectiva equivale a 50 puntos de coeficiente intelectual". Para descubrir oportunidades, uno debe observar el mundo con nuevos ojos, es decir, desde una nueva perspectiva. Por tanto, éste es un punto de vista que defiende que la imaginación determina la capacidad de una organización para ser estratégica. A fin de crear una nueva perspectiva, se deben realizar cuatro tareas principales:
+
+    1. Identificar las creencias y convenciones arraigadas en la industria.
+    2. Encontrar discontinuidades en la tecnología, los estilos de vida, los hábitos de trabajo o la geopolítica que pudieran generar oportunidades para escribir de nuevo las normas de la industria.
+    3. Alcanzar una comprensión profunda de sus competencias básicas.
+    4. Emplear todo su conocimiento para identificar las ideas revolucionarias, las opciones de estrategia no convencionales que se pudieran aprovechar en este ámbito.
 
 -   **Principio 9:** arriba-abajo y abajo-arriba no son las únicas alternativas. Para alcanzar una diversidad de perspectivas y una unidad de propósitos, el proceso de la elaboración estratégica debe implicar un profundo corte diagonal de la organización.
 

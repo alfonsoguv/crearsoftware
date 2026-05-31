@@ -3,17 +3,19 @@ title: "Orientaciones culturales según Harrison(1972)"
 slug: "¿cuales-son-las-orientaciones-culturales-segun-harrison1972"
 date: "2007-10-27"
 oldUrl: "/2007/10/27/%c2%bfcuales-son-las-orientaciones-culturales-segun-harrison1972/"
-description: "Las 4 orientaciones culturales de Harrison: poder, rol, tareas y personas. Clasificación empírica de culturas organizacionales para empresas."
+description: "Las 4 orientaciones culturales de Harrison: poder, rol, tareas y personas. Clasificación empírica de las culturas organizacionales."
 category: "tecnologia-empresarial"
 tags: ["cultura organizacional", "harrison", "liderazgo", "gestión empresarial", "orientación cultural"]
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 482
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2007/10/malaysia_landmark_kualalumpur_14566_l.jpg"
 ---
 
-Harrison, a partir de datos empíricos, propone una clasificación de culturas según su orientación. Identifica cuatro. Veámoslas:
+![Torres Petronas en Kuala Lumpur, Malasia](/wp-content/uploads/2007/10/malaysia_landmark_kualalumpur_14566_l.jpg)
+
+Harrison, a partir de datos empíricos, propone una clasificación de las culturas organizacionales según su orientación. Identifica **cuatro tipos**. Veámoslos:
 
 ## Orientación al poder
 
@@ -35,8 +37,10 @@ Los valores organizativos consisten en alcanzar un trabajo satisfactorio, intere
 
 ## Conclusión
 
-Como resulta evidente, en realidad no solemos encontrar ejemplos que coincidan con un tipo concreto de los presentados en un 100%. La mayoría de las organizaciones son híbridos de dos o más perfiles culturales. Aun así, estas clasificaciones nos son de gran valor, especialmente las que, como la tipología de orientaciones culturales de Harrison, continúan siendo consistentes con los datos empíricos analizados en estudios muy posteriores.
+Como resulta evidente, en realidad no solemos encontrar ejemplos que coincidan al 100 % con uno solo de los tipos presentados. La mayoría de las organizaciones son **híbridos de dos o más perfiles culturales**. Aun así, estas clasificaciones nos son de gran valor, especialmente las que, como la tipología de orientaciones culturales de Harrison, continúan siendo consistentes con los datos empíricos analizados en estudios muy posteriores.
 
-¿Dónde trabajas tú?
+> ¿Dónde trabajas tú?
 
-*Notas extraídas de documentación de la UOC*
+---
+
+*Notas extraídas de documentación de la UOC.*

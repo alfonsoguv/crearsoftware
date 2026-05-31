@@ -3,15 +3,17 @@ title: "Modelos de Voz a Voz (S2S): La Revolución en la IA Conversacional"
 slug: "modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional"
 date: "2025-01-04"
 oldUrl: "/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/"
-description: "Los modelos de Voz a Voz (Speech-to-Speech o S2S) están marcando un antes y un después en el desarrollo de la inteligencia artificial aplicada a las..."
+description: "Qué son los modelos de Voz a Voz (S2S), cómo funcionan, sus aplicaciones en atención al cliente, salud y educación, y su impacto en la IA conversacional."
 category: "inteligencia-artificial"
 tags: ["ia de voz","inteligencia artificial","experiencia de usuario"]
 readingTime: 6
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 1098
-image: ""
+image: "/wp-content/uploads/2025/01/freepik__a-highly-detailed-futuristic-illustration-showcasi__69546.jpeg"
 ---
+
+![Ilustración futurista de la inteligencia artificial conversacional de voz a voz](/wp-content/uploads/2025/01/freepik__a-highly-detailed-futuristic-illustration-showcasi__69546.jpeg)
 
 ## Introducción
 
@@ -92,7 +94,7 @@ Aunque los modelos S2S ofrecen grandes ventajas, también presentan algunos desa
 El gráfico anterior resume los principales desafíos de los modelos S2S y las soluciones propuestas para superarlos, incluyendo medidas para mejorar la privacidad, adaptabilidad a dialectos y reducción de sesgos lingüísticos.
 
 -   **Privacidad y Seguridad:** La transmisión de datos de voz en tiempo real plantea preocupaciones sobre la privacidad.
--   **Accentos y Dialectos:** Aún hay margen de mejora en la comprensión de acentos regionales y dialectos.
+-   **Acentos y Dialectos:** Aún hay margen de mejora en la comprensión de acentos regionales y dialectos.
 -   **Bias Lingüístico:** Los modelos deben ser entrenados para evitar sesgos que puedan afectar negativamente a ciertos grupos.
 
 * * *

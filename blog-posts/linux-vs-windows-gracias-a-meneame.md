@@ -17,4 +17,8 @@ La verdad que ayer conocí la fuerza de [www.meneame.net](http://www.meneame.net
 
 En una de vuestras aportaciones me pedían que publicara un video de Red Hat en el que muestra los estados de los avances de la adopción tecnológica. En concreto el video trata de asemejar una cita de Ghandi con lo que está ocurriendo entre Linux y Microsoft.
 
-**First they ignore you.** (Primero Microsoft ignoró el Software Libre ) **Then they laugh at you.** (Luego Microsoft se burló del Software Libre) **Then they fight you.** (Luego Microsoft empezó a luchar contra el software Libre- Lo cual refleja mi [post](/2007/05/16/microsoft-tiene-miedo/)) **Then you win.** (Finalmente el Software Libre vencerá) --Mohandas Gandhi Interesante la cita de Gandhi y muy interesante el video de Red Hat `
+**First they ignore you.** (Primero Microsoft ignoró el Software Libre ) **Then they laugh at you.** (Luego Microsoft se burló del Software Libre) **Then they fight you.** (Luego Microsoft empezó a luchar contra el software Libre- Lo cual refleja mi [post](/2007/05/16/microsoft-tiene-miedo/)) **Then you win.** (Finalmente el Software Libre vencerá) --Mohandas Gandhi Interesante la cita de Gandhi y muy interesante el
+
+video de Red Hat.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=xRa6uoE7HLw)

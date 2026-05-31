@@ -13,7 +13,11 @@ readingTime: 2
 image: ""
 ---
 
-Cada uno tiene sus sueños, yo acabo de cumplir uno de los míos. Conocer la [Universidad de Stanford](http://www.stanford.edu/), donde se han formado los directivos y emprendedores de las principales empresas actuales de tecnología. Aquí va la lista de empresas que alumnos de Stanford han creado o dirigen:
+Cada uno tiene sus sueños, yo acabo de cumplir uno de los míos: conocer la [Universidad de Stanford](http://www.stanford.edu/), donde se han formado los directivos y emprendedores de las principales empresas actuales de tecnología.
+
+## Empresas creadas o dirigidas por alumnos de Stanford
+
+Aquí va la lista de empresas que alumnos de Stanford han creado o dirigen:
 
 -   HP
 -   Google
@@ -26,4 +30,25 @@ Cada uno tiene sus sueños, yo acabo de cumplir uno de los míos. Conocer la [Un
 -   Logitech
 -   EA
 
-Casi nada... Stanford está considerada como una de las mejores universidades tecnológicas del mundo junto con la [MIT](http://web.mit.edu/) y [Berkeley](http://berkeley.edu/). Pues bien después de pasar el día en el Campus, puedo decir que es realmente impresionante, una ciudad en toda regla. Voy a daros algunos de los datos curiosos que me encontré hoy: * El 95% de los alumnos viven en la Universidad * 78 es el número de residencias de estudiantes que existen. * 640 Grupos de estudiantes. * 35 es el número de deportes que se pueden practicar en el campus. * 42 Atletas de Stanford participaron en los juegos olímpicos de 2004. * 1/3 de los estudiantes son extranjeros. * 12.000 es el número de bicicletas estimadas que hay en el campus. * 1.800 profesores. **** Un año en la universidad cuesta la friolera de 50.000$.*** Bueno ahora una vez cumplido mi sueño, os dejo con un vídeo que rodé hoy.... \
+Casi nada...
+
+Stanford está considerada como una de las mejores universidades tecnológicas del mundo, junto con el [MIT](http://web.mit.edu/) y [Berkeley](http://berkeley.edu/). Pues bien, después de pasar el día en el campus, puedo decir que es realmente impresionante: una ciudad en toda regla.
+
+## Algunos datos curiosos del campus
+
+Voy a daros algunos de los datos curiosos que me encontré hoy:
+
+-   El 95% de los alumnos viven en la Universidad.
+-   78 es el número de residencias de estudiantes que existen.
+-   640 grupos de estudiantes.
+-   35 es el número de deportes que se pueden practicar en el campus.
+-   42 atletas de Stanford participaron en los Juegos Olímpicos de 2004.
+-   1/3 de los estudiantes son extranjeros.
+-   12.000 es el número de bicicletas estimadas que hay en el campus.
+-   1.800 profesores.
+
+***Un año en la universidad cuesta la friolera de 50.000 $.***
+
+Bueno, ahora, una vez cumplido mi sueño, os dejo con un vídeo que rodé hoy.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=PBtX0YKdrFU)

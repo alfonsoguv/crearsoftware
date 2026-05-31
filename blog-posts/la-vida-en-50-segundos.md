@@ -14,4 +14,6 @@ noindex: true
 image: ""
 ---
 
-Nos preocupamos por situaciones que cuando miramos atrás pierden toda la importancia. Según pasa el tiempo los eventos realmente importantes se van comprimiendo hasta dejarlos en tan sólo 50 segundos.
+Nos preocupamos por situaciones que, cuando miramos atrás, pierden toda la importancia. Según pasa el tiempo, los eventos realmente importantes se van comprimiendo hasta dejarlos en tan sólo 50 segundos.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=ZWlbZO92ZyA)

@@ -14,4 +14,6 @@ noindex: true
 image: ""
 ---
 
-Me encontré el otro día en google este video que me parecio muy divertido: `
+Me encontré el otro día en google este video que me parecio muy divertido:
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=7cSd3df1znU)

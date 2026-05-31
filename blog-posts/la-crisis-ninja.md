@@ -3,7 +3,7 @@ title: "La crisis Ninja"
 slug: "la-crisis-ninja"
 date: "2008-10-20"
 oldUrl: "/2008/10/20/la-crisis-ninja/"
-description: "Como se puede explicar algo tan complicado de una manera tan sencilla, simplemente genial:"
+description: "Cómo se puede explicar algo tan complicado de una manera tan sencilla, simplemente genial."
 category: "innovacion-digital"
 tags: ["crisis", "economia", "hipotecas", "finanzas"]
 readingTime: 1
@@ -14,4 +14,6 @@ noindex: true
 image: ""
 ---
 
-Como se puede explicar algo tan complicado de una manera tan sencilla, simplemente genial:
+Cómo se puede explicar algo tan complicado de una manera tan sencilla, simplemente genial:
+
+[Ver el vídeo en YouTube](http://es.youtube.com/watch?v=lU-j2mIwOpE)

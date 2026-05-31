@@ -10,7 +10,11 @@ readingTime: 1
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 96
-image: ""
+image: "/wp-content/uploads/2008/10/truenos.jpg"
 ---
 
-El periodo medio de maduración es un instrumento vital de la política de empresa. Es un concepto que está emparentado con el de rotación. Sus valores respectivos varían de manera correlativa e inversa. Dado que el periodo medio de maduración se refiere al proceso de avance de la producción desde el aprovisionamiento de los factores hasta el cobro del producto vendido, puede deducirse que se repite en la empresa una y otra vez. Por ello la duración media de este ciclo de explotación (denominación que sugiere su comportamiento circular) se conoce como periodo medio de maduración.
+![Periodo medio de maduración](/wp-content/uploads/2008/10/truenos.jpg)
+
+El periodo medio de maduración es un **instrumento vital de la política de empresa**. Es un concepto que está emparentado con el de rotación: sus valores respectivos varían de manera correlativa e inversa.
+
+Dado que el periodo medio de maduración se refiere al proceso de avance de la producción desde el aprovisionamiento de los factores hasta el cobro del producto vendido, puede deducirse que se repite en la empresa una y otra vez. Por ello, la duración media de este **ciclo de explotación** —denominación que sugiere su comportamiento circular— se conoce como periodo medio de maduración.

@@ -10,18 +10,24 @@ author: "Alfonso Gutiérrez"
 commentCount: 5
 wordCount: 233
 readingTime: 2
-image: ""
+image: "/wp-content/uploads/2011/02/guia-de-interfaz.png"
 ---
 
-Cada día me gusta más el diseño, aunque no tengo gusto ni nunca fui un gran amante de los pequeños detalles, nunca es tarde si la dicha es buena. Cuanto más leo, más tiempo paso con mi mentor Dani y más tiempo le dedico, más me apasiona eso que llaman "diseño". Llevamos muchos meses trabajando en una Guía de diseño de Interfaz para el desarrollo de aplicaciones en [Velneo V7](http://velneo.es/) y de ese trabajo saco grandes conclusiones:
+Cada día me gusta más el diseño. Aunque no tengo gusto ni nunca fui un gran amante de los pequeños detalles, nunca es tarde si la dicha es buena. Cuanto más leo, más tiempo paso con mi mentor Dani y más tiempo le dedico, más me apasiona eso que llaman "diseño".
 
-1. Diseña tu producto pensando en las personas y sus capacidades no en las capacidades de la computadora.
-2. Crea modelos mentales de uso de tus aplicaciones a partir de ver cómo realiza los procesos en la realidad los usuarios.
-3. Piensa que la gente normal no se sienta delante de un ordenador todo el día por gusto sino porque su trabajo les obliga a ello.
-4. Los usuarios tienen sus necesidades, sus objetivos, sus expectativas y siempre tienen trabajo que hacer, ¿lo conoces?
+Llevamos muchos meses trabajando en una **guía de diseño de interfaz** para el desarrollo de aplicaciones en [Velneo V7](http://velneo.es/) y de ese trabajo saco grandes conclusiones.
+
+## 8 principios para diseñar el interfaz de un software
+
+1. **Diseña tu producto pensando en las personas** y sus capacidades, no en las capacidades de la computadora.
+2. **Crea modelos mentales** de uso de tus aplicaciones a partir de ver cómo realizan los procesos en la realidad los usuarios.
+3. Piensa que la gente normal no se sienta delante de un ordenador todo el día por gusto, sino porque su trabajo les obliga a ello.
+4. Los usuarios tienen sus necesidades, sus objetivos, sus expectativas y siempre tienen trabajo que hacer. ¿Lo conoces?
 5. Piensa en el usuario y las tareas que realizará con el software.
-6. Céntrate en la funcionalidad que es absolutamente necesaria para que los usuarios completen su trabajo.
-7. Diseña un software uniforme pero deja espacio a la irregularidad para destacar y dar importancia a elementos críticos.
-8. Reduce el ruido visual.
+6. **Céntrate en la funcionalidad** que es absolutamente necesaria para que los usuarios completen su trabajo.
+7. Diseña un software uniforme, pero deja espacio a la irregularidad para destacar y dar importancia a elementos críticos.
+8. **Reduce el ruido visual.**
 
-Esta pantalla está diseñada a mano por mi amigo y compañero [Jesús Arboleya](http://jarboleya.com/), que además es un artista como muestra el dibujo a mano alzada.
+Esta pantalla está diseñada a mano por mi amigo y compañero [Jesús Arboleya](http://jarboleya.com/), que además es un artista, como muestra el dibujo a mano alzada.
+
+[![Guía de interfaz](/wp-content/uploads/2011/02/guia-de-interfaz.png)](/wp-content/uploads/2011/02/guia-de-interfaz.png)

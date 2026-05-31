@@ -10,12 +10,14 @@ author: "Alfonso Gutiérrez"
 commentCount: 4
 wordCount: 477
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2014/05/razones-compartir-en-facebook-622x414.jpg"
 ---
 
 [Airbnb](https://www.airbnb.es) y [Blablacar](http://www.blablacar.es) son servicios web que están creciendo como la espuma. Al final, tener una casa vacía parte del año o viajar a Madrid solo en coche es un desperdicio de costes; si compartimos, ahorramos. Si aprovecháramos la comida que se tira diariamente, se acabaría el hambre en el mundo.
 
 Esa es la base del Cloud: economía de escala y ahorro de costes. El Cloud consigue que compartamos infraestructuras; en vez de tener millones de máquinas locales que la mayoría del día no hacen nada, compartimos infraestructuras para ahorrar en costes. El crecimiento de soluciones en cloud no parará de crecer, ya que cada día se abarata el ancho de banda y el coste de infraestructura. Es una evolución imparable.
+
+![Razones para compartir](/wp-content/uploads/2014/05/razones-compartir-en-facebook-622x414.jpg)
 
 ## Mis datos, mi pequeño tesoro
 

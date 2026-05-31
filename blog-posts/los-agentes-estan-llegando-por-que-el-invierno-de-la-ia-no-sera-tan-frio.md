@@ -3,7 +3,7 @@ title: "Los Agentes Están Llegando: Por Qué el Invierno de la IA No Será Tan 
 slug: "los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio"
 date: "2025-01-01"
 oldUrl: "/2025/01/01/los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio/"
-description: "A medida que nos adentramos en 2025, la industria de la IA se encuentra en un punto de entusiasmo y también de incertidumbre. Mientras algunos se..."
+description: "Por qué 2025 no traerá un invierno de la IA y por qué las oportunidades para las startups que resuelvan la última milla serán mayores que nunca."
 category: "inteligencia-artificial"
 tags: ["inteligencia artificial","productividad"]
 readingTime: 11
@@ -24,6 +24,8 @@ A medida que nos adentramos en 2025, la industria de la IA se encuentra en un pu
 En este artículo, compartiré algunas reflexiones sobre lo que podemos esperar en este año que comienza. No esperes profecías osadas (mi bola de cristal sigue igual de borrosa), pero te cuento por qué creo que no viviremos un “invierno de la IA” y por qué las oportunidades para las startups podrían ser más grandes que nunca.
 
 * * *
+
+## 1) El pre-entrenamiento podría estar llegando a rendimientos decrecientes, pero no es el “fin de la escala”
 
 Cada vez hay más personas que dicen que nos acercamos al “fin de las leyes de la escala” en los modelos de lenguaje. Esta visión se alimenta del hecho de que GPT-5 aún no ha salido, y que las mejoras recientes de OpenAI se deben más a innovaciones en otros frentes que al mero aumento de tamaño de los modelos. Además, Ilya Sutskever —cofundador de OpenAI— recientemente avivó el debate declarando el fin de la era del pre-entrenamiento.
 
@@ -59,6 +61,8 @@ Tal y como dijo Richard Socher, si llega un invierno de la IA, será un invierno
 
 * * *
 
+## 3) … pero algunas de las startups más destacadas no sobrevivirán
+
 En estos años, muchas startups de IA han pasado de 0 a varios millones de dólares en ARR (incluso más) a una velocidad que antes era muy inusual. Hay varios motivos:
 
 -   **Construir productos de IA es más fácil que nunca.** Los avances hacen que sea posible asombrar a los usuarios, y en ciertos nichos la demanda ha explotado.
@@ -73,6 +77,8 @@ Aun así, me temo que muchas de estas startups, tras un crecimiento vertiginoso,
 En definitiva, la ola de la IA sube muchas embarcaciones, pero no todas se mantendrán a flote.
 
 * * *
+
+## 4) Las startups resolverán el “problema de la última milla” de la IA
 
 Cuando salió ChatGPT, muchos en el mundo tech (incluyéndome) nos preguntamos: “Si la IA sigue avanzando tan rápido, ¿qué queda para las startups? ¿No lo harán todo OpenAI, Anthropic y Google con sus grandes LLM? ¿Todavía necesitaremos software especializado si en unos años tenemos un supermodelo que acceda a todos los datos de la empresa?”
 
@@ -111,6 +117,8 @@ Sin embargo, me pregunto si realmente tiene sentido a largo plazo humanizar tant
 Aún queda mucho por descubrir sobre cómo encaja la IA en los equipos humanos, pero mi intuición es que los “empleados de IA” con cara y nombre no serán la solución definitiva.
 
 * * *
+
+## 6) Con IA *agente*, repensaremos la interacción humano-computadora
 
 La IA agente (modelos capaces de navegar por la web, ejecutar código, usar herramientas externas y realizar transacciones) exige que repensemos por completo cómo interactuamos con el software. No estamos acostumbrados a otorgarle tanto poder a un sistema, y uno de los mayores retos será definir qué pueden hacer estos agentes de forma independiente y dónde deben pedir confirmación humana.
 

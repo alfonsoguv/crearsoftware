@@ -10,7 +10,7 @@ readingTime: 1
 author: "Alfonso Gutiérrez"
 commentCount: 2
 wordCount: 85
-image: ""
+image: "/wp-content/uploads/2007/05/shell_shadow_79663_l.jpg"
 ---
 
 Cita de Ken Blanchard en la última edición de expomanagement
@@ -19,4 +19,4 @@ Cita de Ken Blanchard en la última edición de expomanagement
 
  **Y es que las personas no son el recurso más importante de la organización; ellas son la organización.**
 
-<!-- Imagen: shell -->
+![shell](/wp-content/uploads/2007/05/shell_shadow_79663_l.jpg)

@@ -14,4 +14,6 @@ noindex: true
 image: ""
 ---
 
-90 Segundos de anuncio te hacen ver que muchas veces te cabreas por tonterías, que vemos problemas donde sólo hay situaciones y que la vida son algo más que 90 segundos.
+90 segundos de anuncio te hacen ver que muchas veces te cabreas por tonterías, que vemos problemas donde sólo hay situaciones y que la vida es algo más que 90 segundos.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=v2IFPLJCZS8)

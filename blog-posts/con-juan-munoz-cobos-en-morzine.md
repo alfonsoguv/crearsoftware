@@ -13,8 +13,14 @@ readingTime: 1
 image: ""
 ---
 
-Estas navidades han sido especiales por muchas cosas. El nuevo año lo he celebrado en Morzine (Francia) con Juan, David y unos amigos. Ha sido una suerte estar con ellos y ver los avances de V7.
+Estas navidades han sido especiales por muchas cosas. El nuevo año lo he celebrado en Morzine (Francia) con Juan, David y unos amigos.
 
-Estar con Juan es cargarte de energía. Tiene esa facilidad para llevarte a las nubes, hacerte soñar y enseñarte cosas como nunca nadie te las ha enseñado antes.
+Ha sido una suerte estar con ellos y ver los avances de V7. Estar con Juan es cargarte de energía. Tiene esa facilidad para llevarte a las nubes, hacerte soñar y enseñarte cosas como nunca nadie te las ha enseñado antes.
 
-Cuando Juan saca una versión de un producto siempre desarrolla una aplicación de prueba que es la del Tour de Francia. Pues en Morzine me hizo una demo de su aplicación del Tour en V7. Os dejo con este pequeño vídeo que es una muestra de lo que se vivió estas navidades en Francia. Espero que os ilusione tanto como a mí.
+## La demo del Tour de Francia en V7
+
+Cuando Juan saca una versión de un producto siempre desarrolla una aplicación de prueba que es la del Tour de Francia. Pues en Morzine me hizo una demo de su aplicación del Tour en V7.
+
+Os dejo con este pequeño vídeo, que es una muestra de lo que se vivió estas navidades en Francia. Espero que os ilusione tanto como a mí.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=b0L3VjLFaK4&fmt=18)

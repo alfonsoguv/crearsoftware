@@ -3,7 +3,7 @@ title: "Presentación Web 2.0"
 slug: "presentacion-web-20"
 date: "2007-12-06"
 oldUrl: "/2007/12/06/presentacion-web-20/"
-description: "Presentación sobre Web 2.0 en la Universidad de Limerick: conceptos clave de la evolución de Internet y las aplicaciones colaborativas."
+description: "Antes de mi charla en inglés sobre Web 2.0 en la Universidad de Limerick, comparto la presentación de SlideShare que más me ha inspirado."
 category: "innovacion-digital"
 tags: ["web", "innovación", "conferencias"]
 readingTime: 1
@@ -14,4 +14,12 @@ noindex: true
 image: ""
 ---
 
-Mañana tengo que hacer una presentación en Inglés en la Universidad de Limerick sobre la Web 2.0.  A ver que tal sale, de momento buscando en la red material, la presentación en la que me voy a basar porque más me ha gustado es la siguente: \[slideshare id=14236&doc=web-20-and-the-online-conversation-7769&w=425\]
+## Presentación sobre la Web 2.0 en la Universidad de Limerick
+
+Mañana tengo que hacer una presentación en inglés en la **Universidad de Limerick** sobre la **Web 2.0**. A ver qué tal sale.
+
+De momento estoy buscando material en la red. La presentación en la que me voy a basar, porque es la que más me ha gustado, es la siguiente:
+
+> **Web 2.0 and the Online Conversation** — presentación publicada en SlideShare (id `14236`, documento `web-20-and-the-online-conversation-7769`).
+
+_Nota: el embed original de SlideShare ya no está disponible en línea._
