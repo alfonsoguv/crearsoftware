@@ -106,4 +106,10 @@ En este escenario, los profesionales deberán **reinventarse**, enfocándose en
 -   Para matemáticos y otros roles simbólicos, la clave estará en **fusionar** el ingenio humano con las capacidades imbatibles de la IA.
 -   Para el resto de los trabajadores, la IA y la robótica irán llegando con más lentitud, pero no deja de ser cuestión de tiempo.
 
-¿Estás listo para este futuro? El cambio, aunque **emocionante**, puede ser **abrumador**. Adaptarnos a esta ola de innovación será determinante para aprovechar al máximo las posibilidades que la IA nos ofrece. ¡Nos vemos en la próxima actualización, que seguramente llegará **antes** de lo que imaginas!
+¿Estás listo para este futuro? El cambio, aunque **emocionante**, puede ser **abrumador**. Adaptarnos a esta ola de innovación será determinante para aprovechar al máximo las posibilidades que la IA nos ofrece. ¡Nos vemos en la próxima actualización, que seguramente llegará **antes** de lo que imaginas!
+
+## Artículos relacionados
+
+- [Reflexiones sobre la evolución de OpenAI hacia la AGI](/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/)
+- [Modelos de Voz a Voz (S2S): la revolución en la IA conversacional](/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/)
+- [Cómo los bots de IA están transformando las ventas y el marketing en España](/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/)
