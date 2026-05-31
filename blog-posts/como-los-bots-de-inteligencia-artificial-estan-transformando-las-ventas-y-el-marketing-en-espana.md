@@ -95,3 +95,10 @@ Si estás pensando en integrar un bot de IA, sigue estos pasos:
 Los bots de inteligencia artificial no son el futuro, son el presente. En España, empresas de todos los tamaños ya están comprobando que automatizar procesos comerciales mejora la eficiencia y aumenta las ventas. Con herramientas como Victoria, la transformación es más accesible que nunca.
 
 Es el momento de dar el salto. ¡Aprovecha esta tecnología y lleva tu negocio al siguiente nivel!
+
+## Artículos relacionados
+
+- [Modelos o3 de OpenAI: la IA que ya supera a los mejores programadores](/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/)
+- [Modelos de Voz a Voz (S2S): la revolución en la IA conversacional](/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/)
+- [Reflexiones sobre la evolución de OpenAI hacia la AGI](/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/)
+

@@ -137,3 +137,9 @@ Los desafíos incluyen privacidad y seguridad, comprensión de acentos y dialect
 ## Conclusión
 
 Los modelos de Voz a Voz (S2S) están redefiniendo las interacciones conversacionales al ofrecer traducciones y respuestas en tiempo real sin necesidad de texto intermedio. Con aplicaciones en atención al cliente, educación, salud y más, esta tecnología está transformando la forma en que las personas y las empresas se comunican en un mundo cada vez más conectado. Aunque aún existen desafíos, el potencial de los modelos S2S es inmenso, y su impacto en la sociedad será significativo en los próximos años.
+
+## Artículos relacionados
+
+- [Cómo los bots de IA están transformando las ventas y el marketing en España](/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/)
+- [Modelos o3 de OpenAI: la IA que ya supera a los mejores programadores](/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/)
+- [Reflexiones sobre la evolución de OpenAI hacia la AGI](/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/)
