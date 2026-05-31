@@ -1,9 +1,9 @@
 ---
-title: "Plataformas de agentes de voz con IA en Europa (especial foco en España)"
+title: "Agentes de voz con IA para empresas: guía y plataformas (España y Europa)"
 slug: "plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana"
 date: "2025-03-29"
 oldUrl: "/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/"
-description: "Comparativa de las mejores plataformas de agentes de voz con IA en España y Europa: proveedores, precios, casos de uso y criterios de elección."
+description: "Guía de agentes de voz con IA para empresas: compara las mejores plataformas en España y Europa, precios, casos de uso y cómo elegir la tuya."
 category: "inteligencia-artificial"
 tags: ["inteligencia artificial", "agentes de voz", "automatización", "ventas", "tecnología"]
 readingTime: 7
