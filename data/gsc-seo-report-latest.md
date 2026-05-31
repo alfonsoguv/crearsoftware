@@ -1,6 +1,6 @@
 # Google Search Console SEO report
 
-Fecha de generacion: 2026-05-31T19:10:46.858Z
+Fecha de generacion: 2026-05-31T20:10:50.799Z
 Propiedad configurada: sc-domain:crearsoftware.com
 Propiedad usada: sc-domain:crearsoftware.com
 Periodo: 2026-05-03 -> 2026-05-30
