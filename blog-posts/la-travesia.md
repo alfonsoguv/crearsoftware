@@ -10,11 +10,13 @@ readingTime: 1
 author: "Alfonso Gutiérrez"
 commentCount: 3
 wordCount: 140
-image: ""
+image: "/wp-content/uploads/2007/10/mar.jpg"
 ---
 
-***La fuerza con la que tira el equipo de un proyecto puede empujar mucho más que el viento sobre las velas de un navío. El esfuerzo, el compromiso con el grupo, la responsabilidad del líder con su tripulación y otras muchas enseñanzas que pueden darse en el mar son perfectamente traspasables al ámbito de la empresa especialmente en lo que tiene que ver con la cohesión del grupo convitiéndolo casi en una "gran familia".***
+![El mar abierto, metáfora de la travesía de un equipo](/wp-content/uploads/2007/10/mar.jpg)
 
-***"Lo que el ser humano no mejora el tiempo lo deteriora" mejoremos cada día, no bajemos nunca la guardia, escuchemos a nuestro entorno, y surquemos por el mar de la vida, viento en popa a toda vela hacia el destino deseado. La vida no es para pasarla, sino para vivirla, y los más atrevidos, para construirla.***
+> **La fuerza con la que tira el equipo de un proyecto puede empujar mucho más que el viento sobre las velas de un navío.** El esfuerzo, el compromiso con el grupo, la responsabilidad del líder con su tripulación y otras muchas enseñanzas que pueden darse en el mar son perfectamente trasladables al ámbito de la empresa, especialmente en lo que tiene que ver con la cohesión del grupo, convirtiéndolo casi en una "gran familia".
 
-Gustavo Piera Trius, autor de libro "**[**La travesia**](http://libros.linkara.com/libro/travesia-18-claves-llegar-buen-puerto-gustavo-piera-mihe.html)**"
+> **"Lo que el ser humano no mejora, el tiempo lo deteriora."** Mejoremos cada día, no bajemos nunca la guardia, escuchemos a nuestro entorno y surquemos el mar de la vida, viento en popa a toda vela, hacia el destino deseado. La vida no es para pasarla, sino para vivirla; y los más atrevidos, para construirla.
+
+Gustavo Piera Trius, autor del libro **["La travesía"](http://libros.linkara.com/libro/travesia-18-claves-llegar-buen-puerto-gustavo-piera-mihe.html)**.

@@ -11,8 +11,11 @@ author: "Alfonso Gutiérrez"
 commentCount: 1
 wordCount: 39
 noindex: true
-image: ""
+image: "/wp-content/uploads/2007/06/king.jpg"
 ---
+
+![el rey](/wp-content/uploads/2007/06/king.jpg)
+
 El modelo de negocio de Apple se basa en 4 pílares básicos:
 
 -   Hacer que el producto sea el rey.

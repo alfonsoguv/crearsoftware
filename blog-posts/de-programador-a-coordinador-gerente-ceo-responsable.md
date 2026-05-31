@@ -3,7 +3,7 @@ title: "De programador a Coordinador, Gerente, CEO, Responsable"
 slug: "de-programador-a-coordinador-gerente-ceo-responsable"
 date: "2011-10-27"
 oldUrl: "/2011/10/27/de-programador-a-coordinador-gerente-ceo-responsable/"
-description: "8:00 de la mañana lobby del hotel en Alemania, llevo sin escribir por lo menos tres semanas, tres semanas de viajes, conferencias, reuniones,..."
+description: "Tras las QT Developer Days reflexiono sobre por qué dejé de programar para coordinar y gestionar, y por qué no lo cambiaría por nada."
 category: "desarrollo-software"
 tags: ["coordinador","gerente","programador","responsable"]
 readingTime: 3
@@ -12,4 +12,28 @@ commentCount: 5
 wordCount: 444
 image: ""
 ---
-8:00 de la mañana lobby del hotel en Alemania, llevo sin escribir por lo menos tres semanas, tres semanas de viajes, conferencias, reuniones, entrevistas y mucho trabajo. Tras desayunar y responder a todo el correo pendiente noto que se abre una espacio para escribir en el blog y empiezo a teclear. A mi derecha Fernando Espadas uno de los programadores en C++ más brillantes que he conocido en mi vida está leyendo un libro, nos hacemos compañía sin necesidad de hablar, cada uno está centrado en su tarea. Acaban de finalizar las [QT Developer Days](http://qt.nokia.com/qtdevdays2011/), hacía años que no pasaba tanto tiempo centrado con aspectos técnicos. Últimamente paso más tiempo con gestión, Mk, estrategia, recursos humanos, organización y aspectos no relacionados con la programación. En parte siento que estar rodeado de gente como Juan Muñoz-Cobos, David, Tito o el mismo Fernando me haga sentir como ¿Qué les puedo aportar yo a gente tan buena? Me siento seguro es ese aspecto, totalmente cubierto. Pasar 4 días rodeado de 1000 programadores de diferentes países me hizo remover épocas en las que picaba código y me quedaba noches en vela por acabar un proceso y rematar un programa, lo adoraba!. Siempre he dicho que cuando no eres lo suficientemente brillante para programar te tienes que pasar a coordinar y gestionar, ese es mi caso. Me encanta mi trabajo actual, me apasiona, pero siento cierta añoranza de mis épocas de programador, incluso he desarrollado algún programilla en Velneo V7 pero siempre asuntos “más importantes” se llevan mi tiempo y atención. Para mi ha sido muy importante este viaje y esta conferencia, entender y profundizar en muchas materias que en mi día a día es imposible que pueda entrar. QML, QT Quick, QT 5.0, WebKit, C++ 11, Estructuras, Punteros a Memoria, HTML 5, CSS, SSLSocket, Clases, QTmultimedia. Gracias a estar aquí y sentir todas esto, me llevo mucha información en la cabeza y puedo aplicar todas estas enseñanzas a completar la estrategia del próximo año. Tuve claro con 25 años que si quería tener una empresa de verdad debía dejar de programar (por el bien de los productos :) ) y me siento muy orgulloso del paso que dí. Hay mucha gente que se encuentra en esta tesitura y divaga entre los dos mundos, pero tienes que elegir que quieres hacer con tu vida y apostar por una sola dirección. Yo elegí emprender y crear proyectos, sacrifiqué algo que amaba profundamente para encontrar el camino de lo que realmente quería ser y hoy día siento que ha sido una de las mejores decisiones de mi vida. AMO lo que hago y no lo cambiaría por nada. ¿y tú?
+8:00 de la mañana, lobby del hotel en Alemania. Llevo sin escribir por lo menos tres semanas: tres semanas de viajes, conferencias, reuniones, entrevistas y mucho trabajo.
+
+Tras desayunar y responder a todo el correo pendiente, noto que se abre un espacio para escribir en el blog y empiezo a teclear. A mi derecha, Fernando Espadas, uno de los programadores en C++ más brillantes que he conocido en mi vida, está leyendo un libro. Nos hacemos compañía sin necesidad de hablar; cada uno está centrado en su tarea.
+
+Acaban de finalizar las [QT Developer Days](http://qt.nokia.com/qtdevdays2011/). Hacía años que no pasaba tanto tiempo centrado en aspectos técnicos. Últimamente paso más tiempo con gestión, Mk, estrategia, recursos humanos, organización y aspectos no relacionados con la programación. En parte siento que estar rodeado de gente como Juan Muñoz-Cobos, David, Tito o el mismo Fernando me haga sentir como ¿qué les puedo aportar yo a gente tan buena? Me siento seguro en ese aspecto, totalmente cubierto.
+
+Pasar 4 días rodeado de 1000 programadores de diferentes países me hizo remover épocas en las que picaba código y me quedaba noches en vela por acabar un proceso y rematar un programa. ¡Lo adoraba! Siempre he dicho que cuando no eres lo suficientemente brillante para programar te tienes que pasar a coordinar y gestionar, ese es mi caso.
+
+Me encanta mi trabajo actual, me apasiona, pero siento cierta añoranza de mis épocas de programador. Incluso he desarrollado algún programilla en Velneo V7, pero siempre asuntos "más importantes" se llevan mi tiempo y atención.
+
+## Lo que me llevo de la conferencia
+
+Para mí ha sido muy importante este viaje y esta conferencia: entender y profundizar en muchas materias en las que en mi día a día es imposible que pueda entrar. QML, QT Quick, QT 5.0, WebKit, C++ 11, Estructuras, Punteros a Memoria, HTML 5, CSS, SSLSocket, Clases, QTmultimedia.
+
+Gracias a estar aquí y sentir todo esto, me llevo mucha información en la cabeza y puedo aplicar todas estas enseñanzas a completar la estrategia del próximo año.
+
+## Elegir una sola dirección
+
+Tuve claro con 25 años que, si quería tener una empresa de verdad, debía dejar de programar (por el bien de los productos :) ), y me siento muy orgulloso del paso que di.
+
+Hay mucha gente que se encuentra en esta tesitura y divaga entre los dos mundos, pero tienes que elegir qué quieres hacer con tu vida y apostar por una sola dirección.
+
+Yo elegí emprender y crear proyectos. Sacrifiqué algo que amaba profundamente para encontrar el camino de lo que realmente quería ser, y hoy día siento que ha sido una de las mejores decisiones de mi vida.
+
+**AMO lo que hago y no lo cambiaría por nada.** ¿Y tú?

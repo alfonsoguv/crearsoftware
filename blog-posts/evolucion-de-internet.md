@@ -14,3 +14,5 @@ noindex: true
 image: ""
 ---
 Descubrí hace tiempo este interesante vídeo en internet sobre la evolución de la RED.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=bsNcjya56v8)

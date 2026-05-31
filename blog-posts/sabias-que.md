@@ -3,7 +3,7 @@ title: "¿Sabías que..?"
 slug: "¿sabias-que"
 date: "2009-06-21"
 oldUrl: "/2009/06/21/%c2%bfsabias-que/"
-description: "Datos curiosos y estadísticas sobre tecnología e Internet que te sorprenderán y cambiarán tu perspectiva."
+description: "Un vídeo para reflexionar: vivimos en un mundo exponencial."
 category: "innovacion-digital"
 tags: ["innovación digital"]
 author: "Alfonso Gutiérrez"
@@ -14,4 +14,4 @@ noindex: true
 image: ""
 ---
 
-\
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=jpEnFwiqdx8)

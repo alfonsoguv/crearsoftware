@@ -1,5 +1,5 @@
 ---
-title: "¿Cuál es la historía del Corte Inglés?"
+title: "¿Cuál es la historia del Corte Inglés?"
 slug: "¿cual-es-la-historia-del-corte-ingles"
 date: "2008-05-18"
 oldUrl: "/2008/05/18/%c2%bfcual-es-la-historia-del-corte-ingles/"
@@ -13,15 +13,19 @@ readingTime: 7
 image: ""
 ---
 
+[![El Corte Inglés SA](http://upload.wikimedia.org/wikipedia/en/thumb/4/45/Corteingles2.jpg/202px-Corteingles2.jpg)](http://en.wikipedia.org/wiki/Image:Corteingles2.jpg)
+
+*Imagen vía [Wikipedia](http://en.wikipedia.org/wiki/Image:Corteingles2.jpg).*
+
 ## Los orígenes de Ramón Areces
 
-[Ramón Areces](http://en.wikipedia.org/wiki/Ram%C3%B3n_Areces "Ramón Areces") Rodríguez, fundador de [El Corte Inglés](http://www.elcorteingles.es/ "El Corte Inglés"), nace en el pueblo de Grado (Asturias) en 1904, en una humilde familia de agricultores con escaso patrimonio. Con apenas quince años se embarca rumbo a Cuba, donde un tío materno suyo le ofrece un puesto de recadero en los más famosos almacenes de La Habana, llamados El Encanto.
+[Ramón Areces](http://en.wikipedia.org/wiki/Ram%C3%B3n_Areces "Ramón Areces") Rodríguez, fundador de [El Corte Inglés](http://www.elcorteingles.es/ "El Corte Inglés"), nace en el pueblo de Grado (Asturias) en 1904, en una humilde familia de agricultores con escaso patrimonio. Con apenas quince años se embarca rumbo a [Cuba](http://en.wikipedia.org/wiki/Cuba "Cuba"), donde un tío materno suyo le ofrece un puesto de recadero en los más famosos almacenes de [La Habana](http://en.wikipedia.org/wiki/Havana "Havana"), llamados El Encanto.
 
 Ramón Areces carecía prácticamente de formación, puesto que apenas fue a la escuela en sus primeros años. Sin embargo, en Cuba, gracias a su empleo y a algunos viajes que hizo durante los años veinte por Estados Unidos y Canadá, aprendió las técnicas comerciales de Estados Unidos, basadas en la agresividad y la diversificación.
 
 ## La fundación de El Corte Inglés
 
-Vuelve a España en 1934, donde por 900 euros compra una pequeña sastrería situada en la calle Carmen de Madrid. El comercio se llamaba El Corte Inglés. Éste es el origen del actual grupo empresarial, que en 2002 facturó 13.000 millones de euros y dio empleo a unas sesenta mil personas.
+Vuelve a España en 1934, donde **por 900 euros compra una pequeña sastrería** situada en la calle Carmen de [Madrid](http://en.wikipedia.org/wiki/Madrid "Madrid"). El comercio se llamaba El Corte Inglés. Éste es el origen del actual grupo empresarial, que en 2002 facturó 13.000 millones de euros y dio empleo a unas sesenta mil personas.
 
 ## Vida personal y rivalidad empresarial
 
@@ -63,4 +67,6 @@ Es un estilo de dirección basado en la eficacia y la responsabilidad, con un n�
 
 Entre las ventajas, cabe citar un adecuado sistema remunerativo, así como los descuentos en las compras o créditos sin recargo alguno. Todo esto va acompañado de una política de formación del personal, y en su caso promoción, que cuenta con dos instituciones propias: el Instituto de Estudios profesionales, para cursos de carácter técnico o profesional y el Centro de Estudios Universitarios Ramón Areces, para acceder a la universidad y a distintas carreras universitarias.
 
-Tanto las políticas como el estilo de dirección se basan en un personal eficiente, motivado y responsable que han configurado una cultura que responde desde hace años a estos lemas: compromiso con el cliente, máxima seriedad, eficacia administrativa e innovación permanente de servicios y procedimientos.
+Tanto las políticas como el estilo de dirección se basan en un personal eficiente, motivado y responsable que han configurado una cultura que responde desde hace años a estos lemas:
+
+> Compromiso con el cliente, máxima seriedad, eficacia administrativa e innovación permanente de servicios y procedimientos.

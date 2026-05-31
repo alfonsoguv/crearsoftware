@@ -10,8 +10,10 @@ author: "Alfonso Gutiérrez"
 commentCount: 2
 wordCount: 973
 readingTime: 5
-image: ""
+image: "/wp-content/uploads/2007/08/animal_afro_gambia_13423_l.jpg"
 ---
+
+![Tipología de blogs](/wp-content/uploads/2007/08/animal_afro_gambia_13423_l.jpg)
 
 El carácter abierto del fenómeno de los blogs, su evolución acelerada y la heterogeneidad de sus diferentes concreciones complican bastante el establecimiento de tipologías definidas y estables para clasificarlos. Así, hasta ahora han ido perfilándose varias tipologías complementarias que inventarían y caracterizan los tipos de blog según los diferentes elementos adoptados como referencia básica de análisis.
 

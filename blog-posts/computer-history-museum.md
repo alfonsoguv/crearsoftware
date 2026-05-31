@@ -15,3 +15,5 @@ image: ""
 ---
 
 Una de las cosas que más me gustó de mi visita a San Francisco fue la visita al [Computer History Museum](http://www.computerhistory.org/). En este museo se podía ver toda la evolución que han tenido las computadoras desde el 1900 hasta nuestros días.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=KlUvs2oECvA)

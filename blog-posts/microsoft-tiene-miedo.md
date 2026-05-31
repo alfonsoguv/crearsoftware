@@ -10,7 +10,7 @@ readingTime: 2
 author: "Alfonso Gutiérrez"
 commentCount: 29
 wordCount: 310
-image: ""
+image: "/wp-content/uploads/2007/05/gorillas.jpg"
 ---
 
 Llevo varios días con la siguiente noticia encima de la [mesa](http://money.cnn.com/magazines/fortune/fortune_archive/2007/05/28/100033867/) , la han comentado diferentes bloggers como [Enrique Dans](http://www.enriquedans.com/2007/05/%c2%bfes-microsoft-la-nueva-riaa.html) en esta noticia se puede apreciar que Microsoft acusa al Software Libre y en concreto a Linux de violar 235 patentes diferentes que poseen.
@@ -28,4 +28,6 @@ Señores de Redmon muchas gracias, **me dan confianza y me demuestran que tienen
 
 **Luchan contra un movimiento ciudadano** que ataca frontalmente su modelo de negocio, como pasó con las discográficas, pero lo están haciendo igual de mal que ellas, se están enfrentando a algo que no van a poder parar.... **porque los individuos sabemos lo que queremos y eso no se puede comprar, cambiar o manipular y menos cuando ya está en marcha.** Gracias Microsoft por darnos la razón que estamos en lo cierto y no nos traten como monos queriendo poner rejas al campo.....
 
-porque no vais a poder. <!-- Imagen: gorillas rejas -->
+porque no vais a poder.
+
+![gorillas rejas](/wp-content/uploads/2007/05/gorillas.jpg)

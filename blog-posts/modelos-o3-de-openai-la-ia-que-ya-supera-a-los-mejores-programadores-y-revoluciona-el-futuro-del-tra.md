@@ -13,7 +13,7 @@ wordCount: 1178
 image: ""
 ---
 
-Este post está basado en el hilo de [twitter de Will Bryk](https://twitter.com/WilliamBryk/status/1871946968148439260)
+> Este post está basado en el hilo de [twitter de Will Bryk](https://twitter.com/WilliamBryk/status/1871946968148439260).
 
 ## 1. El surgimiento de o3: ¿el mejor programador del mundo?
 
@@ -32,7 +32,7 @@ En los últimos meses, OpenAI introdujo **o3**, una nueva generación de modelo
 3.  **Mayor calidad de código:** La asistencia de IA reduce errores en la fase de desarrollo y asegura buenas prácticas de programación.
 4.  **Transformación de roles:** Si la IA se hace cargo de la parte técnica más dura, muchos programadores pasarán a ser coordinadores y diseñadores de proyectos, enfocándose más en la visión y la arquitectura de las aplicaciones.
 
-* * *
+---
 
 ## 2. Del nivel universitario al nivel doctoral en dos meses
 
@@ -41,7 +41,7 @@ OpenAI ya había mostrado el ritmo acelerado de crecimiento de sus modelos: en t
 -   Para los humanos, un cambio tan rápido puede ser **impactante**. Pero la historia tecnológica nos dice que los avances se **acumulan exponencialmente**.
 -   **o3** es el resultado de esta **tendencia imparable** en la que cada mejora se apoya en la anterior, llevándonos a un futuro que hace poco parecía de ciencia ficción.
 
-* * *
+---
 
 ## 3. Lo que viene a corto plazo: “spiky models”
 
@@ -50,7 +50,7 @@ En el próximo año, veremos cómo estos modelos (o-class) serán especialmente 
 -   **Especialización extrema:** o3 podrá crear código con un nivel cercano a la **AGI** (Inteligencia General Artificial) pero tenderá a escribir textos literarios “genéricos”.
 -   **Expansión de dominios:** En 1 a 3 años se añadirán más áreas de conocimiento (emociones, percepciones sensoriales, etc.), parcheando los puntos ciegos.
 
-* * *
+---
 
 ## 4. Agentes inteligentes en 2025
 
@@ -60,7 +60,7 @@ Los modelos o3 y sus sucesores serán capaces de **navegar la web**, interactua
 -   **Viabilidad técnica:** Entrenar un modelo para que navegue e integre datos entre apps no es tan complicado como entrenarlo para reconocer emociones o escribir ficción.
 -   **Fechas clave:** Para diciembre de 2025, es muy probable que puedas pedirle a tu ordenador que realice cualquier flujo de trabajo digital de forma autónoma.
 
-* * *
+---
 
 ## 5. Matemáticos: los más afectados
 
@@ -69,7 +69,7 @@ Los matemáticos podrían ser los primeros en sentir el golpe de la IA. El traba
 -   **700 días para la disrupción:** Se proyecta que en poco menos de dos años (unos 700 días), la IA superará las mejores mentes matemáticas humanas, generando y evaluando hipótesis sin precedentes.
 -   **Riesgo o oportunidad:** Los matemáticos deberán reinventarse, o colaborar con la IA como un socio que ofrece soluciones rápidas a problemas complejos.
 
-* * *
+---
 
 ## 6. El paraíso (temporal) de los ingenieros de software
 
@@ -84,7 +84,7 @@ Los matemáticos podrían ser los primeros en sentir el golpe de la IA. El traba
 -   Con el avance hacia o6, la ingeniería de software será muy diferente, y roles actuales (como *frontend engineer*) podrían desaparecer o cambiar.
 -   Lo fundamental seguirá siendo la capacidad de **comprender las necesidades** de la organización y convertirlas en soluciones lógicas, auxiliadas por IA.
 
-* * *
+---
 
 ## 7. El impacto en los trabajadores físicos: IA y robótica
 
@@ -94,7 +94,7 @@ La IA llega también a tareas físicas, pero de manera **más lenta**, debido a
 -   **Cuello de botella actual:** La parte mecánica y la fiabilidad de los sistemas de percepción/acción siguen siendo el mayor obstáculo.
 -   **Revolución futura:** Una vez que la IA entrene y diseñe sus propios robots, podríamos ver un despegue similar al de la industria del software, pero tomará unos años más.
 
-* * *
+---
 
 ## Conclusión
 

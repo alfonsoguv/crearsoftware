@@ -14,4 +14,4 @@ noindex: true
 image: ""
 ---
 
-Con un buen equipo y una mala idea puedes hacer dinero. Se puede decir más largo pero no más claro
+Con un buen equipo y una mala idea puedes hacer dinero. Se puede decir más largo pero no más claro.

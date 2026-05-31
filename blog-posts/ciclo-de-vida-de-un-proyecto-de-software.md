@@ -13,24 +13,34 @@ readingTime: 3
 image: ""
 ---
 
-La vida no es una tecnología, ni una ciencia. La vida es un arte, has de sentirla. Es como el caminar por una cuerda floja.
+> La vida no es una tecnología, ni una ciencia. La vida es un arte, has de sentirla. Es como el caminar por una cuerda floja.
 
-Los proyectos de software, como la vida y las personas tienen sus ciclos. Como personas vivimos la juventud, madurez y vejez, los proyectos de software son pura vida y es básico conseguir [quitarse el efecto miopía](/2007/11/13/el-efecto-miopia/) y ver ¿Dónde me encuentro en el proyecto?
+Los proyectos de software, como la vida y las personas, tienen sus ciclos. Como personas vivimos la juventud, la madurez y la vejez; los proyectos de software son pura vida y es básico conseguir [quitarse el efecto miopía](/2007/11/13/el-efecto-miopia/) y ver: ¿dónde me encuentro en el proyecto?
 
 ## La juventud - El desarrollo
 
-Estás empezando el proyecto, desarrollo, probar, equivocarte, caer, levantarte, muchas horas delante del ordenador para que el producto empiece a funcionar. Tendrás pocos clientes, los comerciales dirán que no pueden vender porque no hay producto, los clientes te pondrán a parir porque el proyecto está verde y falla mucho. Son las épocas más duras, donde muchos proyectos fracasan.
+Estás empezando el proyecto: desarrollar, probar, equivocarte, caer, levantarte, muchas horas delante del ordenador para que el producto empiece a funcionar. Tendrás pocos clientes, los comerciales dirán que no pueden vender porque no hay producto y los clientes te pondrán a parir porque el proyecto está verde y falla mucho. Son las épocas más duras, donde muchos proyectos fracasan.
 
-**El principal problema de esta fase es principalmente centrarse en desarrollo**, tienes que vender y [crear un producto completo](/2011/04/05/producto-completo-en-software-whole-product-concept/). En las reuniones se hablará siempre del departamento de desarrollo, tu trabajo es llevar la atención al resto de departamentos. **Creerte que puedes vender un producto joven es lo más importante para que tu empresa sobreviva**. ¿Dónde tienes que trabajar más? Precisamente en ayudar al departamento comercial, el departamento de desarrollo se moverá sólo por la presión de clientes y comerciales. Tiempo estimado de 2 a 5 años.
+**El principal problema de esta fase es centrarse en desarrollo**: tienes que vender y [crear un producto completo](/2011/04/05/producto-completo-en-software-whole-product-concept/). En las reuniones se hablará siempre del departamento de desarrollo; tu trabajo es llevar la atención al resto de departamentos. **Creerte que puedes vender un producto joven es lo más importante para que tu empresa sobreviva.** ¿Dónde tienes que trabajar más? Precisamente en ayudar al departamento comercial, ya que el departamento de desarrollo se moverá solo por la presión de clientes y comerciales.
 
-## La Madurez - Producto Completo
+Tiempo estimado de 2 a 5 años (depende del tipo de producto).
 
-El producto funciona, de repente, en las reuniones casi no se habla de los departamentos de desarrollo, el problema pasa a soporte, documentación, demos, formación, necesitamos cosas que no tienen que ver con desarrollo, los manuales, los vídeos, la página web, **los clientes te empiezan a presionar para que tengas un producto completo**, el departamento comercial venderá pero su presión es tener todo listo para que la venta sea más fácil. Los clientes quieren mejor soporte, más rápido. La empresa se equilibra y el trabajo en equipo es básico, debemos apoyar a los departamentos que más ayuda necesiten. Cuanto antes tengas el [producto completo](/2011/04/05/producto-completo-en-software-whole-product-concept/), antes la empresa empezará a vender de manera exponencial. No tener claro tu producto completo, dar bandazos y dejarte llevar por la presión son los principales problemas. Tiempo estimado de 2 a 3 años.
+## La madurez - El [producto completo](/2011/04/05/producto-completo-en-software-whole-product-concept/)
 
-## La Vejez - Crece!
+El producto funciona. De repente, en las reuniones casi no se habla del departamento de desarrollo: el problema pasa a soporte, documentación, demos y formación. Necesitamos cosas que no tienen que ver con desarrollo, como los manuales, los vídeos y la página web. **Los clientes te empiezan a presionar para que tengas un producto completo.** El departamento comercial venderá, pero su presión es tener todo listo para que la venta sea más fácil. Los clientes quieren mejor soporte, más rápido.
 
-Las ventas ya no son un problema, la empresa es rentable, tiene sus recursos, el equipo es sólido, problemas de escalabilidad, de dimensionamiento, de implantación de clientes, la empresa crece y los huesos duelen. Organizar un sólido departamento de ventas produce el crecimiento de consultores, implantadores y personal de soporte. La presión seguirá existiendo pero será diferente. No estar preparados para el crecimiento suele ser uno de los principales problemas de esta fase. Hay que saber vender, crecer y satisfacer a tus clientes. Tiempo estimado de 5 a 10 años.
+La empresa se equilibra y el trabajo en equipo es básico: debemos apoyar a los departamentos que más ayuda necesiten. Cuanto antes tengas el [producto completo](/2011/04/05/producto-completo-en-software-whole-product-concept/), antes la empresa empezará a vender de manera exponencial. No tener claro tu producto completo, dar bandazos y dejarte llevar por la presión son los principales problemas.
 
-## La Muerte
+Tiempo estimado de 2 a 3 años.
 
-Cuando menos te lo esperes y mejor te vaya todo, tu producto empezará a estar obsoleto y de repente... hay que empezar uno nuevo. **La juventud**, si no te das cuenta de esto y cambias el chip **MORIRÁS DE VERDAD.** Empezar de nuevo es doloroso pero necesario, la muerte de un producto es parte de la vida. Tiempo estimado de 5 a 10 años.
+## La vejez - [¡Crece!](/2013/04/04/crecimiento-de-una-empresa-de-software/)
+
+Las ventas ya no son un problema, la empresa es rentable, tiene sus recursos y el equipo es sólido. Aparecen problemas de escalabilidad, de dimensionamiento y de implantación de clientes: la empresa crece y los huesos duelen. Organizar un sólido departamento de ventas produce el crecimiento de consultores, implantadores y personal de soporte. La presión seguirá existiendo, pero será diferente. No estar preparados para el crecimiento suele ser uno de los principales problemas de esta fase. Hay que saber vender, crecer y satisfacer a tus clientes.
+
+Tiempo estimado de 5 a 10 años.
+
+## La muerte
+
+Cuando menos te lo esperes y mejor te vaya todo, tu producto empezará a estar obsoleto y, de repente... hay que empezar uno nuevo. **La juventud.** Si no te das cuenta de esto y cambias el chip, **morirás de verdad.** Empezar de nuevo es doloroso, pero necesario: la muerte de un producto es parte de la vida.
+
+Tiempo estimado de 5 a 10 años.

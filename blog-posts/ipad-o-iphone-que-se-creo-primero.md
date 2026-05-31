@@ -14,4 +14,6 @@ noindex: true
 image: ""
 ---
 
-Sorprendentes declaraciones de Steve Jobs donde explica que estaban creando el IPAD, cuando se dieron cuenta de que podían hacer el teléfono y decidieron aparcar el proyecto inicial de hacer una tablet para centrarse en el popular teléfono. [Video de YouTube](http://www.youtube.com/watch?v=jdbvAdINPPA)
+Sorprendentes declaraciones de Steve Jobs donde explica que estaban creando el IPAD, cuando se dieron cuenta de que podían hacer el teléfono y decidieron aparcar el proyecto inicial de hacer una tablet para centrarse en el popular teléfono.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=jdbvAdINPPA)

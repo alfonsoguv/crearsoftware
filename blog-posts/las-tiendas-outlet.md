@@ -10,8 +10,10 @@ readingTime: 3
 author: "Alfonso Gutiérrez"
 commentCount: 1
 wordCount: 462
-image: ""
+image: "/wp-content/uploads/2007/06/outlet.jpg"
 ---
+
+![outlet](/wp-content/uploads/2007/06/outlet.jpg)
 
 La tiendas Outlet generan un nuevo e interesante marketing mix. Vamos a analizar los elementos del marketing mix para ver las diferencias que tiene una tienda Outlet con las anteriores. **Producto:** a primera vista puede parecer que el producto es el mismo, y en esencia material si lo es pero debemos darnos cuenta que es un producto que ya tiene un tiempo en el mercado y que está “pasado de moda”.
 

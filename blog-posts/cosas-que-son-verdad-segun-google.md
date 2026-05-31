@@ -3,17 +3,19 @@ title: "Cosas que son verdad según Google"
 slug: "cosas-que-son-verdad-segun-google"
 date: "2008-04-27"
 oldUrl: "/2008/04/27/cosas-que-son-verdad-segun-google/"
-description: "Las 10 reglas de Google que consideran verdad absoluta: focalízate en el usuario, haz una cosa bien, rápido es mejor que despacio."
+description: "Las 10 reglas que Google considera verdad: focalízate en el usuario, haz una cosa bien y recuerda que rápido es mejor que despacio."
 category: "tecnologia-empresarial"
 tags: ["google", "filosofía empresarial", "estrategia", "innovación", "cultura"]
 author: "Alfonso Gutiérrez"
 commentCount: 3
 wordCount: 110
 readingTime: 1
-image: ""
+image: "/wp-content/uploads/2008/04/google.jpg"
 ---
 
-Según nuestros amigos de Google, [estas son 10 reglas](http://www.google.com/corporate/tenthings.html) que para ellos son como un Santo Grial y además dicen que *son verdad:*
+![Google](/wp-content/uploads/2008/04/google.jpg)
+
+Según nuestros amigos de Google, [estas son 10 reglas](http://www.google.com/corporate/tenthings.html) que para ellos son como un Santo Grial y que, además, dicen que *son verdad:*
 
 1.  Focaliza todos tus esfuerzos en el usuario y lo demás vendrá solo.
 2.  Lo mejor es hacer una sola cosa realmente bien.

@@ -13,4 +13,6 @@ wordCount: 42
 noindex: true
 image: ""
 ---
-Ayer por la tarde se celebró el  [Hangout](/2013/08/22/hangout-de-software-empresarial-y-velneo/) con Francisco Vila de [Ayudavelneo](http://ayudavelneo.com/), en el que respondí a las preguntas de la comunidad sobre [la plataforma de desarrollo de aplicaciones empresariales](http://velneo.es). Gracias por la iniciativa lo pasé muy bien!
+Ayer por la tarde se celebró el  [Hangout](/2013/08/22/hangout-de-software-empresarial-y-velneo/) con Francisco Vila de [Ayudavelneo](http://ayudavelneo.com/), en el que respondí a las preguntas de la comunidad sobre [la plataforma de desarrollo de aplicaciones empresariales](http://velneo.es). Gracias por la iniciativa, ¡lo pasé muy bien!
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=MfYpwJvX_Yw)

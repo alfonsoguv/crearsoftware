@@ -14,4 +14,6 @@ noindex: true
 image: ""
 ---
 
-El Nokia 888 concept, es un diseño de un teléfono del futuro que ha ganado el premio ***Benelux design* contest** en 2005. La verdad que merece ver la pena el vídeo. \
+El Nokia 888 concept es un diseño de un teléfono del futuro que ganó el premio ***Benelux design* contest** en 2005. La verdad es que merece la pena ver el vídeo.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=D3dF44XtHek)

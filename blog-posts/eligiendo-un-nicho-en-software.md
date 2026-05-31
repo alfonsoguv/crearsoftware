@@ -3,13 +3,60 @@ title: "Eligiendo un nicho en Software"
 slug: "eligiendo-un-nicho-en-software"
 date: "2008-06-27"
 oldUrl: "/2008/06/27/eligiendo-un-nicho-en-software/"
-description: "Ya está, ya has tenido tus primeras ventas, tus primeros clientes. Al principio como es normal vendes a quien puedes porque probablemente no tengas un..."
+description: "Tras las primeras ventas llega el momento de elegir un nicho. Seis pasos para definir escenarios, segmentar y decidir a quién venderle tu software."
 category: "tecnologia-empresarial"
 tags: ["crm","marketing","erp","reglas del software","software"]
 readingTime: 4
 author: "Alfonso Gutiérrez"
 commentCount: 12
 wordCount: 621
-image: ""
+image: "/wp-content/uploads/2008/06/escenario.jpg"
 ---
-Ya está, ya has tenido tus primeras ventas, tus primeros clientes. Al principio como es normal vendes a quien puedes porque probablemente no tengas un duro para andar con estratégicas y rollos de esos, lo importante es llegar a fin de mes. Así recuerdo mis primeros años en este mundo del software empresarial. Bien después de vender a lo que yo llamo innovartors y early adopter, hay que pararse y elegir un nicho. Pero la pregunta es ***¿Cómo?.*** ## 1.-Creando escenarios: Cuando ya tenemos un producto debemos saber a ***quien*** se lo queremos vender. Debemos olvidar mercados y hablar de personas. Muchas veces escucho a gente decir, tengo un ERP o un CRM, y ese es mi mercado. ***No vendemos a mercados vendemos a personas***. Caracteriza a la persona a la que le quieres vender. En nuestro caso llegamos a poner una "foto" de nuestro cliente objetivo con sus características en la oficina. Así no se nos olvida ***¿A quién estamos vendiendo?***. Por tanto crea al menos 5 fichas que definan a la persona a la que le quieres vender. Coloca una foto y al menos 20 características de cada uno. (Piensa y dale vueltas no lo hagas en un día). ## 2.-Elige a alguien de tu tamaño: No importa cuan pequeño seas lo importante es ser un **pez grande en una piscina pequeña.** Hay una regla que no puede fallar, debes ser capaz de llegar al menos a la mitad del escenario que eligas en el primer año. ***Si eres pequeño elige a alguien de tu tamaño***. Imaginemos una empresa pequeña con capacidad para vender 10 clientes al año y facturar 100.000€, has elegido los Zapateros que están trabajando en una tienda de dos computadoras y con hojas de excel, pues debes subsegmentar tantas veces como sea necesario hasta que tu escenario defina 20 posibles clientes. Algo así: Zapateros, Dos computadores, usan hojas de excel y del Barrio Vallecas en Madrid, Total escenario = 20 clientes. No importa como seas lo importante es que fabriques el escenario adecuado a tu tamaño. Lo importante es que si el escenario marcado es de 200.000€ en total debes conseguir al menos 100.000€ el primer año. ## 3.-[Crea una página por cada escenario](/2008/06/27/plantilla-para-definir-un-nicho-en-software/), y numera cada escenario. Después y al final realiza una hoja de excel con todos los datos numéricos de todos los escenarios. Número de clientes posibles, facturación, nº empleados, todos los campos claves que utilices para definir el escenario. ## 4.-Haz tormenta de ideas con tu equipo: Debes involucrar a todo el mundo en las valoraciones de los diferentes escenarios, y realiza media de las puntuaciones que haga cada uno. ( Ejem: dificultad de venta, instalación, facilidad de mantenimiento (0 a 5). ## 5.-Ordena, los resultados por puntuaciones medias y elimina los escenarios que no pasen el primer corte. **Repite una votación privada de los escenarios finales:** Vuelve a discutir, puedes introducir más indicadores de decisión sobre el escenario previsto. Lo importante es que el grupo de trabajo se implique en la decisión final. ## 6.-Resultado final: Depende los resultados puede pasar los siguiente: *a)El grupo está de acuerdo de cual es el escenario adecuado:* A por él, sin miramientos, sin dudas, sin arrepentimientos, sin cambios, pelea por conseguir los objetivos marcados. *b)El grupo no se pone de acuerdo en el escenario a elegir:* Elige a una persona para que desarrolle la teoría de bolos y elige el primer bolo de la teoría (lo explicaré en otro post) *c)No hay ningún escenario que supere los mínimos:* No trates de crecer, quizá no sea el momento, o el producto no está preparado, o la empresa, sigue vendiendo a early adopters y clientes cercanos hasta que el momento y el escenario correcto se presenten.
+
+[![escenario](/wp-content/uploads/2008/06/escenario.jpg)](/wp-content/uploads/2008/06/escenario.jpg)
+
+Ya está, ya has tenido tus primeras ventas, tus primeros clientes. Al principio, como es normal, vendes a quien puedes porque probablemente no tengas un duro para andar con estrategias y rollos de esos: lo importante es llegar a fin de mes. Así recuerdo mis primeros años en este mundo del software empresarial.
+
+Bien, después de vender a lo que yo llamo *innovartors* y *early adopters*, hay que pararse y elegir un nicho. Pero la pregunta es: ***¿cómo?***
+
+## 1. Creando escenarios
+
+Cuando ya tenemos un producto, debemos saber a ***quién*** se lo queremos vender. Debemos olvidar mercados y hablar de personas. Muchas veces escucho a gente decir: «tengo un ERP o un CRM, y ese es mi mercado». ***No vendemos a mercados, vendemos a personas.***
+
+Caracteriza a la persona a la que le quieres vender. En nuestro caso llegamos a poner una «foto» de nuestro cliente objetivo, con sus características, en la oficina. Así no se nos olvida ***¿a quién estamos vendiendo?***
+
+Por tanto, crea al menos **5 fichas** que definan a la persona a la que le quieres vender. Coloca una foto y al menos 20 características de cada uno. (Piensa y dale vueltas, no lo hagas en un día).
+
+## 2. Elige a alguien de tu tamaño
+
+No importa cuán pequeño seas; lo importante es ser un **pez grande en una piscina pequeña**. Hay una regla que no puede fallar: debes ser capaz de llegar al menos a la mitad del escenario que elijas en el primer año.
+
+> ***Si eres pequeño, elige a alguien de tu tamaño.***
+
+Imaginemos una empresa pequeña con capacidad para vender 10 clientes al año y facturar 100.000 €. Has elegido los zapateros que están trabajando en una tienda de dos computadoras y con hojas de Excel; pues debes subsegmentar tantas veces como sea necesario hasta que tu escenario defina 20 posibles clientes. Algo así:
+
+- Zapateros, dos computadores, usan hojas de Excel y del barrio de Vallecas en Madrid. **Total escenario = 20 clientes.**
+
+No importa cómo seas; lo importante es que fabriques el escenario adecuado a tu tamaño. Lo importante es que, si el escenario marcado es de 200.000 € en total, debes conseguir al menos 100.000 € el primer año.
+
+## 3. [Crea una página por cada escenario](/2008/06/27/plantilla-para-definir-un-nicho-en-software/)
+
+Y numera cada escenario. Después, y al final, realiza una hoja de Excel con todos los datos numéricos de todos los escenarios: número de clientes posibles, facturación, n.º de empleados, todos los campos clave que utilices para definir el escenario.
+
+## 4. Haz tormenta de ideas con tu equipo
+
+Debes involucrar a todo el mundo en las valoraciones de los diferentes escenarios, y realiza media de las puntuaciones que haga cada uno. (Ej.: dificultad de venta, instalación, facilidad de mantenimiento; de 0 a 5).
+
+## 5. Ordena
+
+Ordena los resultados por puntuaciones medias y elimina los escenarios que no pasen el primer corte.
+
+**Repite una votación privada de los escenarios finales:** vuelve a discutir; puedes introducir más indicadores de decisión sobre el escenario previsto. Lo importante es que el grupo de trabajo se implique en la decisión final.
+
+## 6. Resultado final
+
+Dependiendo de los resultados, puede pasar lo siguiente:
+
+- ***a) El grupo está de acuerdo de cuál es el escenario adecuado:*** a por él, sin miramientos, sin dudas, sin arrepentimientos, sin cambios; pelea por conseguir los objetivos marcados.
+- ***b) El grupo no se pone de acuerdo en el escenario a elegir:*** elige a una persona para que desarrolle la teoría de bolos y elige el primer bolo de la teoría (lo explicaré en otro post).
+- ***c) No hay ningún escenario que supere los mínimos:*** no trates de crecer, quizá no sea el momento, o el producto no está preparado, o la empresa; sigue vendiendo a *early adopters* y clientes cercanos hasta que el momento y el escenario correcto se presenten.

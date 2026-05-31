@@ -10,8 +10,10 @@ author: "Alfonso Gutiérrez"
 commentCount: 3
 wordCount: 126
 readingTime: 1
-image: ""
+image: "/wp-content/uploads/2007/07/boat_ship_fishing_5722_l.jpg"
 ---
+
+![barco](/wp-content/uploads/2007/07/boat_ship_fishing_5722_l.jpg)
 
 Conocerse a uno mismo es uno de los componentes que forman [la inteligencia emocional](/2007/07/06/%c2%bf-por-que-la-inteligencia-emocional/). Para conocerte a ti mismo lo primero y principal es ser sincero y tener una visión muy realista de ti mismo.
 

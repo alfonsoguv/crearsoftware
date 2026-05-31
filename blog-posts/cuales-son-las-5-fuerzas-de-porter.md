@@ -10,8 +10,10 @@ author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 437
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2007/05/modelo-de-porter.png"
 ---
+
+![5 fuerzas de Porter](/wp-content/uploads/2007/05/modelo-de-porter.png)
 
 A continuación voy a definir rápidamente lo que yo entiendo de las cinco fuerzas competitivas. Por cierto ¿te has parado cinco minutos en tu empresa a pensar en esto?
 

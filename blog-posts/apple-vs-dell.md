@@ -10,13 +10,29 @@ author: "Alfonso Gutiérrez"
 commentCount: 3
 wordCount: 122
 readingTime: 1
-image: ""
+image: "/wp-content/uploads/2007/10/picture-36.jpg"
 ---
 
-Hace 10 años, a [Michael Dell](http://es.wikipedia.org/wiki/Michael_Dell) le preguntaron en la ITxpo97: ¿Qué haría si fuese el CEO de Apple ante la baja situación de las acciones de la compañía? Dell contestó: "Dimitiría y le devolvería todo el dinero a los socios".
+![Comparativa del valor en bolsa de Apple y Dell](/wp-content/uploads/2007/10/picture-36.jpg)
 
-Hace 10 años Apple estaba en la peor época de su historia, en 1996 nuestro amigo [Steve Jobs](http://es.wikipedia.org/wiki/Steve_Jobs) vuelve a Apple con un plan para resucitarla, el resto es historia que todos conocemos.
+## La pregunta que envejeció muy mal
 
-***Hay que tener mucho cuidado con lo que se dice y se hace, porque las cosas pueden cambiar mucho en muy poco tiempo***, como muestra la gráfica, hoy el valor en bolsa de Apple es el doble que el de Dell.
+Hace 10 años, a [Michael Dell](http://es.wikipedia.org/wiki/Michael_Dell) le preguntaron en la **ITxpo97**:
 
-> Apple: $140.4 billion Dell: $62.27 billion
+> ¿Qué haría si fuese el CEO de Apple ante la baja situación de las acciones de la compañía?
+
+Dell contestó:
+
+> "Dimitiría y le devolvería todo el dinero a los socios".
+
+## El regreso de Steve Jobs
+
+Hace 10 años Apple estaba en la peor época de su historia. En 1996, nuestro amigo [Steve Jobs](http://es.wikipedia.org/wiki/Steve_Jobs) vuelve a Apple con un plan para resucitarla. El resto es historia que todos conocemos.
+
+***Hay que tener mucho cuidado con lo que se dice y se hace, porque las cosas pueden cambiar mucho en muy poco tiempo.*** Como muestra la gráfica, hoy el valor en bolsa de Apple es el doble que el de Dell.
+
+## El veredicto de la bolsa
+
+> **Apple:** $140.4 billion
+>
+> **Dell:** $62.27 billion

@@ -10,8 +10,10 @@ readingTime: 3
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 573
-image: ""
+image: "/wp-content/uploads/2007/06/paris.jpg"
 ---
+
+![paris](/wp-content/uploads/2007/06/paris.jpg)
 
 Hace poco me toco leer una memoría de telefónica España, y me llamaron la atención varios aspectos que definían sobre los RRHH del Grupo: Valoración de puestos de trabajo: Realizan valoraciones de los puestos de trabajo y de las competencias alineadas a la estrategia de la empresa. Mediante feedback 360 valoran el desempeño de las personas.
 

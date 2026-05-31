@@ -10,7 +10,7 @@ readingTime: 2
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 387
-image: ""
+image: "/wp-content/uploads/2007/04/gonzalez_barahona.jpg"
 ---
 
 Vaya Madrugon, 5:00 de la mañana en pie y para Madrid a ver el Linux World Summit & Open Solutions. Llego a Madrid y lo de siempre en el aeropuerto T4 un par de horas, que raro no es novedad, ya pensé que no llegaba mi maleta. Al final taxi y camino del Hotel Puerta America donde se celebra el evento.
@@ -25,4 +25,8 @@ Hacen diferentes cosas, normalmente un 50% puede estar pagada y el otro 50% no .
 
 Muchas gente en el software libre empieza como voluntario para acabar cobrando. Es un paso para mejorar el currículum . Es como cualquier mercado, hay gente que no cobra por jugar al futbol y hay otros que no mueven el pie si no se le paga. Eso está pasando en el software libre, el libre mercado de una actividad que a mucha gente le gusta hacer.
 
-La comparación con el futbol me parece muy buena *<!-- Imagen: Jesús González Barahona -->* *Jesús González Barahona en una Conferencia de Software Libre*
+La comparación con el futbol me parece muy buena 
+
+![Jesús González Barahona](/wp-content/uploads/2007/04/gonzalez_barahona.jpg)
+
+ *Jesús González Barahona en una Conferencia de Software Libre*

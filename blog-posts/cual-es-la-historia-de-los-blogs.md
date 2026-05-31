@@ -10,8 +10,10 @@ author: "Alfonso Gutiérrez"
 commentCount: 2
 wordCount: 911
 readingTime: 5
-image: ""
+image: "/wp-content/uploads/2007/08/historia.jpg"
 ---
+
+![Historia de los blogs](/wp-content/uploads/2007/08/historia.jpg)
 
 La publicación personal de contenidos en Internet se remonta a los orígenes de la red, pero hasta finales de los años ochenta las opciones de acceso a la publicación electrónica estaban muy limitadas por la necesidad de que el usuario tuviera conocimientos de un cierto nivel sobre codificación en HTML y el uso de sus aplicaciones de edición, nociones de composición gráfica con programas específicos de diseño y acceso entonces nada generalizado a sistemas de alojamiento y transferencia de ficheros al servidor.
 

@@ -10,10 +10,14 @@ readingTime: 2
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 369
-image: ""
+image: "/wp-content/uploads/2007/04/desarrollo.jpg"
 ---
 
-Es curioso como en muy pocos años 3 paises se han colocado a la cabeza mundial del desarrollo de software. ¿Como es posible que tres paises aparentemente debiles económicamente lideren hoy la producción de software? <!-- Imagen: Desarrollo de software --> Pues yo creo que porque es un sector de especialización, que tiene una fuerte dependencia del capital humano y una baja utilización de capital físico.
+Es curioso como en muy pocos años 3 paises se han colocado a la cabeza mundial del desarrollo de software. ¿Como es posible que tres paises aparentemente debiles económicamente lideren hoy la producción de software?
+
+![Desarrollo de software](/wp-content/uploads/2007/04/desarrollo.jpg)
+
+Pues yo creo que porque es un sector de especialización, que tiene una fuerte dependencia del capital humano y una baja utilización de capital físico.
 
 Por tanto si los paises más débiles apuestan politicamente por un desarrollo económico, formativo e institucional enfocado al desarrollo del software pues pueden obtener los resultados de las 3I. Al final no deja de ser una deslocalización de inversión extraneja por costes, con la única diferencia de la alta capacitación del capital humano.
 

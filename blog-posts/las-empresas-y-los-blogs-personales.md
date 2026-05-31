@@ -10,7 +10,7 @@ readingTime: 2
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 286
-image: ""
+image: "/wp-content/uploads/2007/05/blogs001.png"
 ---
 
 Internet es un mundo multidisciplinar, donde la información fluye de unos ambientes a otros y donde las tendencias y los nichos mezclan sus conceptos interconectando todos los mundos y temáticas. Para mi esto es lo bonito de Internet y de ahí deriva la palabra “navegar” ya que todos sabemos que muchas veces empezamos en una pagina de una determinada temática para acabar accediendo a información de otro carácter diferente.
@@ -21,4 +21,6 @@ Las posibilidades son infinitas, solo debemos hacer un clic tras otro para acaba
 
 Debemos abrir las puertas y habilitar nuevas interconexiones con “públicos” y “nichos” que de otra manera no nos conocerían nunca. Para ello los blogs personales se convierten en una nueva herramienta para interconectar “viralmente” el mundo de nuestra empresa con otros mundos , dentro de nuestra compañía tenemos a personas que son las “llaves” a las nuevas puertas, solo debemos mirar dentro de nuestra casa para abrir las nuevas puertas.
 
-**Las llaves posiblemente las tengamos solo debemos de usarlas.** Aquí os dejo un diagrama que trata de conceptualizar lo que trato de explicar. <!-- Imagen: blogs -->
+**Las llaves posiblemente las tengamos solo debemos de usarlas.** Aquí os dejo un diagrama que trata de conceptualizar lo que trato de explicar.
+
+![blogs](/wp-content/uploads/2007/05/blogs001.png)

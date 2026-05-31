@@ -3,15 +3,17 @@ title: "Impacto de la Inteligencia Artificial en los Roles Creativos en 2025"
 slug: "impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025"
 date: "2025-01-05"
 oldUrl: "/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/"
-description: "La inteligencia artificial (IA) está redefiniendo el panorama creativo en diversas industrias, y en 2025 se espera que este impacto sea aún más..."
+description: "Cómo la IA está transformando los roles creativos en 2025: automatización, nuevas habilidades, colaboración humano-máquina y desafíos éticos."
 category: "inteligencia-artificial"
 tags: ["inteligencia artificial","productividad"]
 readingTime: 7
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 1214
-image: ""
+image: "/wp-content/uploads/2025/01/freepik__candid-image-photography-natural-textures-highly-r__59484.jpeg"
 ---
+
+![Impacto de la inteligencia artificial en los roles creativos en 2025](/wp-content/uploads/2025/01/freepik__candid-image-photography-natural-textures-highly-r__59484.jpeg)
 
 La inteligencia artificial (IA) está redefiniendo el panorama creativo en diversas industrias, y en 2025 se espera que este impacto sea aún más significativo. Desde la publicidad hasta el diseño, la IA está automatizando procesos creativos, lo que genera tanto oportunidades como desafíos para los profesionales del sector. En este artículo exploramos cómo la IA está transformando los roles creativos y qué implica esta revolución tecnológica para el futuro del trabajo.
 
@@ -96,12 +98,12 @@ El futuro de la creatividad no será puramente humano ni completamente automatiz
 
 ## Referencias
 
-El País. (2024). *Cuando no estuvimos en realidad allí: Inteligencia Artificial y fotografía*. Recuperado de https://elpais.com/cultura/2024-12-30/cuando-no-estuvimos-en-realidad-alli-inteligencia-artificial-y-fotografia.html
+El País. (2024). *Cuando no estuvimos en realidad allí: Inteligencia Artificial y fotografía*. Recuperado de [https://elpais.com/cultura/2024-12-30/cuando-no-estuvimos-en-realidad-alli-inteligencia-artificial-y-fotografia.html](https://elpais.com/cultura/2024-12-30/cuando-no-estuvimos-en-realidad-alli-inteligencia-artificial-y-fotografia.html)
 
-Cinco Días. (2024). *Las grandes promesas tecnológicas de 2025 que cambiarán nuestras vidas*. Recuperado de https://cincodias.elpais.com/smartlife/2024-12-30/las-grandes-promesas-tecnologicas-de-2025-que-cambiaran-nuestras-vidas.html
+Cinco Días. (2024). *Las grandes promesas tecnológicas de 2025 que cambiarán nuestras vidas*. Recuperado de [https://cincodias.elpais.com/smartlife/2024-12-30/las-grandes-promesas-tecnologicas-de-2025-que-cambiaran-nuestras-vidas.html](https://cincodias.elpais.com/smartlife/2024-12-30/las-grandes-promesas-tecnologicas-de-2025-que-cambiaran-nuestras-vidas.html)
 
-El País. (2024). *Pensar o delegar en la IA, el dilema de 2025*. Recuperado de https://elpais.com/opinion/2024-12-30/pensar-o-delegar-en-la-ia-el-dilema-de-2025.html
+El País. (2024). *Pensar o delegar en la IA, el dilema de 2025*. Recuperado de [https://elpais.com/opinion/2024-12-30/pensar-o-delegar-en-la-ia-el-dilema-de-2025.html](https://elpais.com/opinion/2024-12-30/pensar-o-delegar-en-la-ia-el-dilema-de-2025.html)
 
-Triunfa Emprendiendo. (2024). *Impacto de la Inteligencia Artificial en la creatividad: Descubre sus efectos*. Recuperado de https://triunfaemprendiendo.com/como-afecta-la-ia-en-la-creatividad
+Triunfa Emprendiendo. (2024). *Impacto de la Inteligencia Artificial en la creatividad: Descubre sus efectos*. Recuperado de [https://triunfaemprendiendo.com/como-afecta-la-ia-en-la-creatividad](https://triunfaemprendiendo.com/como-afecta-la-ia-en-la-creatividad)
 
-Cerezo Escritora. (2024). *La Evolución de la Inteligencia Artificial y su Impacto en la Creatividad*. Recuperado de https://www.cerezoescritora.com/blog/la-evolucin-de-la-inteligencia-artificial-y-su-impacto-en-la-creatividad
+Cerezo Escritora. (2024). *La Evolución de la Inteligencia Artificial y su Impacto en la Creatividad*. Recuperado de [https://www.cerezoescritora.com/blog/la-evolucin-de-la-inteligencia-artificial-y-su-impacto-en-la-creatividad](https://www.cerezoescritora.com/blog/la-evolucin-de-la-inteligencia-artificial-y-su-impacto-en-la-creatividad)

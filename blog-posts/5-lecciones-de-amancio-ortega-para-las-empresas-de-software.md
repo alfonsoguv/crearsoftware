@@ -10,12 +10,14 @@ author: "Alfonso Gutiérrez"
 commentCount: 2
 wordCount: 501
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2013/01/amancio_ortega.jpeg"
 ---
 
-**Soy un activo de la empresa. No nos pueden copiar a las personas.**
+![Amancio Ortega](/wp-content/uploads/2013/01/amancio_ortega.jpeg)
 
-**Amancio Ortega**
+> **Soy un activo de la empresa. No nos pueden copiar a las personas.**
+>
+> **Amancio Ortega**
 
 En estos días festivos me he leído [Zara: Visión y estrategia de Amancio Ortega](http://www.amazon.es/Zara-Visi%C3%B3n-estrategia-Amancio-ebook/dp/B009NLV9O8), soy un admirador de [Amancio Ortega](http://es.wikipedia.org/wiki/Amancio_Ortega), trato de leer lo que se publica sobre su obra. De la lectura de este libro se pueden extraer interesantes reflexiones para las empresas software:
 

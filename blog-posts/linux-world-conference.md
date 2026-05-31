@@ -11,7 +11,9 @@ author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 61
 noindex: true
-image: ""
+image: "/wp-content/uploads/2007/04/linux-world.png"
 ---
 
-Los próximos días 18 y 19 de Abril se <!-- Imagen: linux-world.png --> celebra en Madrid un interesante encuentro del mundo open source y software libre. [Linux World Summit](http://www.idc.com/spain/downloads/events/linux07/) Pues nada ha hacer las maletas y veremos que novedades se cuentan en este interesante evento donde a priori se concentrar una buena serie de ponencias que os dejo [Programa Linux World IDC](/wp-content/uploads/2007/04/linux071.pdf "Programa Linux World IDC") en formato pdf.
+![Linux World Conference](/wp-content/uploads/2007/04/linux-world.png)
+
+Los próximos días 18 y 19 de Abril se celebra en Madrid un interesante encuentro del mundo open source y software libre. [Linux World Summit](http://www.idc.com/spain/downloads/events/linux07/) Pues nada ha hacer las maletas y veremos que novedades se cuentan en este interesante evento donde a priori se concentrar una buena serie de ponencias que os dejo [Programa Linux World IDC](/wp-content/uploads/2007/04/linux071.pdf "Programa Linux World IDC") en formato pdf.

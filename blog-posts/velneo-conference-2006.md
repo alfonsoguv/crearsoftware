@@ -14,4 +14,6 @@ noindex: true
 image: ""
 ---
 
-Video presentación Velneo Conference 2006 `
+Video presentación Velneo Conference 2006
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=xIAkprmr6sk)

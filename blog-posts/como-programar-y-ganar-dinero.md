@@ -10,7 +10,7 @@ author: "Alfonso Gutiérrez"
 commentCount: 7
 wordCount: 534
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2014/05/programar-y-ganar-dinero.png"
 ---
 
 > Juego honestamente y juego para ganar. Si pierdo, tomo la lección.
@@ -21,7 +21,9 @@ Hace 14 años que creamos nuestra primera empresa de software, cada error, cada 
 
 Nuestras empresas de software son rentables, estables y en crecimiento. Mañana la situación puede cambiar, por supuesto, tienes que estar todo el día pendiente porque si te descuidas, mañana esos proyectos tendrán pérdidas y serán inestables. La primera lección fundamental: **es que ganes o pierdas dinero hay que empujar con la misma pasión, ilusión e intensidad. Cada día cuenta.**
 
-## Segmentar es la mejor forma de ganar dinero programando
+[![programar y ganar dinero](/wp-content/uploads/2014/05/programar-y-ganar-dinero.png)](/wp-content/uploads/2014/05/programar-y-ganar-dinero.png)
+
+## Segmentar es la mejor forma de ganar dinero programando que conozco
 
 La primera empresa que fundamos se llamaba **Visual MS - Soluciones informáticas Globales**. ¿Qué hay de nicho ahí? Con esa estrategia llegamos al primer millón de euros. Mi visión era **atacar a todo lo que se movía, decía que SI a cualquier negocio**, eran las épocas donde el número de empleados y el número de oficinas llenaban mi ego y mi satisfacción personal.
 

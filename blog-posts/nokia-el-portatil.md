@@ -1,9 +1,9 @@
 ---
-title: "Nokia - el portatil"
+title: "Nokia - el portátil"
 slug: "nokia-el-portatil"
 date: "2009-09-24"
 oldUrl: "/2009/09/24/nokia-el-portatil/"
-description: "Nokia como socio tecnológico de Velneo y la visión del futuro móvil. Cómo los booklets de Nokia apuntan hacia la convergencia de dispositivos."
+description: "Nokia, socio tecnológico de Velneo y dueño de QT, entra en el mercado de los portátiles. Por qué sus movimientos importan a la comunidad Velneo V7."
 category: "desarrollo-software"
 tags: ["nokia", "velneo", "tecnología"]
 readingTime: 1
@@ -13,4 +13,8 @@ wordCount: 89
 image: ""
 ---
 
-En las jornadas de puertas abiertas de [Velneo](http://www.velneo.es) comenté que [Nokia](http://www.nokia.com/) es nuestro socio tecnológico y que si queremos ver por donde irá el futuro debemos fijarnos en los movimientos del gigante. [Nokia](http://www.nokia.com/) es el dueño de [QT](http://es.wikipedia.org/wiki/Qt_%28biblioteca%29) por tanto todos sus movimientos son importantes a medio y largo plazo para la comunidad de desarrolladores en [Velneo V7.](http://www.velneo.es) El último movimiento de Nokia es que se ha introducido en el mercado de los portátiles aquí os dejo con su presentación. Tenemos que estar atentos y alinear nuestros esfuerzos. \
+En las jornadas de puertas abiertas de [Velneo](http://www.velneo.es) comenté que [Nokia](http://www.nokia.com/) es nuestro socio tecnológico y que, si queremos ver por dónde irá el futuro, debemos fijarnos en los movimientos del gigante. [Nokia](http://www.nokia.com/) es el dueño de [QT](http://es.wikipedia.org/wiki/Qt_%28biblioteca%29), por tanto todos sus movimientos son importantes a medio y largo plazo para la comunidad de desarrolladores en [Velneo V7](http://www.velneo.es).
+
+El último movimiento de Nokia es que se ha introducido en el mercado de los portátiles; aquí os dejo con su presentación. Tenemos que estar atentos y alinear nuestros esfuerzos.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=fIHWM4liM2g)

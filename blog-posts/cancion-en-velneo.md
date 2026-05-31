@@ -1,7 +1,7 @@
 ---
 title: "Canción en Velneo"
 slug: "cancion-en-velneo"
-date: "2007-11-27"
+date: "2007-11-28"
 oldUrl: "/2007/11/28/cancion-en-velneo/"
 description: "Velneo inspira hasta canciones: más que una plataforma de programación, una forma de entender la vida. Life is Soft."
 category: "desarrollo-software"
@@ -14,4 +14,8 @@ noindex: true
 image: ""
 ---
 
-Cada día se habla y se escribe más sobre Velneo en la Red. Pero ahora se ***CANTA***. Velneo es más que una plataforma de programación, es una forma de entender la vida y es que ***LIFE IS SOFT.***
+Cada día se habla y se escribe más sobre Velneo en la Red. Pero ahora, además, se ***CANTA***.
+
+Velneo es más que una plataforma de programación: es una forma de entender la vida. Y es que ***LIFE IS SOFT.***
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=bfXRDQQy-fU)

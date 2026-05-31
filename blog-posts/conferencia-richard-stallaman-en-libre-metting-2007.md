@@ -10,8 +10,10 @@ author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 543
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2007/05/gnurevolution-small.png"
 ---
+
+![GNU revolution](/wp-content/uploads/2007/05/gnurevolution-small.png)
 
 Y empieza la esperada conferencia de Richard Stallman. Para Stallman lo más importante del uso de la computadora es que sea libre, por encima de que sea práctico, barato, eficiente. Lo más importante para Stallman es la libertad del programa y la posibilidad de ejecutar las 4 libertades. **Según Stallman en un mundo justo no existiría software privativo.** **La distribución privativa es un ataque a la solidaridad social de la comunidad.** Hay que eliminar el software privativo de nuestras vidas y del mundo, ya que es una trampa ética que atrapa a la gente en un dilema moral.
 

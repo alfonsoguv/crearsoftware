@@ -10,8 +10,10 @@ author: "Alfonso Gutiérrez"
 commentCount: 15
 wordCount: 859
 readingTime: 5
-image: ""
+image: "/wp-content/uploads/2007/07/646623545.jpg"
 ---
+
+![646623545](/wp-content/uploads/2007/07/646623545.jpg)
 
 Sigo pasando elementos que son extraídos de los [cursos que comenté.](/2007/07/15/cursos-en-la-uoc/) Dentro de la definición conceptual genérica del blog hay una serie de elementos que, por encima de la heterogeneidad de contenidos, presentaciones y dinámicas de relación, coinciden en la mayoría de casos, lo que permite la caracterización estándar, el análisis mínimo de las iniciativas existentes y la concepción de nuevas propuestas. En sus rasgos más generales, la caracterización de una bitácora la proporcionan los elementos siguientes:
 

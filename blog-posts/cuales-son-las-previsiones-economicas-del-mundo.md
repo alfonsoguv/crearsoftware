@@ -10,11 +10,15 @@ author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 108
 readingTime: 1
-image: ""
+image: "/wp-content/uploads/2010/05/res042110a-1.gif"
 ---
 
-El mundo está loco, la bolsa sube un día un 15% y al otro baja un 10%, de un día para otro se anuncian agresivos recortes económicos por parte de España. Parece que la economía tardará en volver a crecer unos cuantos años pero la pregunta será ¿Cuándo volveremos a estar como en 2006? ¿Cinco? ¿Diez años?
+El mundo está loco: la bolsa sube un día un 15% y al otro baja un 10%, y de un día para otro España anuncia agresivos recortes económicos. Parece que la economía tardará unos cuantos años en volver a crecer, pero la pregunta será: ¿cuándo volveremos a estar como en 2006? ¿Cinco años? ¿Diez años?
 
 Yo creo que hay que tomárselo con mucha calma y buscar dónde se encuentran los grandes ascensores económicos mundiales. ¿Qué economías van a crecer en los próximos cinco años? ¿Cuánto?
 
-Según las previsiones del foro económico mundial las únicas economías del mundo que crecerán por encima del 6% serán China e India.
+## China e India, las economías que más crecerán
+
+Según las previsiones del Foro Económico Mundial, las únicas economías del mundo que crecerán por encima del 6% serán **China e India**.
+
+[![Previsiones de crecimiento económico mundial](/wp-content/uploads/2010/05/res042110a-1.gif)](/wp-content/uploads/2010/05/res042110a-1.gif)

@@ -10,10 +10,12 @@ author: "Alfonso Gutiérrez"
 commentCount: 5
 wordCount: 564
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2007/07/sl.png"
 ---
 
-[He acabado mis cursos de verano sobre Blogs y Second Life.](/2007/07/15/cursos-en-la-uoc/) Como práctica final he realizado el siguiente proyecto:
+![Second Life](/wp-content/uploads/2007/07/sl.png)
+
+[He acabado mis cursos de verano sobre blogs y Second Life.](/2007/07/15/cursos-en-la-uoc/) Como práctica final he realizado el siguiente proyecto:
 
 ## Introducción al proyecto
 

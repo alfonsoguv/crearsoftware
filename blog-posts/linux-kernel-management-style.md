@@ -10,7 +10,7 @@ readingTime: 13
 author: "Alfonso Gutiérrez"
 commentCount: 2
 wordCount: 2465
-image: ""
+image: "/wp-content/uploads/2007/05/torvalds.jpg"
 ---
 
 Via Barrapunto he encontrado una traducción realizada por Alex Fernandez, sobre el manual escrito por el señor Linus Tolvard, dando consejos de como hay que gestionar a un grupo de programadores de software libre, la verdad que cuanto más leo sobre Linus más me doy cuenta de que lo es realmente es un buen gestor de personas, ese es su éxito. Supo gestionar un grupo de programadores con un fin común que fue crear el Kernel de Linux. Aquí os dejo su doctrina, para leer con calma:
@@ -89,4 +89,6 @@ Escribe mensajes insultantes llenos de sarcasmo de vez en cuando, para meterte e
 
 Lo primero, tengas o no legiones de chicas (o chicos, no vamos a ponernos sentenciosos ni sexistas ahora) adolescentes gritando a la puerta de tu camerino, lo que sí tendrás es un sentimiento inmenso de realización personal por estar "al mando". Da igual que en realidad no estés liderando sino intentando estar a la altura de los demás y corriendo tras ellos todo lo rápido que puedes.
 
-Todo el mundo pensará que estás al mando. Es un trabajo estupendo si te lo sabes currar. <!-- Imagen: linux -->
+Todo el mundo pensará que estás al mando. Es un trabajo estupendo si te lo sabes currar.
+
+![linux](/wp-content/uploads/2007/05/torvalds.jpg)

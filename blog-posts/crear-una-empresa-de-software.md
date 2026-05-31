@@ -3,7 +3,7 @@ title: "Crear una empresa de Software"
 slug: "crear-una-empresa-de-software"
 date: "2011-10-05"
 oldUrl: "/2011/10/05/crear-una-empresa-de-software/"
-description: "Entrevista sobre la experiencia de crear una empresa de software para fomentar el espíritu emprendedor entre universitarios."
+description: "Entrevista de INNO tv en el vCenter sobre nuestra experiencia al crear una empresa de software y fomentar el espíritu emprendedor."
 category: "tecnologia-empresarial"
 tags: ["emprender", "empresa de software", "entrevista", "universidad", "startups"]
 author: "Alfonso Gutiérrez"
@@ -14,8 +14,10 @@ noindex: true
 image: ""
 ---
 
-Hace unas semana la gente de INNO tv estuvo grabando en el [vCenter](http://www.vcenter.es) una entrevista. El objetivo es fomentar el espíritu emprendedor entre los Universitarios como fórmula para salir de la crisis. En la entrevista se habla de nuestra experiencia para crear una empresa de Software.
+Hace unas semanas, la gente de INNO tv estuvo grabando una entrevista en el [vCenter](http://www.vcenter.es). El objetivo es fomentar el espíritu emprendedor entre los universitarios como fórmula para salir de la crisis. En la entrevista se habla de nuestra experiencia al crear una empresa de software.
 
-**Nuestra entrevista empieza en el min 12:00**
+## Ver la entrevista
 
-http://vimeo.com/29978260
+**Nuestra entrevista empieza en el minuto 12:00.**
+
+[Ver el vídeo en Vimeo](http://vimeo.com/29978260)

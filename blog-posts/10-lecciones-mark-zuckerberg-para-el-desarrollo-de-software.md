@@ -10,10 +10,16 @@ author: "Alfonso Gutiérrez"
 commentCount: 4
 wordCount: 585
 readingTime: 3
-image: ""
+image: "/wp-content/uploads/2012/02/desarrollo-software-y-facebook.png"
 ---
 
-[Mark Zuckerberg](http://en.wikipedia.org/wiki/Mark_Zuckerberg) ha desarrollado un software que en 8 años tiene 800 millones de usuarios, factura 3.800 millones de dólares, gana 1.000 millones y está valorado en 100.000 millones, [Facebook](http://www.facebook.com). Esa semana [Mark Zuckerberg](http://en.wikipedia.org/wiki/Mark_Zuckerberg) saca a bolsa el 5% de Facebook por un valor aproximado de 5.000 millones de dólares. Este chaval de 27 años tiene mucho que enseñarnos y de su [carta a inversores](http://www.wired.com/epicenter/2012/02/zuck-letter/) extraigo (a mi manera) los consejos que me parecen más útiles para el desarrollo de software.
+[![Desarrollo de software y Facebook](/wp-content/uploads/2012/02/desarrollo-software-y-facebook.png)](/wp-content/uploads/2012/02/desarrollo-software-y-facebook.png)
+
+[Mark Zuckerberg](http://en.wikipedia.org/wiki/Mark_Zuckerberg) ha desarrollado un software que en 8 años tiene 800 millones de usuarios, factura 3.800 millones de dólares, gana 1.000 millones y está valorado en 100.000 millones: [Facebook](http://www.facebook.com).
+
+Esa semana, [Mark Zuckerberg](http://en.wikipedia.org/wiki/Mark_Zuckerberg) saca a bolsa el 5% de Facebook por un valor aproximado de 5.000 millones de dólares.
+
+Este chaval de 27 años tiene mucho que enseñarnos y de su [carta a inversores](http://www.wired.com/epicenter/2012/02/zuck-letter/) extraigo (a mi manera) los consejos que me parecen más útiles para el desarrollo de software.
 
 ## Construir servicios, no solo dinero
 
@@ -29,7 +35,7 @@ image: ""
 
 **5.-** **No debatimos** durante horas y días sobres si una idea es buena o cual es la mejor forma de hacerla. **Desarrollamos un prototipo y vemos como funciona.** Nuestro mantra es **"Code wins arguments".**
 
-**6.-** La cultura de **Facebook es abierta y basada en [meritocracia](http://es.wikipedia.org/wiki/Meritocracia), creemos que la mejor idea e implementación siempre gana (en los test)**, no la persona que es la mejor convenciendo por una idea o la persona que coordina más gente. Para reforzar esta idea, cada pocos meses hacemos un [hackathon](http://en.wikipedia.org/wiki/Hackathon) donde todo el mundo desarrolla prototipos para las nuevas ideas que tienen. Al finalizar, juntos vemos y probamos todos los prototipos desarrollados. La mayoría de nuestros productos de más éxito salen de las hackathons, entre ellos el timeline, chat, vídeo, el framework de desarrollo móvil y algunas de las infraestructuras más importantes como el [compilador HipHop.](http://developers.facebook.com/blog/post/358/)
+**6.-** La cultura de **Facebook es abierta y basada en [meritocracia](http://es.wikipedia.org/wiki/Meritocracia), creemos que la mejor idea e implementación siempre gana (en los test)**, no la persona que es la mejor convenciendo por una idea o la persona que coordina más gente. Para reforzar esta idea, cada pocos meses hacemos un [hackathon](http://en.wikipedia.org/wiki/Hackathon) donde todo el mundo desarrolla prototipos para las nuevas ideas que tienen. Al finalizar, juntos vemos y probamos todos los prototipos desarrollados. La mayoría de nuestros productos de más éxito salen de las [hackathons](http://en.wikipedia.org/wiki/Hackathon), entre ellos el timeline, chat, vídeo, el framework de desarrollo móvil y algunas de las infraestructuras más importantes como el [compilador HipHop.](http://developers.facebook.com/blog/post/358/)
 
 ## Impacto, velocidad y riesgo
 

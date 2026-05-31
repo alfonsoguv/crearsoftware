@@ -16,5 +16,12 @@ image: ""
 
 Los aspectos legales de las empresas son parte de toda compañía. Aquí os dejo unos buenos links donde se puede encontrar información legal de primera mano. Personalmente tengo la suerte de tener un compañero que es el responsable de todo el aspecto jurídico de la empresa y además es un crack.
 
-**ENLACES DE INTERÉS:**
-[www.difusionjuridica.es](http://www.difusionjuridica.es/) | [www.laley.es](http://www.laley.es/) | [www.elderecho.com](http://www.elderecho.com/) | [www.indret.com](http://www.indret.com/) | [www.tribunalconstitucional.es](http://www.tribunalconstitucional.es/) | [www.poderjudicial.es](http://www.poderjudicial.es/) | [www.rmc.es](http://www.rmc.es/)
+## Enlaces de interés
+
+- [www.difusionjuridica.es](http://www.difusionjuridica.es/)
+- [www.laley.es](http://www.laley.es/)
+- [www.elderecho.com](http://www.elderecho.com/)
+- [www.indret.com](http://www.indret.com/)
+- [www.tribunalconstitucional.es](http://www.tribunalconstitucional.es/)
+- [www.poderjudicial.es](http://www.poderjudicial.es/)
+- [www.rmc.es](http://www.rmc.es/)

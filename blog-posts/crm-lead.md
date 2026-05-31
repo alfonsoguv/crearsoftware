@@ -13,9 +13,9 @@ readingTime: 3
 image: ""
 ---
 
-**Solo hay dos cosas que podemos perder: el tiempo y la vida la segunda es inevitable la primera imperdonable.**
+> **Solo hay dos cosas que podemos perder: el tiempo y la vida. La segunda es inevitable; la primera, imperdonable.**
 
-En las empresa se pierde mucho tiempo cuando **se habla y cada uno entiende algo diferente.** Tener una comunicación fluida y que todos entendamos lo mismo es algo básico para ahorrar tiempo.
+En las empresas se pierde mucho tiempo cuando **se habla y cada uno entiende algo diferente.** Tener una comunicación fluida y que todos entendamos lo mismo es algo básico para ahorrar tiempo.
 
 Si vendes software por internet, estarás empezando a manejar términos como [inbound Marketing](/2011/05/03/que-es-el-inbound-marketing/), Lead, [CRM](/2012/06/22/que-es-un-crm/), [Social CRM](/2012/06/22/que-es-un-crm/),... hoy me gustaría definir los diferentes nombres que se utilizan para definir los estados de un cliente en **un negocio de software on-line.**
 
@@ -37,8 +37,8 @@ Esto es fácil, cuando el contacto acepta tu oferta, **le facturas y lo más imp
 
 ## Suscriptor
 
-Se trata de un cliente que tiene pagos recurrentes hacía tu empresa y **utiliza tus productos y servicios de una manera continua en el tiempo.**
+Se trata de un cliente que tiene pagos recurrentes hacia tu empresa y **utiliza tus productos y servicios de una manera continua en el tiempo.**
 
-## Bibliografía
+## Bibliografía (links)
 
-[Predictable Revenue](http://www.amazon.es/gp/product/B005ERYEGU/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B005ERYEGU&linkCode=as2&tag=alfonsogu-21)
+- [Predictable Revenue](http://www.amazon.es/gp/product/B005ERYEGU/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B005ERYEGU&linkCode=as2&tag=alfonsogu-21)

@@ -10,8 +10,10 @@ readingTime: 2
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 244
-image: ""
+image: "/wp-content/uploads/2007/07/zimbabwe_kariba_sunset_575_l.jpg"
 ---
+
+![zimbague](/wp-content/uploads/2007/07/zimbabwe_kariba_sunset_575_l.jpg)
 
 Llevo varias noches dándole vueltas al asunto de las noticias en la página principal de [Velneo](http://velneo.es). Está claro tanto por las estadísticas como por los comentarios de los post del blog, que hemos ***"matado"*** gran parte de la fuerza del [blog](http:/velneo.es) de Velneo. La suposición de que la gente usaría los RSS no fue todo lo acertada que creíamos.
 

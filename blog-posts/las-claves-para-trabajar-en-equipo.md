@@ -10,10 +10,12 @@ readingTime: 1
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 96
-image: ""
+image: "/wp-content/uploads/2007/04/chiste-trabajo_de_equipo.jpg"
 ---
 
-<!-- Imagen: Trabajo en Equipo --> Gustavo Piera en su libro: [**La travesia**](http://libros.linkara.com/libro/travesia-18-claves-llegar-buen-puerto-gustavo-piera-mihe.html) Nos hace una interesante reflexión sobre las 18 claves para llegar a buen puerto gestionando equipos: ***Babor***
+![Trabajo en Equipo](/wp-content/uploads/2007/04/chiste-trabajo_de_equipo.jpg)
+
+Gustavo Piera en su libro: [**La travesia**](http://libros.linkara.com/libro/travesia-18-claves-llegar-buen-puerto-gustavo-piera-mihe.html) Nos hace una interesante reflexión sobre las 18 claves para llegar a buen puerto gestionando equipos: ***Babor***
 
 -   Conoce a tu equipo. Deja que te conozcan.
 -   Comparte conocimientos.

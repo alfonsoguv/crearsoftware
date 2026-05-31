@@ -14,4 +14,6 @@ noindex: true
 image: ""
 ---
 
-A muchos de vosotros os gustó el post sobre las trampas del deseo. Os comparto el vídeo del programa Redes donde escuché por primera vez hablar de él. El vídeo como el libro no tiene desperdicio. \[blip.tv ?posts\_id=1001892&dest=-1\]
+A muchos de vosotros os gustó el post sobre las trampas del deseo. Os comparto el vídeo del programa *Redes*, donde escuché por primera vez hablar de él. El vídeo, como el libro, no tiene desperdicio.
+
+> Vídeo del programa *Redes* (embed original de Blip.tv, `posts_id=1001892`, ya no disponible).

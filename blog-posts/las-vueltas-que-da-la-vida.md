@@ -14,4 +14,8 @@ noindex: true
 image: ""
 ---
 
-*Las vueltas que da la vida el destino se burla de ti...* (es la letra de una famosa canción de los Suaves). Este vídeo demuestra que la frase es cierta.
+> *Las vueltas que da la vida el destino se burla de ti...*
+
+Es la letra de una famosa canción de los Suaves. Este vídeo demuestra que la frase es cierta.
+
+[Ver el vídeo en YouTube](http://www.youtube.com/watch?v=WrEbML5C70U)

@@ -11,9 +11,13 @@ commentCount: 0
 wordCount: 37
 readingTime: 1
 noindex: true
-image: ""
+image: "/wp-content/uploads/2008/10/sunflower_yellow_insect_8245_l.jpg"
 ---
 
-### "Nuestra disposición a ser incomprendidos, nuestra orientación al largo plazo y nuestra tolerancia a fallar de manera reiterada son las tres partes de nuestra cultura que hacen posible que hagamos las cosas que hacemos."
+[![sunflower_yellow_insect_8245_l](/wp-content/uploads/2008/10/sunflower_yellow_insect_8245_l.jpg)](/wp-content/uploads/2008/10/sunflower_yellow_insect_8245_l.jpg)
+
+[Amazon](http://www.amazon.es/?_encoding=UTF8&tag=alfonsogu-21&linkCode=ur2&camp=3626&creative=24822)
+
+> ### "Nuestra disposición a ser incomprendidos, nuestra orientación al largo plazo y nuestra tolerancia a fallar de manera reiterada son las tres partes de nuestra cultura que hacen posible que hagamos las cosas que hacemos."
 
 *Jeff Bezos*

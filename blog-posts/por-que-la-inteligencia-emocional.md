@@ -10,8 +10,10 @@ readingTime: 1
 author: "Alfonso Gutiérrez"
 commentCount: 2
 wordCount: 129
-image: ""
+image: "/wp-content/uploads/2007/07/agua.jpg"
 ---
+
+![agua](/wp-content/uploads/2007/07/agua.jpg)
 
 Las habilidades técnicas son importantes. Pero la inteligencia emocional es un requisito indispensable para el liderazgo. Existen casos de ejecutivos brillantes y competentes a los que ascendieron a posiciones de liderazgo en la que fracasaron. Ser un buen líder es más un arte que una ciencia. Algunos son modestos y analíticos, otros expresan sus ideales como si fueran Mesías. Entre todos los estilos existe algo en común lo que hoy llamamos **“inteligencia emocional”**, requisito indispensable para el liderazgo. La Inteligencia emocional se divide en :
 

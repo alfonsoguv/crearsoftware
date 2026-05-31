@@ -10,14 +10,18 @@ author: "Alfonso Gutiérrez"
 commentCount: 5
 wordCount: 231
 readingTime: 2
-image: ""
+image: "/wp-content/uploads/2011/09/locura.jpg"
 ---
+
+![Locura consciente](/wp-content/uploads/2011/09/locura.jpg)
 
 Es la pregunta que me hicieron ayer por la tarde en una entrevista para fomentar el espíritu emprendedor de las nuevas generaciones de universitarios. La respuesta que me salió del corazón fue: **LOCURA CONSCIENTE.**
 
 ## El punto de locura
 
-No puedes pretender crear un proyecto con todos los flecos atados, con todas las incógnitas resueltas, teniendo todas las respuestas. La parálisis por análisis es uno de los principales problemas del emprendedor analítico. Hay que dejarse llevar por lo que sientes, creer en lo que haces y sobre todo sentir un punto de ilusión y pasión en el estómago. Ese punto de locura es necesario para empezar un proyecto, para crear algo que no existe nada más que en tu cabeza, para llevar las ideas a la realidad.
+No puedes pretender crear un proyecto con todos los flecos atados, con todas las incógnitas resueltas, teniendo todas las respuestas. La parálisis por análisis es uno de los principales problemas del emprendedor analítico.
+
+Hay que dejarse llevar por lo que sientes, creer en lo que haces y, sobre todo, sentir un punto de ilusión y pasión en el estómago. Ese punto de locura es necesario para empezar un proyecto, para crear algo que no existe nada más que en tu cabeza, para llevar las ideas a la realidad.
 
 ## La parte consciente
 

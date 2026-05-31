@@ -10,8 +10,10 @@ author: "Alfonso Gutiérrez"
 commentCount: 3
 wordCount: 621
 readingTime: 4
-image: ""
+image: "/wp-content/uploads/2007/04/open-letter.jpg"
 ---
+
+![An open letter to hobbyists](/wp-content/uploads/2007/04/open-letter.jpg)
 
 Gracias a mi amigo y compañero Fred que me tradujo literalmente la carta del señor Gates.
 

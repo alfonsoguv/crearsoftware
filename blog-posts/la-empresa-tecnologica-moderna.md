@@ -10,8 +10,10 @@ readingTime: 2
 author: "Alfonso Gutiérrez"
 commentCount: 2
 wordCount: 247
-image: ""
+image: "/wp-content/uploads/2007/04/futebol_freeze_macro_5657_l.jpg"
 ---
+
+![Agua](/wp-content/uploads/2007/04/futebol_freeze_macro_5657_l.jpg)
 
 La política de recursos humanos de  la empresa moderna, es una política abierta basada en una gran capacidad para delegar y generar equipos de alto rendimiento. El carácter cercano, afable, del líder coloca al personal de la compañía en una estructura plana y poco jerarquizada. La ausencia de despachos, de eslabones hace que se genere un ambiente de alta creatividad.
 

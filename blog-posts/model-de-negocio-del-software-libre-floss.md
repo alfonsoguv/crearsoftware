@@ -10,9 +10,13 @@ readingTime: 1
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 97
-image: ""
+image: "/wp-content/uploads/2007/04/recetas.jpg"
 ---
 
-Durante siglos mucha gente a vivido del derecho, abogados, notarios, politicos,…… pero la legislación siempre ha sido libre. La gente vive de los servicios de una legislación libre. <!-- Imagen: Recetas de cocina china --> Las **recetas de cocina** siempre han sido públicas y abiertas, están ahí, el secreto está en su preparación y en el toque que la da cada uno.
+Durante siglos mucha gente a vivido del derecho, abogados, notarios, politicos,…… pero la legislación siempre ha sido libre. La gente vive de los servicios de una legislación libre.
+
+![Recetas de cocina china](/wp-content/uploads/2007/04/recetas.jpg)
+
+Las **recetas de cocina** siempre han sido públicas y abiertas, están ahí, el secreto está en su preparación y en el toque que la da cada uno.
 
 Cocineros, restaurantes y múltiples formas de modelo de negocio hacen que mucha gente gane dinero con las recetas de cocina. El modelo de negocio de software libre tiene 3000 años de antigüedad….. las leyes y las recetas de cocina son un ejemplo.

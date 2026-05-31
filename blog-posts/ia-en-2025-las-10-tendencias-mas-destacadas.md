@@ -10,8 +10,10 @@ readingTime: 7
 author: "Alfonso Gutiérrez"
 commentCount: 0
 wordCount: 1351
-image: ""
+image: "/wp-content/uploads/2025/01/freepik__the-style-is-candid-image-photography-with-natural__6959.jpeg"
 ---
+
+![IA en 2025: las 10 tendencias más destacadas](/wp-content/uploads/2025/01/freepik__the-style-is-candid-image-photography-with-natural__6959.jpeg)
 
 *Cómo la Inteligencia Artificial podría transformar nuestro día a día en los próximos años*
 
@@ -240,4 +242,4 @@ Las tendencias descritas reflejan un futuro cercano en el que la IA impactará p
 > **Llamado a la acción**
 > ¿Estás listo para adaptarte a la era de la IA? Comparte tus reflexiones, experiencias o dudas sobre estas predicciones. ¿Cuál de estas tendencias crees que tendrá el mayor impacto en tu vida diaria? ¡Te leemos en los comentarios!
 
-Referencias hilo de twitter de @[@gregisenberg](https://x.com/gregisenberg) [https://x.com/gregisenberg/status/1873832373831311864](https://x.com/gregisenberg/status/1873832373831311864)
+**Referencias**: hilo de Twitter de [@gregisenberg](https://x.com/gregisenberg) — [https://x.com/gregisenberg/status/1873832373831311864](https://x.com/gregisenberg/status/1873832373831311864)

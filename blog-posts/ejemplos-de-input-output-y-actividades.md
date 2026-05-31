@@ -10,8 +10,11 @@ readingTime: 5
 author: "Alfonso Gutiérrez"
 commentCount: 12
 wordCount: 937
-image: ""
+image: "/wp-content/uploads/2007/06/alambrada.jpg"
 ---
+
+![Alambrada](/wp-content/uploads/2007/06/alambrada.jpg)
+
 ¿Te has preguntado cómo funciona el proceso de transformación de recursos en distintos entornos de trabajo? En cualquier sector u organización, podemos identificar claramente tres elementos esenciales: **Inputs**, **Outputs** y **Actividades**. A continuación, exploraremos varios ejemplos que ilustran cómo se llevan a cabo estos procesos en diferentes industrias, desde una fábrica de automóviles hasta una sucursal bancaria.
 
 * * *

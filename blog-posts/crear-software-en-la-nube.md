@@ -13,9 +13,9 @@ readingTime: 2
 image: ""
 ---
 
-**Si se puede imaginar... se puede programar**
+> **Si se puede imaginar... se puede programar.**
 
-Crear software **no tiene límites,** es una de las virtudes de esta profesión, la capacidad de crear. [La nube está matando al hardware](/2012/12/17/el-software-y-la-muerte-del-hardware/), el hardware empieza a no ser tan importante para la ejecución de aplicaciones y en los próximos años tampoco lo será a la hora de programarlas.
+Crear software **no tiene límites:** es una de las virtudes de esta profesión, la capacidad de crear. [La nube está matando al hardware](/2012/12/17/el-software-y-la-muerte-del-hardware/); el hardware empieza a no ser tan importante para la ejecución de aplicaciones y en los próximos años tampoco lo será a la hora de programarlas.
 
 Las [plataformas de desarrollo PaaS](/2008/08/14/definicion-de-paas/) nacieron con la finalidad de que desarrollar software para la nube fuera más eficiente.
 
@@ -31,7 +31,7 @@ Las [plataformas de desarrollo PaaS](/2008/08/14/definicion-de-paas/) nacieron c
 
 **5. Programas desde cualquier sitio.** No necesitas depender de tu portátil o de una máquina física para entrar en tu código, puedes programar desde cualquier sitio que te imagines.
 
-***Si desarrollas para la nube, programa en la nube.***
+> ***Si desarrollas para la nube, programa en la nube.***
 
 Algunas plataformas de desarrollo en la nube:
 
