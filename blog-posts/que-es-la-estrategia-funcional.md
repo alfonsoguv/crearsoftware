@@ -6,13 +6,43 @@ oldUrl: "/2007/04/26/%c2%bfque-es-la-estrategia-funcional/"
 description: "Qué es la estrategia funcional y sus tipos (producción, I+D, RRHH, comercial). Cómo alinear las funciones de tu empresa con la estrategia corporativa."
 category: "tecnologia-empresarial"
 tags: ["estrategia", "gestión empresarial"]
-readingTime: 2
+readingTime: 4
 author: "Alfonso Gutiérrez"
 commentCount: 15
-wordCount: 266
+wordCount: 480
 image: "/wp-content/uploads/2007/04/estrategia.gif"
 ---
 
 ![estrategia](/wp-content/uploads/2007/04/estrategia.gif)
 
-Para mi la definición más correcta de Estrategia Funcional, es la siguiente: **“La estrategia funcional es aquella que define  ¿CÓMO? Se deben de hacer las cosas”** Mientras que la Estrategia Corporativa y la de Negocio definen la parte de la estrategia más cercana al , ¿que hacer? ¿Cuándo competir? ¿Dónde competir? , la estrategia funcional es la más cercana a como hay que hacer las cosas, a como se deben utilizar y aplicar los recursos. La estrategia funcional es cercana a la definición de procesos y acciones.  Las compañías descuidan la parte funcional de la estrategia, históricamente se le ha dado siempre mucha más importancia a definir ¿QUÉ? Queremos hacer, pero  hay que darse cuenta que la Estrategia funcional es tan o más importante que la corporativa o la de negocio. Debemos definir , usar y aplicar correctamente nuestros recursos según la estrategia corporativa y de negocio , si la estrategia funcional no está bien definida y alineada con las Estrategia Corporativa y de negocio nuestra empresa seguro que no saldrá adelante. Por definición los principales tipos de estrategia funcional son: •    Estrategias de producción. •    Estrategias de I+D. •    Estrategias de Financiación. •    Estrategias de Recursos Humanos •    Estrategias de Comercialización. No obstante des mi humilde punto de vista los tipos de estrategia funcional dependen de la Estrategia Corporativa y de Negocio que se han decidido, si apuesto por una empresa “Call Center”, mi estrategia funcional más importante será la de “servicio de llamada” , o la de “marketing” o la de “postventa”, todo depende del enfoque estratégico de la compañía.  . . .  .
+**La estrategia funcional es la que define *cómo* se deben hacer las cosas en cada área de la empresa.** Mientras la estrategia corporativa y la de negocio responden al *qué*, *cuándo* y *dónde* competir, la estrategia funcional baja al terreno: cómo utilizar y aplicar los recursos en cada función (producción, marketing, finanzas, etc.).
+
+## ¿Qué es la estrategia funcional?
+
+La estrategia funcional es la más cercana a la definición de **procesos y acciones**. Históricamente las compañías la han descuidado, dando mucha más importancia a definir *qué* quieren hacer; pero hay que darse cuenta de que la estrategia funcional es **tan o más importante** que la corporativa o la de negocio.
+
+Debemos definir, usar y aplicar correctamente nuestros recursos según la estrategia corporativa y de negocio. Si la estrategia funcional no está bien definida y **alineada** con ellas, la empresa difícilmente saldrá adelante.
+
+## Tipos de estrategia funcional
+
+Los principales tipos de estrategia funcional son:
+
+- **Estrategia de producción** — cómo fabricar u operar de forma eficiente.
+- **Estrategia de I+D** — cómo innovar y desarrollar nuevos productos.
+- **Estrategia de financiación** — cómo obtener y asignar los recursos económicos.
+- **Estrategia de recursos humanos** — cómo atraer, formar y retener al talento.
+- **Estrategia de comercialización (marketing)** — cómo llegar al cliente y vender.
+
+## Ejemplo de estrategia funcional
+
+Los tipos relevantes dependen de la estrategia corporativa y de negocio elegida. Si apuesto por una empresa tipo *Call Center*, mi estrategia funcional más importante será la de **servicio de llamada**, la de **marketing** o la de **postventa**: todo depende del enfoque estratégico de la compañía.
+
+## Preguntas frecuentes
+
+### ¿Cuál es la diferencia entre estrategia corporativa, de negocio y funcional?
+
+La **corporativa** decide en qué negocios estar; la **de negocio** decide cómo competir en cada uno; la **funcional** decide cómo ejecutar esa estrategia en cada área (producción, marketing, finanzas, RRHH, I+D).
+
+### ¿Por qué es importante la estrategia funcional?
+
+Porque es la que convierte la estrategia en acción real. Sin una estrategia funcional bien alineada, los planes corporativos se quedan en intención y no se ejecutan correctamente.
