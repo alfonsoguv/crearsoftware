@@ -1,5 +1,5 @@
 ---
-title: "Protocolo de Contexto de Modelo (MCP): qué es y guía 2025"
+title: "Qué es MCP (Protocolo de Contexto de Modelo): Guía Completa 2026"
 slug: "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp"
 date: "2025-04-14"
 oldUrl: "/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/"
