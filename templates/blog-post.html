@@ -293,33 +293,6 @@
     .article-content strong { font-weight: var(--weight-bold); }
     .article-content em { font-style: italic; }
 
-    /* --- Author Box --- */
-    .author-box {
-      display: flex;
-      gap: var(--space-6);
-      padding: var(--space-8);
-      background: var(--color-bg-alt);
-      border-radius: var(--radius-md);
-      margin-top: var(--space-12);
-    }
-    .author-photo {
-      width: 72px;
-      height: 72px;
-      border-radius: 50%;
-      object-fit: cover;
-      flex-shrink: 0;
-      background: var(--color-border);
-    }
-    .author-info h3 {
-      font-family: var(--font-heading);
-      font-size: var(--text-base);
-      margin-bottom: var(--space-2);
-    }
-    .author-info p {
-      font-size: var(--text-sm);
-      color: var(--color-text-muted);
-    }
-
     /* --- Share Buttons --- */
     .share-buttons {
       display: flex;
@@ -500,7 +473,6 @@
       .breadcrumbs { padding: var(--space-4); }
       .article-layout { padding: 0 var(--space-4); }
       .post-header h1 { font-size: 1.8rem; }
-      .author-box { flex-direction: column; align-items: center; text-align: center; }
       .site-footer { padding: var(--space-8) var(--space-4); }
     }
 
@@ -577,15 +549,6 @@
         <!-- Content -->
         <div class="article-content">
           {{content}}
-        </div>
-
-        <!-- Author Box -->
-        <div class="author-box">
-          <img class="author-photo" src="{{authorPhoto}}" alt="{{author}}" width="72" height="72" loading="lazy">
-          <div class="author-info">
-            <h3><a href="/autor/{{authorSlug}}/">{{author}}</a></h3>
-            <p>{{authorBio}}</p>
-          </div>
         </div>
 
         <!-- Share Buttons -->
