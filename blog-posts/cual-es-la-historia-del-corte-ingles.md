@@ -3,7 +3,7 @@ title: "¿Cuál es la historia del Corte Inglés?"
 slug: "¿cual-es-la-historia-del-corte-ingles"
 date: "2008-05-18"
 oldUrl: "/2008/05/18/%c2%bfcual-es-la-historia-del-corte-ingles/"
-description: "Historia de El Corte Inglés desde que Ramón Areces compró una sastrería en Madrid por 900 euros hasta convertirla en líder mundial de distribución."
+description: "Historia de El Corte Inglés: cómo Ramón Areces convirtió una pequeña sastrería de Madrid (1934) en el mayor grupo de distribución de España y líder mundial."
 category: "tecnologia-empresarial"
 tags: ["el corte inglés", "ramón areces", "estrategia empresarial", "crecimiento", "distribución"]
 author: "Alfonso Gutiérrez"
@@ -17,6 +17,8 @@ image: ""
 
 *Imagen vía [Wikipedia](http://en.wikipedia.org/wiki/Image:Corteingles2.jpg).*
 
+**El Corte Inglés nace en 1934, cuando Ramón Areces compra una pequeña sastrería llamada "El Corte Inglés" en la calle del Carmen de Madrid.** Areces, que había aprendido las técnicas comerciales estadounidenses durante su juventud en Cuba, convirtió aquel pequeño comercio en el mayor grupo de distribución de España y uno de los líderes mundiales del sector.
+
 ## Los orígenes de Ramón Areces
 
 [Ramón Areces](http://en.wikipedia.org/wiki/Ram%C3%B3n_Areces "Ramón Areces") Rodríguez, fundador de [El Corte Inglés](http://www.elcorteingles.es/ "El Corte Inglés"), nace en el pueblo de Grado (Asturias) en 1904, en una humilde familia de agricultores con escaso patrimonio. Con apenas quince años se embarca rumbo a [Cuba](http://en.wikipedia.org/wiki/Cuba "Cuba"), donde un tío materno suyo le ofrece un puesto de recadero en los más famosos almacenes de [La Habana](http://en.wikipedia.org/wiki/Havana "Havana"), llamados El Encanto.
@@ -25,7 +27,7 @@ Ramón Areces carecía prácticamente de formación, puesto que apenas fue a la 
 
 ## La fundación de El Corte Inglés
 
-Vuelve a España en 1934, donde **por 900 euros compra una pequeña sastrería** situada en la calle Carmen de [Madrid](http://en.wikipedia.org/wiki/Madrid "Madrid"). El comercio se llamaba El Corte Inglés. Éste es el origen del actual grupo empresarial, que en 2002 facturó 13.000 millones de euros y dio empleo a unas sesenta mil personas.
+Vuelve a España en 1934, donde **compra una pequeña sastrería** situada en la calle del Carmen de [Madrid](http://en.wikipedia.org/wiki/Madrid "Madrid") por una cantidad modesta (en pesetas de la época, equivalente a unos pocos cientos de euros actuales). El comercio se llamaba El Corte Inglés. Éste es el origen del actual grupo empresarial, que en 2002 facturó 13.000 millones de euros y dio empleo a unas sesenta mil personas.
 
 ## Vida personal y rivalidad empresarial
 
@@ -70,3 +72,21 @@ Entre las ventajas, cabe citar un adecuado sistema remunerativo, así como los d
 Tanto las políticas como el estilo de dirección se basan en un personal eficiente, motivado y responsable que han configurado una cultura que responde desde hace años a estos lemas:
 
 > Compromiso con el cliente, máxima seriedad, eficacia administrativa e innovación permanente de servicios y procedimientos.
+
+## Preguntas frecuentes
+
+### ¿Quién fundó El Corte Inglés?
+
+Lo fundó **Ramón Areces Rodríguez** (Grado, Asturias, 1904), que había aprendido las técnicas comerciales estadounidenses durante su juventud trabajando en los almacenes El Encanto de La Habana.
+
+### ¿Cuándo se fundó El Corte Inglés?
+
+En **1934**, cuando Ramón Areces compró una pequeña sastrería llamada "El Corte Inglés" en la calle del Carmen de Madrid. Ese comercio es el origen del actual grupo empresarial.
+
+### ¿Qué pasó con Galerías Preciados?
+
+Galerías Preciados, fundada por José Fernández Rodríguez (primo de Areces), fue durante décadas la gran competidora de El Corte Inglés. Finalmente, en **1995**, El Corte Inglés compró sus activos e integró a su histórico rival.
+
+### ¿Quién heredó El Corte Inglés tras Ramón Areces?
+
+Areces murió en 1989 sin descendientes directos. Su sucesor al frente de la empresa fue **Isidoro Álvarez**, sobrino en segundo grado, y la **Fundación Ramón Areces** quedó como heredera universal y principal accionista del grupo.
