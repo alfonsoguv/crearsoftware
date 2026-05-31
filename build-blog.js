@@ -189,6 +189,14 @@ function formatDate(dateStr) {
   });
 }
 
+// Compact date for editorial meta rows, e.g. "14 abr 2025"
+function formatDateShort(dateStr) {
+  const d = new Date(dateStr);
+  return d
+    .toLocaleDateString('es-ES', { year: 'numeric', month: 'short', day: 'numeric' })
+    .replace(/\./g, '');
+}
+
 // ---------------------------------------------------------------------------
 // Slug helper
 // ---------------------------------------------------------------------------
@@ -647,6 +655,21 @@ function buildPostCard(post) {
 }
 
 // ---------------------------------------------------------------------------
+// Helper: build home entry HTML (matching .entry structure for the home list)
+// ---------------------------------------------------------------------------
+function buildHomeEntry(post) {
+  const url = getPostUrl(post);
+  const readMins = typeof post.readingTime === 'number' ? post.readingTime : parseInt(post.readingTime) || 5;
+
+  return `
+        <a href="${url}" class="entry">
+          <div class="entry-meta">${post.categoryLabel ? `<span class="cat">${escapeHtml(post.categoryLabel)}</span>` : ''}<span><time datetime="${post.date}">${formatDateShort(post.date)}</time></span><span>${readMins} min</span></div>
+          <h2>${escapeHtml(post.title)}</h2>
+          <p>${escapeHtml(post.metaDescription || '')}</p>
+        </a>`;
+}
+
+// ---------------------------------------------------------------------------
 // Helper: build post item HTML (matching .post-item structure for blog index)
 // ---------------------------------------------------------------------------
 function buildPostItem(post) {
@@ -887,26 +910,9 @@ if (posts.length > 0) {
 // Generate HOME PAGE at /index.html
 // ---------------------------------------------------------------------------
 {
-  // Featured posts (latest 6)
+  // Latest posts for the home list (editorial "Lo último")
   const featuredPosts = posts.slice(0, 6);
-  const featuredPostsHTML = featuredPosts.map(post => buildPostCard(post)).join('');
-
-  // Category cards
-  const categoriesHTML = Object.values(categories)
-    .sort((a, b) => b.posts.length - a.posts.length)
-    .map(cat => {
-      const icon = CATEGORY_ICONS[cat.slug] || '📁';
-      const desc = CATEGORY_DESCRIPTIONS[cat.slug] || `Artículos sobre ${cat.name}`;
-      const shortDesc = desc.length > 80 ? desc.slice(0, 77) + '...' : desc;
-      return `
-      <a href="/categoria/${cat.slug}/" class="category-card">
-        <div class="category-icon">${icon}</div>
-        <div class="category-info">
-          <h3>${cat.name}</h3>
-          <p>${shortDesc}</p>
-        </div>
-      </a>`;
-    }).join('');
+  const featuredPostsHTML = featuredPosts.map(post => buildHomeEntry(post)).join('');
 
   // Home JSON-LD
   const homeJsonLd = {
@@ -929,7 +935,6 @@ if (posts.length > 0) {
     metaDescription: escapeHtml(SITE_DESCRIPTION),
     canonicalUrl: SITE_URL,
     featuredPosts: featuredPostsHTML,
-    categories: categoriesHTML,
     newsletterAction: '/api/subscribe',
     socialMeta: buildSocialMeta({
       title: `${SITE_NAME} — Blog de Desarrollo de Software, IA y Tecnología Empresarial`,
