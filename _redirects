@@ -17,10 +17,9 @@
 /category/1937/ /categoria/innovacion-digital/ 301
 /category/* /blog/ 301
 
-# WordPress author → new author page
-/author/alfonsogu/ /autor/alfonso-gutierrez/ 301
-/author/alfonsogutierrez/ /autor/alfonso-gutierrez/ 301
-/author/* /autor/alfonso-gutierrez/ 301
+# WordPress author + página de autor eliminada → blog index
+/author/* /blog/ 301
+/autor/* /blog/ 301
 
 # WordPress tag URLs → blog index (tags no longer have dedicated pages)
 /tag/* /blog/ 301
