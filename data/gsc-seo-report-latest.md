@@ -1,6 +1,6 @@
 # Google Search Console SEO report
 
-Fecha de generacion: 2026-05-31T18:48:33.611Z
+Fecha de generacion: 2026-05-31T19:10:46.858Z
 Propiedad configurada: sc-domain:crearsoftware.com
 Propiedad usada: sc-domain:crearsoftware.com
 Periodo: 2026-05-03 -> 2026-05-30
@@ -9,7 +9,7 @@ Autenticacion: OAuth refresh token
 ## Resumen
 
 - Propiedad accesible con estas credenciales: si
-- Sitemaps detectados en Search Console: 0
+- Sitemaps detectados en Search Console: 1
 - Clicks totales: 132
 - Impresiones totales: 20609
 - CTR medio: 0.64%
@@ -17,7 +17,7 @@ Autenticacion: OAuth refresh token
 
 ## Sitemaps detectados
 
-- Ninguno
+- https://crearsoftware.com/sitemap.xml | indexed: 0 | submitted: 690
 
 ## Top paginas por clics
 

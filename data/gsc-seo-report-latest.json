@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T18:48:33.611Z",
+  "generatedAt": "2026-05-31T19:10:46.858Z",
   "siteUrl": "sc-domain:crearsoftware.com",
   "requestedSiteUrl": "sc-domain:crearsoftware.com",
   "authMode": "OAuth refresh token",
@@ -10,7 +10,25 @@
     "lookbackDays": 28
   },
   "siteIsAccessible": true,
-  "sitemaps": [],
+  "sitemaps": [
+    {
+      "path": "https://crearsoftware.com/sitemap.xml",
+      "lastSubmitted": "2026-05-31T18:49:28.343Z",
+      "isPending": false,
+      "isSitemapsIndex": false,
+      "type": "sitemap",
+      "lastDownloaded": "2026-05-31T18:49:29.599Z",
+      "warnings": "0",
+      "errors": "0",
+      "contents": [
+        {
+          "type": "web",
+          "submitted": "690",
+          "indexed": "0"
+        }
+      ]
+    }
+  ],
   "summary": {
     "pages": {
       "totalClicks": 132,

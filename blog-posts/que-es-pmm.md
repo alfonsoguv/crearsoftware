@@ -1,9 +1,9 @@
 ---
-title: "¿Qué es PMM?"
+title: "¿Qué es el PMM (Período Medio de Maduración)? Definición y Tipos"
 slug: "¿que-es-pmm"
 date: "2009-03-20"
 oldUrl: "/2009/03/20/%c2%bfque-es-pmm/"
-description: "Qué es el Periodo Medio de Maduración (PMM): definición, subperiodos y tipos (económico, financiero y ponderado), y medidas para gestionarlo."
+description: "Qué es el Período Medio de Maduración (PMM): definición, subperíodos, tipos (económico, financiero y ponderado) y cómo gestionarlo en la empresa."
 category: "tecnologia-empresarial"
 tags: ["gestión empresarial", "estrategia", "finanzas", "PMM"]
 readingTime: 4
@@ -48,3 +48,21 @@ El PMM (período medio de maduración) es el plazo medio que tarda la empresa en
 - Utilizar descuento bancario como forma de pago, y descontar todos los efectos.
 
 ![Esquema del período medio de maduración](/wp-content/uploads/2009/03/periodo-medio-de-maduracion1.jpg)
+
+## Preguntas frecuentes sobre el PMM
+
+### ¿Qué es el período medio de maduración en palabras sencillas?
+
+Es el número de días que tarda la empresa en recuperar el dinero invertido en el ciclo de explotación: desde que compra las materias primas hasta que cobra a sus clientes la venta del producto.
+
+### ¿Cómo se calcula el PMM?
+
+El PMM económico se obtiene sumando los cuatro subperíodos (aprovisionamiento, producción, venta y cobro a clientes). Si a ese resultado le restas los días financiados por terceros (proveedores y financiación bancaria), obtienes el PMM financiero.
+
+### ¿Cuál es la diferencia entre PMM económico y financiero?
+
+El **económico** mide la duración total del ciclo dinero-mercancías-dinero. El **financiero** descuenta la parte que financian los proveedores y bancos, reflejando los días que la empresa financia con recursos propios.
+
+### ¿Es mejor un PMM corto o largo?
+
+En general, un PMM **más corto** es mejor: significa que la empresa recupera antes su inversión y necesita menos financiación para operar. Acortar el PMM mejora la liquidez.
