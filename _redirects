@@ -24,6 +24,12 @@
 /author/* /blog/ 301
 /autor/* /blog/ 301
 
+# Consolidación de clusters (canibalización) → pilar
+/2013/04/17/5-ideas-para-vender-software-por-internet/ /2013/06/17/vender-software-por-internet/ 301
+/2016/05/23/como-vender-software/ /2013/06/17/vender-software-por-internet/ 301
+/2012/01/05/como-hacer-un-programa/ /2012/04/04/como-crear-programas/ 301
+/2012/01/13/programa-para-hacer-programas/ /2012/04/04/como-crear-programas/ 301
+
 # WordPress tag URLs → blog index (tags no longer have dedicated pages)
 /tag/* /blog/ 301
 

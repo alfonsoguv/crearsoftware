@@ -603,6 +603,12 @@ function getPostUrl(post) {
   return `/blog/${post.effectiveSlug || getEffectiveSlug(post)}/`;
 }
 
+// Percent-encode cada segmento del path para URLs PÚBLICAS (canonical, sitemap, feed),
+// para que coincidan con la forma indexada por Google (p.ej. ¿ -> %C2%BF). NO usar para rutas en disco.
+function encodeUrlPath(p) {
+  return p.split('/').map((seg) => encodeURIComponent(seg)).join('/');
+}
+
 // ---------------------------------------------------------------------------
 // Helper: get output path for a post
 // ---------------------------------------------------------------------------
@@ -713,7 +719,7 @@ function buildRelatedArticleLink(post) {
 let postCount = 0;
 for (const post of posts) {
   const postUrl = getPostUrl(post);
-  const canonicalUrl = `${SITE_URL}${postUrl}`;
+  const canonicalUrl = `${SITE_URL}${encodeUrlPath(postUrl)}`;
   const metaDescription = post.metaDescription || getMetaDescription(post);
   const socialMeta = buildSocialMeta({
     title: post.title,
@@ -1152,7 +1158,7 @@ for (const post of posts) {
   if (post.noindex) continue;
   const postUrl = getPostUrl(post);
   sitemapEntries.push({
-    loc: postUrl,
+    loc: encodeUrlPath(postUrl),
     lastmod: post.dateModified || post.date,
     freq: 'monthly',
     priority: post === posts[0] ? '0.9' : '0.8',
@@ -1200,7 +1206,7 @@ console.log(`  [sitemap] sitemap.xml (${sitemapEntries.length} URLs)`);
 // Generate feed.xml (RSS)
 // ---------------------------------------------------------------------------
 const feedItems = posts.slice(0, 100).map(post => {
-  const postUrl = `${SITE_URL}${getPostUrl(post)}`;
+  const postUrl = `${SITE_URL}${encodeUrlPath(getPostUrl(post))}`;
   const categoriesXml = (post.tags || [])
     .slice(0, 5)
     .map(tag => `    <category>${escapeXml(tag)}</category>`)
