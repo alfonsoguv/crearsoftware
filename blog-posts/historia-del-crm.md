@@ -1,5 +1,5 @@
 ---
-title: "Historia del CRM"
+title: "Historia del CRM: del Rolodex a Salesforce y la IA"
 slug: "historia-del-crm"
 date: "2015-05-18"
 oldUrl: "/2015/05/18/historia-del-crm/"
@@ -14,6 +14,8 @@ image: "/wp-content/uploads/2015/05/historia-del-crm-003.jpg"
 ---
 
 > **La mejor forma de predecir el futuro es mirar en el pasado.**
+
+**La historia del CRM va desde los tarjeteros Rolodex de los años 80, pasando por los primeros gestores de contactos (ACT, Goldmine), el liderazgo de Siebel en los 90 y la revolución Cloud de Salesforce en los 2000, hasta los asistentes de voz e inteligencia artificial actuales.** Es la historia de cómo las empresas pasaron de gestionar clientes con fichas de papel a hacerlo con software inteligente en la nube.
 
 En EEUU tienen claro la importancia de vender; en España esperamos que nos compren. Hace 16 años presumía de no tener comerciales: el vendedor estaba mal visto en la empresa. Hoy día pienso que el comercial es tan importante como el programador, uno sin el otro no tienen sentido.
 
@@ -169,3 +171,23 @@ Mientras tanto, surgirán nuevas startups de [CRM basadas en IA y](http://www.vi
 - Los **comerciales** y los **programadores** serán socios indispensables para el crecimiento de las organizaciones, apoyados por herramientas cada vez más sofisticadas que faciliten la relación con el cliente.
 
 En definitiva, la evolución continuará basándose en la idea de que la mejor forma de **predecir** lo que vendrá será **mirar al pasado** y aprender de las tendencias que ya marcaron hitos en la historia de la tecnología empresarial. Y, sin duda, la voz de Victoria y otros asistentes de voz tendrán un lugar protagónico en esta emocionante nueva etapa de las ventas y la gestión de clientes.
+
+* * *
+
+## Preguntas frecuentes
+
+### ¿Cuál fue el primer CRM de la historia?
+
+El precursor fue **ACT**, creado en 1986 por Pat Sullivan y Mike Muhney como gestor de contactos para sustituir a los tarjeteros Rolodex. Antes de ACT, los comerciales gestionaban a sus clientes con fichas de papel.
+
+### ¿Qué significa CRM?
+
+CRM son las siglas de *Customer Relationship Management* (gestión de la relación con los clientes): software para administrar la venta, el marketing y el soporte al cliente desde una única base de datos.
+
+### ¿Qué había antes del CRM?
+
+Antes del software de CRM, cada comercial llevaba su propia base de datos de clientes en tarjeteros físicos como el Rolodex. En los años 80, pioneros como los Kestnbaum y Robert Shaw sentaron las bases del marketing de bases de datos.
+
+### ¿Por qué Salesforce se convirtió en líder?
+
+Salesforce triunfó con dos ideas revolucionarias para su época: ser **100% Cloud** y centrarse en la **sencillez** y rapidez de implantación, frente a sistemas complejos y caros como Siebel. Eso le permitió pasar de start-up a líder mundial en una década.
