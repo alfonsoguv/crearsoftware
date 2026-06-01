@@ -1,9 +1,9 @@
 ---
-title: "Vender software y hardware"
+title: "Vender Software y Hardware: Cloud, Renting y No Perder Dinero"
 slug: "vender-software-y-hardware"
 date: "2013-10-01"
 oldUrl: "/2013/10/01/vender-software-y-hardware/"
-description: "Diferencias entre vender software y hardware: soluciones cloud, renting y recomendaciones para no perder dinero con el hardware."
+description: "Cómo combinar la venta de software y hardware sin perder dinero: soluciones cloud, renting y por qué el hardware debe ser accesorio de tu negocio de software."
 category: "desarrollo-software"
 tags: ["velneo","desarrollo de software","software empresarial","cloud computing","apple"]
 author: "Alfonso Gutiérrez"
@@ -12,6 +12,8 @@ wordCount: 559
 readingTime: 3
 image: ""
 ---
+
+**Al combinar software y hardware, la regla de oro es no intentar ganar dinero con el hardware: tiene mucho trabajo y poco margen. Véndelo solo cuando mejore tu producto de software, y apóyate en soluciones Cloud o en renting para que el cliente no tenga que asumir la inversión en equipos.** Tu negocio es el software; el hardware debe ser accesorio.
 
 Quiero dar las gracias a todos los lectores que me envían correos pidiendo consejo y ayuda. Aunque tarde semanas, trato de dar contestación a todo lo que recibo.
 
@@ -46,3 +48,17 @@ Algunas marcas como [IBM tienen soluciones de financiación de hardware y softwa
 En resumen:
 
 > **Vende hardware cuando realmente mejore tu producto de software, y no trates de ganar dinero con la venta de hardware, sino en tu NEGOCIO DE SOFTWARE.**
+
+## Preguntas frecuentes
+
+### ¿Conviene vender hardware junto con el software?
+
+Solo cuando el hardware mejora de forma clara tu producto de software (como hace Apple con soluciones integradas). El hardware da mucho trabajo y poco margen, así que debe ser accesorio, no el centro del negocio.
+
+### ¿Cómo evitar la inversión en hardware del cliente?
+
+Con dos vías: **Cloud** (el cliente paga una cuota mensual y se olvida del servidor) y **renting/financiación** (marcas como IBM financian el hardware; tú cobras tu software y el cliente paga las cuotas del equipo aparte).
+
+### ¿Por qué no se debe ganar dinero con el hardware?
+
+Porque el margen es bajo y el coste de soporte alto: si te metes a vender y mantener hardware, acabarás "arreglando placas en vez de programar". El dinero y la rentabilidad están en el software.

@@ -1,5 +1,5 @@
 ---
-title: "Orientaciones culturales según Harrison(1972)"
+title: "Orientaciones Culturales de Harrison: los 4 Tipos de Cultura Organizacional"
 slug: "¿cuales-son-las-orientaciones-culturales-segun-harrison1972"
 date: "2007-10-27"
 oldUrl: "/2007/10/27/%c2%bfcuales-son-las-orientaciones-culturales-segun-harrison1972/"
@@ -14,6 +14,8 @@ image: "/wp-content/uploads/2007/10/malaysia_landmark_kualalumpur_14566_l.jpg"
 ---
 
 ![Torres Petronas en Kuala Lumpur, Malasia](/wp-content/uploads/2007/10/malaysia_landmark_kualalumpur_14566_l.jpg)
+
+**Harrison (1972) clasifica las culturas organizacionales en cuatro orientaciones: al poder, al rol o función, al cumplimiento de tareas y a las personas.** Cada una refleja una forma distinta de entender la autoridad, la estructura y los objetivos dentro de la empresa. La mayoría de las organizaciones reales son híbridos de dos o más de estos perfiles.
 
 Harrison, a partir de datos empíricos, propone una clasificación de las culturas organizacionales según su orientación. Identifica **cuatro tipos**. Veámoslos:
 
@@ -40,6 +42,20 @@ Los valores organizativos consisten en alcanzar un trabajo satisfactorio, intere
 Como resulta evidente, en realidad no solemos encontrar ejemplos que coincidan al 100 % con uno solo de los tipos presentados. La mayoría de las organizaciones son **híbridos de dos o más perfiles culturales**. Aun así, estas clasificaciones nos son de gran valor, especialmente las que, como la tipología de orientaciones culturales de Harrison, continúan siendo consistentes con los datos empíricos analizados en estudios muy posteriores.
 
 > ¿Dónde trabajas tú?
+
+## Preguntas frecuentes
+
+### ¿Cuáles son las cuatro orientaciones culturales de Harrison?
+
+Orientación al **poder** (dominar y competir), al **rol o función** (normas, orden y legalidad), al **cumplimiento de tareas** (logro de objetivos, estructura flexible) y a las **personas** (atender las necesidades de sus miembros y decidir por consenso).
+
+### ¿Una empresa pertenece a una sola orientación cultural?
+
+No. En la práctica casi ninguna organización coincide al 100% con un solo tipo: la mayoría son **híbridos** de dos o más perfiles culturales, con uno predominante.
+
+### ¿Por qué sigue siendo útil la tipología de Harrison?
+
+Porque, pese a ser de 1972, se mantiene **consistente con los datos empíricos** de estudios muy posteriores, lo que la convierte en una herramienta sencilla y vigente para analizar la cultura de una organización.
 
 ---
 
