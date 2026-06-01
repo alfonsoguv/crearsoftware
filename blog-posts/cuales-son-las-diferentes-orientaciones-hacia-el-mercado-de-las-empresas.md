@@ -43,3 +43,19 @@ Aquí cobran protagonismo una fuerte actividad promocional, la publicidad y unos
 Hoy día, la mayoría de las empresas se encuentran en este tipo de orientación. La competencia es muy intensa, ya que existe mucha oferta (**Oferta > Demanda**), pero además el consumidor es cada vez más experto: sabe dónde elegir y lo que quiere.
 
 Por tanto, las empresas tratan de averiguar lo que necesita el consumidor e intentan localizar "nichos" específicos dentro del mercado para satisfacer necesidades no cubiertas por la oferta actual y **establecer relaciones a largo plazo con los clientes**.
+
+Estas orientaciones se concretan luego en el [producto](/2008/03/12/que-es-un-producto/) que la empresa ofrece al mercado.
+
+## Preguntas frecuentes
+
+### ¿Cuáles son las orientaciones de una empresa hacia el mercado?
+
+Son cuatro: orientación a la **producción y distribución**, al **producto**, a las **ventas** y al **marketing**. Cada una responde a una relación distinta entre la oferta y la demanda del sector.
+
+### ¿De qué depende la orientación que debe adoptar una empresa?
+
+Depende del equilibrio entre oferta y demanda: si la demanda supera a la oferta conviene orientarse a producción; en equilibrio, al producto; si la oferta supera a la demanda, a las ventas; y en mercados muy competitivos con consumidores expertos, al marketing.
+
+### ¿Cuál es la diferencia entre orientación a ventas y a marketing?
+
+La orientación a **ventas** busca colocar el producto mejor que la competencia, con foco en el corto plazo. La orientación al **marketing** parte de las necesidades del consumidor para crear relaciones a largo plazo, buscando nichos y satisfaciendo demandas no cubiertas.
