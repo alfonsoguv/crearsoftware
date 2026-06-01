@@ -1,5 +1,5 @@
 ---
-title: "Del  Dogfooding a probar tus recetas"
+title: "Qué es el Dogfooding: Probar tu Propio Producto (Origen y Ejemplos)"
 slug: "del-dogfooding-a-probar-tus-recetas"
 date: "2020-12-24"
 oldUrl: "/2020/12/24/del-dogfooding-a-probar-tus-recetas/"
@@ -64,3 +64,17 @@ Queríamos solucionar nuestro problema de crecimiento comercial, no nos convenci
 Somos los primeros en probar las betas de todos los productos que tenemos. Comer nuestras propias recetas antes de servirlas a los clientes.
 
 *No concibo cocinar un plato y no probarlo antes. Sin probar nuestras propias recetas, Visual MS simplemente no existiría.*
+
+## Preguntas frecuentes
+
+### ¿Qué es el dogfooding?
+
+Es la práctica por la cual una empresa usa sus propios productos y servicios en su trabajo diario antes de ofrecerlos a los clientes. La idea es simple: si un producto no es lo bastante bueno para nosotros, no lo es para venderlo.
+
+### ¿De dónde viene el término dogfooding?
+
+Del inglés *"eating your own dog food"*. Se popularizó tras un anuncio de la marca de comida para perros ALPO (1976) y, sobre todo, tras un email de Paul Maritz en Microsoft en 1988 titulado *"Eating our own Dogfood"*.
+
+### ¿Existen otros nombres para el dogfooding?
+
+Sí: Pegasystems y Novell hablan de *"beber tu propio champán"*, Microsoft propuso *"icecreaming"*, IBM usó *"eating your own cooking"* y Google emplea *"fishfooding"*. Todos describen la misma idea de probar internamente lo que vas a vender.

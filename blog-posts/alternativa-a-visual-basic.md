@@ -18,6 +18,8 @@ image: "/wp-content/uploads/2012/12/alternativa-visualbasic.png"
 > **Siempre hay que estar en condiciones de escoger entre dos alternativas.**
 > — Talleyrand
 
+**Si buscas una alternativa a Visual Basic para desarrollar aplicaciones de gestión empresarial, Velneo es una de las opciones más ágiles: permite crear la aplicación una sola vez y desplegarla en Windows, Linux, Mac y Android, sin la complejidad de .NET.** Es una vía especialmente cómoda para quienes vienen de Visual Basic 6 y no quieren saltar al complejo VB.NET.
+
 Visual Basic, al día de hoy, sigue siendo uno de los lenguajes más usados del mundo. La última versión del lenguaje fue Visual Basic 6, que apareció en 1998 y cuyo soporte se extendió hasta marzo de 2008.
 
 En 2001, Microsoft propuso abandonar el desarrollo basado en la [API](http://es.wikipedia.org/wiki/API "API") [Win32](http://es.wikipedia.org/wiki/Win32 "Win32") y pasar a un [framework](http://es.wikipedia.org/wiki/Framework "Framework") o marco común de librerías, independiente de la versión del sistema operativo. Derivado del abandono del [API](http://es.wikipedia.org/wiki/API "API") [Win32](http://es.wikipedia.org/wiki/Win32 "Win32"), [Velneo](http://velneo.es) desarrolló V7 basado en QT; las versiones 6.x estaban basadas en API Win32.
@@ -37,6 +39,20 @@ Velneo es una plataforma que funciona en diferentes S.O.: desarrollas la aplicac
 **No podemos comparar [Velneo](https://velneo.es/alternativa-a-visual-basic/) con plataformas tan poderosas y complejas como [.NET o Java](http://velneo.es/%C2%BFalternativa-a-java-y-net-no/), pero a la hora de desarrollar aplicaciones empresariales Velneo es una gran alternativa.**
 
 *(Actualización 2016: Se mejoran los enlaces a páginas de Velneo.)*
+
+## Preguntas frecuentes
+
+### ¿Cuál es la mejor alternativa a Visual Basic?
+
+Depende del objetivo. Para aplicaciones de gestión empresarial, **Velneo** es una alternativa muy ágil y multiplataforma. Microsoft propone **VB.NET**, más potente pero también más complejo de aprender para quien viene de Visual Basic 6.
+
+### ¿Por qué migrar de Visual Basic 6?
+
+Porque Microsoft abandonó su desarrollo en 1998 y su soporte en 2008, y las últimas versiones tienen problemas de compatibilidad con las versiones modernas de Windows. Seguir en VB6 implica trabajar con una tecnología sin mantenimiento.
+
+### ¿Qué diferencia a Velneo de VB.NET o .NET?
+
+Velneo está enfocado específicamente en desarrollar software de gestión de forma rápida y sencilla, con plantillas y componentes listos (Open Apps) y despliegue multiplataforma. .NET es una plataforma más grande, potente y compleja, pensada para un abanico de lenguajes y usos mucho más amplio.
 
 ### Enlaces relacionados
 
