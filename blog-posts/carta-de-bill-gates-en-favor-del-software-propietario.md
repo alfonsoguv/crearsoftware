@@ -15,6 +15,8 @@ image: "/wp-content/uploads/2007/04/open-letter.jpg"
 
 ![An open letter to hobbyists](/wp-content/uploads/2007/04/open-letter.jpg)
 
+**La "Open Letter to Hobbyists" es la carta abierta que Bill Gates escribió el 3 de febrero de 1976 para denunciar que la mayoría de los aficionados a la informática copiaban Altair BASIC sin pagarlo.** Se considera el documento que marcó el inicio del software propietario y sentó las bases del modelo de negocio de Microsoft. Aquí tienes la traducción completa al español.
+
 Gracias a mi amigo y compañero Fred que me tradujo literalmente la carta del señor Gates.
 
 En 1976 cuando el software era libre por defecto y la informática un hobby, el señor Gates escribió una carta que marcó el fin de la era del software libre en favor del propietario. Esta carta marcó el inicio de algo que todos conocemos: el imperio MICROSOFT. Os dejo también un [link a la carta original del señor Gates.](http://www.blinkenlights.com/classiccmp/gateswhine.html "Carta Bill Gates")
@@ -49,3 +51,19 @@ Agradecería cartas de aquellos que quieran pagar su deuda, o hacer alguna suger
 
 Bill Gates
 General Partner, Micro-Soft
+
+---
+
+## Preguntas frecuentes
+
+### ¿Qué es la "Open Letter to Hobbyists"?
+
+Es una carta abierta que Bill Gates escribió en 1976 dirigida a los aficionados a la informática, en la que les reprochaba copiar Altair BASIC sin pagarlo y defendía que el software, como el hardware, debía pagarse.
+
+### ¿Por qué es importante esta carta?
+
+Porque marcó un punto de inflexión histórico: en una época en la que el software se compartía libremente por defecto, Gates defendió públicamente el **software propietario** y el derecho a cobrar por él. Esa idea es la base del modelo de negocio que convirtió a Microsoft en un imperio.
+
+### ¿En qué año escribió Bill Gates la carta?
+
+El **3 de febrero de 1976**, cuando Microsoft (entonces "Micro-Soft") acababa de desarrollar Altair BASIC junto a Paul Allen y Monte Davidoff.
