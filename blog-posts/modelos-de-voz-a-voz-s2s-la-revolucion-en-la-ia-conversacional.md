@@ -140,6 +140,7 @@ Los modelos de Voz a Voz (S2S) están redefiniendo las interacciones conversacio
 
 ## Artículos relacionados
 
+- [Qué es MCP (Protocolo de Contexto de Modelo): la guía completa](/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/)
 - [Cómo los bots de IA están transformando las ventas y el marketing en España](/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/)
 - [Modelos o3 de OpenAI: la IA que ya supera a los mejores programadores](/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/)
 - [Reflexiones sobre la evolución de OpenAI hacia la AGI](/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/)

@@ -71,6 +71,7 @@ Como líderes tecnológicos, debemos estar preparados para adaptarnos, aprender 
 
 ## Artículos relacionados
 
+- [Qué es MCP (Protocolo de Contexto de Modelo): la guía completa](/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/)
 - [Modelos o3 de OpenAI: la IA que ya supera a los mejores programadores](/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/)
 - [Modelos de Voz a Voz (S2S): la revolución en la IA conversacional](/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/)
 - [Cómo los bots de IA están transformando las ventas y el marketing en España](/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/)
