@@ -12,6 +12,8 @@ commentCount: 5
 wordCount: 137
 image: ""
 ---
+**Después de un mal momento siempre viene uno bueno: no conoceríamos los buenos momentos si no hubiéramos pasado por los malos. El éxito y el fracaso, como el bien y el mal, son las dos caras necesarias de la vida.** Esta es una breve reflexión para no decaer en los momentos difíciles.
+
 Ayer me llegó por Twitter este vídeo que me hizo pensar **_que todos tenemos buenos y malos momentos, pero nunca sabríamos de los primeros si no experimentamos de los segundos_**. El bien y el mal son necesarios para vivir, lo mismo que el éxito y el fracaso: la indiferencia es la peor de las emociones.
 
 > Cuando te caes, sólo puedes levantarte; cuando te critican, sólo puedes aprender; cuando te equivocas, sólo puedes acertar; cuando lloras, sólo puedes reír; cuando acabas, sólo puedes empezar.
