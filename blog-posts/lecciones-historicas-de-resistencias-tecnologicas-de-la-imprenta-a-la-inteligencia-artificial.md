@@ -15,6 +15,8 @@ image: "/wp-content/uploads/2025/01/freepik__the-style-is-candid-image-photograp
 
 ![Lecciones históricas de resistencias tecnológicas: de la imprenta a la inteligencia artificial](/wp-content/uploads/2025/01/freepik__the-style-is-candid-image-photography-with-natural__17774.jpeg)
 
+**A lo largo de la historia, cada gran avance tecnológico —la imprenta, la electricidad, la radio, internet o la IA— ha provocado miedo y rechazo antes de ser adoptado. La lección es siempre la misma: las resistencias son temporales y la tecnología acaba imponiéndose cuando sus beneficios son evidentes y se gestionan bien las preocupaciones.** Entender ese patrón ayuda a afrontar hoy la resistencia a la inteligencia artificial.
+
 #### Introducción: Navegando las resistencias al cambio tecnológico
 
 A lo largo de la historia, cada avance tecnológico significativo ha enfrentado resistencias y rechazos. Desde la invención de la imprenta en el siglo XV hasta la irrupción de la inteligencia artificial (IA) en el siglo XXI, las innovaciones han sido vistas con escepticismo, temor e incluso rechazo.
@@ -127,6 +129,26 @@ La historia demuestra que cada revolución tecnológica enfrenta resistencias, p
 Reflexionemos sobre cómo nuestras propias resistencias personales y profesionales pueden estar limitando nuestra capacidad para abrazar el cambio. La historia nos enseña que quienes adoptan las nuevas tecnologías de manera temprana y responsable suelen ser quienes lideran el futuro. ¿Qué temores tienes tú respecto a la IA? ¿Cómo puedes superar estas barreras para aprovechar al máximo las oportunidades que ofrece?
 
 * * *
+
+## Preguntas frecuentes
+
+### ¿Por qué la gente se resiste a las nuevas tecnologías?
+
+Por miedo a lo desconocido, a perder el empleo o el control, y por la incertidumbre sobre sus consecuencias. Ocurrió con la imprenta, la electricidad o internet, y ocurre ahora con la IA. Es una reacción humana recurrente ante cualquier cambio profundo.
+
+### ¿Qué nos enseña la historia sobre la resistencia a la IA?
+
+Que las resistencias son temporales: las tecnologías que aportan beneficios claros terminan adoptándose. La clave para acelerar esa adopción es abordar las preocupaciones legítimas (ética, transparencia, empleo) de forma responsable, en lugar de ignorarlas.
+
+### ¿Cómo aplicar estas lecciones al desarrollo de software con IA?
+
+Adoptando la IA de forma temprana pero responsable: con transparencia sobre cómo funciona, atención a los sesgos y comunicación clara de sus beneficios a usuarios y equipos. Quienes lideran ese cambio con responsabilidad suelen liderar también su mercado.
+
+## Artículos relacionados
+
+- [Qué es MCP (Protocolo de Contexto de Modelo): la guía completa](/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/)
+- [Impacto de la inteligencia artificial en los roles creativos](/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/)
+- [Reflexiones sobre la evolución de OpenAI hacia la AGI](/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/)
 
 ## Referencias
 
