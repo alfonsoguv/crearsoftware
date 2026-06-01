@@ -110,6 +110,7 @@ En este escenario, los profesionales deberán **reinventarse**, enfocándose en
 
 ## Artículos relacionados
 
+- [Qué es MCP (Protocolo de Contexto de Modelo): la guía completa](/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/)
 - [Reflexiones sobre la evolución de OpenAI hacia la AGI](/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/)
 - [Modelos de Voz a Voz (S2S): la revolución en la IA conversacional](/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/)
 - [Cómo los bots de IA están transformando las ventas y el marketing en España](/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/)
