@@ -1,11 +1,11 @@
 ---
-title: "Realismo, Idealismo y constructivismo"
+title: "Realismo, Idealismo y Constructivismo: Diferencias y Definición"
 slug: "realismo-idealismo-y-constructivismo"
 date: "2009-02-14"
 oldUrl: "/2009/02/14/realismo-idealismo-y-constructivismo/"
-description: "Comparativa entre realismo, idealismo y constructivismo: tres corrientes filosóficas sobre cómo conocemos la realidad."
-category: "desarrollo-software"
-tags: ["desarrollo de software"]
+description: "Diferencias entre realismo, idealismo y constructivismo: tres corrientes filosóficas sobre cómo conocemos la realidad, explicadas con claridad y ejemplos."
+category: "tecnologia-empresarial"
+tags: ["filosofía", "conocimiento", "constructivismo"]
 author: "Alfonso Gutiérrez"
 commentCount: 1
 wordCount: 491
@@ -14,6 +14,8 @@ image: "/wp-content/uploads/2009/02/balon.jpg"
 ---
 
 ![balon](/wp-content/uploads/2009/02/balon.jpg)
+
+**Realismo, idealismo y constructivismo son tres corrientes filosóficas que explican de forma distinta cómo conocemos la realidad:** para el **realismo** la realidad existe con independencia de que la conozcamos; para el **idealismo** la realidad solo existe en la medida en que la conocemos (todo es subjetivo); y para el **constructivismo** solo conocemos lo que nosotros mismos construimos a partir de nuestra experiencia y entorno.
 
 ## Realismo
 
@@ -38,3 +40,17 @@ En todo el proceso, la experiencia pretérita es básica para el conocimiento de
 Para el constructivismo, el desarrollo humano se basa en etapas, y la niñez es una etapa clave, ya que es cuando construimos nuestra manera de significar la realidad en base a unas palabras y símbolos. Interpretamos los acontecimientos en base a unos significados y modelos culturales propios de las experiencias que vivimos cuando éramos niños. Las personas que rodean al niño y el entorno cultural en que nos desarrollamos son básicos en nuestra significación de la realidad. La historia y el pasado de ese entorno presente hacen que el entorno pasado nos influya en nuestra manera de interpretar la realidad hoy.
 
 > Por tanto, el sujeto, su entorno (sobre todo la niñez) y la historia humana son la base de nuestro conocimiento de la realidad.
+
+## Preguntas frecuentes
+
+### ¿Cuál es la diferencia entre realismo e idealismo?
+
+Para el **realismo**, la realidad existe independientemente de que la conozcamos; el sujeto no la modifica al conocerla. Para el **idealismo**, la realidad conocida depende del sujeto: es como es porque nosotros la conocemos, y no podemos conocer las cosas tal como son en sí mismas.
+
+### ¿Qué es el constructivismo?
+
+Es la corriente según la cual solo conocemos lo que hemos construido nosotros mismos. El conocimiento nace de la actividad del sujeto y de su experiencia previa, muy influida por el entorno social y cultural, especialmente el de la niñez.
+
+### ¿Qué papel juega la experiencia en cada corriente?
+
+En el realismo percibimos la realidad mediante estructuras simbólicas previas; en el idealismo la mente determina el objeto conocido; y en el constructivismo la experiencia pasada y el entorno cultural son la base misma con la que construimos e interpretamos la realidad.
