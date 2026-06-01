@@ -19,7 +19,7 @@ image: "/wp-content/uploads/2009/09/variables.jpg"
 
 La semana pasada escribí sobre las [fases de la implantación del control de gestión](/2009/09/10/fases-implantacion-control-de-gestion/) y se nombraron las denominadas variables de control.
 
-El papel de estas variables es determinar una serie de indicadores de carácter cuantitativo o cualitativo, que sirven de medida de los objetivos asociados a cada centro de responsabilidad. Además, estas variables determinan la tipología de los centros de responsabilidad.
+El papel de estas variables es determinar una serie de indicadores de carácter cuantitativo o cualitativo, que sirven de medida de los objetivos asociados a cada centro de responsabilidad. A menudo estos indicadores miden precisamente los [inputs y outputs de cada proceso](/2007/06/23/ejemplos-de-input-output-y-actividades/). Además, estas variables determinan la tipología de los centros de responsabilidad.
 
 ## Para qué sirven las variables de control
 

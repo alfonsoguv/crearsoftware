@@ -6,10 +6,39 @@ oldUrl: "/2007/03/19/factores-activos-y-pasivos-de-una-empresa/"
 description: "Clasificación de los factores activos y pasivos de una empresa en tangibles e intangibles, con ejemplos prácticos de cada tipo para entender tu negocio."
 category: "tecnologia-empresarial"
 tags: ["gestión empresarial","motivación","programación"]
-readingTime: 2
+readingTime: 3
 author: "Alfonso Gutiérrez"
 commentCount: 5
-wordCount: 235
+wordCount: 320
 image: ""
 ---
-Los factores activos y pasivos de una empresa se puede clasifica en Intangibles, Tangibles. A partir voy a describir algunos de una empresa de Internet: ***Factores Activos InTangibles*** *Administrador :* Posiblemente se trate de uno de los activos más importantes de la compañia. *Empleados:* El grupo humano que compone la empresa es el otro gran activo de esta compañía, la motivación, juventud, involucración de un grupo humano hace que sea uno de sus factores activos más importantes. *Usuarios:* Los usuarios que usan el servicio  dan valor a la compañía. Cuantos más usuarios usen su sistema más valor tendrá el mismo. **Factores Activos Tangibles** *Fuentes Financieras:*  Se trata de todas las relaciones con Entidades Bancarias la empresa *Accionistas:* La aportación económica de los accionistas cuentan como uno de los factores activos tangibles más importantes para la creación de una compañía. *Clientes:* Los clientes que actualmente pagan por el servicio **Factores Pasivos Intangibles** *Tecnología:* La tecnología que ha desarrollado esta empresa para poder desarrollado su negocio en Internet. *www:*  La web y todo el desarrollo que tiene la misma. Know How: Todo el conocimiento acumulado a partir de la experiencia de esta empresa en el desarrollo de su actividad. **Factores Pasivos Tangibles** *Oficinas:* Las instalaciones en las que desarrolla su actividad. *Equipos:* PC, portatiles y todo el equipamiento informático necesario para desarrollar correctamente su actividad. *Contratos financieros:* los contratos que reflejan su relación con las Entidades Bancarias.
+
+**Los factores activos y pasivos de una empresa son los recursos con los que cuenta para desarrollar su actividad, y se clasifican en dos ejes: activos o pasivos, y tangibles o intangibles.** Los *activos* generan valor de forma directa (personas, clientes, capital) y los *pasivos* son el soporte y los recursos acumulados (tecnología, instalaciones, conocimiento).
+
+A continuación describo algunos de ellos tomando como ejemplo una empresa de Internet.
+
+## Factores activos intangibles
+
+- **Administrador:** posiblemente uno de los activos más importantes de la compañía.
+- **Empleados:** el grupo humano que compone la empresa es el otro gran activo. La motivación, juventud e involucración del equipo lo convierten en uno de sus factores más importantes.
+- **Usuarios:** los usuarios que usan el servicio dan valor a la compañía. Cuantos más usuarios usen su sistema, más valor tendrá.
+
+## Factores activos tangibles
+
+- **Fuentes financieras:** todas las relaciones con entidades bancarias de la empresa.
+- **Accionistas:** la aportación económica de los accionistas es uno de los factores activos tangibles más importantes para crear una compañía.
+- **Clientes:** los clientes que actualmente pagan por el servicio.
+
+## Factores pasivos intangibles
+
+- **Tecnología:** la tecnología que ha desarrollado la empresa para poder operar su negocio en Internet.
+- **www:** la web y todo el desarrollo que tiene.
+- **Know-how:** todo el conocimiento acumulado a partir de la experiencia de la empresa en su actividad.
+
+## Factores pasivos tangibles
+
+- **Oficinas:** las instalaciones en las que desarrolla su actividad.
+- **Equipos:** PC, portátiles y todo el equipamiento informático necesario.
+- **Contratos financieros:** los contratos que reflejan su relación con las entidades bancarias.
+
+Estos factores son los **recursos** que toda organización transforma en valor. Si quieres ver cómo esos recursos entran y salen de los procesos, te interesará el artículo sobre [inputs, outputs y actividades](/2007/06/23/ejemplos-de-input-output-y-actividades/).

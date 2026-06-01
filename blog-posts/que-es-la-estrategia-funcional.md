@@ -19,7 +19,7 @@ image: "/wp-content/uploads/2007/04/estrategia.gif"
 
 ## ¿Qué es la estrategia funcional?
 
-La estrategia funcional es la más cercana a la definición de **procesos y acciones**. Históricamente las compañías la han descuidado, dando mucha más importancia a definir *qué* quieren hacer; pero hay que darse cuenta de que la estrategia funcional es **tan o más importante** que la corporativa o la de negocio.
+La estrategia funcional es la más cercana a la definición de **[procesos y acciones](/2007/06/23/ejemplos-de-input-output-y-actividades/)**. Históricamente las compañías la han descuidado, dando mucha más importancia a definir *qué* quieren hacer; pero hay que darse cuenta de que la estrategia funcional es **tan o más importante** que la corporativa o la de negocio.
 
 Debemos definir, usar y aplicar correctamente nuestros recursos según la estrategia corporativa y de negocio. Si la estrategia funcional no está bien definida y **alineada** con ellas, la empresa difícilmente saldrá adelante.
 
