@@ -3,12 +3,24 @@
     "relatedPosts": ["¿que-son-las-variables-de-control", "¿que-es-la-estrategia-funcional"],
     "pillarGuide": "guia-transformacion-digital-pymes"
   },
+  "que-es-un-proceso": {
+    "relatedPosts": ["ejemplos-de-input-output-y-actividades", "¿que-son-las-variables-de-control"],
+    "pillarGuide": "guia-transformacion-digital-pymes"
+  },
+  "ciclo-de-vida-de-un-proyecto-de-software": {
+    "relatedPosts": ["ejemplos-de-input-output-y-actividades", "como-empezar-un-proyecto-de-software-empresarial", "como-crear-programas"],
+    "pillarGuide": "guia-desarrollo-software-moderno"
+  },
+  "como-empezar-un-proyecto-de-software-empresarial": {
+    "relatedPosts": ["ejemplos-de-input-output-y-actividades", "ciclo-de-vida-de-un-proyecto-de-software", "como-crear-programas"],
+    "pillarGuide": "guia-desarrollo-software-moderno"
+  },
   "percepcion-y-cultura": {
     "relatedPosts": ["¿cuales-son-las-orientaciones-culturales-segun-harrison1972", "lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial"],
     "pillarGuide": "guia-transformacion-digital-pymes"
   },
   "como-crear-programas": {
-    "relatedPosts": ["como-se-hacer-crecer-una-empresa-de-software", "lenguajes-de-programacion"],
+    "relatedPosts": ["ejemplos-de-input-output-y-actividades", "como-se-hacer-crecer-una-empresa-de-software", "lenguajes-de-programacion"],
     "pillarGuide": "guia-desarrollo-software-moderno"
   },
   "¿que-son-las-variables-de-control": {

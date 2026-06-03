@@ -15,7 +15,7 @@ image: "/wp-content/uploads/2007/06/alambrada.jpg"
 
 ![Alambrada](/wp-content/uploads/2007/06/alambrada.jpg)
 
-**Un input (entrada) es todo recurso, material o información que entra en un proceso para ser transformado, y un output (salida) es el resultado final que se obtiene tras ese proceso.** Por ejemplo, en una fábrica de coches las piezas son los *inputs* y el coche terminado es el *output*; las **actividades** son las tareas que convierten unos en otros.
+**Un input (entrada) es todo recurso, material o información que entra en un proceso para ser transformado, y un output (salida) es el resultado final que se obtiene tras ese proceso.** La diferencia clave entre input y output es la dirección dentro del proceso: el **input entra** para ser transformado y el **output sale** como resultado. Por ejemplo, en una fábrica de coches las piezas son los *inputs* y el coche terminado es el *output*; las **actividades** son las tareas que convierten unos en otros.
 
 ¿Te has preguntado cómo funciona el proceso de transformación de recursos en distintos entornos de trabajo? En cualquier sector u organización, podemos identificar claramente tres elementos esenciales: **Inputs**, **Outputs** y **Actividades**. A continuación, exploraremos varios ejemplos que ilustran cómo se llevan a cabo estos procesos en diferentes industrias, desde una fábrica de automóviles hasta una sucursal bancaria.
 
@@ -175,6 +175,14 @@ La diferencia clave es la dirección dentro del proceso: el **input entra** (lo 
 ### ¿Puede el output de un proceso ser el input de otro?
 
 Sí. En cadenas de producción y procesos encadenados es muy común: el output de una fase (por ejemplo, una pieza fabricada) se convierte en el input de la siguiente (el ensamblaje final). Así funcionan la mayoría de procesos industriales y empresariales.
+
+### ¿Qué son los inputs y outputs en un proceso?
+
+Los **inputs** son las entradas de un proceso (recursos, materiales, energía o información) y los **outputs** son las salidas: el producto o servicio que se obtiene tras transformar esas entradas mediante una serie de actividades. Todo proceso convierte inputs en outputs de mayor valor.
+
+### ¿Cuáles son ejemplos de inputs y outputs?
+
+Algunos ejemplos claros: en una **fábrica**, las piezas son el input y el coche terminado el output; en un **hospital**, el paciente enfermo es el input y el paciente tratado el output; en una **escuela**, los estudiantes son el input y las personas formadas el output.
 
 * * *
 
