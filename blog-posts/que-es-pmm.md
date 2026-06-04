@@ -1,9 +1,9 @@
 ---
-title: "¿Qué es el PMM (Período Medio de Maduración)? Definición y Tipos"
+title: "Qué es el PMM o Período Medio de Maduración: definición y cálculo"
 slug: "¿que-es-pmm"
 date: "2009-03-20"
 oldUrl: "/2009/03/20/%c2%bfque-es-pmm/"
-description: "Qué es el Período Medio de Maduración (PMM): definición, subperíodos, tipos (económico, financiero y ponderado) y cómo gestionarlo en la empresa."
+description: "Qué es el PMM (período medio de maduración): definición sencilla, cómo se calcula, subperíodos y tipos (económico y financiero) con ejemplos."
 category: "tecnologia-empresarial"
 tags: ["gestión empresarial", "estrategia", "finanzas", "PMM"]
 readingTime: 4
