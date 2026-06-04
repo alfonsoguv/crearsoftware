@@ -119,6 +119,8 @@ Los resultados son impactantes: empresas que implementan agentes SDR reportan in
 
 En el ambito del marketing, la IA permite [transformar las estrategias](/2025/01/09/transforma-tu-marketing-con-ia-beneficios-y-aplicaciones-clave/) con segmentacion avanzada, automatizacion de campanas y creacion de contenido personalizado.
 
+España es un buen termometro de esta adopcion: como detallamos en el analisis de [como los bots de IA estan transformando las ventas y el marketing en España](/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/), cada vez mas pymes integran agentes para cualificar leads, automatizar el seguimiento y personalizar campanas con casos reales de negocio.
+
 ### 4.2 Atencion al Cliente
 
 Los agentes de voz en atencion al cliente pueden resolver consultas de primer nivel, gestionar incidencias, procesar devoluciones y escalar casos complejos a agentes humanos con todo el contexto necesario.
