@@ -56,7 +56,7 @@
     "pillarGuide": "guia-transformacion-digital-pymes"
   },
   "agentes-de-voz-con-ia-analisis-completo-del-panorama-2025": {
-    "relatedPosts": ["plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana", "ventas-inteligentes-por-voz"],
+    "relatedPosts": ["plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana", "ventas-inteligentes-por-voz", "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp"],
     "pillarGuide": "guia-agentes-ia-empresas"
   },
   "como-es-el-ciclo-de-adopcion-tecnologica": {
@@ -92,11 +92,11 @@
     "pillarGuide": "guia-agentes-ia-empresas"
   },
   "ia-en-2025-las-10-tendencias-mas-destacadas": {
-    "relatedPosts": ["los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio", "impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025"],
+    "relatedPosts": ["los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio", "impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025", "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp"],
     "pillarGuide": "guia-agentes-ia-empresas"
   },
   "impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025": {
-    "relatedPosts": ["ia-en-2025-las-10-tendencias-mas-destacadas", "guia-para-hacer-prompts-en-google-veo-2"],
+    "relatedPosts": ["ia-en-2025-las-10-tendencias-mas-destacadas", "guia-para-hacer-prompts-en-google-veo-2", "modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-tra"],
     "pillarGuide": "guia-ia-generativa-creacion-contenido"
   },
   "jovenes-en-la-red-dominio-gratis": {
@@ -112,7 +112,7 @@
     "pillarGuide": "guia-agentes-ia-empresas"
   },
   "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp": {
-    "relatedPosts": ["modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-tra", "open-ai-presenta-deep-research"],
+    "relatedPosts": ["plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana", "agentes-de-voz-con-ia-analisis-completo-del-panorama-2025", "open-ai-presenta-deep-research"],
     "pillarGuide": "guia-desarrollo-software-moderno"
   },
   "lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial": {
@@ -144,11 +144,11 @@
     "pillarGuide": "guia-herramientas-productividad-2026"
   },
   "open-ai-presenta-deep-research": {
-    "relatedPosts": ["modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-tra", "reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi"],
+    "relatedPosts": ["modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-tra", "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp"],
     "pillarGuide": "guia-herramientas-productividad-2026"
   },
   "plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana": {
-    "relatedPosts": ["agentes-de-voz-con-ia-analisis-completo-del-panorama-2025", "como-la-ia-de-voz-conversacional-transformara-nuestros-negocios"],
+    "relatedPosts": ["agentes-de-voz-con-ia-analisis-completo-del-panorama-2025", "como-la-ia-de-voz-conversacional-transformara-nuestros-negocios", "modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional"],
     "pillarGuide": "guia-agentes-ia-empresas"
   },
   "que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas": {

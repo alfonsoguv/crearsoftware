@@ -2,6 +2,7 @@
 title: "Modelos o3 de OpenAI: la IA que ya supera a los mejores programadores y revoluciona el futuro del trabajo"
 slug: "modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo"
 date: "2024-12-27"
+dateModified: "2026-06-04"
 oldUrl: "/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/"
 description: "OpenAI lanza o3, el modelo de IA que compite con los mejores programadores del mundo. Descubre cómo cambiará el futuro del trabajo y la ingeniería."
 category: "inteligencia-artificial"
@@ -111,6 +112,6 @@ En este escenario, los profesionales deberán **reinventarse**, enfocándose en
 ## Artículos relacionados
 
 - [Qué es MCP (Protocolo de Contexto de Modelo): la guía completa](/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/)
-- [Reflexiones sobre la evolución de OpenAI hacia la AGI](/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/)
+- [OpenAI presenta Deep Research: el agente de investigación autónoma](/2025/02/25/open-ai-presenta-deep-research/)
 - [Modelos de Voz a Voz (S2S): la revolución en la IA conversacional](/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/)
 - [Cómo los bots de IA están transformando las ventas y el marketing en España](/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/)
