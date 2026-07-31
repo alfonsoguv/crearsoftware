@@ -420,6 +420,62 @@ function buildBreadcrumbJsonLd(items) {
   };
 }
 
+// GEO: extrae la sección "## Preguntas frecuentes..." del markdown y la
+// convierte en FAQPage JSON-LD. Los motores generativos (AI Overviews,
+// ChatGPT Search, Perplexity) citan pares pregunta/respuesta estructurados.
+function extractFaqPairs(rawContent) {
+  if (!rawContent) return [];
+
+  const lines = rawContent.split('\n');
+  const startIndex = lines.findIndex(line => /^##\s+(preguntas frecuentes|faq)\b/i.test(line.trim()));
+  if (startIndex === -1) return [];
+
+  const pairs = [];
+  let current = null;
+
+  for (const line of lines.slice(startIndex + 1)) {
+    // Un nuevo H2 (o superior) cierra la sección de FAQ.
+    if (/^#{1,2}\s+/.test(line)) break;
+
+    const questionMatch = line.match(/^###\s+(.+?)\s*$/);
+    if (questionMatch) {
+      if (current) pairs.push(current);
+      current = { question: questionMatch[1].trim(), answer: [] };
+      continue;
+    }
+
+    if (current && line.trim()) current.answer.push(line.trim());
+  }
+  if (current) pairs.push(current);
+
+  return pairs
+    .map(pair => ({
+      question: normalizeWhitespace(stripMarkdown(pair.question)),
+      answer: normalizeWhitespace(stripMarkdown(pair.answer.join(' '))),
+    }))
+    .filter(pair => pair.question && pair.answer);
+}
+
+function buildFaqJsonLd(rawContent, pageUrl) {
+  const pairs = extractFaqPairs(rawContent);
+  if (pairs.length < 2) return null;
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    ...(pageUrl ? { url: pageUrl, mainEntityOfPage: pageUrl } : {}),
+    inLanguage: 'es',
+    mainEntity: pairs.map(pair => ({
+      '@type': 'Question',
+      name: pair.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: pair.answer,
+      },
+    })),
+  };
+}
+
 function formatRssDate(dateStr) {
   return new Date(dateStr || Date.now()).toUTCString();
 }
@@ -717,6 +773,7 @@ function buildRelatedArticleLink(post) {
 // Generate individual post pages
 // ---------------------------------------------------------------------------
 let postCount = 0;
+let faqCount = 0;
 for (const post of posts) {
   const postUrl = getPostUrl(post);
   const canonicalUrl = `${SITE_URL}${encodeUrlPath(postUrl)}`;
@@ -811,7 +868,11 @@ for (const post of posts) {
     ...(post.categoryLabel ? [{ name: post.categoryLabel, url: `${SITE_URL}/categoria/${categorySlug}/` }] : []),
     { name: post.title, url: canonicalUrl },
   ]);
-  const jsonLd = `<script type="application/ld+json">${JSON.stringify([jsonLdObj, breadcrumbsJsonLd])}</script>`;
+  const faqJsonLd = post.noindex ? null : buildFaqJsonLd(post.rawContent, canonicalUrl);
+  if (faqJsonLd) faqCount += 1;
+  const jsonLd = `<script type="application/ld+json">${JSON.stringify(
+    [jsonLdObj, breadcrumbsJsonLd, faqJsonLd].filter(Boolean)
+  )}</script>`;
 
   const html = renderTemplate(templates['blog-post'], {
     headTitle: escapeHtml(post.title),
@@ -1132,7 +1193,9 @@ for (const guide of guides) {
       publishedTime: guide.date || '',
       modifiedTime: guide.dateModified || guide.date || '',
     }),
-    jsonLd: `<script type="application/ld+json">${JSON.stringify([guideJsonLd, guideBreadcrumbs])}</script>`,
+    jsonLd: `<script type="application/ld+json">${JSON.stringify(
+      [guideJsonLd, guideBreadcrumbs, buildFaqJsonLd(guide.rawContent, guideUrl)].filter(Boolean)
+    )}</script>`,
   });
 
   writeFileSync(join(guideDir, 'index.html'), guideHTML);
@@ -1239,11 +1302,111 @@ writeFileSync(join(OUTPUT_DIR, 'feed.xml'), feedXml);
 console.log('  [feed] feed.xml');
 
 // ---------------------------------------------------------------------------
+// GEO: llms.txt y llms-full.txt (llmstxt.org)
+//
+// llms.txt      -> índice navegable de TODO el contenido indexable, para que un
+//                  agente descubra la estructura del sitio en una sola petición.
+// llms-full.txt -> texto completo del corpus curado (guías pilar + artículos con
+//                  FAQ optimizada), para que el agente cite sin rastrear 500 URLs.
+// ---------------------------------------------------------------------------
+const indexablePosts = posts.filter(post => !post.noindex);
+
+function llmsLine(title, url, description) {
+  const summary = normalizeWhitespace(stripMarkdown(description || '')).slice(0, 200);
+  return `- [${title}](${SITE_URL}${encodeUrlPath(url)})${summary ? `: ${summary}` : ''}`;
+}
+
+const llmsSections = [];
+
+llmsSections.push(`## Guías pilar\n\n${guides
+  .map(guide => llmsLine(
+    guide.title,
+    `/guia/${guide.slug || basename(guide.file, '.md')}/`,
+    guide.metaDescription || guide.description
+  ))
+  .join('\n')}`);
+
+for (const cat of Object.values(categories)) {
+  const catPosts = cat.posts.filter(post => !post.noindex);
+  if (catPosts.length === 0) continue;
+  llmsSections.push(`## ${cat.name}\n\n${catPosts
+    .map(post => llmsLine(post.title, getPostUrl(post), post.metaDescription))
+    .join('\n')}`);
+}
+
+const llmsTxt = `# ${SITE_NAME}
+
+> ${SITE_DESCRIPTION}
+
+Blog en español sobre desarrollo de software, inteligencia artificial, agentes,
+protocolo MCP y gestión de empresas tecnológicas. Autor: Alfonso Gutiérrez.
+Contenido publicado desde 2007 y revisado de forma continua.
+
+- Sitemap XML: ${SITE_URL}/sitemap.xml
+- Feed RSS: ${SITE_URL}/feed.xml
+- Contenido completo del corpus curado: ${SITE_URL}/llms-full.txt
+- Licencia de uso: contenido citable indicando la fuente y enlazando a la URL original.
+
+${llmsSections.join('\n\n')}
+
+## Opcional
+
+- [Sobre el autor](${SITE_URL}/sobre/): quién escribe el blog y su trayectoria.
+- [Índice del blog](${SITE_URL}/blog/): listado cronológico completo.
+`;
+
+writeFileSync(join(OUTPUT_DIR, 'llms.txt'), llmsTxt);
+console.log(`  [geo] llms.txt (${indexablePosts.length + guides.length} documentos)`);
+
+const fullCorpus = [
+  ...guides.map(guide => ({
+    title: guide.title,
+    url: `/guia/${guide.slug || basename(guide.file, '.md')}/`,
+    date: guide.dateModified || guide.date || '',
+    rawContent: guide.rawContent,
+  })),
+  ...indexablePosts
+    .filter(post => extractFaqPairs(post.rawContent).length >= 2)
+    .map(post => ({
+      title: post.title,
+      url: getPostUrl(post),
+      date: post.dateModified || post.date || '',
+      rawContent: post.rawContent,
+    })),
+];
+
+const llmsFullTxt = `# ${SITE_NAME} — corpus completo
+
+> ${SITE_DESCRIPTION}
+
+Este fichero contiene el texto íntegro del corpus curado de ${SITE_NAME}
+(guías pilar y artículos de referencia con preguntas frecuentes verificadas).
+El índice completo del sitio está en ${SITE_URL}/llms.txt.
+Al citar, enlaza a la URL canónica indicada en cada documento.
+
+Generado: ${today}
+Documentos: ${fullCorpus.length}
+
+${fullCorpus.map(doc => `---
+
+# ${doc.title}
+
+URL: ${SITE_URL}${encodeUrlPath(doc.url)}
+Actualizado: ${doc.date}
+
+${doc.rawContent.trim()}
+`).join('\n')}`;
+
+writeFileSync(join(OUTPUT_DIR, 'llms-full.txt'), llmsFullTxt);
+console.log(`  [geo] llms-full.txt (${fullCorpus.length} documentos)`);
+
+// ---------------------------------------------------------------------------
 // Summary
 // ---------------------------------------------------------------------------
 console.log(`\n${'='.repeat(40)}`);
 console.log(`Build completo:`);
 console.log(`  ${postCount} artículos`);
+console.log(`  ${faqCount} artículos con FAQPage JSON-LD`);
 console.log(`  ${Object.keys(categories).length} categorías`);
 console.log(`  ${guides.length} guías`);
 console.log(`  ${sitemapEntries.length} URLs en sitemap`);

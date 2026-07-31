@@ -1,3 +1,62 @@
 User-agent: *
 Allow: /
+
+# Crawlers de motores generativos y agentes de IA: acceso explícito.
+# El contenido es citable indicando la fuente y enlazando a la URL original.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
 Sitemap: https://crearsoftware.com/sitemap.xml
+
+# Índice para agentes (llmstxt.org):
+# https://crearsoftware.com/llms.txt
+# https://crearsoftware.com/llms-full.txt
