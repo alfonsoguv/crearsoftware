@@ -6,7 +6,62 @@
 
 ---
 
-## 1. Bloqueo crítico: no hay datos GSC frescos
+> **ACTUALIZACIÓN (misma tarde):** el token GSC se reautorizó y los tres informes se generaron. El análisis de efectividad está en la **sección 0**, que sustituye al bloqueo descrito en la sección 1.
+
+---
+
+## 0. Primer análisis de efectividad real (dos meses de exposición)
+
+### 0.1 La serie, en ventanas consolidadas y comparables
+
+Comparación con ventanas de 28 días **cerradas** (sin la cola de 2-3 días que GSC aún no ha consolidado), para que los tres puntos sean equivalentes:
+
+| Ventana | Periodo | Clics | Impresiones | CTR | Pos. media |
+|---|---|---|---|---|---|
+| Mayo | 01-may → 28-may | 141 | 25.111 | 0,56% | 14,73 |
+| Junio | 01-jun → 28-jun | 79 | 26.612 | 0,30% | 15,23 |
+| Julio | 27-jun → 24-jul | 59 | 25.425 | 0,23% | 16,36 |
+
+**Los clics caen un 58% mientras las impresiones se mantienen (+1%).** La caída empieza en junio, justo el mes del despliegue, y continúa en julio. El CTR se ha reducido a menos de la mitad.
+
+### 0.2 Test de atribución: ¿lo causaron nuestros cambios?
+
+La correlación temporal era alarmante, así que la prueba decisiva es comparar las 40 páginas que tocaron los PRs #9–#31 contra las que nunca se tocaron:
+
+| Grupo | Clics may→jul | Impresiones | CTR |
+|---|---|---|---|
+| **Tocadas** por los PRs (sin la anomalía) | 85 → 48 (**−44%**) | 18.421 → 22.704 (**+23%**) | 0,46% → 0,21% |
+| **No tocadas** | 28 → 11 (**−61%**) | 6.693 → 6.860 (+2%) | 0,42% → 0,16% |
+| Todo el sitio | 141 → 59 (−58%) | 25.682 → 29.828 (+16%) | 0,55% → 0,20% |
+
+**Veredicto: los cambios SEO no causaron la caída.** Las páginas no tocadas caen *más* (−61%) que las tocadas (−44%), y las tocadas son las únicas que ganan visibilidad de forma significativa (+23% de impresiones frente a +2%). Si las reescrituras de title/meta hubieran roto el CTR, el daño se concentraría en ellas; ocurre lo contrario.
+
+Señales concretas de que el trabajo sí funcionó en lo que controla:
+
+- **input/output mejora posición de 7,6 a 6,5** (era la palanca nº 1 del informe de junio, que pedía revertir su deterioro). Sus impresiones se mantienen en ~9.400.
+- Las páginas trabajadas capturan casi todo el crecimiento de impresiones del sitio.
+- `las-tiendas-outlet` pasa de posición 17,5 a 10,6 con las impresiones multiplicadas por diez (198 → 1.932).
+
+### 0.3 Entonces, ¿qué está pasando?
+
+Dos causas, ninguna atribuible al programa SEO:
+
+1. **La anomalía de `percepcion-y-cultura` revirtió: −28 clics**, un tercio de la caída total. El informe de junio ya la marcó como patrón sospechoso y no replicable (subía clics mientras perdía impresiones). No era una victoria real, así que su desaparición no es una derrota real.
+2. **Colapso de CTR uniforme en todo el sitio con impresiones planas o al alza.** Ese patrón —misma o mayor exposición, la mitad de clics, en páginas tocadas y sin tocar por igual— es la firma característica de un cambio en la propia SERP, no de un problema on-page. La hipótesis más plausible es la expansión de AI Overviews absorbiendo el clic informacional, que es exactamente el tipo de consulta que domina este blog ("qué es input y output", "qué es un pasivo").
+
+### 0.4 Lo que esto implica para la estrategia
+
+Si la lectura es correcta, **el techo del SEO clásico en este dominio está bajando de forma estructural** y seguir optimizando títulos solo defiende una posición que se estrecha. La conclusión incómoda: el trabajo de GEO de esta semana deja de ser una apuesta lateral y pasa a ser la línea principal.
+
+Con una salvedad honesta: **esto es una hipótesis, no un hecho verificado.** No he podido confirmar la presencia de AI Overviews en las SERP concretas ni descartar un core update de Google en junio. Para verificarlo hace falta lo que pide la sección 5: conteo de crawlers de IA y auditoría manual de SERP.
+
+### 0.5 Punto negro que sí requiere acción
+
+**El silo IA sigue desplomándose y aquí no hay excusa externa:** la guía MCP pasa de 450 a 40 impresiones (−91%) y de posición 14,2 a 29,8. `impacto-de-la-ia-en-roles-creativos` cae de posición 7,2 a 16,7. No es un problema de CTR sino de pérdida de ranking, que es un fallo distinto y más grave. El artículo GEO publicado hoy enlaza a ese silo, pero no basta.
+
+---
+
+## 1. Bloqueo (RESUELTO durante la sesión): no había datos GSC frescos
 
 `npm run seo:gsc` falla con:
 

@@ -7,5 +7,6 @@ test-results/
 *.log
 *.xml
 .dev.vars
+.dev.vars.bak
 .migration-review/
 .design-import/
