@@ -1302,6 +1302,50 @@ writeFileSync(join(OUTPUT_DIR, 'feed.xml'), feedXml);
 console.log('  [feed] feed.xml');
 
 // ---------------------------------------------------------------------------
+// _redirects: base del repo + reglas generadas para las URLs con "¿"
+//
+// 218 posts heredan de WordPress un slug que empieza por "¿" (en el original,
+// %c2%bf). Esa forma es la canónica y la que responde 200. Pero los rastreadores
+// piden también la variante sin el signo, que devuelve 404: en los logs de
+// Cloudflare se ve a Googlebot pidiendo /2009/09/16/que-son-las-variables-de-control/
+// y llevándose un 404. Convertir esos 404 en 301 no cuesta nada y recupera la
+// señal de cualquier enlace externo que apunte a la variante.
+// ---------------------------------------------------------------------------
+const redirectRules = [];
+const seenRedirectSources = new Set();
+
+for (const post of posts) {
+  const canonical = encodeUrlPath(getPostUrl(post));
+  const decoded = decodeURIComponent(canonical);
+  if (!decoded.includes('¿')) continue;
+
+  // Variantes que un rastreador puede inventar: sin el signo, y sin el guion
+  // suelto que queda cuando el slug era "¿-algo".
+  const variantes = new Set([
+    decoded.replace(/¿/g, ''),
+    decoded.replace(/¿-/g, '').replace(/¿/g, ''),
+  ]);
+
+  for (const variante of variantes) {
+    if (variante === decoded) continue;
+    if (seenRedirectSources.has(variante)) continue;
+    seenRedirectSources.add(variante);
+    redirectRules.push(`${variante} ${canonical} 301`);
+  }
+}
+
+const baseRedirects = existsSync('./_redirects')
+  ? readFileSync('./_redirects', 'utf-8').replace(/\s*$/, '')
+  : '';
+
+const generatedBlock = redirectRules.length
+  ? `\n\n# --- Generado por build-blog.js: variantes sin "¿" de slugs heredados de WordPress ---\n${redirectRules.join('\n')}\n`
+  : '\n';
+
+writeFileSync(join(OUTPUT_DIR, '_redirects'), `${baseRedirects}${generatedBlock}`);
+console.log(`  [redirects] _redirects (${redirectRules.length} reglas generadas)`);
+
+// ---------------------------------------------------------------------------
 // GEO: llms.txt y llms-full.txt (llmstxt.org)
 //
 // llms.txt      -> índice navegable de TODO el contenido indexable, para que un

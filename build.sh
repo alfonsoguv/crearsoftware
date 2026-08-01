@@ -38,7 +38,9 @@ for dir in fonts images css wp-content files; do
 done
 
 # Static files
-for file in _redirects _headers robots.txt 404.html; do
+# _redirects lo genera build-blog.js (base del repo + reglas para slugs con "¿"),
+# así que no se copia aquí: hacerlo sobrescribiría las reglas generadas.
+for file in _headers robots.txt 404.html; do
   if [ -f "$file" ]; then
     cp "$file" dist/
     echo "  copied $file"

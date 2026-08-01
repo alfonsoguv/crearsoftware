@@ -1,0 +1,115 @@
+{
+  "generadoEn": "2026-08-01T18:45:37.423Z",
+  "zona": "crearsoftware.com",
+  "dias": 7,
+  "desde": "2026-07-25",
+  "hasta": "2026-07-31",
+  "totalPeticiones": 68408,
+  "porFamilia": {
+    "Buscador clásico": 1719,
+    "Entrenamiento": 685,
+    "Búsqueda generativa": 4147,
+    "Agentes en vivo": 51
+  },
+  "porAgente": {
+    "Googlebot": {
+      "familia": "Buscador clásico",
+      "total": 1212,
+      "errores": 635
+    },
+    "Applebot": {
+      "familia": "Entrenamiento",
+      "total": 540,
+      "errores": 112
+    },
+    "Bingbot": {
+      "familia": "Buscador clásico",
+      "total": 507,
+      "errores": 75
+    },
+    "Claude-SearchBot": {
+      "familia": "Búsqueda generativa",
+      "total": 3292,
+      "errores": 18
+    },
+    "ClaudeBot": {
+      "familia": "Entrenamiento",
+      "total": 82,
+      "errores": 10
+    },
+    "OAI-SearchBot": {
+      "familia": "Búsqueda generativa",
+      "total": 833,
+      "errores": 2
+    },
+    "Meta-ExternalAgent": {
+      "familia": "Entrenamiento",
+      "total": 34,
+      "errores": 0
+    },
+    "GPTBot": {
+      "familia": "Entrenamiento",
+      "total": 5,
+      "errores": 4
+    },
+    "ChatGPT-User": {
+      "familia": "Agentes en vivo",
+      "total": 48,
+      "errores": 2
+    },
+    "Bytespider": {
+      "familia": "Entrenamiento",
+      "total": 13,
+      "errores": 0
+    },
+    "PerplexityBot": {
+      "familia": "Búsqueda generativa",
+      "total": 22,
+      "errores": 15
+    },
+    "CCBot": {
+      "familia": "Entrenamiento",
+      "total": 11,
+      "errores": 11
+    },
+    "Claude-User": {
+      "familia": "Agentes en vivo",
+      "total": 3,
+      "errores": 0
+    }
+  },
+  "porDia": {
+    "2026-07-31": 160,
+    "2026-07-30": 182,
+    "2026-07-29": 165,
+    "2026-07-28": 146,
+    "2026-07-27": 92,
+    "2026-07-26": 938,
+    "2026-07-25": 3200
+  },
+  "estados": {
+    "200": 22211,
+    "204": 557,
+    "206": 7,
+    "301": 16266,
+    "304": 361,
+    "308": 477,
+    "403": 4747,
+    "404": 17492,
+    "405": 514,
+    "499": 5,
+    "504": 5771
+  },
+  "errores5xx": [
+    {
+      "userAgent": "nginx-ssl early hints",
+      "count": 5718,
+      "esBot": false
+    },
+    {
+      "userAgent": "bastion early hints",
+      "count": 53,
+      "esBot": false
+    }
+  ]
+}
