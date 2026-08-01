@@ -7,6 +7,60 @@
 ---
 
 > **ACTUALIZACIÓN (misma tarde):** el token GSC se reautorizó y los tres informes se generaron. El análisis de efectividad está en la **sección 0**, que sustituye al bloqueo descrito en la sección 1.
+>
+> **ACTUALIZACIÓN (01-ago):** al instrumentar el conteo de crawlers se descubrió que **Cloudflare está bloqueando con 403 a todos los rastreadores de IA** en el dominio. Ver la **sección -1**: invalida retroactivamente todo el trabajo GEO hasta que se desactive.
+
+---
+
+## -1. HALLAZGO CRÍTICO: Cloudflare bloquea a todos los rastreadores de IA
+
+Al desplegar el contador de agentes y probarlo, ninguna petición quedaba registrada. La causa no era el contador:
+
+| User-agent | Respuesta |
+|---|---|
+| Navegador normal | **200** |
+| Googlebot | **200** |
+| GPTBot | **403** |
+| ClaudeBot | **403** |
+| PerplexityBot | **403** |
+| OAI-SearchBot | **403** |
+| ChatGPT-User | **403** |
+| CCBot | **403** |
+
+El cuerpo de la respuesta es `Your request was blocked.`, la firma del bloqueo gestionado de Cloudflare.
+
+**El bloqueo está en la zona, no en Pages.** Verificado por contraste: `crearsoftware.com` devuelve 403 al mismo user-agent que `crearsoftware.pages.dev` sirve con 200. Es decir, lo aplica el WAF/gestión de bots del dominio, por delante de todo lo que haya en el proyecto.
+
+### Qué implica
+
+**Todo el trabajo GEO del 31-jul estaba muerto al llegar.** `llms.txt`, `llms-full.txt`, el `robots.txt` con `Allow` explícito para 17 agentes y los 33 `FAQPage`: nada de eso se puede leer si la petición se rechaza antes de servir el fichero. El `robots.txt` decía "adelante" mientras el WAF cerraba la puerta.
+
+Es exactamente el primer pilar descrito en el artículo publicado ese mismo día —*"es el pilar más ignorado y el único que puede anular todo lo demás"*— cumpliéndose en el propio sitio.
+
+### Qué NO implica
+
+- **No explica la caída de tráfico.** Googlebot pasa con 200 y el SEO clásico no está afectado. La hipótesis de la sección 0.3 sigue en pie sin cambios.
+- **No es un fallo de configuración de nadie.** Cloudflare activa el bloqueo de bots de IA **por defecto** en los dominios nuevos. El sitio migró a Cloudflare en marzo de 2026, así que lo más probable es que nunca se tocara.
+
+### Acción requerida (solo puede hacerla el titular de la cuenta)
+
+El token disponible tiene permisos de Pages y KV, no de zona. En el panel de Cloudflare, sobre el dominio `crearsoftware.com`:
+
+**Security → Bots** (o **Security → Settings**, según versión del panel) → buscar **«AI Scrapers and Crawlers»** o **«Block AI bots»** → desactivar.
+
+Si no aparece ahí, revisar **Security → WAF → Custom rules** por si hubiera una regla manual que filtre por user-agent.
+
+Comprobación posterior:
+
+```bash
+curl -s -o /dev/null -w "%{http_code}\n" -A "GPTBot/1.2" https://crearsoftware.com/
+```
+
+Debe devolver **200**. Mientras devuelva 403, el programa GEO no puede funcionar y el contador de agentes registrará cero por definición.
+
+### Decisión editorial de fondo
+
+Desbloquear implica aceptar que el contenido alimente modelos. Es una postura legítima en ambos sentidos, pero **hay que elegir de forma consciente**: no se puede perseguir tráfico de agentes y bloquearlos a la vez. Si se quiere una posición intermedia, lo coherente es bloquear solo los rastreadores de entrenamiento (GPTBot, ClaudeBot, CCBot, Google-Extended) y **permitir los de búsqueda y los agentes en vivo** (OAI-SearchBot, PerplexityBot, ChatGPT-User, Claude-User), que son los que generan la cita y el enlace.
 
 ---
 
