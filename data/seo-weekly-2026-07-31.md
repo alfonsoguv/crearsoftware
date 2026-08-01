@@ -55,6 +55,18 @@ Si la lectura es correcta, **el techo del SEO clásico en este dominio está baj
 
 Con una salvedad honesta: **esto es una hipótesis, no un hecho verificado.** No he podido confirmar la presencia de AI Overviews en las SERP concretas ni descartar un core update de Google en junio. Para verificarlo hace falta lo que pide la sección 5: conteo de crawlers de IA y auditoría manual de SERP.
 
+### 0.6 Intervención sobre el silo IA (01-ago)
+
+Diagnóstico del silo antes de tocarlo — tres problemas independientes, ninguno resoluble con enlazado interno:
+
+1. **La guía MCP era una traducción del publirreportaje de tl;dv.** Los 14 encabezados H2 coinciden uno a uno y en el mismo orden con `tldv.io/blog/model-context-protocol/`, el texto promocionaba tl;dv en 16 menciones y el propio post citaba esa URL como "obra citada". Contenido duplicado de 11.000 palabras: causa muy probable de la caída a posición 29,8. **Reescrito por completo** (~2.600 palabras originales, misma URL para conservar el histórico), actualizado al estado real de MCP en 2026 (donación a la Linux Foundation en dic-2025, spec de nov-2025, registro oficial) y con una sección de cuándo *no* usar MCP.
+2. **`como-la-ia-de-vo-revoluciona-el-marketing-ia-en-2024` tenía 139 enlaces salientes** —un enlace cada 27 palabras— hacia dominios de baja calidad, con una lista de 34 referencias en bruto y una promoción de un tercero en la conclusión. Firma de contenido generado con aparato de citas pegado en crudo. Enlaces eliminados (139 → 0) conservando el texto.
+3. **El silo llevaba congelado desde abril de 2025**: 16 meses sin publicar en el tema que más rápido se mueve. El artículo GEO del 31-jul rompe la sequía.
+
+Corrección de mayor retorno inmediato: **`plataformas-de-agentes-de-voz` concentra 4.594 impresiones con 0 clics** (más que todo el resto del silo junto) y su FAQ estaba escrita con negritas en vez de encabezados `###`, así que no generaba `FAQPage`. Convertida y ampliada con las tres preguntas que ya posicionan en GSC —contact centers españoles (pos 3,8), integración con ERP en pymes (pos 5,1) y la diferencia con un IVR—. El sitio pasa de 31 a 33 artículos con datos estructurados de FAQ.
+
+Dato relevante para la tesis GEO: esa página rankea en posición 3,8 para la consulta literal *"¿qué empresas españolas ofrecen agentes de voz con IA para contact centers?"*, mientras está en posición 50 para el término de cabeza "agente de voz ia". **Las consultas conversacionales ya son su mejor terreno.**
+
 ### 0.5 Punto negro que sí requiere acción
 
 **El silo IA sigue desplomándose y aquí no hay excusa externa:** la guía MCP pasa de 450 a 40 impresiones (−91%) y de posición 14,2 a 29,8. `impacto-de-la-ia-en-roles-creativos` cae de posición 7,2 a 16,7. No es un problema de CTR sino de pérdida de ranking, que es un fallo distinto y más grave. El artículo GEO publicado hoy enlaza a ese silo, pero no basta.

@@ -114,22 +114,41 @@ A partir de los criterios analizados en este informe, la elección de una plataf
 -   **Las integraciones necesarias:** La conexión con CRM, ERP y sistemas de backend (Salesforce, Dynamics, Zendesk) es crucial. Conviene verificar si existe integración nativa o a través de APIs.
 -   **El despliegue multicanal:** Comprobar que la plataforma opera en los canales requeridos (voz telefónica, web, apps, mensajería como WhatsApp o Facebook Messenger).
 
+Un factor que ha ganado peso desde 2026 es la **arquitectura de voz subyacente**: las plataformas que encadenan transcripción, modelo de texto y síntesis acumulan latencia en cada salto, mientras que los [modelos de voz a voz (S2S)](/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/) procesan el audio de extremo a extremo y permiten interrupciones naturales. Si estás evaluando una adopción más amplia, la [guía de agentes de IA para empresas](/guia/guia-agentes-ia-empresas/) sitúa la voz dentro del panorama completo.
+
 ## Preguntas frecuentes
 
-**¿Qué diferencia hay entre una plataforma generalista y una vertical?**
+### ¿Qué diferencia hay entre una plataforma generalista y una vertical?
+
 Las plataformas generalistas (horizontales) como Google Dialogflow, Amazon Lex, IBM Watson Assistant o Microsoft cubren múltiples sectores y casos de uso. Las verticales están enfocadas en sectores específicos, como salud (Nuance, Hyro, Sensely), banca (Kasisto, Clinc) o ventas y telemarketing (Dapta.ai, Air.ai).
 
-**¿Cuánto cuesta un agente de voz con IA?**
+### ¿Cuánto cuesta un agente de voz con IA?
+
 Depende del modelo de licencia. Hay opciones de pago por uso (Dialogflow desde ~$0.06 por minuto de audio, Amazon Lex ~$0.004 por solicitud de voz), suscripciones mensuales (IBM Watson Assistant desde ~$140 USD/mes, Voiceflow desde ~$50/mes) y licencias enterprise (Cognigy.AI desde ~$2500 USD/mes, PolyAI a medida). Los precios son orientativos y varían según volumen y personalización.
 
-**¿Soportan español y otros idiomas?**
+### ¿Soportan español y otros idiomas?
+
 Sí. Las plataformas líderes ofrecen soporte para español (España y variantes) y otros idiomas principales europeos. Algunas soluciones permiten incluso integrar idiomas cooficiales como catalán o euskera mediante entrenamiento adicional, y proveedores como Verbio o Nuance cuentan con tecnología propia optimizada para el español.
 
-**¿Se integran con mi CRM o ERP?**
+### ¿Se integran con mi CRM o ERP?
+
 Sí. Ofrecen conectores a CRM y ERP mediante integración nativa o APIs (Salesforce, Dynamics, Zendesk, etc.), además de soporte para canales como voz telefónica (SIP, Twilio), chat web, apps móviles y mensajería.
 
-**¿Qué empresas usan ya agentes de voz con IA en España y Europa?**
+### ¿Qué empresas usan ya agentes de voz con IA en España y Europa?
+
 Empresas como Daimler AG, Bosch y Henkel emplean Cognigy.AI; Lufthansa, Metro Bank y Whitbread usan voicebots para atención y reservas; BBVA, CaixaBank y Santander utilizan asistentes como Blue, Neo y Watson; y Telefónica cuenta con Aura en Movistar.
+
+### ¿Qué empresas españolas ofrecen agentes de voz con IA para contact centers?
+
+En España el mercado combina proveedores de tecnología propia optimizada para el español, como Verbio, con integradores y contact centers que despliegan plataformas internacionales (Cognigy, PolyAI, Google Dialogflow) sobre su propia capa de servicio. La banca es el sector con despliegues más maduros —BBVA, CaixaBank y Santander operan asistentes propios— y Telefónica utiliza Aura en Movistar. Para un contact center, la decisión relevante no suele ser el proveedor del modelo sino quién asume la integración con la telefonía (SIP) y el CRM.
+
+### ¿Existen agentes de voz con IA que se integren con el ERP de una pyme?
+
+Sí, aunque el camino habitual no es una integración nativa con el ERP sino una conexión por API. Las plataformas líderes ofrecen conectores a los CRM y ERP más extendidos (Salesforce, Dynamics) y, para ERP menos comunes o desarrollos propios, la vía práctica es exponer los datos necesarios mediante una API intermedia. Para una pyme, el factor limitante casi nunca es la capacidad de voz sino si su ERP puede consultarse de forma programática.
+
+### ¿Qué diferencia hay entre un agente de voz con IA y un IVR tradicional?
+
+Un IVR clásico sigue un árbol de opciones predefinido: la persona navega por menús y solo puede hacer lo que el árbol contempla. Un agente de voz con IA interpreta lenguaje natural, mantiene el contexto de la conversación y puede resolver peticiones que nadie programó explícitamente, consultando sistemas externos en tiempo real. La diferencia práctica es que el IVR clasifica llamadas y el agente las resuelve.
 
 ## Conclusiones
 
