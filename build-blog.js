@@ -1311,23 +1311,43 @@ console.log('  [feed] feed.xml');
 // y llevándose un 404. Convertir esos 404 en 301 no cuesta nada y recupera la
 // señal de cualquier enlace externo que apunte a la variante.
 // ---------------------------------------------------------------------------
-// Las variantes sin "¿" NO se resuelven aquí: Cloudflare Pages deja de aplicar
-// las reglas de _redirects pasadas ~100 (comprobado en producción: la regla 83
-// redirige y la 128 devuelve 404), y harían falta 226. Lo hace
-// functions/_middleware.ts, que no tiene ese límite y solo actúa sobre respuestas
-// que ya son 404.
-const postsConSigno = posts.filter((post) =>
-  decodeURIComponent(encodeUrlPath(getPostUrl(post))).includes('¿'),
-).length;
+// Las variantes sin "¿" NO se resuelven con reglas de _redirects: Cloudflare
+// Pages deja de aplicarlas pasadas ~100 (comprobado en producción: la regla 83
+// redirige y la 128 devuelve 404) y harían falta 226. En su lugar se genera un
+// mapa que consume functions/_middleware.ts, que hace una búsqueda directa sin
+// límite de tamaño ni peticiones extra.
+const slugMap = {};
+for (const post of posts) {
+  const canonical = encodeUrlPath(getPostUrl(post));
+  const decoded = decodeURIComponent(canonical);
+  if (!decoded.includes('¿')) continue;
+
+  // El signo puede ir al principio del slug ("¿que-es-x") o en medio
+  // ("oss07-¿a-quien-protege"). Se cubren ambas quitándolo tal cual y quitando
+  // también el guion suelto que queda en los slugs con la forma "¿-algo".
+  for (const variante of new Set([
+    decoded.replace(/¿/g, ''),
+    decoded.replace(/¿-/g, '').replace(/¿/g, ''),
+  ])) {
+    if (variante !== decoded) slugMap[variante] = canonical;
+  }
+}
+
+writeFileSync(
+  join('./functions', '_slug-map.ts'),
+  '// Generado por build-blog.js. No editar a mano.\n' +
+    '// Variantes sin "¿" -> URL canónica, para que el middleware convierta en 301\n' +
+    '// los 404 que provocan los slugs heredados de WordPress.\n' +
+    `export const SLUG_MAP: Record<string, string> = ${JSON.stringify(slugMap, null, 2)};\n`,
+);
+console.log(`  [redirects] functions/_slug-map.ts (${Object.keys(slugMap).length} variantes)`);
 
 const baseRedirects = existsSync('./_redirects')
   ? readFileSync('./_redirects', 'utf-8').replace(/\s*$/, '')
   : '';
 
 writeFileSync(join(OUTPUT_DIR, '_redirects'), `${baseRedirects}\n`);
-console.log(
-  `  [redirects] _redirects (${postsConSigno} slugs con "¿" los cubre el middleware)`,
-);
+console.log('  [redirects] _redirects (solo reglas del repo)');
 
 // ---------------------------------------------------------------------------
 // GEO: llms.txt y llms-full.txt (llmstxt.org)

@@ -16,6 +16,8 @@
  * ignora.
  */
 
+import { SLUG_MAP } from "./_slug-map";
+
 interface Env {
   CS_KV?: KVNamespace;
 }
@@ -84,29 +86,12 @@ async function recordHit(kv: KVNamespace, agent: string, pathname: string) {
 // haciéndolo. Resolverlo con reglas en _redirects no sirve — Cloudflare Pages
 // deja de aplicarlas pasadas ~100 y aquí harían falta 226 — así que se hace aquí,
 // solo cuando la respuesta ya es 404 y por tanto no hay nada que perder.
-async function redireccionAVarianteConSigno(
-  context: Parameters<PagesFunction<Env>>[0],
-  url: URL,
-): Promise<Response | null> {
-  const segments = url.pathname.replace(/\/$/, '').split('/');
-  const last = segments.pop();
-  if (!last) return null;
-
-  const decoded = decodeURIComponent(last);
-  if (decoded.startsWith('¿')) return null;
-
-  // El slug original puede ser "¿algo" o "¿-algo".
-  for (const candidato of [`¿${decoded}`, `¿-${decoded}`]) {
-    const destino = new URL(url.toString());
-    destino.pathname = `${[...segments, encodeURIComponent(candidato)].join('/')}/`;
-
-    const prueba = await context.next(new Request(destino.toString(), context.request));
-    if (prueba.status === 200) {
-      return Response.redirect(destino.toString(), 301);
-    }
-  }
-
-  return null;
+// El signo puede ir al principio del slug o en medio ("oss07-¿a-quien-protege"),
+// así que no basta con probar a anteponerlo: se usa el mapa que genera el build.
+function canonicaDeVariante(pathname: string): string | null {
+  const decoded = decodeURIComponent(pathname);
+  const conBarra = decoded.endsWith('/') ? decoded : `${decoded}/`;
+  return SLUG_MAP[conBarra] ?? SLUG_MAP[decoded] ?? null;
 }
 
 export const onRequest: PagesFunction<Env> = async (context) => {
@@ -115,9 +100,9 @@ export const onRequest: PagesFunction<Env> = async (context) => {
   if (response.status === 404) {
     try {
       const url = new URL(context.request.url);
-      if (url.pathname.endsWith('/') && !url.pathname.includes('.')) {
-        const redireccion = await redireccionAVarianteConSigno(context, url);
-        if (redireccion) return redireccion;
+      const canonica = canonicaDeVariante(url.pathname);
+      if (canonica) {
+        return Response.redirect(`${url.origin}${canonica}`, 301);
       }
     } catch {
       // Si falla, se devuelve el 404 original.
