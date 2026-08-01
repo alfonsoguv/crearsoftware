@@ -4,7 +4,7 @@ slug: "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp"
 date: "2025-04-14"
 dateModified: "2026-08-01"
 oldUrl: "/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/"
-description: "Qué es el Model Context Protocol (MCP), cómo funciona su arquitectura cliente-servidor, en qué estado está en 2026 tras pasar a la Linux Foundation y cuándo no conviene usarlo."
+description: "Qué es el Model Context Protocol (MCP), cómo funciona su arquitectura cliente-servidor, en qué estado está en 2026 tras pasar a la Linux Foundation y cuándo no usarlo."
 category: "inteligencia-artificial"
 tags: ["mcp","inteligencia artificial","agentes","arquitectura","integraciones"]
 readingTime: 12
@@ -98,6 +98,8 @@ El camino más razonable para evaluarlo:
 4. **Añade escrituras al final**, con confirmación explícita.
 
 Si lo que buscas no es que un agente actúe sobre tus sistemas, sino que los modelos **encuentren y citen tu contenido público**, el terreno es otro: eso es [optimización para motores generativos (GEO)](/blog/geo-optimizar-web-agentes-ia-llms-txt/), y se resuelve con `llms.txt`, datos estructurados y acceso para los rastreadores, no con MCP.
+
+Un caso de uso donde MCP encaja especialmente bien es la voz: un agente telefónico necesita consultar el CRM o el ERP a mitad de conversación, y exponer esos sistemas una sola vez sirve para todos los agentes. Está explicado en [cómo montar un agente de voz con IA que atienda llamadas](/blog/montar-agente-de-voz-ia-que-atienda-llamadas/).
 
 Para el panorama más amplio de cómo encajan los agentes en una empresa, la [guía de agentes de IA para empresas](/guia/guia-agentes-ia-empresas/) cubre casos de uso y hoja de ruta de adopción.
 

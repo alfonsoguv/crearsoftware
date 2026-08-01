@@ -138,7 +138,7 @@ Adoptar S2S en un proyecto real exige tener en cuenta varios factores más allá
 -   **Acentos y variedades del español:** el español peninsular y las variantes latinoamericanas difieren en pronunciación, léxico y entonación. Conviene validar el modelo con hablantes reales del público objetivo antes de desplegar.
 -   **Fallback y supervisión:** ningún modelo acierta siempre. Un diseño robusto prevé derivar a un agente humano o a un flujo en cascada cuando la confianza del modelo baja.
 
-Resolver estos puntos marca la diferencia entre una prueba de concepto vistosa y un sistema fiable en producción.
+Resolver estos puntos marca la diferencia entre una prueba de concepto vistosa y un sistema fiable en producción. En [cómo montar un agente de voz con IA que atienda llamadas](/blog/montar-agente-de-voz-ia-que-atienda-llamadas/) desglosamos el presupuesto de latencia por tramo y qué se rompe al pasar a producción.
 
 * * *
 
@@ -187,3 +187,4 @@ Los modelos de Voz a Voz (S2S) están redefiniendo las interacciones conversacio
 - [Cómo los bots de IA están transformando las ventas y el marketing en España](/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/)
 - [Modelos o3 de OpenAI: la IA que ya supera a los mejores programadores](/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/)
 - [Plataformas de agentes de voz con IA en Europa (foco en España)](/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/)
+- [Cómo montar un agente de voz con IA que atienda las llamadas de tu empresa](/blog/montar-agente-de-voz-ia-que-atienda-llamadas/)

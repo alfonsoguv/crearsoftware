@@ -3,7 +3,7 @@ title: "GEO: cómo optimizar tu web para agentes de IA (llms.txt, schema y robot
 slug: "geo-optimizar-web-agentes-ia-llms-txt"
 date: "2026-07-31"
 dateModified: "2026-07-31"
-description: "Qué es el GEO (Generative Engine Optimization) y cómo preparar tu web para que ChatGPT, Claude, Perplexity y AI Overviews la encuentren y la citen: llms.txt, datos estructurados y robots.txt."
+description: "Qué es el GEO y cómo preparar tu web para que ChatGPT, Claude, Perplexity y AI Overviews la encuentren y la citen: llms.txt, datos estructurados y robots.txt."
 category: "inteligencia-artificial"
 tags: ["GEO", "SEO", "inteligencia artificial", "agentes", "llms.txt", "mcp"]
 readingTime: 11

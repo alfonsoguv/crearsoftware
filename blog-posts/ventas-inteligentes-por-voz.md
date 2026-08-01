@@ -37,6 +37,8 @@ Nuestro bot de voz ofrece:
 
 Nosotros hemos creado a Victoria con las piezas que la hacen una excelente SDR virtual: programándola para actuar y no solo conversar, para seguir guiones comerciales, para integrarse con un CRM, para mantener informados a los comerciales, para detectar oportunidades y para hablar con naturalidad y una voz que no resulta robótica.
 
+Si te interesa cómo se ensamblan esas piezas en cualquier empresa, lo hemos explicado en detalle en [cómo montar un agente de voz con IA que atienda las llamadas](/blog/montar-agente-de-voz-ia-que-atienda-llamadas/).
+
 ![Victoria, el agente de IA de voz de Vidiv](/wp-content/uploads/2024/10/victoria-vidiv-agente-voz.png)
 
 ## Nuestra trayectoria y experiencia

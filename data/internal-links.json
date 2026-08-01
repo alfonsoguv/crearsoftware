@@ -2,7 +2,8 @@
   "ejemplos-de-input-output-y-actividades": {
     "relatedPosts": [
       "¿que-son-las-variables-de-control",
-      "¿que-es-la-estrategia-funcional"
+      "¿que-es-la-estrategia-funcional",
+      "montar-agente-de-voz-ia-que-atienda-llamadas"
     ],
     "pillarGuide": "guia-transformacion-digital-pymes"
   },
@@ -104,7 +105,8 @@
     "relatedPosts": [
       "plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana",
       "ventas-inteligentes-por-voz",
-      "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp"
+      "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp",
+      "montar-agente-de-voz-ia-que-atienda-llamadas"
     ],
     "pillarGuide": "guia-agentes-ia-empresas"
   },
@@ -205,7 +207,8 @@
     "relatedPosts": [
       "geo-optimizar-web-agentes-ia-llms-txt",
       "plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana",
-      "agentes-de-voz-con-ia-analisis-completo-del-panorama-2025"
+      "agentes-de-voz-con-ia-analisis-completo-del-panorama-2025",
+      "montar-agente-de-voz-ia-que-atienda-llamadas"
     ],
     "pillarGuide": "guia-desarrollo-software-moderno"
   },
@@ -240,7 +243,8 @@
   "modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional": {
     "relatedPosts": [
       "tendencias-de-la-sintesis-de-voz-por-ia-para-2025",
-      "meta-acelera-su-estrategia-de-ia-por-voz-innovacion-llama-4-y-el-futuro-de-la-conversacion-digital"
+      "meta-acelera-su-estrategia-de-ia-por-voz-innovacion-llama-4-y-el-futuro-de-la-conversacion-digital",
+      "montar-agente-de-voz-ia-que-atienda-llamadas"
     ],
     "pillarGuide": "guia-agentes-ia-empresas"
   },
@@ -269,7 +273,8 @@
     "relatedPosts": [
       "agentes-de-voz-con-ia-analisis-completo-del-panorama-2025",
       "como-la-ia-de-voz-conversacional-transformara-nuestros-negocios",
-      "modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional"
+      "modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional",
+      "montar-agente-de-voz-ia-que-atienda-llamadas"
     ],
     "pillarGuide": "guia-agentes-ia-empresas"
   },
@@ -332,7 +337,8 @@
   "ventas-inteligentes-por-voz": {
     "relatedPosts": [
       "que-es-un-bot-sdr-y-como-puede-ayudar-a-tus-ventas",
-      "como-la-ia-de-voz-conversacional-transformara-nuestros-negocios"
+      "como-la-ia-de-voz-conversacional-transformara-nuestros-negocios",
+      "montar-agente-de-voz-ia-que-atienda-llamadas"
     ],
     "pillarGuide": "guia-agentes-ia-empresas"
   },
@@ -341,6 +347,15 @@
       "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp",
       "los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio",
       "impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025"
+    ],
+    "pillarGuide": "guia-agentes-ia-empresas"
+  },
+  "montar-agente-de-voz-ia-que-atienda-llamadas": {
+    "relatedPosts": [
+      "plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana",
+      "modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional",
+      "la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp",
+      "ventas-inteligentes-por-voz"
     ],
     "pillarGuide": "guia-agentes-ia-empresas"
   }

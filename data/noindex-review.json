@@ -1,19 +1,20 @@
 {
-  "generatedAt": "2026-03-30T12:17:14.238Z",
-  "totalNoindex": 152,
-  "candidateIndex": [],
-  "review": [
+  "generatedAt": "2026-08-01T15:59:07.474Z",
+  "totalNoindex": 145,
+  "candidateIndex": [
     {
-      "file": "blog-posts/mejores-libros-sobre-la-experiencia-de-usuario-en-software.md",
-      "title": "Mejores libros sobre la experiencia de usuario en Software",
-      "date": "2010-10-21",
-      "slug": "mejores-libros-sobre-la-experiencia-de-usuario-en-software",
-      "category": "productividad-herramientas",
-      "commentCount": 2,
-      "frontmatterWordCount": 130,
-      "actualWordCount": 130,
-      "classification": "review"
-    },
+      "file": "blog-posts/opinion-de-un-experto-en-bbdd-informix-ag-sistems-oracle-sobre-el-paradigma-velneo.md",
+      "title": "Opinión de un experto en BBDD (Informix, Software AG, Oracle) sobre el paradigma Velneo",
+      "date": "2014-03-20",
+      "slug": "opinion-de-un-experto-en-bbdd-informix-ag-sistems-oracle-sobre-el-paradigma-velneo",
+      "category": "desarrollo-software",
+      "commentCount": 1,
+      "frontmatterWordCount": 180,
+      "actualWordCount": 216,
+      "classification": "candidate_index"
+    }
+  ],
+  "review": [
     {
       "file": "blog-posts/cursos-en-la-uoc.md",
       "title": "Cursos en la UOC",
@@ -22,6 +23,17 @@
       "category": "desarrollo-software",
       "commentCount": 7,
       "frontmatterWordCount": 98,
+      "actualWordCount": 100,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/la-cultura-de-google.md",
+      "title": "La cultura de Google",
+      "date": "2008-01-03",
+      "slug": "la-cultura-de-google",
+      "category": "tecnologia-empresarial",
+      "commentCount": 2,
+      "frontmatterWordCount": 81,
       "actualWordCount": 99,
       "classification": "review"
     },
@@ -33,7 +45,18 @@
       "category": "productividad-herramientas",
       "commentCount": 10,
       "frontmatterWordCount": 92,
-      "actualWordCount": 92,
+      "actualWordCount": 97,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/anuncios-basados-en-arquetipos.md",
+      "title": "Anuncios basados en arquetipos",
+      "date": "2011-04-21",
+      "slug": "anuncios-basados-en-arquetipos",
+      "category": "tecnologia-empresarial",
+      "commentCount": 0,
+      "frontmatterWordCount": 95,
+      "actualWordCount": 96,
       "classification": "review"
     },
     {
@@ -44,73 +67,7 @@
       "category": "desarrollo-software",
       "commentCount": 0,
       "frontmatterWordCount": 90,
-      "actualWordCount": 89,
-      "classification": "review"
-    },
-    {
-      "file": "blog-posts/imd-world-competitiveness-yearbook-2006-variaciones.md",
-      "title": "IMD World Competitiveness Yearbook 2006 (variaciones)",
-      "date": "2007-03-31",
-      "slug": "imd-world-competitiveness-yearbook-2006-variaciones",
-      "category": "innovacion-digital",
-      "commentCount": 0,
-      "frontmatterWordCount": 75,
-      "actualWordCount": 85,
-      "classification": "review"
-    },
-    {
-      "file": "blog-posts/cual-es-el-video-mas-visto-del-2009.md",
-      "title": "¿Cuál es el vídeo más visto del 2009?",
-      "date": "2009-12-17",
-      "slug": "¿cual-es-el-video-mas-visto-del-2009",
-      "category": "innovacion-digital",
-      "commentCount": 1,
-      "frontmatterWordCount": 86,
-      "actualWordCount": 84,
-      "classification": "review"
-    },
-    {
-      "file": "blog-posts/que-es-el-bloqueo-duro.md",
-      "title": "¿Qué es el bloqueo duro?",
-      "date": "2010-02-25",
-      "slug": "¿que-es-el-bloqueo-duro",
-      "category": "desarrollo-software",
-      "commentCount": 9,
-      "frontmatterWordCount": 83,
-      "actualWordCount": 82,
-      "classification": "review"
-    },
-    {
-      "file": "blog-posts/cuantas-empresas-hay-en-espana.md",
-      "title": "¿Cuántas empresas hay en españa?",
-      "date": "2008-02-18",
-      "slug": "¿cuantas-empresas-hay-en-espana",
-      "category": "tecnologia-empresarial",
-      "commentCount": 5,
-      "frontmatterWordCount": 79,
-      "actualWordCount": 78,
-      "classification": "review"
-    },
-    {
-      "file": "blog-posts/como-empezo-visual-ms.md",
-      "title": "¿Cómo empezó Visual MS?",
-      "date": "2010-12-13",
-      "slug": "¿como-empezo-visual-ms",
-      "category": "tecnologia-empresarial",
-      "commentCount": 6,
-      "frontmatterWordCount": 73,
-      "actualWordCount": 74,
-      "classification": "review"
-    },
-    {
-      "file": "blog-posts/como-esta-el-paro-en-espana.md",
-      "title": "¿Cómo esta el paro en España?",
-      "date": "2008-10-09",
-      "slug": "¿como-esta-el-paro-en-espana",
-      "category": "tecnologia-empresarial",
-      "commentCount": 5,
-      "frontmatterWordCount": 73,
-      "actualWordCount": 72,
+      "actualWordCount": 94,
       "classification": "review"
     },
     {
@@ -121,7 +78,238 @@
       "category": "desarrollo-software",
       "commentCount": 7,
       "frontmatterWordCount": 67,
-      "actualWordCount": 65,
+      "actualWordCount": 92,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/cuales-son-nuestra-distracciones-digitales.md",
+      "title": "¿Cuáles son nuestras distracciones digitales?",
+      "date": "2009-09-17",
+      "slug": "¿cuales-son-nuestra-distracciones-digitales",
+      "category": "productividad-herramientas",
+      "commentCount": 0,
+      "frontmatterWordCount": 87,
+      "actualWordCount": 88,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/estrategia-para-empresas-de-software.md",
+      "title": "Estrategia para empresas de software",
+      "date": "2011-10-11",
+      "slug": "estrategia-para-empresas-de-software",
+      "category": "tecnologia-empresarial",
+      "commentCount": 2,
+      "frontmatterWordCount": 80,
+      "actualWordCount": 88,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/que-es-el-bloqueo-duro.md",
+      "title": "¿Qué es el bloqueo duro?",
+      "date": "2010-02-25",
+      "slug": "¿que-es-el-bloqueo-duro",
+      "category": "desarrollo-software",
+      "commentCount": 9,
+      "frontmatterWordCount": 83,
+      "actualWordCount": 88,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/presentacion-web-20.md",
+      "title": "Presentación Web 2.0",
+      "date": "2007-12-06",
+      "slug": "presentacion-web-20",
+      "category": "innovacion-digital",
+      "commentCount": 3,
+      "frontmatterWordCount": 48,
+      "actualWordCount": 87,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/cual-es-el-video-mas-visto-del-2009.md",
+      "title": "¿Cuál es el vídeo más visto del 2009?",
+      "date": "2009-12-17",
+      "slug": "¿cual-es-el-video-mas-visto-del-2009",
+      "category": "innovacion-digital",
+      "commentCount": 1,
+      "frontmatterWordCount": 86,
+      "actualWordCount": 86,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/que-es-openid.md",
+      "title": "¿Qué es OpenID?",
+      "date": "2008-02-09",
+      "slug": "¿que-es-openid",
+      "category": "innovacion-digital",
+      "commentCount": 0,
+      "frontmatterWordCount": 62,
+      "actualWordCount": 86,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/yahoo-y-open-id.md",
+      "title": "Yahoo y Open ID",
+      "date": "2008-01-19",
+      "slug": "yahoo-y-open-id",
+      "category": "innovacion-digital",
+      "commentCount": 0,
+      "frontmatterWordCount": 75,
+      "actualWordCount": 85,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/el-camino-esta-lleno-de-obstaculos.md",
+      "title": "El camino está lleno de obstáculos..",
+      "date": "2009-06-29",
+      "slug": "el-camino-esta-lleno-de-obstaculos",
+      "category": "tecnologia-empresarial",
+      "commentCount": 0,
+      "frontmatterWordCount": 80,
+      "actualWordCount": 84,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/facebook-or-facetoface.md",
+      "title": "Facebook or Facetoface",
+      "date": "2008-11-23",
+      "slug": "facebook-or-facetoface",
+      "category": "desarrollo-software",
+      "commentCount": 0,
+      "frontmatterWordCount": 79,
+      "actualWordCount": 84,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/cual-es-la-evolucion-de-un-usuario-con-un-nuevo-software.md",
+      "title": "¿Cuál es la evolución de un usuario con un nuevo Software?",
+      "date": "2007-09-24",
+      "slug": "¿cual-es-la-evolucion-de-un-usuario-con-un-nuevo-software",
+      "category": "desarrollo-software",
+      "commentCount": 3,
+      "frontmatterWordCount": 62,
+      "actualWordCount": 83,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/imd-world-competitiveness-yearbook-2006-variaciones.md",
+      "title": "IMD World Competitiveness Yearbook 2006 (variaciones)",
+      "date": "2007-03-31",
+      "slug": "imd-world-competitiveness-yearbook-2006-variaciones",
+      "category": "innovacion-digital",
+      "commentCount": 0,
+      "frontmatterWordCount": 75,
+      "actualWordCount": 83,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/que-recomendamos-c-c.md",
+      "title": "¿Qué recomendamos en C++ para Windows?",
+      "date": "2008-03-06",
+      "slug": "¿que-recomendamos-c-c",
+      "category": "desarrollo-software",
+      "commentCount": 1,
+      "frontmatterWordCount": 78,
+      "actualWordCount": 83,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/fracaso-todos-lo-dias.md",
+      "title": "Fracaso todos lo días",
+      "date": "2010-04-07",
+      "slug": "fracaso-todos-lo-dias",
+      "category": "tecnologia-empresarial",
+      "commentCount": 4,
+      "frontmatterWordCount": 81,
+      "actualWordCount": 82,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/i-m-a-pc.md",
+      "title": "I´m a PC",
+      "date": "2008-09-20",
+      "slug": "i´m-a-pc",
+      "category": "tecnologia-empresarial",
+      "commentCount": 0,
+      "frontmatterWordCount": 71,
+      "actualWordCount": 82,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/que-es-la-web-3-0.md",
+      "title": "¿Qué es la web 3.0?",
+      "date": "2009-09-21",
+      "slug": "¿que-es-la-web-3-0",
+      "category": "innovacion-digital",
+      "commentCount": 0,
+      "frontmatterWordCount": 63,
+      "actualWordCount": 82,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/realidad-espanola-en-uso-de-las-tic.md",
+      "title": "Realidad Española en uso de las TIC",
+      "date": "2007-03-16",
+      "slug": "realidad-espanola-en-uso-de-las-tic",
+      "category": "desarrollo-software",
+      "commentCount": 0,
+      "frontmatterWordCount": 73,
+      "actualWordCount": 82,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/cuantas-empresas-hay-en-espana.md",
+      "title": "¿Cuántas empresas hay en España?",
+      "date": "2008-02-18",
+      "slug": "¿cuantas-empresas-hay-en-espana",
+      "category": "tecnologia-empresarial",
+      "commentCount": 5,
+      "frontmatterWordCount": 79,
+      "actualWordCount": 81,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/la-keynote-de-steve-jobs-en-60-segundos.md",
+      "title": "La keynote de Steve Jobs en 60 segundos",
+      "date": "2008-01-24",
+      "slug": "la-keynote-de-steve-jobs-en-60-segundos",
+      "category": "desarrollo-software",
+      "commentCount": 1,
+      "frontmatterWordCount": 70,
+      "actualWordCount": 81,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/promocion-on-line.md",
+      "title": "Promoción On-Line",
+      "date": "2008-04-02",
+      "slug": "promocion-on-line",
+      "category": "innovacion-digital",
+      "commentCount": 2,
+      "frontmatterWordCount": 78,
+      "actualWordCount": 80,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/como-esta-el-paro-en-espana.md",
+      "title": "¿Cómo está el paro en España?",
+      "date": "2008-10-09",
+      "slug": "¿como-esta-el-paro-en-espana",
+      "category": "tecnologia-empresarial",
+      "commentCount": 5,
+      "frontmatterWordCount": 73,
+      "actualWordCount": 78,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/como-empezo-visual-ms.md",
+      "title": "¿Cómo empezó Visual MS?",
+      "date": "2010-12-13",
+      "slug": "como-empezo-visual-ms",
+      "category": "tecnologia-empresarial",
+      "commentCount": 6,
+      "frontmatterWordCount": 73,
+      "actualWordCount": 76,
       "classification": "review"
     },
     {
@@ -132,7 +320,7 @@
       "category": "innovacion-digital",
       "commentCount": 8,
       "frontmatterWordCount": 63,
-      "actualWordCount": 62,
+      "actualWordCount": 68,
       "classification": "review"
     },
     {
@@ -143,7 +331,7 @@
       "category": "innovacion-digital",
       "commentCount": 6,
       "frontmatterWordCount": 60,
-      "actualWordCount": 58,
+      "actualWordCount": 66,
       "classification": "review"
     },
     {
@@ -154,18 +342,7 @@
       "category": "tecnologia-empresarial",
       "commentCount": 5,
       "frontmatterWordCount": 57,
-      "actualWordCount": 54,
-      "classification": "review"
-    },
-    {
-      "file": "blog-posts/tipos-de-organigramas-y-organizacion.md",
-      "title": "¿Tipos de organigramas y organización?",
-      "date": "2008-04-02",
-      "slug": "¿tipos-de-organigramas-y-organizacion",
-      "category": "tecnologia-empresarial",
-      "commentCount": 11,
-      "frontmatterWordCount": 52,
-      "actualWordCount": 54,
+      "actualWordCount": 62,
       "classification": "review"
     },
     {
@@ -176,7 +353,7 @@
       "category": "desarrollo-software",
       "commentCount": 6,
       "frontmatterWordCount": 54,
-      "actualWordCount": 53,
+      "actualWordCount": 58,
       "classification": "review"
     },
     {
@@ -187,7 +364,7 @@
       "category": "innovacion-digital",
       "commentCount": 8,
       "frontmatterWordCount": 52,
-      "actualWordCount": 51,
+      "actualWordCount": 56,
       "classification": "review"
     },
     {
@@ -198,7 +375,7 @@
       "category": "productividad-herramientas",
       "commentCount": 8,
       "frontmatterWordCount": 48,
-      "actualWordCount": 48,
+      "actualWordCount": 52,
       "classification": "review"
     },
     {
@@ -209,7 +386,7 @@
       "category": "tecnologia-empresarial",
       "commentCount": 9,
       "frontmatterWordCount": 49,
-      "actualWordCount": 48,
+      "actualWordCount": 52,
       "classification": "review"
     },
     {
@@ -220,7 +397,7 @@
       "category": "innovacion-digital",
       "commentCount": 6,
       "frontmatterWordCount": 37,
-      "actualWordCount": 43,
+      "actualWordCount": 48,
       "classification": "review"
     },
     {
@@ -231,18 +408,7 @@
       "category": "productividad-herramientas",
       "commentCount": 6,
       "frontmatterWordCount": 44,
-      "actualWordCount": 42,
-      "classification": "review"
-    },
-    {
-      "file": "blog-posts/muere-el-visionario-del-software.md",
-      "title": "Muere el visionario del Software",
-      "date": "2011-10-06",
-      "slug": "muere-el-visionario-del-software",
-      "category": "innovacion-digital",
-      "commentCount": 5,
-      "frontmatterWordCount": 41,
-      "actualWordCount": 41,
+      "actualWordCount": 47,
       "classification": "review"
     },
     {
@@ -253,7 +419,18 @@
       "category": "desarrollo-software",
       "commentCount": 10,
       "frontmatterWordCount": 40,
-      "actualWordCount": 39,
+      "actualWordCount": 43,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/muere-el-visionario-del-software.md",
+      "title": "Muere el visionario del Software",
+      "date": "2011-10-06",
+      "slug": "muere-el-visionario-del-software",
+      "category": "innovacion-digital",
+      "commentCount": 5,
+      "frontmatterWordCount": 41,
+      "actualWordCount": 43,
       "classification": "review"
     },
     {
@@ -264,7 +441,7 @@
       "category": "desarrollo-software",
       "commentCount": 7,
       "frontmatterWordCount": 34,
-      "actualWordCount": 33,
+      "actualWordCount": 38,
       "classification": "review"
     },
     {
@@ -275,7 +452,7 @@
       "category": "innovacion-digital",
       "commentCount": 5,
       "frontmatterWordCount": 30,
-      "actualWordCount": 29,
+      "actualWordCount": 32,
       "classification": "review"
     },
     {
@@ -286,51 +463,7 @@
       "category": "innovacion-digital",
       "commentCount": 5,
       "frontmatterWordCount": 27,
-      "actualWordCount": 26,
-      "classification": "review"
-    },
-    {
-      "file": "blog-posts/mantenimientos-y-suscripciones-en-software-mensuales-o-anuales.md",
-      "title": "Mantenimientos y suscripciones en software ¿Mensuales o anuales?",
-      "date": "2011-03-15",
-      "slug": "mantenimientos-y-suscripciones-en-software-¿mensuales-o-anuales",
-      "category": "desarrollo-software",
-      "commentCount": 8,
-      "frontmatterWordCount": 317,
-      "actualWordCount": 26,
-      "classification": "review"
-    },
-    {
-      "file": "blog-posts/feliz-navidad.md",
-      "title": "Feliz Navidad",
-      "date": "2007-12-24",
-      "slug": "feliz-navidad",
-      "category": "innovacion-digital",
-      "commentCount": 24,
-      "frontmatterWordCount": 26,
-      "actualWordCount": 25,
-      "classification": "review"
-    },
-    {
-      "file": "blog-posts/somos-mas-inteligentes-que-los-monos.md",
-      "title": "¿Somos más inteligentes que los monos?",
-      "date": "2010-05-18",
-      "slug": "¿somos-mas-inteligentes-que-los-monos",
-      "category": "innovacion-digital",
-      "commentCount": 6,
-      "frontmatterWordCount": 19,
-      "actualWordCount": 18,
-      "classification": "review"
-    },
-    {
-      "file": "blog-posts/la-crisis-ninja.md",
-      "title": "La crisis Ninja",
-      "date": "2008-10-20",
-      "slug": "la-crisis-ninja",
-      "category": "innovacion-digital",
-      "commentCount": 15,
-      "frontmatterWordCount": 15,
-      "actualWordCount": 14,
+      "actualWordCount": 31,
       "classification": "review"
     },
     {
@@ -341,7 +474,40 @@
       "category": "desarrollo-software",
       "commentCount": 6,
       "frontmatterWordCount": 11,
-      "actualWordCount": 10,
+      "actualWordCount": 28,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/feliz-navidad.md",
+      "title": "Feliz Navidad",
+      "date": "2007-12-24",
+      "slug": "feliz-navidad",
+      "category": "innovacion-digital",
+      "commentCount": 24,
+      "frontmatterWordCount": 26,
+      "actualWordCount": 27,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/somos-mas-inteligentes-que-los-monos.md",
+      "title": "¿Somos más inteligentes que los monos?",
+      "date": "2010-05-18",
+      "slug": "¿somos-mas-inteligentes-que-los-monos",
+      "category": "innovacion-digital",
+      "commentCount": 6,
+      "frontmatterWordCount": 19,
+      "actualWordCount": 22,
+      "classification": "review"
+    },
+    {
+      "file": "blog-posts/la-crisis-ninja.md",
+      "title": "La crisis Ninja",
+      "date": "2008-10-20",
+      "slug": "la-crisis-ninja",
+      "category": "innovacion-digital",
+      "commentCount": 15,
+      "frontmatterWordCount": 15,
+      "actualWordCount": 19,
       "classification": "review"
     },
     {
@@ -352,33 +518,11 @@
       "category": "desarrollo-software",
       "commentCount": 5,
       "frontmatterWordCount": 8,
-      "actualWordCount": 7,
+      "actualWordCount": 8,
       "classification": "review"
     }
   ],
   "keepNoindex": [
-    {
-      "file": "blog-posts/el-tamano-de-las-empresas.md",
-      "title": "El tamaño de las empresas",
-      "date": "2007-03-19",
-      "slug": "el-tamano-de-las-empresas",
-      "category": "tecnologia-empresarial",
-      "commentCount": 0,
-      "frontmatterWordCount": 56,
-      "actualWordCount": 79,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/el-camino-esta-lleno-de-obstaculos.md",
-      "title": "El camino está lleno de obstáculos..",
-      "date": "2009-06-29",
-      "slug": "el-camino-esta-lleno-de-obstaculos",
-      "category": "tecnologia-empresarial",
-      "commentCount": 0,
-      "frontmatterWordCount": 80,
-      "actualWordCount": 78,
-      "classification": "keep_noindex"
-    },
     {
       "file": "blog-posts/hangout-de-software-empresarial-y-velneo.md",
       "title": "Hangout de software empresarial y Velneo",
@@ -387,72 +531,28 @@
       "category": "desarrollo-software",
       "commentCount": 1,
       "frontmatterWordCount": 79,
+      "actualWordCount": 79,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/como-es-el-exito-de-una-empresa-de-software.md",
+      "title": "¿Cómo es el éxito de una empresa de software?",
+      "date": "2011-09-22",
+      "slug": "¿como-es-el-exito-de-una-empresa-de-software",
+      "category": "tecnologia-empresarial",
+      "commentCount": 2,
+      "frontmatterWordCount": 75,
       "actualWordCount": 78,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/la-cultura-de-google.md",
-      "title": "La cultura de Google",
-      "date": "2008-01-03",
-      "slug": "la-cultura-de-google",
+      "file": "blog-posts/que-es-una-segmentacion-de-mercado.md",
+      "title": "¿Qué es una segmentación de mercado?",
+      "date": "2007-12-04",
+      "slug": "¿que-es-una-segmentacion-de-mercado",
       "category": "tecnologia-empresarial",
-      "commentCount": 2,
-      "frontmatterWordCount": 81,
-      "actualWordCount": 78,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/estrategia-para-empresas-de-software.md",
-      "title": "Estrategia para empresas de software",
-      "date": "2011-10-11",
-      "slug": "estrategia-para-empresas-de-software",
-      "category": "tecnologia-empresarial",
-      "commentCount": 2,
-      "frontmatterWordCount": 80,
-      "actualWordCount": 77,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/facebook-or-facetoface.md",
-      "title": "Facebook or Facetoface",
-      "date": "2008-11-23",
-      "slug": "facebook-or-facetoface",
-      "category": "desarrollo-software",
       "commentCount": 0,
-      "frontmatterWordCount": 79,
-      "actualWordCount": 77,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/fracaso-todos-lo-dias.md",
-      "title": "Fracaso todos lo días",
-      "date": "2010-04-07",
-      "slug": "fracaso-todos-lo-dias",
-      "category": "tecnologia-empresarial",
-      "commentCount": 4,
-      "frontmatterWordCount": 81,
-      "actualWordCount": 77,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/promocion-on-line.md",
-      "title": "Promoción On-Line",
-      "date": "2008-04-02",
-      "slug": "promocion-on-line",
-      "category": "innovacion-digital",
-      "commentCount": 2,
-      "frontmatterWordCount": 78,
-      "actualWordCount": 77,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/realidad-espanola-en-uso-de-las-tic.md",
-      "title": "Realidad Española en uso de las TIC",
-      "date": "2007-03-16",
-      "slug": "realidad-espanola-en-uso-de-las-tic",
-      "category": "desarrollo-software",
-      "commentCount": 0,
-      "frontmatterWordCount": 73,
+      "frontmatterWordCount": 60,
       "actualWordCount": 77,
       "classification": "keep_noindex"
     },
@@ -468,44 +568,11 @@
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/como-es-el-exito-de-una-empresa-de-software.md",
-      "title": "¿Cómo es el éxito de una empresa de software?",
-      "date": "2011-09-22",
-      "slug": "¿como-es-el-exito-de-una-empresa-de-software",
-      "category": "tecnologia-empresarial",
-      "commentCount": 2,
-      "frontmatterWordCount": 75,
-      "actualWordCount": 75,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/anuncios-basados-en-arquetipos.md",
-      "title": "Anuncios basados en arquetipos",
-      "date": "2011-04-21",
-      "slug": "anuncios-basados-en-arquetipos",
-      "category": "tecnologia-empresarial",
-      "commentCount": 0,
-      "frontmatterWordCount": 76,
-      "actualWordCount": 74,
-      "classification": "keep_noindex"
-    },
-    {
       "file": "blog-posts/las-constructoras-espanolas-arrasan-en-irlanda.md",
       "title": "Las constructoras españolas arrasan en Irlanda",
       "date": "2007-04-09",
       "slug": "las-constructoras-espanolas-arrasan-en-irlanda",
       "category": "tecnologia-empresarial",
-      "commentCount": 0,
-      "frontmatterWordCount": 75,
-      "actualWordCount": 74,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/yahoo-y-open-id.md",
-      "title": "Yahoo y Open ID",
-      "date": "2008-01-19",
-      "slug": "yahoo-y-open-id",
-      "category": "innovacion-digital",
       "commentCount": 0,
       "frontmatterWordCount": 75,
       "actualWordCount": 74,
@@ -534,14 +601,36 @@
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/que-recomendamos-c-c.md",
-      "title": "¿Que recomendamos en c++ para Windows?",
-      "date": "2008-03-06",
-      "slug": "¿que-recomendamos-c-c",
-      "category": "desarrollo-software",
+      "file": "blog-posts/plan-e-crisis-grave.md",
+      "title": "¿Qué es el Plan E?",
+      "date": "2009-01-13",
+      "slug": "plan-e-¿crisis-grave",
+      "category": "tecnologia-empresarial",
       "commentCount": 1,
-      "frontmatterWordCount": 78,
+      "frontmatterWordCount": 70,
       "actualWordCount": 72,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/que-pasa-con-las-marcas.md",
+      "title": "¿Qué pasa con las marcas?",
+      "date": "2008-06-13",
+      "slug": "¿que-pasa-con-las-marcas",
+      "category": "desarrollo-software",
+      "commentCount": 0,
+      "frontmatterWordCount": 67,
+      "actualWordCount": 72,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/la-frase-del-dia.md",
+      "title": "La frase del día",
+      "date": "2009-10-15",
+      "slug": "la-frase-del-dia",
+      "category": "desarrollo-software",
+      "commentCount": 2,
+      "frontmatterWordCount": 68,
+      "actualWordCount": 71,
       "classification": "keep_noindex"
     },
     {
@@ -563,61 +652,28 @@
       "category": "desarrollo-software",
       "commentCount": 2,
       "frontmatterWordCount": 57,
-      "actualWordCount": 70,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/plan-e-crisis-grave.md",
-      "title": "¿Qué es el Plan E?",
-      "date": "2009-01-12",
-      "slug": "plan-e-¿crisis-grave",
-      "category": "tecnologia-empresarial",
-      "commentCount": 1,
-      "frontmatterWordCount": 70,
       "actualWordCount": 69,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/que-es-la-web-3-0.md",
-      "title": "¿Qué es la web 3.0?",
-      "date": "2009-09-21",
-      "slug": "¿que-es-la-web-3-0",
+      "file": "blog-posts/repartir-periodicos-gratuitos.md",
+      "title": "Repartir Periódicos Gratuitos",
+      "date": "2008-09-03",
+      "slug": "repartir-periodicos-gratuitos",
+      "category": "inteligencia-artificial",
+      "commentCount": 0,
+      "frontmatterWordCount": 64,
+      "actualWordCount": 69,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/china-de-luto.md",
+      "title": "China de luto",
+      "date": "2008-05-21",
+      "slug": "china-de-luto",
       "category": "innovacion-digital",
       "commentCount": 0,
-      "frontmatterWordCount": 63,
-      "actualWordCount": 69,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/la-keynote-de-steve-jobs-en-60-segundos.md",
-      "title": "La keynote de Steve Jobs en 60 segundos",
-      "date": "2008-01-24",
-      "slug": "la-keynote-de-steve-jobs-en-60-segundos",
-      "category": "desarrollo-software",
-      "commentCount": 1,
-      "frontmatterWordCount": 70,
-      "actualWordCount": 68,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/cuales-son-nuestra-distracciones-digitales.md",
-      "title": "¿Cuáles son nuestras distracciones digitales?",
-      "date": "2009-09-17",
-      "slug": "¿cuales-son-nuestra-distracciones-digitales",
-      "category": "productividad-herramientas",
-      "commentCount": 0,
-      "frontmatterWordCount": 87,
-      "actualWordCount": 66,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/la-frase-del-dia.md",
-      "title": "La frase del día",
-      "date": "2009-10-15",
-      "slug": "la-frase-del-dia",
-      "category": "desarrollo-software",
-      "commentCount": 2,
-      "frontmatterWordCount": 68,
+      "frontmatterWordCount": 56,
       "actualWordCount": 66,
       "classification": "keep_noindex"
     },
@@ -629,84 +685,40 @@
       "category": "desarrollo-software",
       "commentCount": 0,
       "frontmatterWordCount": 61,
-      "actualWordCount": 65,
+      "actualWordCount": 64,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/que-pasa-con-las-marcas.md",
-      "title": "¿Qué pasa con las marcas?",
-      "date": "2008-06-12",
-      "slug": "¿que-pasa-con-las-marcas",
+      "file": "blog-posts/verano-en-los-alpes.md",
+      "title": "Verano en los Alpes",
+      "date": "2008-02-10",
+      "slug": "verano-en-los-alpes",
       "category": "desarrollo-software",
-      "commentCount": 0,
-      "frontmatterWordCount": 67,
-      "actualWordCount": 65,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/i-m-a-pc.md",
-      "title": "I´m a PC",
-      "date": "2008-09-20",
-      "slug": "i´m-a-pc",
-      "category": "tecnologia-empresarial",
-      "commentCount": 0,
-      "frontmatterWordCount": 71,
+      "commentCount": 3,
+      "frontmatterWordCount": 59,
       "actualWordCount": 64,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/que-es-un-dafo.md",
-      "title": "¿Qué es un DAFO?",
-      "date": "2007-10-14",
-      "slug": "¿que-es-un-dafo",
-      "category": "tecnologia-empresarial",
-      "commentCount": 0,
-      "frontmatterWordCount": 66,
-      "actualWordCount": 64,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/repartir-periodicos-gratuitos.md",
-      "title": "Repartir Periódicos Gratuitos",
-      "date": "2008-09-03",
-      "slug": "repartir-periodicos-gratuitos",
-      "category": "inteligencia-artificial",
-      "commentCount": 0,
-      "frontmatterWordCount": 64,
+      "file": "blog-posts/feliz-navidad-2.md",
+      "title": "Feliz Navidad",
+      "date": "2008-12-24",
+      "slug": "feliz-navidad-2",
+      "category": "innovacion-digital",
+      "commentCount": 4,
+      "frontmatterWordCount": 59,
       "actualWordCount": 63,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/datos-sobre-los-blogs.md",
-      "title": "Datos sobre los Blogs",
-      "date": "2007-05-17",
-      "slug": "datos-sobre-los-blogs",
-      "category": "tecnologia-empresarial",
-      "commentCount": 0,
-      "frontmatterWordCount": 55,
-      "actualWordCount": 60,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/presentacion-web-20.md",
-      "title": "Presentación Web 2.0",
-      "date": "2007-12-06",
-      "slug": "presentacion-web-20",
-      "category": "innovacion-digital",
-      "commentCount": 3,
-      "frontmatterWordCount": 48,
-      "actualWordCount": 60,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/que-es-openid.md",
-      "title": "¿Qué es OpenID?",
-      "date": "2008-02-09",
-      "slug": "¿que-es-openid",
-      "category": "innovacion-digital",
-      "commentCount": 0,
-      "frontmatterWordCount": 62,
-      "actualWordCount": 60,
+      "file": "blog-posts/motivacion-guardiola.md",
+      "title": "Motivación Guardiola",
+      "date": "2010-03-15",
+      "slug": "motivacion-guardiola",
+      "category": "productividad-herramientas",
+      "commentCount": 4,
+      "frontmatterWordCount": 57,
+      "actualWordCount": 61,
       "classification": "keep_noindex"
     },
     {
@@ -721,58 +733,25 @@
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/feliz-navidad-2.md",
-      "title": "Feliz Navidad",
-      "date": "2008-12-24",
-      "slug": "feliz-navidad-2",
-      "category": "innovacion-digital",
-      "commentCount": 4,
-      "frontmatterWordCount": 59,
-      "actualWordCount": 58,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/verano-en-los-alpes.md",
-      "title": "Verano en los Alpes",
-      "date": "2008-02-10",
-      "slug": "verano-en-los-alpes",
-      "category": "desarrollo-software",
-      "commentCount": 3,
-      "frontmatterWordCount": 59,
-      "actualWordCount": 57,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/china-de-luto.md",
-      "title": "China de luto",
-      "date": "2008-05-21",
-      "slug": "china-de-luto",
-      "category": "innovacion-digital",
-      "commentCount": 0,
-      "frontmatterWordCount": 56,
-      "actualWordCount": 56,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/motivacion-guardiola.md",
-      "title": "Motivación Guardiola",
-      "date": "2010-03-15",
-      "slug": "motivacion-guardiola",
-      "category": "productividad-herramientas",
-      "commentCount": 4,
-      "frontmatterWordCount": 57,
-      "actualWordCount": 56,
-      "classification": "keep_noindex"
-    },
-    {
       "file": "blog-posts/cual-es-el-impacto-de-las-redes-sociales.md",
-      "title": "¿Cúal es el impacto de las redes sociales?",
+      "title": "¿Cuál es el impacto de las redes sociales?",
       "date": "2010-08-31",
       "slug": "¿cual-es-el-impacto-de-las-redes-sociales",
       "category": "innovacion-digital",
       "commentCount": 0,
       "frontmatterWordCount": 54,
-      "actualWordCount": 53,
+      "actualWordCount": 58,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/datos-sobre-los-blogs.md",
+      "title": "Datos sobre los Blogs",
+      "date": "2007-05-17",
+      "slug": "datos-sobre-los-blogs",
+      "category": "tecnologia-empresarial",
+      "commentCount": 0,
+      "frontmatterWordCount": 55,
+      "actualWordCount": 58,
       "classification": "keep_noindex"
     },
     {
@@ -783,7 +762,7 @@
       "category": "desarrollo-software",
       "commentCount": 0,
       "frontmatterWordCount": 52,
-      "actualWordCount": 51,
+      "actualWordCount": 56,
       "classification": "keep_noindex"
     },
     {
@@ -794,7 +773,29 @@
       "category": "tecnologia-empresarial",
       "commentCount": 0,
       "frontmatterWordCount": 48,
-      "actualWordCount": 47,
+      "actualWordCount": 52,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/como-me-internacionalizo.md",
+      "title": "¿Cómo me internacionalizo?",
+      "date": "2008-06-01",
+      "slug": "¿como-me-internacionalizo",
+      "category": "tecnologia-empresarial",
+      "commentCount": 0,
+      "frontmatterWordCount": 26,
+      "actualWordCount": 51,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/sergey-brin-explica-porque-lanzan-su-navegador.md",
+      "title": "Sergey Brin explica por qué lanzan su navegador",
+      "date": "2008-09-03",
+      "slug": "sergey-brin-explica-porque-lanzan-su-navegador",
+      "category": "innovacion-digital",
+      "commentCount": 3,
+      "frontmatterWordCount": 46,
+      "actualWordCount": 51,
       "classification": "keep_noindex"
     },
     {
@@ -805,7 +806,7 @@
       "category": "innovacion-digital",
       "commentCount": 4,
       "frontmatterWordCount": 46,
-      "actualWordCount": 46,
+      "actualWordCount": 51,
       "classification": "keep_noindex"
     },
     {
@@ -816,7 +817,51 @@
       "category": "tecnologia-empresarial",
       "commentCount": 0,
       "frontmatterWordCount": 46,
-      "actualWordCount": 45,
+      "actualWordCount": 49,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/que-es-el-hurling.md",
+      "title": "¿Qué es el Hurling?",
+      "date": "2008-02-06",
+      "slug": "¿que-es-el-hurling",
+      "category": "innovacion-digital",
+      "commentCount": 4,
+      "frontmatterWordCount": 38,
+      "actualWordCount": 49,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/como-conseguir-dinero-de-un-capital-riesgo.md",
+      "title": "¿Cómo conseguir dinero de un capital riesgo?",
+      "date": "2008-09-05",
+      "slug": "¿como-conseguir-dinero-de-un-capital-riesgo",
+      "category": "tecnologia-empresarial",
+      "commentCount": 3,
+      "frontmatterWordCount": 25,
+      "actualWordCount": 48,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/computer-history-museum.md",
+      "title": "Computer history museum",
+      "date": "2008-09-01",
+      "slug": "computer-history-museum",
+      "category": "innovacion-digital",
+      "commentCount": 3,
+      "frontmatterWordCount": 43,
+      "actualWordCount": 46,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/google-sites.md",
+      "title": "Google Sites",
+      "date": "2008-02-28",
+      "slug": "google-sites",
+      "category": "tecnologia-empresarial",
+      "commentCount": 1,
+      "frontmatterWordCount": 42,
+      "actualWordCount": 46,
       "classification": "keep_noindex"
     },
     {
@@ -827,18 +872,51 @@
       "category": "tecnologia-empresarial",
       "commentCount": 1,
       "frontmatterWordCount": 40,
+      "actualWordCount": 46,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/la-deuda-en-formato-tetris.md",
+      "title": "La deuda en formato tetris",
+      "date": "2011-01-06",
+      "slug": "la-deuda-en-formato-tetris",
+      "category": "tecnologia-empresarial",
+      "commentCount": 2,
+      "frontmatterWordCount": 42,
       "actualWordCount": 45,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/sergey-brin-explica-porque-lanzan-su-navegador.md",
-      "title": "Sergey Brin explica porqué lanzan su Navegador",
-      "date": "2008-09-03",
-      "slug": "sergey-brin-explica-porque-lanzan-su-navegador",
+      "file": "blog-posts/las-vueltas-que-da-la-vida-2.md",
+      "title": "Las vueltas que da la vida",
+      "date": "2009-09-01",
+      "slug": "las-vueltas-que-da-la-vida-2",
+      "category": "desarrollo-software",
+      "commentCount": 1,
+      "frontmatterWordCount": 45,
+      "actualWordCount": 45,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/que-es-el-cloud-computing-2.md",
+      "title": "¿Qué es el cloud computing?",
+      "date": "2009-09-14",
+      "slug": "¿que-es-el-cloud-computing-2",
       "category": "innovacion-digital",
       "commentCount": 3,
-      "frontmatterWordCount": 46,
+      "frontmatterWordCount": 42,
       "actualWordCount": 45,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/cancion-en-velneo.md",
+      "title": "Canción en Velneo",
+      "date": "2007-11-28",
+      "slug": "cancion-en-velneo",
+      "category": "desarrollo-software",
+      "commentCount": 1,
+      "frontmatterWordCount": 41,
+      "actualWordCount": 44,
       "classification": "keep_noindex"
     },
     {
@@ -853,14 +931,58 @@
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/las-vueltas-que-da-la-vida-2.md",
-      "title": "Las vueltas que da la vida",
-      "date": "2009-09-01",
-      "slug": "las-vueltas-que-da-la-vida-2",
+      "file": "blog-posts/entrevista-sobre-velneo.md",
+      "title": "Entrevista sobre Velneo",
+      "date": "2013-08-28",
+      "slug": "entrevista-sobre-velneo",
       "category": "desarrollo-software",
-      "commentCount": 1,
-      "frontmatterWordCount": 45,
+      "commentCount": 0,
+      "frontmatterWordCount": 42,
       "actualWordCount": 44,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/ipad-o-iphone-que-se-creo-primero.md",
+      "title": "IPAD o IPHONE. ¿Qué se creó primero?",
+      "date": "2010-06-15",
+      "slug": "ipad-o-iphone-¿que-se-creo-primero",
+      "category": "innovacion-digital",
+      "commentCount": 2,
+      "frontmatterWordCount": 39,
+      "actualWordCount": 43,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/la-lucha.md",
+      "title": "La lucha",
+      "date": "2007-09-15",
+      "slug": "la-lucha",
+      "category": "desarrollo-software",
+      "commentCount": 0,
+      "frontmatterWordCount": 41,
+      "actualWordCount": 43,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/8.md",
+      "title": "Diagrama de la innovación",
+      "date": "2007-03-16",
+      "slug": "8",
+      "category": "innovacion-digital",
+      "commentCount": 0,
+      "frontmatterWordCount": 41,
+      "actualWordCount": 42,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/amazon-y-su-estrategia.md",
+      "title": "Amazon y su estrategia",
+      "date": "2008-10-16",
+      "slug": "amazon-y-su-estrategia",
+      "category": "tecnologia-empresarial",
+      "commentCount": 0,
+      "frontmatterWordCount": 37,
+      "actualWordCount": 42,
       "classification": "keep_noindex"
     },
     {
@@ -875,83 +997,6 @@
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/computer-history-museum.md",
-      "title": "Computer history museum",
-      "date": "2008-09-01",
-      "slug": "computer-history-museum",
-      "category": "innovacion-digital",
-      "commentCount": 3,
-      "frontmatterWordCount": 43,
-      "actualWordCount": 41,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/google-sites.md",
-      "title": "Google Sites",
-      "date": "2008-02-28",
-      "slug": "google-sites",
-      "category": "tecnologia-empresarial",
-      "commentCount": 1,
-      "frontmatterWordCount": 42,
-      "actualWordCount": 41,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/ipad-o-iphone-que-se-creo-primero.md",
-      "title": "IPAD o IPHONE. ¿Qué se creó primero?",
-      "date": "2010-06-15",
-      "slug": "ipad-o-iphone-¿que-se-creo-primero",
-      "category": "innovacion-digital",
-      "commentCount": 2,
-      "frontmatterWordCount": 39,
-      "actualWordCount": 41,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/la-deuda-en-formato-tetris.md",
-      "title": "La deuda en formato tetris",
-      "date": "2011-01-06",
-      "slug": "la-deuda-en-formato-tetris",
-      "category": "tecnologia-empresarial",
-      "commentCount": 2,
-      "frontmatterWordCount": 42,
-      "actualWordCount": 41,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/la-lucha.md",
-      "title": "La lucha",
-      "date": "2007-09-15",
-      "slug": "la-lucha",
-      "category": "desarrollo-software",
-      "commentCount": 0,
-      "frontmatterWordCount": 41,
-      "actualWordCount": 41,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/8.md",
-      "title": "Diagrama de la innovación",
-      "date": "2007-03-16",
-      "slug": "8",
-      "category": "innovacion-digital",
-      "commentCount": 0,
-      "frontmatterWordCount": 41,
-      "actualWordCount": 40,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/que-es-el-cloud-computing-2.md",
-      "title": "¿Qué es el cloud computing?",
-      "date": "2009-09-14",
-      "slug": "¿que-es-el-cloud-computing-2",
-      "category": "innovacion-digital",
-      "commentCount": 3,
-      "frontmatterWordCount": 42,
-      "actualWordCount": 40,
-      "classification": "keep_noindex"
-    },
-    {
       "file": "blog-posts/el-modelo-de-negocio-de-apple.md",
       "title": "El modelo de negocio de Apple",
       "date": "2007-06-09",
@@ -959,29 +1004,7 @@
       "category": "tecnologia-empresarial",
       "commentCount": 1,
       "frontmatterWordCount": 39,
-      "actualWordCount": 39,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/entrevista-sobre-velneo.md",
-      "title": "Entrevista sobre Velneo",
-      "date": "2013-08-28",
-      "slug": "entrevista-sobre-velneo",
-      "category": "desarrollo-software",
-      "commentCount": 0,
-      "frontmatterWordCount": 42,
-      "actualWordCount": 39,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/cancion-en-velneo.md",
-      "title": "Canción en Velneo",
-      "date": "2007-11-27",
-      "slug": "cancion-en-velneo",
-      "category": "desarrollo-software",
-      "commentCount": 1,
-      "frontmatterWordCount": 41,
-      "actualWordCount": 38,
+      "actualWordCount": 41,
       "classification": "keep_noindex"
     },
     {
@@ -992,18 +1015,29 @@
       "category": "innovacion-digital",
       "commentCount": 2,
       "frontmatterWordCount": 35,
-      "actualWordCount": 37,
+      "actualWordCount": 39,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/amazon-y-su-estrategia.md",
-      "title": "Amazon y su estrategia",
-      "date": "2008-10-16",
-      "slug": "amazon-y-su-estrategia",
-      "category": "tecnologia-empresarial",
-      "commentCount": 0,
-      "frontmatterWordCount": 37,
-      "actualWordCount": 36,
+      "file": "blog-posts/blackberry-vs-apple.md",
+      "title": "Blackberry vs Apple",
+      "date": "2009-03-23",
+      "slug": "blackberry-vs-apple",
+      "category": "innovacion-digital",
+      "commentCount": 4,
+      "frontmatterWordCount": 22,
+      "actualWordCount": 38,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/como-tiene-que-ser-el-codigo-fuente.md",
+      "title": "¿Cómo tiene que ser el código fuente?",
+      "date": "2011-09-05",
+      "slug": "¿como-tiene-que-ser-el-codigo-fuente",
+      "category": "desarrollo-software",
+      "commentCount": 1,
+      "frontmatterWordCount": 34,
+      "actualWordCount": 38,
       "classification": "keep_noindex"
     },
     {
@@ -1014,18 +1048,106 @@
       "category": "productividad-herramientas",
       "commentCount": 1,
       "frontmatterWordCount": 36,
+      "actualWordCount": 37,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/simplemente-impresionante.md",
+      "title": "Simplemente impresionante",
+      "date": "2008-01-03",
+      "slug": "simplemente-impresionante",
+      "category": "innovacion-digital",
+      "commentCount": 1,
+      "frontmatterWordCount": 29,
+      "actualWordCount": 37,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/90-segundos.md",
+      "title": "90 Segundos",
+      "date": "2009-03-06",
+      "slug": "90-segundos",
+      "category": "innovacion-digital",
+      "commentCount": 1,
+      "frontmatterWordCount": 32,
       "actualWordCount": 36,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/que-es-el-hurling.md",
-      "title": "¿Qué es el Hurling?",
-      "date": "2008-02-06",
-      "slug": "¿que-es-el-hurling",
+      "file": "blog-posts/desarrollad-desarrollad-malditos.md",
+      "title": "Desarrollad, desarrollad, malditos....",
+      "date": "2008-05-14",
+      "slug": "desarrollad-desarrollad-malditos",
       "category": "innovacion-digital",
       "commentCount": 4,
-      "frontmatterWordCount": 38,
+      "frontmatterWordCount": 32,
       "actualWordCount": 36,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/que-es-el-cloud-computing.md",
+      "title": "¿Qué es el cloud computing?",
+      "date": "2009-03-11",
+      "slug": "¿que-es-el-cloud-computing",
+      "category": "innovacion-digital",
+      "commentCount": 1,
+      "frontmatterWordCount": 32,
+      "actualWordCount": 36,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/social-media-y-software-empresarial.md",
+      "title": "Social Media y Software Empresarial",
+      "date": "2011-12-07",
+      "slug": "social-media-y-software-empresarial",
+      "category": "desarrollo-software",
+      "commentCount": 0,
+      "frontmatterWordCount": 31,
+      "actualWordCount": 36,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/universidad-de-berkeley.md",
+      "title": "Universidad de Berkeley",
+      "date": "2008-09-06",
+      "slug": "universidad-de-berkeley",
+      "category": "innovacion-digital",
+      "commentCount": 3,
+      "frontmatterWordCount": 32,
+      "actualWordCount": 36,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/la-vida-en-50-segundos.md",
+      "title": "La vida en 50 segundos",
+      "date": "2009-06-01",
+      "slug": "la-vida-en-50-segundos",
+      "category": "productividad-herramientas",
+      "commentCount": 2,
+      "frontmatterWordCount": 31,
+      "actualWordCount": 35,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/las-vueltas-que-da-la-vida.md",
+      "title": "Las vueltas que da la vida",
+      "date": "2008-06-08",
+      "slug": "las-vueltas-que-da-la-vida",
+      "category": "innovacion-digital",
+      "commentCount": 1,
+      "frontmatterWordCount": 31,
+      "actualWordCount": 35,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/querer-es-poder.md",
+      "title": "Querer es Poder",
+      "date": "2009-03-02",
+      "slug": "querer-es-poder",
+      "category": "innovacion-digital",
+      "commentCount": 4,
+      "frontmatterWordCount": 28,
+      "actualWordCount": 35,
       "classification": "keep_noindex"
     },
     {
@@ -1040,39 +1162,6 @@
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/como-tiene-que-ser-el-codigo-fuente.md",
-      "title": "¿Cómo tiene que ser el código fuente?",
-      "date": "2011-09-05",
-      "slug": "¿como-tiene-que-ser-el-codigo-fuente",
-      "category": "desarrollo-software",
-      "commentCount": 1,
-      "frontmatterWordCount": 34,
-      "actualWordCount": 33,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/90-segundos.md",
-      "title": "90 Segundos",
-      "date": "2009-03-06",
-      "slug": "90-segundos",
-      "category": "innovacion-digital",
-      "commentCount": 1,
-      "frontmatterWordCount": 32,
-      "actualWordCount": 31,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/desarrollad-desarrollad-malditos.md",
-      "title": "Desarrollad, desarrollad, malditos....",
-      "date": "2008-05-14",
-      "slug": "desarrollad-desarrollad-malditos",
-      "category": "innovacion-digital",
-      "commentCount": 4,
-      "frontmatterWordCount": 32,
-      "actualWordCount": 31,
-      "classification": "keep_noindex"
-    },
-    {
       "file": "blog-posts/internet-es-real.md",
       "title": "Internet es real.",
       "date": "2007-06-07",
@@ -1080,105 +1169,28 @@
       "category": "innovacion-digital",
       "commentCount": 0,
       "frontmatterWordCount": 31,
-      "actualWordCount": 31,
+      "actualWordCount": 32,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/que-es-el-cloud-computing.md",
-      "title": "¿Qué es el cloud computing?",
-      "date": "2009-03-11",
-      "slug": "¿que-es-el-cloud-computing",
-      "category": "innovacion-digital",
-      "commentCount": 1,
-      "frontmatterWordCount": 32,
-      "actualWordCount": 31,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/que-es-el-nokia-888.md",
-      "title": "¿Qué es el Nokia 888?",
-      "date": "2010-09-13",
-      "slug": "¿que-es-el-nokia-888",
+      "file": "blog-posts/que-es-el-proyecto-natal.md",
+      "title": "¿Qué es el Proyecto Natal?",
+      "date": "2009-06-14",
+      "slug": "¿que-es-el-proyecto-natal",
       "category": "innovacion-digital",
       "commentCount": 3,
-      "frontmatterWordCount": 32,
-      "actualWordCount": 31,
+      "frontmatterWordCount": 25,
+      "actualWordCount": 29,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/social-media-y-software-empresarial.md",
-      "title": "Social Media y Software Empresarial",
-      "date": "2011-12-07",
-      "slug": "social-media-y-software-empresarial",
-      "category": "desarrollo-software",
-      "commentCount": 0,
-      "frontmatterWordCount": 32,
-      "actualWordCount": 31,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/universidad-de-berkeley.md",
-      "title": "Universidad de Berkeley",
-      "date": "2008-09-06",
-      "slug": "universidad-de-berkeley",
-      "category": "innovacion-digital",
-      "commentCount": 3,
-      "frontmatterWordCount": 32,
-      "actualWordCount": 31,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/la-vida-en-50-segundos.md",
-      "title": "La vida en 50 segundos",
-      "date": "2009-06-01",
-      "slug": "la-vida-en-50-segundos",
-      "category": "productividad-herramientas",
-      "commentCount": 2,
-      "frontmatterWordCount": 31,
-      "actualWordCount": 30,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/las-vueltas-que-da-la-vida.md",
-      "title": "Las vueltas que da la vida",
-      "date": "2008-06-08",
-      "slug": "las-vueltas-que-da-la-vida",
-      "category": "innovacion-digital",
-      "commentCount": 1,
-      "frontmatterWordCount": 31,
-      "actualWordCount": 30,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/como-me-internacionalizo.md",
-      "title": "¿Cómo me internacionalizo?",
-      "date": "2008-06-01",
-      "slug": "¿como-me-internacionalizo",
+      "file": "blog-posts/que-es-una-directora-de-cuentas.md",
+      "title": "¿Qué es una directora de cuentas?",
+      "date": "2009-11-02",
+      "slug": "¿que-es-una-directora-de-cuentas",
       "category": "tecnologia-empresarial",
-      "commentCount": 0,
-      "frontmatterWordCount": 26,
-      "actualWordCount": 28,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/querer-es-poder.md",
-      "title": "Querer es Poder",
-      "date": "2009-03-02",
-      "slug": "querer-es-poder",
-      "category": "innovacion-digital",
       "commentCount": 4,
-      "frontmatterWordCount": 28,
-      "actualWordCount": 28,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/simplemente-impresionante.md",
-      "title": "Simplemente impresionante",
-      "date": "2008-01-03",
-      "slug": "simplemente-impresionante",
-      "category": "innovacion-digital",
-      "commentCount": 1,
-      "frontmatterWordCount": 29,
+      "frontmatterWordCount": 26,
       "actualWordCount": 28,
       "classification": "keep_noindex"
     },
@@ -1194,6 +1206,39 @@
       "classification": "keep_noindex"
     },
     {
+      "file": "blog-posts/windows-7-vs-snow-leopard.md",
+      "title": "Windows 7 VS Snow Leopard",
+      "date": "2009-11-09",
+      "slug": "windows-7-vs-snow-leopard",
+      "category": "productividad-herramientas",
+      "commentCount": 0,
+      "frontmatterWordCount": 25,
+      "actualWordCount": 27,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/el-exito-en-la-empresa.md",
+      "title": "El éxito en la empresa",
+      "date": "2011-01-18",
+      "slug": "el-exito-en-la-empresa",
+      "category": "tecnologia-empresarial",
+      "commentCount": 0,
+      "frontmatterWordCount": 21,
+      "actualWordCount": 26,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/grandes-frases-de-programadores-7.md",
+      "title": "Grandes Frases de Programadores 7",
+      "date": "2010-11-24",
+      "slug": "grandes-frases-de-programadores-7",
+      "category": "desarrollo-software",
+      "commentCount": 0,
+      "frontmatterWordCount": 26,
+      "actualWordCount": 26,
+      "classification": "keep_noindex"
+    },
+    {
       "file": "blog-posts/grandes-frases-de-programadores-2.md",
       "title": "Grandes Frases de programadores 2",
       "date": "2010-09-21",
@@ -1201,17 +1246,6 @@
       "category": "desarrollo-software",
       "commentCount": 3,
       "frontmatterWordCount": 27,
-      "actualWordCount": 25,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/windows-7-vs-snow-leopard.md",
-      "title": "Windows 7  VS  Snow Leopard",
-      "date": "2009-11-09",
-      "slug": "windows-7-vs-snow-leopard",
-      "category": "productividad-herramientas",
-      "commentCount": 0,
-      "frontmatterWordCount": 25,
       "actualWordCount": 25,
       "classification": "keep_noindex"
     },
@@ -1227,17 +1261,6 @@
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/grandes-frases-de-programadores-7.md",
-      "title": "Grandes Frases de Programadores 7",
-      "date": "2010-11-24",
-      "slug": "grandes-frases-de-programadores-7",
-      "category": "desarrollo-software",
-      "commentCount": 0,
-      "frontmatterWordCount": 26,
-      "actualWordCount": 24,
-      "classification": "keep_noindex"
-    },
-    {
       "file": "blog-posts/para-vivir-asi.md",
       "title": "Para vivir asi.....",
       "date": "2007-04-11",
@@ -1245,17 +1268,6 @@
       "category": "productividad-herramientas",
       "commentCount": 0,
       "frontmatterWordCount": 24,
-      "actualWordCount": 24,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/que-es-el-proyecto-natal.md",
-      "title": "¿Qué es el Proyecto Natal?",
-      "date": "2009-06-14",
-      "slug": "¿que-es-el-proyecto-natal",
-      "category": "innovacion-digital",
-      "commentCount": 3,
-      "frontmatterWordCount": 25,
       "actualWordCount": 24,
       "classification": "keep_noindex"
     },
@@ -1271,47 +1283,14 @@
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/que-es-una-directora-de-cuentas.md",
-      "title": "¿Qué es una directora de cuentas?",
-      "date": "2009-11-02",
-      "slug": "¿que-es-una-directora-de-cuentas",
-      "category": "tecnologia-empresarial",
-      "commentCount": 4,
-      "frontmatterWordCount": 26,
-      "actualWordCount": 23,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/que-es-una-segmentacion-de-mercado.md",
-      "title": "¿Qué es una segmentación de mercado?",
-      "date": "2007-12-04",
-      "slug": "¿que-es-una-segmentacion-de-mercado",
-      "category": "tecnologia-empresarial",
-      "commentCount": 0,
-      "frontmatterWordCount": 23,
-      "actualWordCount": 23,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/como-conseguir-dinero-de-un-capital-riesgo.md",
-      "title": "¿Cómo conseguir dinero de un capital riesgo?",
-      "date": "2008-09-05",
-      "slug": "¿como-conseguir-dinero-de-un-capital-riesgo",
-      "category": "tecnologia-empresarial",
+      "file": "blog-posts/eres-un-emprendedor.md",
+      "title": "¿Qué es un emprendedor?",
+      "date": "2009-05-24",
+      "slug": "¿eres-un-emprendedor",
+      "category": "innovacion-digital",
       "commentCount": 3,
-      "frontmatterWordCount": 25,
-      "actualWordCount": 22,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/el-exito-en-la-empresa.md",
-      "title": "El éxito en la empresa",
-      "date": "2011-01-18",
-      "slug": "el-exito-en-la-empresa",
-      "category": "tecnologia-empresarial",
-      "commentCount": 0,
-      "frontmatterWordCount": 21,
-      "actualWordCount": 22,
+      "frontmatterWordCount": 17,
+      "actualWordCount": 23,
       "classification": "keep_noindex"
     },
     {
@@ -1322,7 +1301,7 @@
       "category": "desarrollo-software",
       "commentCount": 0,
       "frontmatterWordCount": 22,
-      "actualWordCount": 21,
+      "actualWordCount": 22,
       "classification": "keep_noindex"
     },
     {
@@ -1333,7 +1312,18 @@
       "category": "desarrollo-software",
       "commentCount": 0,
       "frontmatterWordCount": 24,
-      "actualWordCount": 21,
+      "actualWordCount": 22,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/que-sistema-operativo-instalo-en-mi-ordenador.md",
+      "title": "¿Qué sistema operativo instalo en mi ordenador?",
+      "date": "2008-11-10",
+      "slug": "¿que-sistema-operativo-instalo-en-mi-ordenador",
+      "category": "inteligencia-artificial",
+      "commentCount": 2,
+      "frontmatterWordCount": 16,
+      "actualWordCount": 22,
       "classification": "keep_noindex"
     },
     {
@@ -1345,6 +1335,17 @@
       "commentCount": 3,
       "frontmatterWordCount": 22,
       "actualWordCount": 21,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/grandes-frases-de-programadores-5.md",
+      "title": "Grandes Frases de Programadores 5",
+      "date": "2010-10-26",
+      "slug": "grandes-frases-de-programadores-5",
+      "category": "desarrollo-software",
+      "commentCount": 1,
+      "frontmatterWordCount": 20,
+      "actualWordCount": 20,
       "classification": "keep_noindex"
     },
     {
@@ -1370,13 +1371,35 @@
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/blackberry-vs-apple.md",
-      "title": "Blackberry vs Apple",
-      "date": "2009-03-23",
-      "slug": "blackberry-vs-apple",
+      "file": "blog-posts/evolucion-de-internet.md",
+      "title": "Evolución de Internet",
+      "date": "2009-08-24",
+      "slug": "evolucion-de-internet",
       "category": "innovacion-digital",
-      "commentCount": 4,
-      "frontmatterWordCount": 22,
+      "commentCount": 0,
+      "frontmatterWordCount": 15,
+      "actualWordCount": 19,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/grandes-frases-de-programadores-7-2.md",
+      "title": "Grandes Frases de Programadores 9",
+      "date": "2011-01-05",
+      "slug": "grandes-frases-de-programadores-7-2",
+      "category": "desarrollo-software",
+      "commentCount": 1,
+      "frontmatterWordCount": 19,
+      "actualWordCount": 19,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/introduccion-al-saas.md",
+      "title": "Introducción al SaaS",
+      "date": "2009-03-21",
+      "slug": "introduccion-al-saas",
+      "category": "desarrollo-software",
+      "commentCount": 0,
+      "frontmatterWordCount": 15,
       "actualWordCount": 19,
       "classification": "keep_noindex"
     },
@@ -1403,35 +1426,46 @@
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/grandes-frases-de-programadores-5.md",
-      "title": "Grandes Frases de Programadores 5",
-      "date": "2010-10-26",
-      "slug": "grandes-frases-de-programadores-5",
-      "category": "desarrollo-software",
+      "file": "blog-posts/wii-vs-playstation-3.md",
+      "title": "Wii vs Playstation 3",
+      "date": "2007-05-25",
+      "slug": "wii-vs-playstation-3",
+      "category": "productividad-herramientas",
       "commentCount": 1,
-      "frontmatterWordCount": 20,
+      "frontmatterWordCount": 15,
+      "actualWordCount": 19,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/grandes-frases-de-programadores-6.md",
+      "title": "Grandes Frases de Programadores 6",
+      "date": "2010-11-03",
+      "slug": "grandes-frases-de-programadores-6",
+      "category": "desarrollo-software",
+      "commentCount": 0,
+      "frontmatterWordCount": 18,
       "actualWordCount": 18,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/eres-un-emprendedor.md",
-      "title": "¿Qué es un emprendedor?",
-      "date": "2009-05-24",
-      "slug": "¿eres-un-emprendedor",
+      "file": "blog-posts/historia-youtube.md",
+      "title": "Historia de YouTube",
+      "date": "2008-01-11",
+      "slug": "historia-youtube",
       "category": "innovacion-digital",
-      "commentCount": 3,
-      "frontmatterWordCount": 17,
-      "actualWordCount": 17,
+      "commentCount": 2,
+      "frontmatterWordCount": 11,
+      "actualWordCount": 16,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/que-sistema-operativo-instalo-en-mi-ordenador.md",
-      "title": "¿Qué sistema operativo instalo en mi ordenador?",
-      "date": "2008-11-10",
-      "slug": "¿que-sistema-operativo-instalo-en-mi-ordenador",
-      "category": "inteligencia-artificial",
+      "file": "blog-posts/que-es-saas-paas.md",
+      "title": "¿Qué es SaaS & PaaS?",
+      "date": "2011-03-16",
+      "slug": "¿que-es-saas-paas",
+      "category": "tecnologia-empresarial",
       "commentCount": 2,
-      "frontmatterWordCount": 16,
+      "frontmatterWordCount": 12,
       "actualWordCount": 16,
       "classification": "keep_noindex"
     },
@@ -1447,47 +1481,25 @@
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/grandes-frases-de-programadores-6.md",
-      "title": "Grandes Frases de Programadores 6",
-      "date": "2010-11-03",
-      "slug": "grandes-frases-de-programadores-6",
-      "category": "desarrollo-software",
-      "commentCount": 0,
-      "frontmatterWordCount": 18,
+      "file": "blog-posts/que-es-un-dominio-tel.md",
+      "title": "¿Qué es un dominio .tel?",
+      "date": "2009-05-08",
+      "slug": "¿que-es-un-dominio-tel",
+      "category": "innovacion-digital",
+      "commentCount": 3,
+      "frontmatterWordCount": 12,
       "actualWordCount": 15,
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/evolucion-de-internet.md",
-      "title": "Evolución de Internet",
-      "date": "2009-08-24",
-      "slug": "evolucion-de-internet",
-      "category": "innovacion-digital",
-      "commentCount": 0,
-      "frontmatterWordCount": 15,
-      "actualWordCount": 14,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/introduccion-al-saas.md",
-      "title": "Introducción al SaaS",
-      "date": "2009-03-21",
-      "slug": "introduccion-al-saas",
+      "file": "blog-posts/sabias-que-4-0.md",
+      "title": "Sabías que.. (4.0)",
+      "date": "2009-10-12",
+      "slug": "sabias-que-4-0",
       "category": "desarrollo-software",
-      "commentCount": 0,
-      "frontmatterWordCount": 15,
-      "actualWordCount": 14,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/wii-vs-playstation-3.md",
-      "title": "Wii vs Playstation 3",
-      "date": "2007-05-25",
-      "slug": "wii-vs-playstation-3",
-      "category": "productividad-herramientas",
-      "commentCount": 1,
-      "frontmatterWordCount": 15,
-      "actualWordCount": 14,
+      "commentCount": 2,
+      "frontmatterWordCount": 12,
+      "actualWordCount": 15,
       "classification": "keep_noindex"
     },
     {
@@ -1513,146 +1525,14 @@
       "classification": "keep_noindex"
     },
     {
-      "file": "blog-posts/opinion-de-un-experto-en-bbdd-informix-ag-sistems-oracle-sobre-el-paradigma-velneo.md",
-      "title": "Opinión de un experto en BBDD (Informix, Software AG, Oracle) sobre el paradigma Velneo",
-      "date": "2014-03-20",
-      "slug": "opinion-de-un-experto-en-bbdd-informix-ag-sistems-oracle-sobre-el-paradigma-velneo",
-      "category": "desarrollo-software",
-      "commentCount": 1,
-      "frontmatterWordCount": 10,
-      "actualWordCount": 11,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/que-es-saas-paas.md",
-      "title": "¿Qué es SaaS &amp; PaaS?",
-      "date": "2011-03-16",
-      "slug": "¿que-es-saas-paas",
-      "category": "tecnologia-empresarial",
-      "commentCount": 2,
-      "frontmatterWordCount": 12,
-      "actualWordCount": 11,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/historia-youtube.md",
-      "title": "Historia de YouTube",
-      "date": "2008-01-11",
-      "slug": "historia-youtube",
-      "category": "innovacion-digital",
-      "commentCount": 2,
-      "frontmatterWordCount": 11,
-      "actualWordCount": 10,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/que-es-un-dominio-tel.md",
-      "title": "¿Qué es un dominio .tel?",
-      "date": "2009-05-08",
-      "slug": "¿que-es-un-dominio-tel",
-      "category": "innovacion-digital",
-      "commentCount": 3,
-      "frontmatterWordCount": 12,
-      "actualWordCount": 10,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/sabias-que-4-0.md",
-      "title": "Sabías que.. (4.0)",
-      "date": "2009-10-12",
-      "slug": "sabias-que-4-0",
-      "category": "desarrollo-software",
-      "commentCount": 2,
-      "frontmatterWordCount": 12,
-      "actualWordCount": 10,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/hacer-sofware-sencillo-es-muy-dificil.md",
-      "title": "Hacer software sencillo es muy difícil",
-      "date": "2013-02-07",
-      "slug": "hacer-sofware-sencillo-es-muy-dificil",
-      "category": "productividad-herramientas",
-      "commentCount": 0,
-      "frontmatterWordCount": 0,
-      "actualWordCount": 7,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/velneo-conference-2006.md",
-      "title": "Velneo Conference 2006",
-      "date": "2007-03-23",
-      "slug": "velneo-conference-2006",
-      "category": "desarrollo-software",
-      "commentCount": 0,
-      "frontmatterWordCount": 6,
-      "actualWordCount": 5,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/blog-cerrado-por-vacaciones.md",
-      "title": "Blog cerrado por vacaciones",
-      "date": "2007-08-08",
-      "slug": "blog-cerrado-por-vacaciones",
-      "category": "desarrollo-software",
-      "commentCount": 0,
-      "frontmatterWordCount": 0,
-      "actualWordCount": 4,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/cual-es-la-evolucion-de-un-usuario-con-un-nuevo-software.md",
-      "title": "¿Cuál es la evolución de un usuario con un nuevo Software?",
-      "date": "2007-09-24",
-      "slug": "¿cual-es-la-evolucion-de-un-usuario-con-un-nuevo-software",
-      "category": "desarrollo-software",
-      "commentCount": 3,
-      "frontmatterWordCount": 0,
-      "actualWordCount": 0,
-      "classification": "keep_noindex"
-    },
-    {
       "file": "blog-posts/google-se-va-al-desktop.md",
       "title": "Google se va al desktop",
-      "date": "2008-03-31",
+      "date": "2008-04-01",
       "slug": "google-se-va-al-desktop",
       "category": "tecnologia-empresarial",
       "commentCount": 2,
       "frontmatterWordCount": 1,
-      "actualWordCount": 0,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/grandes-frases-de-programadores-7-2.md",
-      "title": "Grandes Frases de Programadores 9",
-      "date": "2011-01-05",
-      "slug": "grandes-frases-de-programadores-7-2",
-      "category": "desarrollo-software",
-      "commentCount": 1,
-      "frontmatterWordCount": 19,
-      "actualWordCount": 0,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/que-es-un-briefing.md",
-      "title": "¿Qué es un briefing?",
-      "date": "2009-11-17",
-      "slug": "¿que-es-un-briefing",
-      "category": "tecnologia-empresarial",
-      "commentCount": 0,
-      "frontmatterWordCount": 1,
-      "actualWordCount": 0,
-      "classification": "keep_noindex"
-    },
-    {
-      "file": "blog-posts/sabias-que.md",
-      "title": "¿Sabías que..?",
-      "date": "2009-06-21",
-      "slug": "¿sabias-que",
-      "category": "innovacion-digital",
-      "commentCount": 4,
-      "frontmatterWordCount": 1,
-      "actualWordCount": 0,
+      "actualWordCount": 10,
       "classification": "keep_noindex"
     },
     {
@@ -1663,7 +1543,51 @@
       "category": "innovacion-digital",
       "commentCount": 4,
       "frontmatterWordCount": 0,
-      "actualWordCount": 0,
+      "actualWordCount": 10,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/velneo-conference-2006.md",
+      "title": "Velneo Conference 2006",
+      "date": "2007-03-23",
+      "slug": "velneo-conference-2006",
+      "category": "desarrollo-software",
+      "commentCount": 0,
+      "frontmatterWordCount": 6,
+      "actualWordCount": 10,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/blog-cerrado-por-vacaciones.md",
+      "title": "Blog cerrado por vacaciones",
+      "date": "2007-08-08",
+      "slug": "blog-cerrado-por-vacaciones",
+      "category": "desarrollo-software",
+      "commentCount": 0,
+      "frontmatterWordCount": 0,
+      "actualWordCount": 7,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/hacer-sofware-sencillo-es-muy-dificil.md",
+      "title": "Hacer software sencillo es muy difícil",
+      "date": "2013-02-07",
+      "slug": "hacer-sofware-sencillo-es-muy-dificil",
+      "category": "productividad-herramientas",
+      "commentCount": 0,
+      "frontmatterWordCount": 0,
+      "actualWordCount": 6,
+      "classification": "keep_noindex"
+    },
+    {
+      "file": "blog-posts/sabias-que.md",
+      "title": "¿Sabías que..?",
+      "date": "2009-06-21",
+      "slug": "¿sabias-que",
+      "category": "innovacion-digital",
+      "commentCount": 4,
+      "frontmatterWordCount": 1,
+      "actualWordCount": 5,
       "classification": "keep_noindex"
     },
     {
@@ -1674,7 +1598,7 @@
       "category": "innovacion-digital",
       "commentCount": 4,
       "frontmatterWordCount": 1,
-      "actualWordCount": 0,
+      "actualWordCount": 5,
       "classification": "keep_noindex"
     }
   ]

@@ -114,6 +114,8 @@ A partir de los criterios analizados en este informe, la elección de una plataf
 -   **Las integraciones necesarias:** La conexión con CRM, ERP y sistemas de backend (Salesforce, Dynamics, Zendesk) es crucial. Conviene verificar si existe integración nativa o a través de APIs.
 -   **El despliegue multicanal:** Comprobar que la plataforma opera en los canales requeridos (voz telefónica, web, apps, mensajería como WhatsApp o Facebook Messenger).
 
+Esta guía compara **qué plataforma elegir**. Si lo que necesitas es lo contrario —[cómo montarlo: rutas, arquitectura y coste](/blog/montar-agente-de-voz-ia-que-atienda-llamadas/)—, ahí está el detalle de las piezas (numeración, SIP, modelo, integración con CRM y ERP) y del coste real por minuto.
+
 Un factor que ha ganado peso desde 2026 es la **arquitectura de voz subyacente**: las plataformas que encadenan transcripción, modelo de texto y síntesis acumulan latencia en cada salto, mientras que los [modelos de voz a voz (S2S)](/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/) procesan el audio de extremo a extremo y permiten interrupciones naturales. Si estás evaluando una adopción más amplia, la [guía de agentes de IA para empresas](/guia/guia-agentes-ia-empresas/) sitúa la voz dentro del panorama completo.
 
 ## Preguntas frecuentes

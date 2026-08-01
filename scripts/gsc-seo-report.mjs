@@ -14,6 +14,7 @@ import {
 const ROOT = process.cwd();
 const DATA_DIR = path.join(ROOT, 'data');
 const DEFAULT_LOOKBACK_DAYS = 28;
+const GSC_LATENCY_DAYS = 3;
 const DEFAULT_PAGE_LIMIT = 250;
 const DEFAULT_QUERY_LIMIT = 250;
 const DEFAULT_PAGE_QUERY_LIMIT = 500;
@@ -55,7 +56,17 @@ function toFixed(value, digits = 1) {
   return Number.isFinite(value) ? value.toFixed(digits) : '0.0';
 }
 
-function summarizeRows(rows) {
+// Desde junio de 2026 GSC devuelve los enlaces de fragmento (#seccion) como URLs
+// independientes en la dimensión "page". Sumar esas filas duplica las impresiones
+// de la página que las contiene: en julio inflaba el total un 17% (4.209
+// impresiones fantasma con 0 clics), lo que hundía el CTR y falseaba la posición
+// media. Se excluyen del resumen; siguen apareciendo en el detalle por página.
+function isAnchorRow(row) {
+  return String(row?.keys?.[0] ?? '').includes('#');
+}
+
+function summarizeRows(allRows) {
+  const rows = allRows.filter((row) => !isAnchorRow(row));
   const totalClicks = rows.reduce((sum, row) => sum + (row.clicks ?? 0), 0);
   const totalImpressions = rows.reduce(
     (sum, row) => sum + (row.impressions ?? 0),
@@ -112,8 +123,11 @@ async function main() {
     DEFAULT_PAGE_QUERY_LIMIT,
   );
 
-  const yesterday = shiftDays(new Date(), -1);
-  const endDate = args.endDate ?? process.env.GSC_END_DATE ?? dateToIso(yesterday);
+  // GSC consolida los datos con 2-3 días de retraso. Si la ventana termina ayer,
+  // los últimos días vienen vacíos y el informe compara ventanas de 26-27 días
+  // contra otras de 28, lo que produce deltas falsos entre snapshots consecutivos.
+  const lastSettledDay = shiftDays(new Date(), -GSC_LATENCY_DAYS);
+  const endDate = args.endDate ?? process.env.GSC_END_DATE ?? dateToIso(lastSettledDay);
   const startDate =
     args.startDate ??
     process.env.GSC_START_DATE ??

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T23:11:01.818Z",
+  "generatedAt": "2026-06-01T09:11:11.235Z",
   "siteUrl": "sc-domain:crearsoftware.com",
   "requestedSiteUrl": "sc-domain:crearsoftware.com",
   "authMode": "OAuth refresh token",
   "usedFallbackProperty": false,
   "period": {
-    "startDate": "2026-05-03",
-    "endDate": "2026-05-30",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-31",
     "lookbackDays": 28
   },
   "siteIsAccessible": true,
@@ -31,16 +31,16 @@
   ],
   "summary": {
     "pages": {
-      "totalClicks": 132,
-      "totalImpressions": 20609,
-      "avgCtr": 0.006404968702993837,
-      "avgPosition": 13.797175991071862
+      "totalClicks": 136,
+      "totalImpressions": 20657,
+      "avgCtr": 0.006583724645398654,
+      "avgPosition": 13.819625308612093
     },
     "queries": {
       "totalClicks": 19,
-      "totalImpressions": 4355,
-      "avgCtr": 0.004362801377726751,
-      "avgPosition": 19.441102181400687
+      "totalImpressions": 4393,
+      "avgCtr": 0.004325062599590257,
+      "avgPosition": 19.46733439562941
     }
   },
   "topPages": [
@@ -48,55 +48,55 @@
       "keys": [
         "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/"
       ],
-      "clicks": 36,
-      "impressions": 10421,
-      "ctr": 0.0034545629018328376,
-      "position": 7.539007772766529
+      "clicks": 37,
+      "impressions": 10476,
+      "ctr": 0.003531882397861779,
+      "position": 7.518613974799542
     },
     {
       "keys": [
         "https://crearsoftware.com/2009/02/14/percepcion-y-cultura/"
       ],
       "clicks": 29,
-      "impressions": 573,
-      "ctr": 0.0506108202443281,
-      "position": 4.467713787085515
+      "impressions": 571,
+      "ctr": 0.050788091068301226,
+      "position": 4.504378283712784
     },
     {
       "keys": [
-        "https://crearsoftware.com/2007/10/27/cuales-son-las-orientaciones-culturales-segun-harrison1972/"
+        "https://crearsoftware.com/2015/05/18/historia-del-crm/"
       ],
       "clicks": 6,
-      "impressions": 154,
-      "ctr": 0.03896103896103896,
-      "position": 9.577922077922079
+      "impressions": 280,
+      "ctr": 0.02142857142857143,
+      "position": 8.260714285714286
     },
     {
       "keys": [
         "https://crearsoftware.com/2007/03/19/factores-activos-y-pasivos-de-una-empresa/"
       ],
       "clicks": 4,
-      "impressions": 161,
-      "ctr": 0.024844720496894408,
-      "position": 4.279503105590062
+      "impressions": 157,
+      "ctr": 0.025477707006369428,
+      "position": 4.1847133757961785
     },
     {
       "keys": [
         "https://crearsoftware.com/2010/09/13/%C2%BFque-es-el-nokia-888/"
       ],
       "clicks": 4,
-      "impressions": 99,
-      "ctr": 0.04040404040404041,
-      "position": 7.040404040404041
+      "impressions": 101,
+      "ctr": 0.039603960396039604,
+      "position": 7.099009900990099
     },
     {
       "keys": [
-        "https://crearsoftware.com/2015/05/18/historia-del-crm/"
+        "https://crearsoftware.com/2007/10/27/cuales-son-las-orientaciones-culturales-segun-harrison1972/"
       ],
       "clicks": 3,
-      "impressions": 285,
-      "ctr": 0.010526315789473684,
-      "position": 8.43859649122807
+      "impressions": 143,
+      "ctr": 0.02097902097902098,
+      "position": 9.881118881118882
     },
     {
       "keys": [
@@ -105,16 +105,16 @@
       "clicks": 3,
       "impressions": 231,
       "ctr": 0.012987012987012988,
-      "position": 7.341991341991342
+      "position": 7.220779220779221
     },
     {
       "keys": [
         "https://crearsoftware.com/2025/01/12/lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial/"
       ],
       "clicks": 3,
-      "impressions": 114,
-      "ctr": 0.02631578947368421,
-      "position": 7.368421052631579
+      "impressions": 123,
+      "ctr": 0.024390243902439025,
+      "position": 7.463414634146342
     },
     {
       "keys": [
@@ -123,16 +123,16 @@
       "clicks": 2,
       "impressions": 45,
       "ctr": 0.044444444444444446,
-      "position": 4.488888888888889
+      "position": 4.5777777777777775
     },
     {
       "keys": [
         "https://crearsoftware.com/2007/10/14/%C2%BFcuales-son-las-diferentes-orientaciones-hacia-el-mercado-de-las-empresas/"
       ],
       "clicks": 2,
-      "impressions": 104,
-      "ctr": 0.019230769230769232,
-      "position": 15.365384615384615
+      "impressions": 101,
+      "ctr": 0.019801980198019802,
+      "position": 15.94059405940594
     }
   ],
   "topQueries": [
@@ -150,27 +150,27 @@
         "input y output"
       ],
       "clicks": 3,
-      "impressions": 1356,
-      "ctr": 0.0022123893805309734,
-      "position": 8.168141592920353
+      "impressions": 1395,
+      "ctr": 0.002150537634408602,
+      "position": 8.197849462365593
     },
     {
       "keys": [
         "nokia 888"
       ],
       "clicks": 3,
-      "impressions": 86,
-      "ctr": 0.03488372093023256,
-      "position": 6.883720930232558
+      "impressions": 88,
+      "ctr": 0.03409090909090909,
+      "position": 6.954545454545454
     },
     {
       "keys": [
         "inputs y outputs ejemplos"
       ],
       "clicks": 2,
-      "impressions": 28,
-      "ctr": 0.07142857142857142,
-      "position": 1.6785714285714286
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 1.6666666666666665
     },
     {
       "keys": [
@@ -186,18 +186,18 @@
         "concepto de producto"
       ],
       "clicks": 1,
-      "impressions": 9,
-      "ctr": 0.1111111111111111,
-      "position": 23.444444444444443
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 23.1
     },
     {
       "keys": [
         "crear software"
       ],
       "clicks": 1,
-      "impressions": 140,
-      "ctr": 0.007142857142857143,
-      "position": 9.314285714285715
+      "impressions": 138,
+      "ctr": 0.007246376811594203,
+      "position": 9.891304347826088
     },
     {
       "keys": [
@@ -213,9 +213,9 @@
         "inputs y outputs"
       ],
       "clicks": 1,
-      "impressions": 716,
-      "ctr": 0.0013966480446927375,
-      "position": 6.150837988826815
+      "impressions": 706,
+      "ctr": 0.00141643059490085,
+      "position": 6.087818696883852
     },
     {
       "keys": [
@@ -232,55 +232,55 @@
       "keys": [
         "https://crearsoftware.com/2007/06/23/ejemplos-de-input-output-y-actividades/"
       ],
-      "clicks": 36,
-      "impressions": 10421,
-      "ctr": 0.0034545629018328376,
-      "position": 7.539007772766529
+      "clicks": 37,
+      "impressions": 10476,
+      "ctr": 0.003531882397861779,
+      "position": 7.518613974799542
     },
     {
       "keys": [
         "https://crearsoftware.com/2008/03/12/%C2%BFque-es-un-producto/"
       ],
       "clicks": 1,
-      "impressions": 696,
-      "ctr": 0.0014367816091954023,
-      "position": 35.39080459770115
+      "impressions": 703,
+      "ctr": 0.001422475106685633,
+      "position": 35.58321479374111
     },
     {
       "keys": [
         "https://crearsoftware.com/2008/12/07/cultura-oriental-vs-cultura-occidental/"
       ],
       "clicks": 1,
-      "impressions": 580,
-      "ctr": 0.0017241379310344827,
-      "position": 11.839655172413794
+      "impressions": 570,
+      "ctr": 0.0017543859649122807,
+      "position": 11.933333333333334
     },
     {
       "keys": [
         "https://crearsoftware.com/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/"
       ],
       "clicks": 2,
-      "impressions": 427,
-      "ctr": 0.00468384074941452,
-      "position": 13.086651053864168
+      "impressions": 420,
+      "ctr": 0.004761904761904762,
+      "position": 13.397619047619047
     },
     {
       "keys": [
         "https://crearsoftware.com/2012/04/04/como-crear-programas/"
       ],
       "clicks": 1,
-      "impressions": 325,
-      "ctr": 0.003076923076923077,
-      "position": 26.25846153846154
+      "impressions": 334,
+      "ctr": 0.0029940119760479044,
+      "position": 26.230538922155688
     },
     {
       "keys": [
         "https://crearsoftware.com/2015/05/18/historia-del-crm/"
       ],
-      "clicks": 3,
-      "impressions": 285,
-      "ctr": 0.010526315789473684,
-      "position": 8.43859649122807
+      "clicks": 6,
+      "impressions": 280,
+      "ctr": 0.02142857142857143,
+      "position": 8.260714285714286
     },
     {
       "keys": [
@@ -289,7 +289,7 @@
       "clicks": 0,
       "impressions": 237,
       "ctr": 0,
-      "position": 74.61181434599156
+      "position": 74.41772151898734
     },
     {
       "keys": [
@@ -298,43 +298,43 @@
       "clicks": 3,
       "impressions": 231,
       "ctr": 0.012987012987012988,
-      "position": 7.341991341991342
+      "position": 7.220779220779221
     },
     {
       "keys": [
         "https://crearsoftware.com/2009/03/20/que-es-pmm/"
       ],
       "clicks": 0,
-      "impressions": 224,
+      "impressions": 225,
       "ctr": 0,
-      "position": 9.3125
+      "position": 9.302222222222222
     },
     {
       "keys": [
         "https://crearsoftware.com/2016/05/23/como-vender-software/"
       ],
       "clicks": 1,
-      "impressions": 214,
-      "ctr": 0.004672897196261682,
-      "position": 55.28971962616822
+      "impressions": 212,
+      "ctr": 0.0047169811320754715,
+      "position": 55.06603773584906
     },
     {
       "keys": [
         "https://crearsoftware.com/2008/05/18/%C2%BFcual-es-la-historia-del-corte-ingles/"
       ],
       "clicks": 1,
-      "impressions": 208,
-      "ctr": 0.004807692307692308,
-      "position": 17.326923076923077
+      "impressions": 203,
+      "ctr": 0.0049261083743842365,
+      "position": 17
     },
     {
       "keys": [
         "https://crearsoftware.com/2007/06/23/las-tiendas-outlet/"
       ],
       "clicks": 0,
-      "impressions": 192,
+      "impressions": 195,
       "ctr": 0,
-      "position": 17.994791666666668
+      "position": 17.861538461538462
     }
   ],
   "strikingDistanceQueries": [
@@ -344,9 +344,9 @@
         "input y output"
       ],
       "clicks": 3,
-      "impressions": 1356,
-      "ctr": 0.0022123893805309734,
-      "position": 8.168141592920353
+      "impressions": 1395,
+      "ctr": 0.002150537634408602,
+      "position": 8.197849462365593
     },
     {
       "keys": [
@@ -354,9 +354,9 @@
         "inputs"
       ],
       "clicks": 0,
-      "impressions": 906,
+      "impressions": 919,
       "ctr": 0,
-      "position": 8.465783664459162
+      "position": 8.517954298150162
     },
     {
       "keys": [
@@ -364,9 +364,9 @@
         "inputs y outputs"
       ],
       "clicks": 1,
-      "impressions": 716,
-      "ctr": 0.0013966480446927375,
-      "position": 6.150837988826815
+      "impressions": 706,
+      "ctr": 0.00141643059490085,
+      "position": 6.087818696883852
     },
     {
       "keys": [
@@ -374,9 +374,9 @@
         "que es input y output"
       ],
       "clicks": 0,
-      "impressions": 570,
+      "impressions": 564,
       "ctr": 0,
-      "position": 8.742105263157896
+      "position": 8.71631205673759
     },
     {
       "keys": [
@@ -384,9 +384,9 @@
         "outputs"
       ],
       "clicks": 0,
-      "impressions": 283,
+      "impressions": 276,
       "ctr": 0,
-      "position": 11.151943462897526
+      "position": 11.130434782608695
     },
     {
       "keys": [
@@ -394,9 +394,9 @@
         "input output"
       ],
       "clicks": 0,
-      "impressions": 204,
+      "impressions": 206,
       "ctr": 0,
-      "position": 9.92156862745098
+      "position": 9.902912621359222
     },
     {
       "keys": [
@@ -404,9 +404,9 @@
         "que significa input y output"
       ],
       "clicks": 0,
-      "impressions": 114,
+      "impressions": 121,
       "ctr": 0,
-      "position": 9.447368421052632
+      "position": 9.462809917355372
     },
     {
       "keys": [
@@ -414,9 +414,19 @@
         "crear software"
       ],
       "clicks": 1,
-      "impressions": 112,
-      "ctr": 0.008928571428571428,
-      "position": 5.267857142857143
+      "impressions": 105,
+      "ctr": 0.009523809523809525,
+      "position": 5.3428571428571425
+    },
+    {
+      "keys": [
+        "https://crearsoftware.com/2010/09/13/%C2%BFque-es-el-nokia-888/",
+        "nokia 888"
+      ],
+      "clicks": 3,
+      "impressions": 88,
+      "ctr": 0.03409090909090909,
+      "position": 6.954545454545454
     },
     {
       "keys": [
@@ -426,17 +436,7 @@
       "clicks": 0,
       "impressions": 87,
       "ctr": 0,
-      "position": 9.298850574712644
-    },
-    {
-      "keys": [
-        "https://crearsoftware.com/2010/09/13/%C2%BFque-es-el-nokia-888/",
-        "nokia 888"
-      ],
-      "clicks": 3,
-      "impressions": 86,
-      "ctr": 0.03488372093023256,
-      "position": 6.883720930232558
+      "position": 9.264367816091953
     },
     {
       "keys": [
@@ -444,9 +444,9 @@
         "que son inputs y outputs"
       ],
       "clicks": 0,
-      "impressions": 86,
+      "impressions": 85,
       "ctr": 0,
-      "position": 6.104651162790698
+      "position": 6.105882352941176
     },
     {
       "keys": [
@@ -454,9 +454,9 @@
         "estrategia funcional"
       ],
       "clicks": 0,
-      "impressions": 82,
+      "impressions": 84,
       "ctr": 0,
-      "position": 8.878048780487806
+      "position": 8.845238095238095
     },
     {
       "keys": [
@@ -464,9 +464,9 @@
         "que son los inputs"
       ],
       "clicks": 0,
-      "impressions": 81,
+      "impressions": 82,
       "ctr": 0,
-      "position": 10.962962962962964
+      "position": 10.926829268292684
     },
     {
       "keys": [
@@ -474,9 +474,9 @@
         "que es output e input"
       ],
       "clicks": 0,
-      "impressions": 80,
+      "impressions": 79,
       "ctr": 0,
-      "position": 9.2875
+      "position": 9.316455696202532
     },
     {
       "keys": [
@@ -484,9 +484,9 @@
         "que es inputs y outputs"
       ],
       "clicks": 0,
-      "impressions": 79,
+      "impressions": 78,
       "ctr": 0,
-      "position": 7.3924050632911396
+      "position": 7.435897435897436
     }
   ]
 }

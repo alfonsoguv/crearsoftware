@@ -125,6 +125,8 @@ image: "/wp-content/uploads/2007/06/alambrada.jpg"
 
 ## 6\. IA para SDR (Sales Development Representative)
 
+Si lo que buscas es llevar este proceso a un agente automatizado, hemos detallado aparte [cómo montar un agente de voz con IA que atienda las llamadas](/blog/montar-agente-de-voz-ia-que-atienda-llamadas/): rutas, arquitectura y coste.
+
 -   **Inputs:**
     -   Bases de datos de posibles clientes y prospectos (nombres, correos electrónicos, teléfonos).
     -   Información histórica de ventas y comportamiento de los clientes.

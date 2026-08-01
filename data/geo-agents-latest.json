@@ -1,9 +1,24 @@
 {
   "ok": true,
   "days": 28,
-  "generatedAt": "2026-08-01T15:52:12.301Z",
-  "totalHits": 0,
-  "totals": {},
-  "daily": {},
-  "topPaths": []
+  "generatedAt": "2026-08-01T15:53:33.971Z",
+  "totalHits": 2,
+  "totals": {
+    "Bingbot": 2
+  },
+  "daily": {
+    "2026-08-01": {
+      "Bingbot": 2
+    }
+  },
+  "topPaths": [
+    {
+      "path": "/",
+      "hits": 1
+    },
+    {
+      "path": "/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/",
+      "hits": 1
+    }
+  ]
 }
