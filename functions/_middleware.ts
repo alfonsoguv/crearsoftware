@@ -78,8 +78,51 @@ async function recordHit(kv: KVNamespace, agent: string, pathname: string) {
   await kv.put(key, JSON.stringify(entry), { expirationTtl: TTL_SECONDS });
 }
 
+// 218 posts heredan de WordPress un slug que empieza por "¿" (%C2%BF). Esa forma
+// es la canónica y responde 200, pero los rastreadores piden también la variante
+// sin el signo y se llevan un 404: en los logs de Cloudflare se ve a Googlebot
+// haciéndolo. Resolverlo con reglas en _redirects no sirve — Cloudflare Pages
+// deja de aplicarlas pasadas ~100 y aquí harían falta 226 — así que se hace aquí,
+// solo cuando la respuesta ya es 404 y por tanto no hay nada que perder.
+async function redireccionAVarianteConSigno(
+  context: Parameters<PagesFunction<Env>>[0],
+  url: URL,
+): Promise<Response | null> {
+  const segments = url.pathname.replace(/\/$/, '').split('/');
+  const last = segments.pop();
+  if (!last) return null;
+
+  const decoded = decodeURIComponent(last);
+  if (decoded.startsWith('¿')) return null;
+
+  // El slug original puede ser "¿algo" o "¿-algo".
+  for (const candidato of [`¿${decoded}`, `¿-${decoded}`]) {
+    const destino = new URL(url.toString());
+    destino.pathname = `${[...segments, encodeURIComponent(candidato)].join('/')}/`;
+
+    const prueba = await context.next(new Request(destino.toString(), context.request));
+    if (prueba.status === 200) {
+      return Response.redirect(destino.toString(), 301);
+    }
+  }
+
+  return null;
+}
+
 export const onRequest: PagesFunction<Env> = async (context) => {
   const response = await context.next();
+
+  if (response.status === 404) {
+    try {
+      const url = new URL(context.request.url);
+      if (url.pathname.endsWith('/') && !url.pathname.includes('.')) {
+        const redireccion = await redireccionAVarianteConSigno(context, url);
+        if (redireccion) return redireccion;
+      }
+    } catch {
+      // Si falla, se devuelve el 404 original.
+    }
+  }
 
   try {
     const kv = context.env.CS_KV;
