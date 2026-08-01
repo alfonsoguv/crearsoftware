@@ -1,6 +1,6 @@
 # Trafico real en el borde (Cloudflare)
 
-Generado: 2026-08-01T18:45:37.424Z
+Generado: 2026-08-01T23:55:54.541Z
 Ventana: 2026-07-25 -> 2026-07-31 (7 dias)
 Peticiones totales: 68408
 

@@ -1,23 +1,89 @@
 {
   "ok": true,
   "days": 28,
-  "generatedAt": "2026-08-01T15:53:33.971Z",
-  "totalHits": 2,
+  "generatedAt": "2026-08-01T18:34:07.478Z",
+  "totalHits": 29,
   "totals": {
-    "Bingbot": 2
+    "Bingbot": 5,
+    "ChatGPT-User": 1,
+    "ClaudeBot": 3,
+    "GPTBot": 4,
+    "OAI-SearchBot": 1,
+    "PerplexityBot": 1,
+    "Amazonbot": 2,
+    "Applebot-Extended": 1,
+    "CCBot": 1,
+    "Claude-User": 2,
+    "Google-Extended": 1,
+    "Googlebot": 5,
+    "Meta-ExternalAgent": 1,
+    "Perplexity-User": 1
   },
   "daily": {
     "2026-08-01": {
-      "Bingbot": 2
+      "Bingbot": 5,
+      "ChatGPT-User": 1,
+      "ClaudeBot": 3,
+      "GPTBot": 4,
+      "OAI-SearchBot": 1,
+      "PerplexityBot": 1,
+      "Amazonbot": 2,
+      "Applebot-Extended": 1,
+      "CCBot": 1,
+      "Claude-User": 2,
+      "Google-Extended": 1,
+      "Googlebot": 5,
+      "Meta-ExternalAgent": 1,
+      "Perplexity-User": 1
     }
   },
   "topPaths": [
     {
       "path": "/",
-      "hits": 1
+      "hits": 8
+    },
+    {
+      "path": "/2007/06/23/ejemplos-de-input-output-y-actividades/",
+      "hits": 7
+    },
+    {
+      "path": "/llms.txt",
+      "hits": 3
     },
     {
       "path": "/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/",
+      "hits": 2
+    },
+    {
+      "path": "/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/",
+      "hits": 2
+    },
+    {
+      "path": "/2012/05/10/la-experiencia-de-usuario-en-software/",
+      "hits": 1
+    },
+    {
+      "path": "/llms-full.txt",
+      "hits": 1
+    },
+    {
+      "path": "/2010/12/27/%C2%BFnecesito-un-disenador-en-mi-empresa/",
+      "hits": 1
+    },
+    {
+      "path": "/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
+      "hits": 1
+    },
+    {
+      "path": "/2007/08/26/%C3%82%C2%BF-que-es-la-moda/",
+      "hits": 1
+    },
+    {
+      "path": "/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/",
+      "hits": 1
+    },
+    {
+      "path": "/2007/04/27/carta-de-bill-gates-en-favor-del-software-propietario/",
       "hits": 1
     }
   ]
