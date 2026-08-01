@@ -15,7 +15,8 @@
     "seo:gsc:analysis": "node scripts/gsc-domain-analysis.mjs",
     "seo:gsc:connect": "node scripts/gsc-connect.mjs",
     "seo:gsc:indexation": "node scripts/gsc-indexation-audit.mjs",
-    "seo:gsc:submit-sitemap": "node scripts/gsc-submit-sitemap.mjs"
+    "seo:gsc:submit-sitemap": "node scripts/gsc-submit-sitemap.mjs",
+    "geo:agents": "node scripts/geo-agents-report.mjs"
   },
   "keywords": [],
   "author": "",
