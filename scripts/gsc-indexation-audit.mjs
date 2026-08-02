@@ -30,6 +30,67 @@ function asPositiveInt(value, fallback) {
   return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
 }
 
+// Muestreo sistemático con arranque rotativo.
+//
+// Hasta el 02-ago-2026 este script inspeccionaba siempre las 25 primeras URLs
+// del sitemap, así que su "21/25 indexadas" describía esas 25 URLs y no el
+// sitio. Ahora la muestra se reparte por todo el sitemap (paso k = N/limit) y
+// el arranque avanza en cada ejecución, guardado en `gsc-indexation-cursor.json`.
+// Dos consecuencias: cada informe suelto ya es representativo del conjunto, y
+// la unión de informes sucesivos cubre el sitemap sin repetir.
+function systematicSample(urls, limit, start) {
+  const total = urls.length;
+  if (total <= limit) return urls;
+
+  const step = total / limit;
+  const offset = ((start % total) + total) % total;
+  const picked = [];
+  const seen = new Set();
+
+  for (let i = 0; i < limit; i += 1) {
+    let index = Math.floor(offset + i * step) % total;
+    // Si el redondeo colisiona, se toma la siguiente URL libre.
+    while (seen.has(index)) index = (index + 1) % total;
+    seen.add(index);
+    picked.push(urls[index]);
+  }
+
+  return picked;
+}
+
+// Intervalo de Wilson al 95%. Con n=25 sobre ~690 URLs el margen ronda los
+// ±16 puntos: publicar la proporción sin él invita a leer ruido como tendencia.
+function wilsonInterval(successes, total) {
+  if (total === 0) return [0, 0];
+  const z = 1.96;
+  const p = successes / total;
+  const denominator = 1 + (z * z) / total;
+  const center = (p + (z * z) / (2 * total)) / denominator;
+  const spread =
+    (z * Math.sqrt((p * (1 - p)) / total + (z * z) / (4 * total * total))) /
+    denominator;
+  return [
+    Math.max(0, (center - spread) * 100),
+    Math.min(100, (center + spread) * 100),
+  ];
+}
+
+const CURSOR_PATH = path.join(DATA_DIR, 'gsc-indexation-cursor.json');
+
+function readCursor() {
+  if (!existsSync(CURSOR_PATH)) return { start: 0, runs: 0, inspected: [] };
+  try {
+    const parsed = JSON.parse(readFileSync(CURSOR_PATH, 'utf8'));
+    return {
+      start: Number.isFinite(parsed.start) ? parsed.start : 0,
+      runs: Number.isFinite(parsed.runs) ? parsed.runs : 0,
+      inspected: Array.isArray(parsed.inspected) ? parsed.inspected : [],
+    };
+  } catch {
+    return { start: 0, runs: 0, inspected: [] };
+  }
+}
+
 function parseSitemapUrls(xml) {
   return [...xml.matchAll(/<loc>(.*?)<\/loc>/g)]
     .map((match) => match[1]?.trim())
@@ -138,17 +199,22 @@ async function main() {
     args.limit ?? process.env.GSC_INSPECTION_LIMIT,
     25,
   );
-  const offset = asPositiveInt(
-    args.offset ?? process.env.GSC_INSPECTION_OFFSET,
-    1,
-  ) - 1;
   const matchPattern = args.match ?? process.env.GSC_INSPECTION_MATCH ?? '';
 
   const allUrls = await loadSitemapUrls(siteUrl);
   const filteredUrls = matchPattern
     ? allUrls.filter((url) => url.includes(matchPattern))
     : allUrls;
-  const urls = filteredUrls.slice(offset, offset + limit);
+
+  const cursor = readCursor();
+  // `--offset` sigue disponible para reproducir un informe concreto; sin él, la
+  // muestra rota sola a partir del cursor guardado.
+  const explicitOffset = args.offset ?? process.env.GSC_INSPECTION_OFFSET;
+  const start = explicitOffset
+    ? asPositiveInt(explicitOffset, 1) - 1
+    : cursor.start;
+
+  const urls = systematicSample(filteredUrls, limit, start);
 
   if (!urls.length) {
     throw new Error('No sitemap URLs matched the requested filters');
@@ -156,6 +222,9 @@ async function main() {
 
   console.log(`Inspecting ${urls.length} URLs in Search Console`);
   console.log(`Property: ${resolvedSiteUrl}`);
+  console.log(
+    `Muestra sistematica sobre ${filteredUrls.length} URLs del sitemap (arranque ${start}, paso ${(filteredUrls.length / limit).toFixed(1)})`,
+  );
 
   const results = [];
   for (const [index, url] of urls.entries()) {
@@ -179,11 +248,46 @@ async function main() {
 
   const generatedAt = new Date().toISOString();
   const dateStamp = generatedAt.slice(0, 10);
+
+  const decided = indexed.length + notIndexed.length;
+  const [ciLow, ciHigh] = wilsonInterval(indexed.length, decided);
+  const indexedRate = decided ? (indexed.length / decided) * 100 : 0;
+
+  const coveredSet = new Set([...cursor.inspected, ...urls]);
+  const nextStart = (start + limit) % Math.max(1, filteredUrls.length);
+  await mkdir(DATA_DIR, { recursive: true });
+  await writeFile(
+    CURSOR_PATH,
+    `${JSON.stringify(
+      {
+        start: nextStart,
+        runs: cursor.runs + 1,
+        sitemapSize: filteredUrls.length,
+        coveredCount: coveredSet.size,
+        updatedAt: generatedAt,
+        inspected: [...coveredSet].sort(),
+      },
+      null,
+      2,
+    )}\n`,
+    'utf8',
+  );
+
   const report = {
     generatedAt,
     siteUrl: resolvedSiteUrl,
     requestedSiteUrl: siteUrl,
     usedFallbackProperty: siteResolution.usedFallback,
+    sampling: {
+      method: 'systematic-rotating',
+      sitemapSize: filteredUrls.length,
+      start,
+      nextStart,
+      run: cursor.runs + 1,
+      cumulativeCoverage: coveredSet.size,
+    },
+    indexedRatePercent: Number(indexedRate.toFixed(1)),
+    indexedRateCI95: [Number(ciLow.toFixed(1)), Number(ciHigh.toFixed(1))],
     inspectedUrlCount: urls.length,
     indexedCount: indexed.length,
     notIndexedCount: notIndexed.length,
@@ -204,6 +308,13 @@ async function main() {
     `Indexadas: ${indexed.length}`,
     `No indexadas: ${notIndexed.length}`,
     `Errores: ${errors.length}`,
+    '',
+    '## Muestreo',
+    '',
+    `- Metodo: sistematico con arranque rotativo sobre las ${filteredUrls.length} URLs del sitemap`,
+    `- Arranque de esta ejecucion: ${start} (la siguiente empezara en ${nextStart})`,
+    `- Ejecucion numero ${cursor.runs + 1}; cobertura acumulada: ${coveredSet.size}/${filteredUrls.length} URLs distintas`,
+    `- **Tasa de indexacion estimada del sitio: ${indexedRate.toFixed(1)}%** (IC 95%: ${ciLow.toFixed(1)}% - ${ciHigh.toFixed(1)}%, n=${decided})`,
     '',
     '## Estados de cobertura',
     '',

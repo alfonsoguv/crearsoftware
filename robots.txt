@@ -60,3 +60,7 @@ Sitemap: https://crearsoftware.com/sitemap.xml
 # Índice para agentes (llmstxt.org):
 # https://crearsoftware.com/llms.txt
 # https://crearsoftware.com/llms-full.txt
+#
+# Versión Markdown de cualquier página: quita la barra final y añade ".md".
+# https://crearsoftware.com/blog/geo-optimizar-web-agentes-ia-llms-txt/
+# https://crearsoftware.com/blog/geo-optimizar-web-agentes-ia-llms-txt.md

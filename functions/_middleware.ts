@@ -59,6 +59,9 @@ function isPageRequest(url: URL): boolean {
   const { pathname } = url;
   if (pathname.endsWith("/") || pathname.endsWith(".html")) return true;
   if (pathname === "/llms.txt" || pathname === "/llms-full.txt") return true;
+  // Gemelos Markdown: saber si los agentes los piden es justo el dato que
+  // justifica mantenerlos.
+  if (pathname.endsWith(".md")) return true;
   return false;
 }
 

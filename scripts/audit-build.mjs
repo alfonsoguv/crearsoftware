@@ -153,6 +153,13 @@ async function main() {
       const dir = path.join(ROOT, target);
       if (await exists(dir)) files.push(...await walk(dir));
     }
+    // Los gemelos Markdown de dist/ son copia del fuente en blog-posts/: contarlos
+    // duplicaría cada hallazgo y haría parecer que la deuda heredada ha crecido.
+    const deduped = files.filter(
+      (file) => !(file.startsWith(DIST_DIR) && file.endsWith('.md')),
+    );
+    files.length = 0;
+    files.push(...deduped);
     await scanPattern(scan.label, scan.regex, files);
   }
 

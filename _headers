@@ -16,3 +16,12 @@
 /*.txt
   Content-Type: text/plain; charset=utf-8
   Cache-Control: public, max-age=3600
+
+# Gemelos Markdown para agentes (/ruta/ -> /ruta.md). Van con noindex porque
+# duplican el HTML: a Google no le aportan nada y podrían competir con la
+# página canónica. Los agentes que leen en vivo (ChatGPT-User, Perplexity-User)
+# no aplican X-Robots-Tag, así que siguen viéndolos.
+/*.md
+  Content-Type: text/markdown; charset=utf-8
+  Cache-Control: public, max-age=3600
+  X-Robots-Tag: noindex

@@ -665,6 +665,18 @@ function encodeUrlPath(p) {
   return p.split('/').map((seg) => encodeURIComponent(seg)).join('/');
 }
 
+// GEO: cada página tiene un gemelo en Markdown en la misma ruta sin barra final
+// y con extensión .md (/blog/algo/ -> /blog/algo.md). Es la convención que ya
+// aplican las documentaciones pensadas para agentes: quien lee la URL puede
+// pedir el texto plano sin atravesar plantilla, navegación ni JSON-LD.
+function getMarkdownPath(url) {
+  return `${url.replace(/\/$/, '')}.md`;
+}
+
+function getMarkdownUrl(url) {
+  return `${SITE_URL}${encodeUrlPath(getMarkdownPath(url))}`;
+}
+
 // ---------------------------------------------------------------------------
 // Helper: get output path for a post
 // ---------------------------------------------------------------------------
@@ -879,6 +891,7 @@ for (const post of posts) {
     title: post.title,
     metaDescription: escapeHtml(metaDescription),
     canonicalUrl: canonicalUrl,
+    markdownUrl: getMarkdownUrl(postUrl),
     content: post.content,
     toc: post.toc,
     date: post.date,
@@ -992,6 +1005,17 @@ if (posts.length > 0) {
     metaDescription: escapeHtml(SITE_DESCRIPTION),
     canonicalUrl: SITE_URL,
     featuredPosts: featuredPostsHTML,
+    // Las guías pilar no tenían ningún enlace interno entrante: solo llegaban
+    // desde el sitemap. Enlazarlas desde la home las pone al alcance de un
+    // rastreador que empieza por la raíz, que es como llegan los agentes de IA.
+    pillarGuides: guides
+      .map(guide => `
+        <a href="/guia/${guide.effectiveSlug || getEffectiveSlug(guide)}/" class="entry">
+          <div class="entry-meta"><span class="cat">Guía</span>${guide.date ? `<span><time datetime="${guide.date}">${formatDateShort(guide.date)}</time></span>` : ''}</div>
+          <h2>${escapeHtml(guide.title)}</h2>
+          <p>${escapeHtml(guide.metaDescription || guide.description || '')}</p>
+        </a>`)
+      .join(''),
     newsletterAction: '/api/subscribe',
     socialMeta: buildSocialMeta({
       title: `${SITE_NAME} — Blog de Desarrollo de Software, IA y Tecnología Empresarial`,
@@ -1178,6 +1202,7 @@ for (const guide of guides) {
     description: guide.description || guide.metaDescription || '',
     metaDescription: escapeHtml(guide.metaDescription || guide.description || ''),
     canonicalUrl: guideUrl,
+    markdownUrl: getMarkdownUrl(`/guia/${slug}/`),
     toc: guide.toc,
     content: guide.content,
     date: guide.date || '',
@@ -1393,6 +1418,8 @@ Contenido publicado desde 2007 y revisado de forma continua.
 - Sitemap XML: ${SITE_URL}/sitemap.xml
 - Feed RSS: ${SITE_URL}/feed.xml
 - Contenido completo del corpus curado: ${SITE_URL}/llms-full.txt
+- Versión Markdown de cualquier página: quita la barra final y añade \`.md\`.
+  Ejemplo: ${SITE_URL}/blog/geo-optimizar-web-agentes-ia-llms-txt/ -> ${SITE_URL}/blog/geo-optimizar-web-agentes-ia-llms-txt.md
 - Licencia de uso: contenido citable indicando la fuente y enlazando a la URL original.
 
 ${llmsSections.join('\n\n')}
@@ -1447,6 +1474,90 @@ ${doc.rawContent.trim()}
 
 writeFileSync(join(OUTPUT_DIR, 'llms-full.txt'), llmsFullTxt);
 console.log(`  [geo] llms-full.txt (${fullCorpus.length} documentos)`);
+
+// ---------------------------------------------------------------------------
+// GEO: gemelo Markdown de cada página (/ruta/ -> /ruta.md)
+//
+// llms-full.txt sirve el corpus curado en un solo fichero de varios MB. Un
+// agente que llega a UNA url concreta —el caso de ChatGPT-User o Perplexity-User,
+// que son los que producen la cita— no va a descargar el corpus entero para
+// leerla. El gemelo .md le da esa página, y solo esa, sin plantilla ni ruido.
+//
+// La ruta se anuncia en tres sitios para que se descubra sin adivinarla: el
+// <link rel="alternate" type="text/markdown"> de cada página, la cabecera de
+// llms.txt y robots.txt.
+// ---------------------------------------------------------------------------
+function buildMarkdownTwin({ title, url, description, date, dateModified, author, category, rawContent }) {
+  const canonical = `${SITE_URL}${encodeUrlPath(url)}`;
+  const meta = [
+    `URL canónica: ${canonical}`,
+    date ? `Publicado: ${date}` : null,
+    dateModified && dateModified !== date ? `Actualizado: ${dateModified}` : null,
+    author ? `Autor: ${author}` : null,
+    category ? `Categoría: ${category}` : null,
+    `Fuente: ${SITE_NAME} (${SITE_URL})`,
+  ].filter(Boolean);
+
+  const summary = normalizeWhitespace(stripMarkdown(description || ''));
+
+  return `# ${title}
+
+${summary ? `> ${summary}\n\n` : ''}${meta.map(line => `- ${line}`).join('\n')}
+
+---
+
+${String(rawContent || '').trim()}
+
+---
+
+Contenido de ${SITE_NAME}. Citable indicando la fuente y enlazando a ${canonical}.
+`;
+}
+
+let markdownTwinCount = 0;
+
+// Se escriben dos rutas por página porque no hay una sola convención asentada:
+// llmstxt.org describe "la URL original con .md al final" y la documentación de
+// Cloudflare sirve `/ruta/index.md`. Son ficheros estáticos de unos pocos KB, así
+// que cubrir ambas sale más barato que acertar la que use cada agente.
+function writeMarkdownTwin(url, markdown) {
+  for (const target of [getMarkdownPath(url), `${url}index.md`]) {
+    const outputPath = join(OUTPUT_DIR, target);
+    mkdirSync(join(outputPath, '..'), { recursive: true });
+    writeFileSync(outputPath, markdown);
+  }
+  markdownTwinCount += 1;
+}
+
+for (const post of indexablePosts) {
+  const url = getPostUrl(post);
+  writeMarkdownTwin(url, buildMarkdownTwin({
+    title: post.title,
+    url,
+    description: post.metaDescription || getMetaDescription(post),
+    date: post.date,
+    dateModified: post.dateModified,
+    author: resolveAuthor(post).name,
+    category: post.categoryLabel || '',
+    rawContent: post.rawContent,
+  }));
+}
+
+for (const guide of guides) {
+  const url = `/guia/${guide.effectiveSlug || getEffectiveSlug(guide)}/`;
+  writeMarkdownTwin(url, buildMarkdownTwin({
+    title: guide.title,
+    url,
+    description: guide.metaDescription || guide.description,
+    date: guide.date,
+    dateModified: guide.dateModified,
+    author: 'Alfonso Gutiérrez',
+    category: 'Guía',
+    rawContent: guide.rawContent,
+  }));
+}
+
+console.log(`  [geo] ${markdownTwinCount} gemelos Markdown (/ruta/ -> /ruta.md y /ruta/index.md)`);
 
 // ---------------------------------------------------------------------------
 // Summary
