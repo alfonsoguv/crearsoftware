@@ -25,7 +25,10 @@ function getCorsOrigin(request: Request) {
       hostname === "www.crearsoftware.com" ||
       hostname === "localhost" ||
       hostname === "127.0.0.1" ||
-      hostname.endsWith(".pages.dev")
+      // Solo los despliegues de ESTE proyecto. `.pages.dev` a secas autorizaba
+      // cualquier proyecto Pages de un tercero a hacer POST de emails cross-origin.
+      hostname === "crearsoftware.pages.dev" ||
+      /^[a-z0-9-]{1,63}\.crearsoftware\.pages\.dev$/.test(hostname)
     ) {
       return origin;
     }
@@ -49,6 +52,18 @@ function wantsHtmlResponse(request: Request) {
   return (request.headers.get("Accept") || "").includes("text/html");
 }
 
+// Clave derivada de la IP, no la IP en claro. Es pseudonimización, no anonimato:
+// el espacio IPv4 es enumerable y la sal está aquí a la vista, así que sigue
+// siendo dato personal. Su valor es que la IP no queda legible en la caché, y el
+// TTL de una hora la borra sola.
+async function ipHash(ip: string): Promise<string> {
+  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(`cs-rl:${ip}`));
+  return [...new Uint8Array(buf)]
+    .slice(0, 16)
+    .map((b) => b.toString(16).padStart(2, "0"))
+    .join("");
+}
+
 function jsonResponse(request: Request, body: Record<string, unknown>, status = 200) {
   return new Response(JSON.stringify(body), {
     status,
@@ -57,16 +72,20 @@ function jsonResponse(request: Request, body: Record<string, unknown>, status = 
 }
 
 function redirectBack(request: Request, result: "success" | "error", message = "") {
-  const fallbackUrl = new URL("https://crearsoftware.com/");
+  const target = new URL("https://crearsoftware.com/");
   const referer = request.headers.get("Referer");
 
-  let target = fallbackUrl;
+  // Se toma solo la RUTA del Referer y se reancla siempre en el dominio propio:
+  // usar la URL del Referer entera convertía este 303 en un open redirect
+  // (Referer: https://evil.tld → redirección a evil.tld).
   try {
     if (referer) {
-      target = new URL(referer);
+      const { pathname, search } = new URL(referer);
+      target.pathname = pathname;
+      target.search = search;
     }
   } catch {
-    target = fallbackUrl;
+    // Referer inválido: se mantiene la home.
   }
 
   target.searchParams.set("subscribe", result);
@@ -108,10 +127,19 @@ async function parsePayload(request: Request): Promise<SubscribePayload> {
 }
 
 export const onRequestPost: PagesFunction<Env> = async (context) => {
-  const corsHeaders = buildCorsHeaders(context.request);
-
   try {
-    const body = await parsePayload(context.request);
+    // El cuerpo se parsea aparte: un JSON malformado es un error del cliente
+    // (400), no una degradación del servicio, y no debe caer en el catch final.
+    let body: SubscribePayload;
+    try {
+      body = await parsePayload(context.request);
+    } catch {
+      if (wantsHtmlResponse(context.request)) {
+        return redirectBack(context.request, "error", "payload");
+      }
+      return jsonResponse(context.request, { success: false, error: "Invalid payload" }, 400);
+    }
+
     const email = body.email?.trim().toLowerCase();
     const rawSource = body.source?.trim() || "direct";
 
@@ -139,10 +167,20 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
       }, 503);
     }
 
-    // Rate limit: 1 signup per IP per hour
+    // Rate limit: 1 alta por IP y hora, sobre la Cache API en lugar de KV. Cada
+    // alta gastaba una escritura del cupo diario de la cuenta solo para marcar
+    // la IP; ese cupo es justo lo que hay que proteger, porque si se agota falla
+    // el put del email. La Cache API no consume cuota.
+    //
+    // A cambio es por centro de datos, no global: quien rote de POP —o de IP—
+    // evade el límite. Nunca fue una defensa antiabuso seria; el bloqueo duro
+    // va en el WAF (Issue #34). El host de la clave es sintético a propósito:
+    // con una URL real de la zona, la entrada sería alcanzable desde fuera y
+    // delataría qué IPs se han dado de alta en la última hora.
     const ip = context.request.headers.get("CF-Connecting-IP") || "unknown";
-    const rateKey = `rate:${ip}`;
-    const lastSignup = await context.env.CS_KV.get(rateKey);
+    const cache = caches.default;
+    const rateKey = new Request(`https://ratelimit.invalid/subscribe/${await ipHash(ip)}`);
+    const lastSignup = await cache.match(rateKey);
     if (lastSignup) {
       if (wantsHtmlResponse(context.request)) {
         return redirectBack(context.request, "error", "rate-limit");
@@ -192,21 +230,36 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
       ...(Object.keys(utm).length > 0 ? { utm } : {}),
     });
 
-    await context.env.CS_KV.put(`email:${email}`, data);
-    await context.env.CS_KV.put(rateKey, "1", { expirationTtl: 3600 });
+    // La marca de rate limit se pone ANTES de escribir en KV, no después: si se
+    // pusiera al final, una ráfaga simultánea desde la misma IP pasaría entera
+    // el cache.match y gastaría una escritura por petición, que es justo el
+    // recurso a proteger. El precio es que, si el put falla, esa IP espera una
+    // hora para reintentar.
+    await cache.put(rateKey, new Response("1", { headers: { "Cache-Control": "max-age=3600" } }));
 
-    // Increment subscriber counter (best-effort, race-safe for a vanity counter)
-    const prev = parseInt(await context.env.CS_KV.get("meta:count") || "0", 10);
-    await context.env.CS_KV.put("meta:count", String(prev + 1));
+    // Única escritura en KV de todo el flujo. Antes eran tres (email, rate y
+    // meta:count); las otras dos gastaban cupo sin aportar nada que se leyera.
+    // Va en su propio try/catch: si KV falla —cupo diario agotado o 5xx
+    // transitorio— el alta se responde como servicio degradado, nunca como
+    // error del servidor, y queda registrada en los logs para recuperarla.
+    try {
+      await context.env.CS_KV.put(`email:${email}`, data);
+    } catch (kvError) {
+      console.error("subscribe: fallo al persistir el alta", { email, source, kvError });
+      if (wantsHtmlResponse(context.request)) {
+        return redirectBack(context.request, "error", "service-unavailable");
+      }
+      return jsonResponse(context.request, {
+        success: false,
+        error: "No hemos podido guardar tu alta ahora mismo. Inténtalo de nuevo en unos minutos.",
+      }, 503);
+    }
 
     if (wantsHtmlResponse(context.request)) {
       return redirectBack(context.request, "success");
     }
 
-    return new Response(JSON.stringify({ success: true }), {
-      status: 200,
-      headers: corsHeaders,
-    });
+    return jsonResponse(context.request, { success: true });
   } catch (error) {
     console.error("subscribe error", error);
 
@@ -214,7 +267,12 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
       return redirectBack(context.request, "error", "server");
     }
 
-    return jsonResponse(context.request, { success: false, error: "Server error" }, 500);
+    // 503, no 500: el fallo de persistencia ya se captura arriba, así que llegar
+    // aquí significa servicio degradado y el cliente puede reintentar.
+    return jsonResponse(context.request, {
+      success: false,
+      error: "Servicio no disponible temporalmente",
+    }, 503);
   }
 };
 

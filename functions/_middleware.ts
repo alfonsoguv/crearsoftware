@@ -8,9 +8,13 @@
  * Agregación: una clave por bot y hora (`bot:YYYY-MM-DD:HH:<bot>`), leída y
  * reescrita con el contador. Es deliberadamente aproximada: durante una ráfaga
  * concurrente varias peticiones leen el mismo valor y el conteo se queda corto.
- * A cambio, el volumen de escrituras en KV queda acotado a ~24 por bot y día,
- * dentro de los límites del plan gratuito. Sirve para detectar tendencia, no
- * para auditar peticiones una a una.
+ * Sirve para detectar tendencia, no para auditar peticiones una a una.
+ *
+ * OJO con el coste: lo acotado a ~24 por bot y día es el número de CLAVES, no
+ * el de escrituras. `recordHit` hace un get + un put por CADA hit, así que las
+ * escrituras crecen con el tráfico de rastreadores: el 2026-08-02 fueron 519,
+ * el 52% del cupo diario de KV de toda la cuenta, que se comparte con el alta
+ * de newsletter. Migrar este contador a Analytics Engine: Issue #35.
  *
  * Nunca bloquea la respuesta: el contador va en waitUntil y cualquier fallo se
  * ignora.
@@ -116,11 +120,21 @@ export const onRequest: PagesFunction<Env> = async (context) => {
     const kv = context.env.CS_KV;
     if (!kv) return response;
 
-    const url = new URL(context.request.url);
-    if (!isPageRequest(url)) return response;
+    // Solo se cuentan páginas que existen (200) y sus revalidaciones (304, que
+    // es lo que responde un rastreador que ya tiene la página). Contar los 404
+    // dejaba la cardinalidad de claves en manos de quien llamara: basta
+    // declararse GPTBot y pedir rutas inventadas para crear una clave por ruta.
+    // Acota las claves, no las escrituras: cada hit a una página real sigue
+    // costando un get + un put (ver cabecera del fichero).
+    if (response.status !== 200 && response.status !== 304) return response;
 
     const agent = identifyAgent(context.request.headers.get("User-Agent") || "");
     if (!agent) return response;
+
+    // El parseo de la URL va detrás de las comprobaciones baratas: así solo se
+    // paga para rastreadores identificados, no en cada petición del sitio.
+    const url = new URL(context.request.url);
+    if (!isPageRequest(url)) return response;
 
     context.waitUntil(recordHit(kv, agent, url.pathname).catch(() => undefined));
   } catch {

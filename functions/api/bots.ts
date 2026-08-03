@@ -3,6 +3,9 @@
  *
  * GET /api/bots?days=28  ->  { days, totals: {bot: hits}, daily: {fecha: {bot: hits}}, topPaths }
  *
+ * `days` solo admite 7, 28 o 90; cualquier otro valor cae en 28. La ventana
+ * aplicada viene en el campo `days` de la respuesta: úsala para etiquetar.
+ *
  * Devuelve solo agregados de tráfico de bots: no hay datos personales ni de
  * visitantes. Es público a propósito, para que el informe semanal pueda leerlo
  * sin credenciales de Cloudflare. Lleva noindex para no acabar en buscadores.
@@ -12,7 +15,7 @@ interface Env {
   CS_KV?: KVNamespace;
 }
 
-const MAX_DAYS = 90;
+const ALLOWED_DAYS = [7, 28, 90];
 const DEFAULT_DAYS = 28;
 
 function isoDate(offsetDays: number): string {
@@ -36,11 +39,23 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     );
   }
 
+  // Ventanas discretas, no un rango continuo: con `days` libre entre 1 y 90,
+  // cada valor generaba una entrada de caché distinta, así que bastaba variar
+  // la query para saltarse el max-age y forzar un recorrido completo de KV.
+  //
+  // Acota el abanico de 90 variantes a 3; no cierra el vector. Un recorrido en
+  // frío hace un kv.list por fecha (90 con days=90) contra un cupo de 1.000
+  // list al día, y la caché es por centro de datos, así que pedir la misma
+  // ventana desde varios POPs sigue provocando recorridos. Rediseñar el
+  // agregado para no necesitar un list por fecha: Issue #35.
   const url = new URL(context.request.url);
   const requested = Number.parseInt(url.searchParams.get("days") || "", 10);
-  const days = Number.isFinite(requested)
-    ? Math.min(Math.max(requested, 1), MAX_DAYS)
-    : DEFAULT_DAYS;
+  const days = ALLOWED_DAYS.includes(requested) ? requested : DEFAULT_DAYS;
+
+  const cache = caches.default;
+  const cacheKey = new Request(`https://crearsoftware.com/api/bots?days=${days}`);
+  const cached = await cache.match(cacheKey);
+  if (cached) return cached;
 
   const wanted = new Set<string>();
   for (let i = 0; i < days; i += 1) wanted.add(isoDate(i));
@@ -87,7 +102,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     .slice(0, 25)
     .map(([path, hits]) => ({ path, hits }));
 
-  return new Response(
+  const response = new Response(
     JSON.stringify({
       ok: true,
       days,
@@ -99,4 +114,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     }),
     { headers },
   );
+
+  context.waitUntil(cache.put(cacheKey, response.clone()));
+  return response;
 };
