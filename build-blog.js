@@ -1566,6 +1566,18 @@ for (const guide of guides) {
 console.log(`  [geo] ${markdownTwinCount} gemelos Markdown (/ruta/ -> /ruta.md y /ruta/index.md)`);
 
 // ---------------------------------------------------------------------------
+// IndexNow: fichero de propiedad de la clave.
+//
+// El protocolo exige publicar la clave en texto plano en la raíz del sitio para
+// demostrar que quien envía URLs controla el dominio. No es un secreto —es
+// pública por diseño— así que vive en el código y no en el entorno.
+// El envío lo hace `npm run seo:indexnow`.
+// ---------------------------------------------------------------------------
+const INDEXNOW_KEY = '13c316e3e7b509aa70e737a790113afe';
+writeFileSync(join(OUTPUT_DIR, `${INDEXNOW_KEY}.txt`), INDEXNOW_KEY);
+console.log(`  [geo] ${INDEXNOW_KEY}.txt (clave IndexNow)`);
+
+// ---------------------------------------------------------------------------
 // Summary
 // ---------------------------------------------------------------------------
 console.log(`\n${'='.repeat(40)}`);
