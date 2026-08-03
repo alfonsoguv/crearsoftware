@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-08-03T14:25:41.671Z",
+  "siteUrl": "https://crearsoftware.com/",
+  "verified": true,
+  "totals": {
+    "clicks": 0,
+    "impressions": 0,
+    "ctrPercent": 0
+  },
+  "daysWithData": 0,
+  "traffic": [],
+  "queries": [],
+  "feeds": [
+    {
+      "__type": "Feed:#Microsoft.Bing.Webmaster.Api",
+      "Compressed": false,
+      "FileSize": 0,
+      "LastCrawled": "/Date(-11644473600000)/",
+      "Status": "Pending",
+      "Submitted": "/Date(1785767092344)/",
+      "Type": "",
+      "Url": "https://crearsoftware.com/sitemap.xml",
+      "UrlCount": 0
+    }
+  ]
+}

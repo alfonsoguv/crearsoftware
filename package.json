@@ -18,7 +18,8 @@
     "seo:gsc:submit-sitemap": "node scripts/gsc-submit-sitemap.mjs",
     "geo:agents": "node scripts/geo-agents-report.mjs",
     "cf:traffic": "node scripts/cf-traffic-report.mjs",
-    "seo:indexnow": "node scripts/indexnow-submit.mjs"
+    "seo:indexnow": "node scripts/indexnow-submit.mjs",
+    "seo:bing": "node scripts/bing-report.mjs"
   },
   "keywords": [],
   "author": "",
