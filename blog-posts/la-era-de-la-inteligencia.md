@@ -1,72 +1,108 @@
 ---
-title: "La Era de la Inteligencia"
+title: "La era de la inteligencia, dos años después: qué se ha cumplido del ensayo de Sam Altman"
 slug: "la-era-de-la-inteligencia"
 date: "2025-01-25"
+dateModified: "2026-08-03"
 oldUrl: "/2025/01/25/la-era-de-la-inteligencia/"
-description: "Traducción al español de The Intelligence Age, de Sam Altman: IA, abundancia, infraestructura y la transición hacia una nueva era."
+description: "Revisión de The Intelligence Age, el ensayo de Sam Altman: qué predicciones han resistido dos años, cuáles no eran verificables, y cómo leer a quien vende la tecnología que describe."
 category: "inteligencia-artificial"
-tags: ["inteligencia artificial"]
+tags: ["inteligencia artificial", "openai", "innovación", "prospectiva"]
 readingTime: 6
 author: "Alfonso Gutiérrez"
 commentCount: 0
-wordCount: 1085
+wordCount: 1264
 image: "/wp-content/uploads/2025/01/cover.webp"
 ---
 
-![La Era de la Inteligencia](/wp-content/uploads/2025/01/cover.webp)
+> **Nota de la edición (agosto de 2026).** Esta entrada se publicó en enero de 2025 como traducción del ensayo de Sam Altman. Se ha sustituido por completo por un análisis propio, que es lo que debió ser desde el principio. El original está enlazado abajo y merece leerse entero.
 
-Traducción del artículo de Sam Altman ["The Intelligence Age"](https://ia.samaltman.com).
+En septiembre de 2024, Sam Altman publicó en su web personal un ensayo breve titulado [The Intelligence Age](https://ia.samaltman.com/). Son unas mil palabras y su tesis cabe en una frase: la inteligencia artificial va a producir una prosperidad tan grande que quien la mire desde el futuro verá nuestro presente como nosotros vemos el oficio de farolero.
 
-En las próximas décadas, podremos hacer cosas que a nuestros abuelos les habrían parecido magia.
+Dos años después se puede hacer algo más útil que estar de acuerdo o en contra: **comprobar qué partes eran verificables y cuáles no lo fueron nunca**. Ese ejercicio dice bastante sobre cómo conviene leer los textos que escriben quienes venden la tecnología que describen.
 
-Este fenómeno no es nuevo, pero ahora se acelerará de manera inédita. Las personas se han vuelto dramáticamente más capaces con el tiempo; ya logramos cosas que nuestros antecesores habrían considerado imposibles.
+## La estructura del argumento
 
-Somos más capaces, no debido a cambios genéticos, sino porque nos beneficiamos de que la infraestructura de la sociedad es mucho más inteligente y capaz que cualquiera de nosotros individualmente; en un sentido importante, la sociedad misma es una forma de inteligencia avanzada. Nuestros abuelos —y las generaciones que los precedieron— construyeron y lograron grandes cosas.
+El ensayo se apoya en tres bloques que conviene separar, porque tienen niveles de comprobabilidad muy distintos:
 
-Ellos contribuyeron al andamiaje del progreso humano del cual todos nos beneficiamos. La inteligencia artificial (IA) nos dará herramientas para resolver problemas difíciles y nos ayudará a añadir nuevos pilares a ese andamiaje que no habríamos podido imaginar por nosotros mismos. La historia del progreso continuará, y nuestros hijos podrán hacer cosas que nosotros no podemos.
+| Bloque | Qué afirma | ¿Se puede comprobar? |
+|---|---|---|
+| **Técnico** | El aprendizaje profundo escala y seguirá funcionando | Sí, con puntos de referencia |
+| **Material** | Hará falta infraestructura enorme: cómputo y energía | Sí, con la inversión anunciada |
+| **Social** | Habrá prosperidad compartida y los empleos se recolocarán | No a dos años vista |
 
-## Una prosperidad difícil de imaginar hoy
+El texto los presenta como un continuo, y ahí está el mecanismo retórico: **la solidez del primer bloque se transfiere al tercero sin que nadie lo note**. Que los modelos mejoren no implica que la prosperidad se reparta. Son afirmaciones de tipos distintos.
 
-No sucederá todo de una vez, pero pronto podremos trabajar con IA que nos ayudará a lograr mucho más de lo que jamás podríamos sin ella; eventualmente, cada uno de nosotros podrá tener un equipo personal de IA, lleno de expertos virtuales en distintas áreas, trabajando juntos para crear casi cualquier cosa que podamos imaginar.
+## Lo que se ha cumplido: la parte técnica
 
-Nuestros hijos tendrán tutores virtuales que podrán ofrecer instrucción personalizada en cualquier materia, en cualquier idioma y al ritmo que necesiten. Podemos imaginar ideas similares para una mejor atención médica, la capacidad de crear cualquier tipo de software que alguien imagine, y mucho más.
+Aquí Altman acertó, y con margen. La medida más limpia que tenemos es la evolución de las pruebas difíciles.
 
-Con estas nuevas capacidades, podemos alcanzar una prosperidad compartida a un nivel que hoy parece inimaginable; en el futuro, la vida de todos puede ser mejor que la vida de cualquiera en la actualidad. La prosperidad por sí sola no necesariamente hace felices a las personas —hay muchas personas ricas infelices—, pero mejoraría significativamente la vida de las personas en todo el mundo.
+Cuando OpenAI presentó *deep research* en febrero de 2025, su resultado en [Humanity's Last Exam](https://agi.safe.ai/) —un examen diseñado expresamente para ser demasiado difícil para los modelos de la época— fue del **26,6%**, y era el mejor de entonces. En agosto de 2026, los primeros puestos de esa misma tabla rondan el **53%**.
 
-He aquí una forma limitada de ver la historia humana: tras miles de años de descubrimientos científicos acumulados y avances tecnológicos, hemos aprendido a derretir arena, añadirle impurezas, organizarla con una precisión asombrosa a una escala extraordinariamente pequeña en chips de computadora, hacer pasar energía a través de ella y terminar con sistemas capaces de crear una inteligencia artificial cada vez más avanzada.
+Duplicar el rendimiento en un examen construido para resistir, en dieciocho meses, es exactamente lo que el ensayo predecía. No hubo meseta.
 
-## El punto de inflexión: el aprendizaje profundo funcionó
+También acertó en lo material. La afirmación de que haría falta infraestructura a una escala poco habitual —cómputo y, sobre todo, energía— se ha convertido en el debate central del sector, hasta el punto de que la conversación sobre centros de datos y consumo eléctrico ha desplazado a la conversación sobre modelos.
 
-Esto podría resultar ser el hecho más trascendental de toda la historia hasta ahora. Es posible que tengamos superinteligencia en unos pocos miles de días (!); puede que tome más tiempo, pero estoy seguro de que llegaremos allí.
+## Lo que no se puede evaluar, y por qué importa
 
-¿Cómo llegamos al umbral del próximo salto en prosperidad?
+El bloque social ocupa buena parte del ensayo y no admite verificación. «Prosperidad compartida», «capacidades amplificadas», «juegos de suma positiva»: son afirmaciones sin condición de fallo. No hay ningún dato que, si apareciera, obligara a retirarlas.
 
-En tres palabras: **el aprendizaje profundo funcionó.**
+Esto no es un defecto de estilo. Es la diferencia entre una predicción y una declaración de intenciones. Una predicción dice *qué tendría que ocurrir para que yo esté equivocado*. El ensayo, en su tercio final, no lo dice en ningún momento.
 
-En 15 palabras: el aprendizaje profundo funcionó, mejoró predeciblemente con la escala y le dedicamos recursos cada vez mayores.
+La comparación con el farolero es el mejor ejemplo. Es una imagen excelente y funciona: nadie echa de menos ese oficio. Pero como argumento tiene un agujero — **describe el destino y se salta el trayecto**. Los faroleros no se recolocaron solos ni en silencio: hubo décadas de conflicto laboral por medio. El ensayo pasa de una era a la siguiente en un párrafo.
 
-Eso es realmente todo; la humanidad descubrió un algoritmo que realmente podía aprender cualquier distribución de datos (o más bien, las "reglas" subyacentes que producen cualquier distribución de datos). En un grado impactante de precisión, mientras más cómputo y datos disponibles, mejor ayuda a las personas a resolver problemas difíciles. Descubro que, sin importar cuánto tiempo pase pensando en esto, nunca puedo internalizar por completo cuán trascendental es.
+## La pregunta que el ensayo no se hace
 
-Hay muchos detalles que todavía tenemos que resolver, pero es un error distraerse con cualquier desafío en particular. El aprendizaje profundo funciona, y resolveremos los problemas restantes. Podemos decir muchas cosas sobre lo que podría suceder a continuación, pero lo principal es que la IA mejorará con la escala, y eso llevará a mejoras significativas en la vida de las personas en todo el mundo.
+Hay un efecto de segundo orden que en 2024 casi nadie estaba mirando y que hoy se puede medir: **qué le pasa a la web abierta cuando la respuesta deja de requerir una visita**.
 
-Los modelos de IA pronto servirán como asistentes personales autónomos que realizarán tareas específicas en nuestro nombre, como coordinar cuidados médicos. En algún momento más adelante, los sistemas de IA serán tan buenos que nos ayudarán a crear sistemas de próxima generación y a avanzar en el progreso científico en todos los ámbitos.
+En este blog llevamos meses midiéndolo con datos propios, y el resultado es contundente. La página más buscada del sitio —un artículo de 2007 sobre inputs y outputs, con demanda de estudiantes— comparando julio de 2025 con julio de 2026:
 
-La tecnología nos llevó de la Edad de Piedra a la Edad Agrícola y luego a la Edad Industrial. Desde aquí, el camino hacia la Edad de la Inteligencia está pavimentado con cómputo, energía y voluntad humana.
+| | jul-2025 | jul-2026 |
+|---|---|---|
+| Impresiones | 3.211 | 9.351 |
+| Posición media | 8,07 | 6,60 |
+| Clics | 43 | 25 |
+| CTR | 1,34% | 0,27% |
 
-## Infraestructura para que la IA sea abundante
+**Triple de exposición, mejor posición, y un quinto del CTR.** La página no ha empeorado: ha mejorado. Lo que ha cambiado es que la respuesta ya se da antes del clic.
 
-Si queremos poner la IA en manos de la mayor cantidad de personas posible, necesitamos reducir el costo del cómputo y hacerlo abundante (lo que requiere mucha energía y chips). Si no construimos suficiente infraestructura, la IA será un recurso muy limitado que podría desatar guerras y convertirse en una herramienta exclusiva de los ricos.
+Ese es un reparto concreto de valor: el contenido sigue siendo útil y quien lo escribió deja de recibir la visita. No es una catástrofe —son 18 clics— pero multiplicado por toda la web informativa en español es un desplazamiento real, y es justo el tipo de cosa que la palabra «prosperidad» no distingue.
 
-Necesitamos actuar con sabiduría pero con convicción. El amanecer de la Edad de la Inteligencia es un desarrollo trascendental con desafíos extremadamente complejos y de altísimas apuestas. No será una historia completamente positiva, pero el potencial es tan tremendo que nos debemos a nosotros mismos, y al futuro, descubrir cómo navegar los riesgos que tenemos delante.
+Si te interesa el lado práctico de esto, lo hemos desarrollado en [qué es el GEO y cómo optimizar una web para agentes de IA](/blog/geo-optimizar-web-agentes-ia-llms-txt/).
 
-Creo que el futuro será tan brillante que nadie puede hacerle justicia al intentar describirlo ahora; una característica definitoria de la Edad de la Inteligencia será la prosperidad masiva.
+## Cómo leer a quien vende lo que describe
 
-## Riesgos, trabajo y adaptación social
+No es una acusación: es una instrucción de lectura. Altman dirige la empresa cuya valoración depende de que ese futuro parezca inevitable. Eso no hace falso el ensayo —la parte técnica ha envejecido muy bien—, pero sí obliga a separar los bloques.
 
-Aunque sucederá de manera incremental, logros asombrosos —como resolver el cambio climático, establecer una colonia en el espacio y descubrir todos los secretos de la física— eventualmente se volverán algo común. Con una inteligencia casi ilimitada y una energía abundante —la capacidad de generar grandes ideas y de llevarlas a cabo— podemos hacer muchísimo.
+Tres preguntas que funcionan con cualquier texto de este género:
 
-Como hemos visto con otras tecnologías, también habrá inconvenientes, y necesitamos comenzar ahora a trabajar para maximizar los beneficios de la IA mientras minimizamos sus daños. Un ejemplo es que esperamos que esta tecnología cause un cambio significativo en los mercados laborales (para bien y para mal) en los próximos años, pero la mayoría de los trabajos cambiarán más lentamente de lo que la mayoría de la gente piensa, y no temo que nos quedemos sin cosas que hacer (incluso si no parecen "trabajos reales" para nosotros hoy).
+1. **¿Qué afirmación de aquí podría resultar falsa, y cómo lo sabríamos?** Si ninguna, es un manifiesto, no un pronóstico.
+2. **¿Quién carga con el coste del trayecto?** Los textos de transición suelen describir el punto de llegada y saltarse el camino.
+3. **¿Qué gana quien lo escribe si me lo creo?** No para descartarlo, sino para saber dónde mirar con más atención.
 
-Las personas tienen un deseo innato de crear y ser útiles a los demás, y la IA nos permitirá amplificar nuestras habilidades como nunca antes. Como sociedad, volveremos a un mundo en expansión y podremos enfocarnos nuevamente en jugar juegos de suma positiva.
+## El saldo a dos años
 
-Muchos de los trabajos que hacemos hoy habrían parecido una pérdida de tiempo trivial para las personas de hace unos cientos de años, pero nadie mira al pasado deseando ser un encendedor de lámparas. Si un encendedor de lámparas pudiera ver el mundo actual, pensaría que la prosperidad que lo rodea es inimaginable. Y si pudiéramos avanzar cien años desde hoy, la prosperidad que nos rodea se sentiría igual de inimaginable.
+Acierto en lo técnico, acierto en lo material, y en lo social un texto que no dice lo suficiente como para poder equivocarse. Es, probablemente, el reparto que cabía esperar.
+
+Lo interesante no es el marcador sino el patrón: **el sector acierta cuando habla de capacidades y se vuelve vago cuando habla de consecuencias**. Y las consecuencias son la parte que le toca gestionar a todos los demás.
+
+## Preguntas frecuentes
+
+### ¿Qué es «The Intelligence Age» de Sam Altman?
+
+Es un ensayo breve publicado por Sam Altman en septiembre de 2024 en su web personal, en el que sostiene que la inteligencia artificial abre una era de prosperidad sin precedentes, comparable en magnitud a las grandes transiciones tecnológicas anteriores.
+
+### ¿Se han cumplido las predicciones del ensayo?
+
+Las técnicas sí, con claridad: el rendimiento en pruebas difíciles como Humanity's Last Exam ha pasado del 26,6% en febrero de 2025 a en torno al 53% en agosto de 2026. Las predicciones sociales sobre prosperidad compartida no son verificables, porque el texto no establece ninguna condición que permitiera considerarlas falsas.
+
+### ¿Hubo una meseta en la mejora de los modelos de IA?
+
+No en el periodo 2025-2026. Los resultados en pruebas diseñadas expresamente para resistir a los modelos siguieron mejorando a buen ritmo, lo que descarta la hipótesis de estancamiento que se manejaba a finales de 2024.
+
+### ¿Cómo afecta la IA generativa al tráfico de las webs informativas?
+
+Reduce el clic aunque aumente la exposición. En este blog, la página con más búsquedas triplicó sus impresiones y mejoró de posición entre julio de 2025 y julio de 2026, y aun así perdió el 42% de los clics, con el CTR cayendo del 1,34% al 0,27%. La respuesta se da en el buscador y la visita no llega.
+
+### ¿Es fiable un ensayo escrito por quien dirige una empresa de IA?
+
+Es una fuente legítima y bien informada, pero con un interés declarado. La lectura útil consiste en separar las afirmaciones comprobables —capacidades, inversión, resultados— de las que no lo son, y comprobar las primeras por cuenta propia.

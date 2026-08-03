@@ -1,137 +1,98 @@
 ---
-title: "Los Agentes Están Llegando: Por Qué el Invierno de la IA No Será Tan Frío"
+title: "El invierno de la IA que no llegó: seis predicciones de enero de 2025, revisadas"
 slug: "los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio"
 date: "2025-01-01"
+dateModified: "2026-08-03"
 oldUrl: "/2025/01/01/los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio/"
-description: "Por qué 2025 no traerá un invierno de la IA y por qué las oportunidades para las startups que resuelvan la última milla serán mayores que nunca."
+description: "A comienzos de 2025 se daba por hecho un invierno de la IA. Revisamos seis predicciones de aquel momento con lo que sabemos en 2026: cuáles acertaron y cuál falló del todo."
 category: "inteligencia-artificial"
-tags: ["inteligencia artificial","productividad"]
-readingTime: 11
+tags: ["inteligencia artificial", "agentes", "startups", "productividad", "prospectiva"]
+readingTime: 6
 author: "Alfonso Gutiérrez"
 commentCount: 0
-wordCount: 2113
+wordCount: 1283
 image: ""
 ---
 
-Post declinado por IA [https://www.linkedin.com/pulse/agents-coming-winter-christoph-janz-wexhf/](https://www.linkedin.com/pulse/agents-coming-winter-christoph-janz-wexhf/)
+> **Nota de la edición (agosto de 2026).** Esta entrada se publicó en enero de 2025 como traducción de un artículo de Christoph Janz. Se ha sustituido por un análisis propio que revisa aquellas tesis con año y medio de perspectiva. El original está enlazado abajo.
 
-* * *
+A finales de 2024 se instaló una idea en el sector: los grandes modelos habían dejado de mejorar al ritmo de antes, el preentrenamiento se topaba con rendimientos decrecientes, y lo siguiente sería un **invierno de la IA** como el de los años ochenta. Contra esa idea escribió Christoph Janz, socio de Point Nine, [The Agents Are Coming. Winter Is Not.](https://medium.com/point-nine-news/the-agents-are-coming-winter-is-not-6232601fa0fd), en enero de 2025.
 
-## Introducción
+Aquel texto hacía seis apuestas comprobables. Año y medio después se pueden puntuar, que es bastante más interesante que resumirlas. **Cinco han envejecido bien; una falló, y falló en la dirección contraria a la que él esperaba.**
 
-A medida que nos adentramos en 2025, la industria de la IA se encuentra en un punto de entusiasmo y también de incertidumbre. Mientras algunos se preguntan si la “ley de la escala” seguirá impulsando los modelos cada vez más grandes, otros sienten que el progreso de la IA avanza más rápido que nunca, con lanzamientos constantes de capacidades y productos que parecen casi mágicos.
+## 1. «Los rendimientos decrecientes del preentrenamiento no son el fin de la escala»
 
-En este artículo, compartiré algunas reflexiones sobre lo que podemos esperar en este año que comienza. No esperes profecías osadas (mi bola de cristal sigue igual de borrosa), pero te cuento por qué creo que no viviremos un “invierno de la IA” y por qué las oportunidades para las startups podrían ser más grandes que nunca.
+**Acertó.** La tesis era que si escalar el preentrenamiento daba menos, quedaba otra palanca: gastar más cómputo en el momento de responder, dejando que el modelo razone más tiempo sobre problemas difíciles.
 
-* * *
+Es exactamente lo que pasó. La medida más limpia es [Humanity's Last Exam](https://agi.safe.ai/), un examen construido para ser demasiado difícil. En febrero de 2025 el mejor resultado público era del **26,6%**; en agosto de 2026 la cabeza de esa tabla ronda el **53%**. Los modelos que la lideran son precisamente los que ajustan cuánto razonan según la dificultad.
 
-## 1) El pre-entrenamiento podría estar llegando a rendimientos decrecientes, pero no es el “fin de la escala”
+## 2. «No habrá otro invierno de la IA»
 
-Cada vez hay más personas que dicen que nos acercamos al “fin de las leyes de la escala” en los modelos de lenguaje. Esta visión se alimenta del hecho de que GPT-5 aún no ha salido, y que las mejoras recientes de OpenAI se deben más a innovaciones en otros frentes que al mero aumento de tamaño de los modelos. Además, Ilya Sutskever —cofundador de OpenAI— recientemente avivó el debate declarando el fin de la era del pre-entrenamiento.
+**Acertó, aunque era la apuesta fácil.** Un invierno de la IA no es que baje el entusiasmo: es que se corta la financiación durante años. Nada de eso ocurrió. Si acaso el problema del sector en 2026 es el contrario — la discusión ya no es si hay dinero, sino si la infraestructura energética aguanta el ritmo al que se está construyendo.
 
-Sin embargo, “fin del pre-entrenamiento”, “fin de las leyes de la escala” y “fin de la escala” pueden significar cosas distintas, así que vale la pena aclarar. Las leyes de la escala descritas en el artículo de 2020 de Jared Kaplan y otros investigadores de OpenAI señalan que el rendimiento de los modelos mejora con modelos más grandes, más datos y más cómputo.
+## 3. «Algunas de las startups más destacadas no sobrevivirán»
 
-El artículo de Chinchilla de 2022 profundizó en el balance óptimo entre tamaño del modelo y tamaño del conjunto de datos para un presupuesto de cómputo dado. Ambos indican que cada incremento adicional de uno de los tres factores (tamaño, datos, cómputo) ofrece una mejora menor que el incremento anterior.
+**Acertó en el fondo, con un matiz sobre el mecanismo.** Su razonamiento era el clásico: valoraciones muy por encima de los ingresos, poca defensa frente a copias, y modelos generalistas que se comen las funcionalidades de las herramientas construidas encima.
 
-Dicho de otro modo, si vemos “rendimientos decrecientes”, no es el fin de la ley de la escala, ¡es la ley misma en acción!
+El mecanismo dominante ha sido el tercero. La forma habitual de morir no ha sido quedarse sin dinero, sino **quedarse sin problema**: la siguiente versión del modelo base incorpora de serie lo que una empresa entera vendía como producto. Es una muerte más rápida y más silenciosa que la de la financiación.
 
-Tal vez estemos hablando de semántica, y cuando la gente dice “fin de la escala”, se refieren a que se están reduciendo los beneficios prácticos de hacer los modelos cada vez más grandes. Nadie sabe con certeza en qué punto estamos, pero aquí van algunos puntos importantes:
+## 4. «Las startups resolverán el problema de la última milla»
 
-1.  **No todo es aumentar parámetros y datos:** Desde siempre ha habido avances que van más allá de la pura fuerza bruta. Técnicas como el *Supervised Fine-Tuning* (SFT) y el *Reinforcement Learning from Human Feedback*(RLHF) han sido esenciales para mejorar la utilidad y el desempeño de los modelos. Lo mismo sucede con innovaciones como forzar al modelo a “pensar” antes de responder, descomponiendo el problema en pasos más pequeños.
-2.  **Todavía hay dominios especializados subexplotados:** Aunque ya se haya usado la mayor parte del texto en Internet para el entrenamiento de modelos de propósito general, todavía hay campos como la biología o la química donde queda mucho por explorar. Entrenar en conjuntos de datos específicos de estos dominios podría traducirse en grandes avances, y en algunos casos estos avances se trasladan incluso al rendimiento general (como sucedió con el entrenamiento adicional en código).
-3.  **Mayor cómputo en el momento de la inferencia:** Aunque el pre-entrenamiento se vuelva carísimo, estamos empezando a ver cuánto pueden mejorar los modelos si les damos más recursos en la etapa de inferencia (momento de la generación de respuestas). Las variantes de modelos como O1 han demostrado que, al dedicarles más tiempo de “razonamiento”, sus respuestas mejoran sustancialmente.
+**Acertó, y es la predicción más útil de las seis.** Su argumento: los modelos son buenos en general y malos en tu caso concreto, y ese hueco —integraciones, datos propios, casos límite, responsabilidad cuando falla— es donde queda valor que capturar.
 
-En resumen: lo más probable es que los LLM (modelos de lenguaje a gran escala) sigan mejorando con más datos y más cómputo, aunque quizá no al ritmo vertiginoso que vimos en los últimos años. Además, veremos un enfoque cada vez mayor en lo que ocurre después del pre-entrenamiento.
+Lo hemos comprobado por nuestra cuenta al desmenuzar qué hace falta para [montar un agente de voz que atienda llamadas](/blog/montar-agente-de-voz-ia-que-atienda-llamadas/): de las cinco piezas necesarias, **solo una es inteligencia artificial**. Las otras cuatro son numeración telefónica, acceso a los datos, integración con los sistemas existentes y una salida hacia una persona cuando la conversación se tuerce. Esa proporción —una parte de modelo por cuatro de integración— es la última milla descrita con números.
 
-* * *
+## 5. «Los "empleados virtuales" podrían ser una moda pasajera»
 
-## 2) No habrá otro “invierno de la IA”…
+**Acertó, y es la predicción más contraintuitiva.** En enero de 2025 el marco dominante era vender agentes como si fueran personal: «contrata a un SDR de IA», con precio por «empleado» y hasta foto de perfil.
 
-Cuando una tecnología está en su punto álgido de popularidad, es normal que tras unas expectativas infladas aparezca la desilusión. De ahí que algunos teman un nuevo “invierno de la IA”.
+Janz sospechaba que la metáfora se caería, y se ha caído. No porque los agentes no funcionen, sino porque la metáfora **traslada al comprador una expectativa que el producto no cumple**: un empleado aprende del contexto, pregunta cuando duda y responde de sus errores. Un agente hace lo que se le ha definido. Cuando el marco promete lo primero y entrega lo segundo, la decepción llega en la primera renovación.
 
-Personalmente, no lo creo.
+## 6. «Con agentes repensaremos la interacción persona-ordenador»
 
--   **Fracasos puntuales, sí habrá.** Muchos pilotos no se convertirán en implementaciones permanentes, y varias startups podrían quebrar, incluidas algunas que han recaudado decenas de millones antes de tener un producto realmente consolidado.
--   **Desencanto en proyectos específicos.** Habrá áreas donde las soluciones no cumplan lo que prometen, provocando decepción.
--   **Posibles grandes fracasos en jugadores con mucha inversión.** Algunas empresas podrían haber gastado cientos de millones en entrenar modelos sin lograr una ventaja competitiva sostenible.
+**Es la que falló, y falló por el lado que no se esperaba.** La apuesta era que los agentes reescribirían la interfaz de usuario: menos pantallas, más conversación, el software adaptándose a la intención.
 
-No obstante, no creo que veamos un invierno generalizado en el que la gente dude del valor de la IA como campo. La IA hoy ya aporta demasiado valor en codificación, transcripciones médicas, traducciones, atención al cliente o como impulsor de la productividad de millones de personas. Además, la cantidad de capital y talento invertidos en los últimos años seguirá impulsando la innovación, incluso si el crecimiento futuro no depende tanto del pre-entrenamiento masivo.
+Lo que ha pasado en 2026 es distinto y más profundo: **el cambio no ha sido en la interfaz de las aplicaciones, sino en la del acceso al conocimiento**. La conversación no ha sustituido a los formularios; ha sustituido al buscador.
 
-Tal y como dijo Richard Socher, si llega un invierno de la IA, será un invierno ligero, muy al estilo de California. Nada parecido al frío invernal de Berlín.
+Y ahí tenemos datos propios. Desde que este sitio dejó de bloquear a los rastreadores de IA, el contador del servidor registra dos poblaciones muy distintas:
 
-* * *
+| Familia | Qué hace | Peticiones |
+|---|---|---|
+| Búsqueda generativa | Construye el índice que consulta el modelo | 374 |
+| Buscador clásico | SEO de toda la vida | 53 |
+| Entrenamiento | Alimenta el conocimiento base | 23 |
+| **Agentes en vivo** | Visita porque alguien pregunta **ahora** | **12** |
 
-## 3) … pero algunas de las startups más destacadas no sobrevivirán
+Esa última fila no existía hace dos años. Son visitas que no vienen de una persona navegando, sino de un agente que está redactando una respuesta en ese instante. La interacción persona-ordenador sí se ha repensado — pero en la capa de descubrimiento, no en la de aplicación.
 
-En estos años, muchas startups de IA han pasado de 0 a varios millones de dólares en ARR (incluso más) a una velocidad que antes era muy inusual. Hay varios motivos:
+## Qué queda de todo esto
 
--   **Construir productos de IA es más fácil que nunca.** Los avances hacen que sea posible asombrar a los usuarios, y en ciertos nichos la demanda ha explotado.
--   **El efecto “ChatGPT”.** El lanzamiento de ChatGPT impulsó la adopción de IA en todas partes. Muchas empresas quieren probar herramientas de IA, así que lograr un piloto hoy es más sencillo que nunca. Por ejemplo, en el sector legal —tradicionalmente reacio a la tecnología—, la adopción de la IA ha pasado de un 19% a un 79% en solo un año.
+El patrón que emerge no es «acertó cinco de seis». Es más específico:
 
-Aun así, me temo que muchas de estas startups, tras un crecimiento vertiginoso, se estancarán cuando los pilotos no se renueven o cuando la competencia ofrezca soluciones parecidas con mayor facilidad. Esto ocurre especialmente en:
+- **Las predicciones sobre capacidad técnica acertaron.** Se apoyaban en tendencias medibles.
+- **Las predicciones sobre modelos de negocio acertaron.** Se apoyaban en incentivos, que cambian despacio.
+- **La predicción sobre cómo cambiaría el uso falló.** Se apoyaba en imaginar la interfaz del futuro, que es donde todo el mundo se equivoca.
 
--   **Soluciones de punto sustituibles:** Herramientas que son fáciles de adoptar pero igual de fáciles de dejar.
--   **Funciones agregadas fácilmente replicables:** Por ejemplo, si el incumbente integra las mismas capacidades de IA.
--   **Productos con humanos en el circuito:** Cuando el ingreso inicial es más indicador de demanda de un servicio humano que de un verdadero *product-market fit* de IA.
+Es la misma asimetría que se ve en casi toda la prospectiva tecnológica: **se acierta el qué y se falla el dónde**. La capacidad llegó; el sitio donde iba a cambiar las cosas no era el que se señalaba.
 
-En definitiva, la ola de la IA sube muchas embarcaciones, pero no todas se mantendrán a flote.
+## Preguntas frecuentes
 
-* * *
+### ¿Hubo un invierno de la IA en 2025 o 2026?
 
-## 4) Las startups resolverán el “problema de la última milla” de la IA
+No. Un invierno de la IA implica una retirada prolongada de financiación e interés, y no ocurrió ninguna de las dos cosas. El cuello de botella del sector se desplazó hacia la infraestructura de cómputo y energía, no hacia la falta de inversión.
 
-Cuando salió ChatGPT, muchos en el mundo tech (incluyéndome) nos preguntamos: “Si la IA sigue avanzando tan rápido, ¿qué queda para las startups? ¿No lo harán todo OpenAI, Anthropic y Google con sus grandes LLM? ¿Todavía necesitaremos software especializado si en unos años tenemos un supermodelo que acceda a todos los datos de la empresa?”
+### ¿Se estancaron los modelos de lenguaje?
 
-Son dudas razonables, pero con lo que he visto en los últimos dos años, pienso que, debido a (o, irónicamente, gracias a) la creciente capacidad de los grandes modelos, habrá más (no menos) oportunidades para las startups. Cuanto más potentes se vuelven los modelos, más se necesitan soluciones que aborden los detalles y obstáculos específicos: lo que llamamos la “última milla”.
+No. El preentrenamiento dio rendimientos decrecientes, pero apareció otra palanca: dedicar más cómputo al razonamiento en el momento de responder. En pruebas difíciles como Humanity's Last Exam el resultado pasó del 26,6% en febrero de 2025 a en torno al 53% en agosto de 2026.
 
-**¿Por qué la mejora de los modelos abre más oportunidades para las startups?**
+### ¿Qué es el problema de la última milla en IA?
 
-### A) Las expectativas crecen rápidamente
+Es la distancia entre un modelo que funciona en general y un sistema que resuelve un caso concreto. Cubrirla exige integraciones, acceso a datos propios, gestión de casos límite y una vía de escalado a una persona. En un agente de voz, cuatro de las cinco piezas necesarias corresponden a esa última milla.
 
-Si antes nos asombraba un texto mínimamente coherente, ahora GPT-4, Gemini 2 y otros modelos hacen ensayos, depuran código y mucho más. Las empresas exigen soluciones fiables, precisas (basadas en hechos y datos internos) y seguras. Eso requiere tecnología y dedicación extra para que el modelo no “alucine” información ni cometa errores graves.
+### ¿Por qué fracasó la idea de los «empleados virtuales de IA»?
 
-### B) La integración es compleja
+Porque la metáfora prometía algo que el producto no da. Un empleado aprende del contexto, pregunta cuando duda y responde de sus errores; un agente ejecuta lo que se le ha definido. Vender lo segundo con el lenguaje de lo primero genera una expectativa que se rompe en la primera renovación del contrato.
 
-Las organizaciones suelen tener sistemas internos muy particulares, con workflows complicados y datos en diversos formatos. Integrar un modelo base (foundation model) con todo eso no es tan sencillo como suena. La *RAG* (generación aumentada con recuperación de datos) es un claro ejemplo: en la práctica, hay que pensar en procesos de chunking, almacenamiento eficiente, clasificación de documentos, latencia y filtros para evitar que el contexto sea irrelevante o engañoso.
+### ¿Han cambiado los agentes de IA la forma de usar el software?
 
-### C) Los sistemas *agentes* amplían el área de riesgo
-
-El futuro apunta a herramientas de IA que puedan completar tareas de varios pasos de forma autónoma. Pero cuanta más autonomía demos a un agente, mayor es la complejidad y la importancia de garantizar su correcto funcionamiento. Se incrementa drásticamente la necesidad de supervisión, seguridad y auditoría.
-
-En definitiva, si los modelos expansivos no cubren toda la “última milla”, se abre una época dorada para las startups que conviertan la “materia prima” de la IA en soluciones robustas y listas para la empresa.
-
-* * *
-
-## 5) “Empleados virtuales” podría ser solo una moda pasajera
-
-Hace unos 12-18 meses empezó a surgir un tipo fascinante de startups que ofrecen “trabajadores digitales” con rasgos humanos (a veces con cara y nombre) para automatizar tareas de principio a fin en departamentos como ventas o servicio al cliente. Si has estado en San Francisco últimamente, seguro viste los carteles de Artisan por la ciudad.
-
-La idea es innovadora y fresca. Además:
-
--   Se basa en las mismas herramientas que usan los empleados humanos, de modo que minimiza la integración y acelera la adopción.
--   Ofrece un modelo de precios potencialmente disruptivo.
--   Propone un *pitch* muy atractivo para el cliente: “Mantén tu software y tu forma de trabajar, pero agrega algunos ‘empleados virtuales’ para reducir costos y esfuerzo”.
-
-Sin embargo, me pregunto si realmente tiene sentido a largo plazo humanizar tanto a estos “trabajadores de IA” o si solo es un truco práctico para el contexto actual, que permite ganar clientes en la oleada de adopción. Tiendo a pensar más en la segunda opción. Con frecuencia, un rol laboral no se puede reemplazar al 100%: por ejemplo, si la IA puede encargarse del 80% de las tareas de un SDR pero solo del 25% de las de un Ejecutivo de Cuentas (AE), no basta con sustituir a todos los SDR con “SDRs virtuales”.
-
-Aún queda mucho por descubrir sobre cómo encaja la IA en los equipos humanos, pero mi intuición es que los “empleados de IA” con cara y nombre no serán la solución definitiva.
-
-* * *
-
-## 6) Con IA *agente*, repensaremos la interacción humano-computadora
-
-La IA agente (modelos capaces de navegar por la web, ejecutar código, usar herramientas externas y realizar transacciones) exige que repensemos por completo cómo interactuamos con el software. No estamos acostumbrados a otorgarle tanto poder a un sistema, y uno de los mayores retos será definir qué pueden hacer estos agentes de forma independiente y dónde deben pedir confirmación humana.
-
-Imagina un agente que gestione tus reservas de viaje. Incluso una tarea tan aparentemente sencilla implica decisiones de compromiso: ¿prefieres un vuelo más barato o uno con menos escalas? Aunque conozca tus preferencias, no siempre acertará en cada situación concreta. Ahora extrapola esto a tareas más complejas dentro de una empresa, donde las consecuencias (y los costos de error) son mayores.
-
-Muchos desafíos tendrán que superarse para delegar tareas complejas de manera segura y confiable. Una analogía útil es la de un empleado que, poco a poco, va ganando permisos conforme demuestra su competencia. Pero, como dije antes, estas comparaciones con lo humano podrían ser equivalentes a la interfaz “skeuomórfica” de los primeros iPhones: algo que ayuda durante la transición, pero que luego se queda obsoleto.
-
-Después de 25 años construyendo y financiando software —primero como fundador y luego como inversor—, veo que entramos en una etapa completamente nueva, con paradigmas de interacción humano-computadora que tendrán que inventarse de cero. Y estoy deseando ver cómo los fundadores más brillantes diseñan el futuro de esta relación entre humanos y máquinas.
-
-* * *
-
-## Conclusión
-
-Vivimos uno de los momentos más emocionantes de la historia de la IA. Aunque el ritmo de mejora de los grandes modelos pueda desacelerarse y aunque muchas startups se queden en el camino, no parece que vayamos a enfrentarnos a un “invierno de la IA” similar al del pasado. En cambio, se abre un gran abanico de oportunidades para quienes sepan resolver la última milla, especializar modelos en nichos clave o diseñar la interacción con agentes inteligentes de manera confiable y ética.
-
-Las próximas olas de innovación llegarán con fuerza y, si la teoría se cumple, veremos una “edad dorada” para las startups de IA que construyan soluciones altamente especializadas y de gran valor añadido. Así que… ¡preparemos la tabla de surf, porque el oleaje en 2025 promete ser intenso!
+Menos de lo previsto en las aplicaciones y mucho más en el acceso al conocimiento. La conversación no ha sustituido a los formularios, pero sí está sustituyendo al buscador: los servidores empiezan a recibir visitas de agentes que consultan una página mientras redactan una respuesta para alguien.
