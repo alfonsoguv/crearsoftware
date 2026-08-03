@@ -8,5 +8,9 @@ test-results/
 *.xml
 .dev.vars
 .dev.vars.bak
+# load-local-env.mjs también lee .env.local y .env: si no se ignoran, una
+# credencial guardada ahí acaba en un commit.
+.env
+.env.local
 .migration-review/
 .design-import/
