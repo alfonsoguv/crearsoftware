@@ -1004,6 +1004,12 @@ if (posts.length > 0) {
     siteUrl: SITE_URL,
     metaDescription: escapeHtml(SITE_DESCRIPTION),
     canonicalUrl: SITE_URL,
+    // Verificación de Bing Webmaster Tools por meta etiqueta, como alternativa
+    // al fichero BingSiteAuth.xml. Se rellena con BING_SITE_VERIFICATION en el
+    // entorno; sin ella no se emite nada.
+    siteVerification: process.env.BING_SITE_VERIFICATION
+      ? `  <meta name="msvalidate.01" content="${escapeHtml(process.env.BING_SITE_VERIFICATION)}">\n`
+      : '',
     featuredPosts: featuredPostsHTML,
     // Las guías pilar no tenían ningún enlace interno entrante: solo llegaban
     // desde el sitemap. Enlazarlas desde la home las pone al alcance de un

@@ -40,7 +40,9 @@ done
 # Static files
 # _redirects lo genera build-blog.js (base del repo + reglas para slugs con "¿"),
 # así que no se copia aquí: hacerlo sobrescribiría las reglas generadas.
-for file in _headers robots.txt 404.html; do
+# BingSiteAuth.xml: fichero de verificación de Bing Webmaster Tools. Solo se
+# copia si existe, así que el build no falla mientras no se haya dado de alta.
+for file in _headers robots.txt 404.html BingSiteAuth.xml; do
   if [ -f "$file" ]; then
     cp "$file" dist/
     echo "  copied $file"
