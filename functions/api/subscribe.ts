@@ -174,7 +174,7 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
     //
     // A cambio es por centro de datos, no global: quien rote de POP —o de IP—
     // evade el límite. Nunca fue una defensa antiabuso seria; el bloqueo duro
-    // va en el WAF (Issue #34). El host de la clave es sintético a propósito:
+    // va en el WAF (Issue #36). El host de la clave es sintético a propósito:
     // con una URL real de la zona, la entrada sería alcanzable desde fuera y
     // delataría qué IPs se han dado de alta en la última hora.
     const ip = context.request.headers.get("CF-Connecting-IP") || "unknown";
