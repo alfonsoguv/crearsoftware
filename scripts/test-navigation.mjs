@@ -275,7 +275,34 @@ async function testNewsletterUi(page) {
     log('PASS', 'Asset inexistente -> 404');
   }
 
-  console.log('\n=== TEST 8: Newsletter y eventos ===');
+  // Regresión de la Issue #33: el endpoint de ingesta de eventos se retiró
+  // porque aceptaba escrituras anónimas en KV y agotaba el cupo compartido con
+  // el alta de newsletter. Si algún día vuelve a responder, hay que enterarse.
+  if (await testResponse(api, '/api/event', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    data: { type: 'pageview', path: '/blog/' },
+    expectedStatus: [404, 405],
+  })) {
+    log('PASS', '/api/event retirado (Issue #33)');
+  }
+
+  // Solo se admiten 7, 28 y 90: con un rango continuo, variar la query esquivaba
+  // la caché y forzaba un recorrido completo de KV en cada petición.
+  const botsDays = await testResponse(api, '/api/bots?days=14', {
+    expectedStatus: [200, 503],
+  });
+  if (botsDays) {
+    let body = null;
+    try { body = JSON.parse(botsDays.body); } catch { /* respuesta no JSON */ }
+    if (!body || body.ok === false || body.days === 28) {
+      log('PASS', '/api/bots?days=14 -> ventana normalizada a 28');
+    } else {
+      log('FAIL', `/api/bots?days=14 -> devolvio days=${body.days}, esperaba 28`);
+    }
+  }
+
+  console.log('\n=== TEST 8: Newsletter ===');
   const subscribe = await testResponse(api, '/api/subscribe', {
     method: 'POST',
     headers: {
@@ -293,23 +320,6 @@ async function testNewsletterUi(page) {
     bodyExcludes: 'Internal Server Error',
   });
   if (subscribe) log('PASS', `/api/subscribe -> ${subscribe.response.status()}`);
-
-  const event = await testResponse(api, '/api/event', {
-    method: 'POST',
-    headers: {
-      'content-type': 'application/json',
-      accept: 'application/json',
-      origin: BASE,
-    },
-    data: {
-      type: 'pageview',
-      path: '/blog/',
-      ts: new Date().toISOString(),
-    },
-    expectedStatus: [200, 202, 204],
-    bodyExcludes: 'Internal Server Error',
-  });
-  if (event) log('PASS', `/api/event -> ${event.response.status()}`);
 
   await testNewsletterUi(page);
 

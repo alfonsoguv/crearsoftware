@@ -145,7 +145,10 @@ async function main() {
   const today = new Date().toISOString().slice(0, 10);
   await mkdir(DATA_DIR, { recursive: true });
 
-  const markdown = renderMarkdown(data, days, base);
+  // Se etiqueta con la ventana que aplicó el endpoint, no con la pedida: solo
+  // admite 7, 28 y 90, y cualquier otro valor cae en 28. Usar `days` aquí
+  // rotularía "ultimos 14 dias" un informe con datos de 28.
+  const markdown = renderMarkdown(data, data.days ?? days, base);
   const targets = [
     [`geo-agents-${today}.json`, JSON.stringify(data, null, 2)],
     ['geo-agents-latest.json', JSON.stringify(data, null, 2)],
@@ -158,7 +161,7 @@ async function main() {
   }
 
   console.log('');
-  console.log(`Peticiones de agentes en ${days} dias: ${data.totalHits}`);
+  console.log(`Peticiones de agentes en ${data.days ?? days} dias: ${data.totalHits}`);
   console.log('');
   console.log('Generated files:');
   for (const [name] of targets) console.log(`- data/${name}`);
