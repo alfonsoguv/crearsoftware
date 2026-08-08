@@ -34,9 +34,11 @@ function requireApiKey() {
   return key;
 }
 
-// Bing serializa las fechas como /Date(1234567890000)/.
+// Bing serializa las fechas al estilo WCF, y no siempre igual: `/Date(1234567890000)/`
+// en unos endpoints y `/Date(1234567890000-0700)/` en otros. El offset se ignora
+// —el número ya son milisegundos UTC— pero hay que admitirlo en el patrón.
 function parseMsDate(value) {
-  const match = String(value ?? '').match(/\/Date\((-?\d+)\)\//);
+  const match = String(value ?? '').match(/\/Date\((-?\d+)(?:[+-]\d{4})?\)\//);
   if (!match) return null;
   const date = new Date(Number(match[1]));
   // El valor centinela de "nunca" es una fecha de 1601.
@@ -129,10 +131,11 @@ async function main() {
     '## Top queries',
     '',
     ...table(topQueries, [
+      { label: 'Fecha', value: (r) => parseMsDate(r.Date)?.toISOString().slice(0, 10) ?? '-' },
       { label: 'Query', value: (r) => r.Query ?? '-' },
       { label: 'Clics', value: (r) => r.Clicks ?? 0 },
       { label: 'Impresiones', value: (r) => r.Impressions ?? 0 },
-      { label: 'Posicion', value: (r) => r.Position ?? '-' },
+      { label: 'Posicion', value: (r) => (r.AvgImpressionPosition >= 0 ? r.AvgImpressionPosition : '-') },
     ]),
     '',
     '## Sitemaps',
