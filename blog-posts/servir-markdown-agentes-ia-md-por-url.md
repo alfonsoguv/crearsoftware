@@ -63,7 +63,7 @@ Adivinar la URL no debería ser necesario. Hay tres sitios donde declararlo, y c
 
 ```html
 <link rel="alternate" type="text/markdown"
-      href="https://crearsoftware.com/blog/mi-articulo.md"
+      href="https://example.com/blog/mi-articulo.md"
       title="Versión Markdown para agentes de IA">
 ```
 

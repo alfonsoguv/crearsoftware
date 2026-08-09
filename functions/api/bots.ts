@@ -1,7 +1,8 @@
 /**
  * GEO: lectura de los contadores de rastreadores de IA que agrega _middleware.ts.
  *
- * GET /api/bots?days=28  ->  { days, totals: {bot: hits}, daily: {fecha: {bot: hits}}, topPaths }
+ * GET /api/bots?days=28  ->  { days, totals: {bot: hits}, daily: {fecha: {bot: hits}},
+ *                             topPaths, formats: {bot: {md|llms|html|unknown: hits}} }
  *
  * `days` solo admite 7, 28 o 90; cualquier otro valor cae en 28. La ventana
  * aplicada viene en el campo `days` de la respuesta: úsala para etiquetar.
@@ -63,6 +64,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
   const totals: Record<string, number> = {};
   const daily: Record<string, Record<string, number>> = {};
   const paths: Record<string, number> = {};
+  const formats: Record<string, Record<string, number>> = {};
 
   // Las claves son bot:<fecha>:<hora>:<bot>; se listan por prefijo de fecha.
   for (const date of wanted) {
@@ -78,7 +80,11 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
         const raw = await kv.get(key.name);
         if (!raw) continue;
 
-        let entry: { hits?: number; paths?: Record<string, number> };
+        let entry: {
+          hits?: number;
+          paths?: Record<string, number>;
+          fmt?: Record<string, number>;
+        };
         try {
           entry = JSON.parse(raw);
         } catch {
@@ -92,6 +98,20 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
 
         for (const [p, n] of Object.entries(entry.paths || {})) {
           paths[p] = (paths[p] || 0) + n;
+        }
+
+        // Formato servido, por agente. Las entradas escritas antes de que el
+        // middleware contara `fmt` no lo traen: esos hits se acumulan como
+        // "unknown" en vez de contarse como HTML, para no inflar el
+        // denominador del experimento de los gemelos Markdown.
+        const fmtEntry = entry.fmt || {};
+        const counted = Object.values(fmtEntry).reduce((s, n) => s + n, 0);
+        if (!formats[agent]) formats[agent] = {};
+        for (const [f, n] of Object.entries(fmtEntry)) {
+          formats[agent][f] = (formats[agent][f] || 0) + n;
+        }
+        if (hits > counted) {
+          formats[agent].unknown = (formats[agent].unknown || 0) + (hits - counted);
         }
       }
     } while (cursor);
@@ -111,6 +131,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
       totals,
       daily,
       topPaths,
+      formats,
     }),
     { headers },
   );

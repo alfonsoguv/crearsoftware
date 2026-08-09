@@ -45,6 +45,52 @@ function familyOf(agent) {
   return 'Otros';
 }
 
+// Formato servido por familia. La pregunta que responde es si los agentes usan
+// de verdad los gemelos Markdown: es un experimento, no una practica con
+// evidencia publica. Los hits anteriores a la instrumentacion llegan como
+// `unknown` y se declaran aparte para no confundirlos con HTML.
+function renderFormats(data) {
+  const formats = data.formats;
+  if (!formats || !Object.keys(formats).length) return [];
+
+  const byFamily = {};
+  for (const [agent, counts] of Object.entries(formats)) {
+    const family = familyOf(agent);
+    byFamily[family] = byFamily[family] || { md: 0, llms: 0, html: 0, unknown: 0 };
+    for (const [f, n] of Object.entries(counts)) {
+      byFamily[family][f] = (byFamily[family][f] || 0) + n;
+    }
+  }
+
+  const totalKnown = Object.values(byFamily).reduce(
+    (s, c) => s + c.md + c.llms + c.html, 0,
+  );
+  if (totalKnown === 0) {
+    return [
+      '## Formato servido (md vs HTML)',
+      '',
+      'Instrumentacion recien desplegada: todavia no hay ninguna peticion medida.',
+      '',
+    ];
+  }
+
+  const lines = [];
+  lines.push('## Formato servido (md vs HTML)');
+  lines.push('');
+  lines.push('| Familia | Markdown | llms.txt | HTML | % Markdown | Sin medir |');
+  lines.push('| --- | --- | --- | --- | --- | --- |');
+  for (const [family, c] of Object.entries(byFamily)) {
+    const known = c.md + c.llms + c.html;
+    const pct = known ? ((c.md / known) * 100).toFixed(1) : '-';
+    lines.push(`| ${family} | ${c.md} | ${c.llms} | ${c.html} | ${pct}% | ${c.unknown} |`);
+  }
+  lines.push('');
+  lines.push('`Sin medir` son peticiones contabilizadas antes de instrumentar el formato');
+  lines.push('(2026-08-09). No se imputan a HTML: se declaran aparte.');
+  lines.push('');
+  return lines;
+}
+
 function renderMarkdown(data, days, base) {
   const lines = [];
   lines.push('# Informe de rastreadores de IA (GEO)');
@@ -109,6 +155,9 @@ function renderMarkdown(data, days, base) {
     }
     lines.push('');
   }
+
+  const fmtRows = renderFormats(data);
+  if (fmtRows.length) lines.push(...fmtRows);
 
   lines.push('## Caveats');
   lines.push('');

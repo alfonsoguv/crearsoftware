@@ -60,13 +60,20 @@ function identifyAgent(userAgent: string): string | null {
 // Solo interesan las páginas. Contar cada fuente, imagen y hoja de estilo
 // multiplicaría las escrituras sin aportar señal.
 function isPageRequest(url: URL): boolean {
-  const { pathname } = url;
-  if (pathname.endsWith("/") || pathname.endsWith(".html")) return true;
-  if (pathname === "/llms.txt" || pathname === "/llms-full.txt") return true;
-  // Gemelos Markdown: saber si los agentes los piden es justo el dato que
-  // justifica mantenerlos.
-  if (pathname.endsWith(".md")) return true;
-  return false;
+  return formatOf(url.pathname) !== null;
+}
+
+// Formato servido. Es la pregunta abierta del experimento de los gemelos
+// Markdown: no hay evidencia pública de que servir `.md` aumente las citas, así
+// que hace falta medir qué proporción de las lecturas de agentes va a Markdown.
+// El top de rutas no sirve para eso: está truncado a 25 y deja fuera la cola.
+// Este agregado va DENTRO de la entrada que ya se escribe, así que no añade ni
+// una clave ni una escritura a KV (ver la nota de cuota en la cabecera).
+function formatOf(pathname: string): "md" | "llms" | "html" | null {
+  if (pathname.endsWith(".md")) return "md";
+  if (pathname === "/llms.txt" || pathname === "/llms-full.txt") return "llms";
+  if (pathname.endsWith("/") || pathname.endsWith(".html")) return "html";
+  return null;
 }
 
 async function recordHit(kv: KVNamespace, agent: string, pathname: string) {
@@ -82,6 +89,15 @@ async function recordHit(kv: KVNamespace, agent: string, pathname: string) {
   // Se guardan solo las rutas más vistas para que el valor no crezca sin control.
   if (Object.keys(entry.paths).length < 50) {
     entry.paths[pathname] = (entry.paths[pathname] || 0) + 1;
+  }
+
+  // La clave ya lleva el bot, así que este contador queda desglosado por agente
+  // sin trabajo extra. Las entradas anteriores al cambio no tienen `fmt`: el
+  // lector las trata como desconocidas en vez de imputarlas a HTML.
+  const fmt = formatOf(pathname);
+  if (fmt) {
+    entry.fmt = entry.fmt || {};
+    entry.fmt[fmt] = (entry.fmt[fmt] || 0) + 1;
   }
 
   await kv.put(key, JSON.stringify(entry), { expirationTtl: TTL_SECONDS });
