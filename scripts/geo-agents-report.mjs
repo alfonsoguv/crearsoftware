@@ -166,6 +166,13 @@ function renderMarkdown(data, days, base) {
   lines.push('  tendencia, no para auditoria exacta.');
   lines.push('- Solo se cuentan peticiones de paginas (HTML, llms.txt), no de assets.');
   lines.push('- El user-agent es declarado por el cliente y se puede falsificar.');
+  lines.push('- OJO: comprobar a mano que los agentes no estan bloqueados con');
+  lines.push('  `curl -A "ChatGPT-User" https://crearsoftware.com/` INYECTA un hit en la');
+  lines.push('  familia "agentes en vivo", que mueve entre 1 y 18 peticiones al dia. Usa');
+  lines.push('  `/robots.txt` para ese chequeo: responde igual y no entra en el contador.');
+  lines.push('- La ventana de 28 dias solo esta llena si el contador lleva 28 dias activo.');
+  lines.push('  Arranco el 2026-08-01: hasta el 2026-08-29 los totales acumulados suben');
+  lines.push('  solos y NO son comparables entre semanas. Compara la serie diaria.');
   lines.push('');
 
   return lines.join('\n');
