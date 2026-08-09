@@ -1,17 +1,17 @@
 {
   "ok": true,
   "days": 28,
-  "generatedAt": "2026-08-09T10:38:07.186Z",
-  "totalHits": 3280,
+  "generatedAt": "2026-08-09T10:49:00.057Z",
+  "totalHits": 3295,
   "totals": {
-    "Bingbot": 1316,
-    "Googlebot": 570,
+    "Bingbot": 1328,
+    "Googlebot": 572,
     "Amazonbot": 790,
     "PerplexityBot": 385,
     "ClaudeBot": 52,
     "GPTBot": 78,
     "ChatGPT-User": 57,
-    "Claude-User": 7,
+    "Claude-User": 8,
     "OAI-SearchBot": 9,
     "Google-Extended": 3,
     "Meta-ExternalAgent": 3,
@@ -23,14 +23,14 @@
   },
   "daily": {
     "2026-08-09": {
-      "Bingbot": 21,
-      "Googlebot": 39,
+      "Bingbot": 33,
+      "Googlebot": 41,
       "Amazonbot": 11,
       "PerplexityBot": 14,
       "ClaudeBot": 1,
       "GPTBot": 2,
       "ChatGPT-User": 1,
-      "Claude-User": 1
+      "Claude-User": 2
     },
     "2026-08-08": {
       "Amazonbot": 69,
@@ -134,11 +134,11 @@
     },
     {
       "path": "/",
-      "hits": 124
+      "hits": 125
     },
     {
       "path": "/blog/",
-      "hits": 109
+      "hits": 110
     },
     {
       "path": "/2007/06/23/ejemplos-de-input-output-y-actividades/",
@@ -146,7 +146,7 @@
     },
     {
       "path": "/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
-      "hits": 21
+      "hits": 22
     },
     {
       "path": "/wp-content/uploads/",
@@ -181,11 +181,11 @@
       "hits": 10
     },
     {
-      "path": "/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/",
-      "hits": 9
+      "path": "/2025/03/10/agentes-de-voz-con-ia-analisis-completo-del-panorama-2025/",
+      "hits": 10
     },
     {
-      "path": "/2025/03/10/agentes-de-voz-con-ia-analisis-completo-del-panorama-2025/",
+      "path": "/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/",
       "hits": 9
     },
     {
@@ -193,8 +193,16 @@
       "hits": 9
     },
     {
+      "path": "/guia/guia-herramientas-productividad-2026/",
+      "hits": 8
+    },
+    {
       "path": "/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/",
       "hits": 8
+    },
+    {
+      "path": "/sobre/",
+      "hits": 7
     },
     {
       "path": "/guia/guia-desarrollo-software-moderno/",
@@ -209,10 +217,6 @@
       "hits": 7
     },
     {
-      "path": "/guia/guia-herramientas-productividad-2026/",
-      "hits": 7
-    },
-    {
       "path": "/2008/03/12/%C2%BFque-es-un-producto/",
       "hits": 7
     },
@@ -223,10 +227,59 @@
     {
       "path": "/2007/06/23/las-tiendas-outlet/",
       "hits": 6
-    },
-    {
-      "path": "/guia/guia-agentes-ia-empresas/",
-      "hits": 6
     }
-  ]
+  ],
+  "formats": {
+    "Bingbot": {
+      "unknown": 1316,
+      "html": 11,
+      "md": 1
+    },
+    "Googlebot": {
+      "unknown": 571,
+      "html": 1
+    },
+    "Amazonbot": {
+      "unknown": 790
+    },
+    "PerplexityBot": {
+      "unknown": 385
+    },
+    "ClaudeBot": {
+      "unknown": 52
+    },
+    "GPTBot": {
+      "unknown": 78
+    },
+    "ChatGPT-User": {
+      "unknown": 57
+    },
+    "Claude-User": {
+      "unknown": 8
+    },
+    "OAI-SearchBot": {
+      "unknown": 9
+    },
+    "Google-Extended": {
+      "unknown": 3
+    },
+    "Meta-ExternalAgent": {
+      "unknown": 3
+    },
+    "Perplexity-User": {
+      "unknown": 3
+    },
+    "cohere-ai": {
+      "unknown": 1
+    },
+    "Claude-SearchBot": {
+      "unknown": 2
+    },
+    "CCBot": {
+      "unknown": 3
+    },
+    "Applebot-Extended": {
+      "unknown": 1
+    }
+  }
 }
