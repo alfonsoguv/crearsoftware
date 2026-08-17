@@ -191,3 +191,51 @@ Sigue viva la predicción falsable sobre las guías pilar: enlazadas desde la ho
 de septiembre. Si se quedan por debajo de 60, el enlazado interno no era el cuello de
 botella. Dato colateral de esta semana: las cinco guías reciben tráfico de agentes
 (17, 13, 12 y 11 peticiones las cuatro más leídas), así que sí están siendo descubiertas.
+
+---
+
+## Addenda 2026-08-17: GSC desbloqueado y corrección de la tasa de indexación
+
+El token de GSC ya funciona. La app OAuth pasó a **«En producción»**, que es lo que quita la
+caducidad de 7 días —esa regla solo aplica en estado *Prueba*—, y se emitió un refresh token
+nuevo. El bloqueo que arrastraban los dos informes anteriores queda cerrado.
+
+Con eso se pudo ejecutar `seo:gsc:indexation`, y el resultado **corrige una conclusión previa**.
+
+### El «60% de tasa de indexación» era ruido de muestreo
+
+El informe del 02-ago declaró que «la tasa de indexación real del sitio es del 60%, no el 84%».
+La serie completa de ejecuciones dice otra cosa:
+
+| Fecha | n válidas | Indexadas | Tasa |
+| --- | --- | --- | --- |
+| 2026-04-01 | 99 | 73 | **73,7%** |
+| 2026-04-02 | 25 | 20 | 80,0% |
+| 2026-05-31 | 25 | 19 | 76,0% |
+| 2026-07-31 | 25 | 20 | 80,0% |
+| 2026-08-01 | 25 | 21 | 84,0% |
+| 2026-08-02 | 25 | 15 | **60,0%** |
+| 2026-08-17 | 21 | 20 | **95,2%** |
+
+El 60% y el 95,2% son los dos extremos de la dispersión de una muestra de 25, no dos estados
+del sitio. El propio IC del 60% (41-77%) ya contenía al resto de ejecuciones: **nunca hubo
+contradicción con el 84%, hubo sobreinterpretación de una muestra suelta.** La lectura correcta
+es que la tasa ronda el **75-80% y lleva estable todo el año**, con la ejecución de abril
+(n=99, IC 64-81%) como la más informativa.
+
+Tampoco hay que leer el 95,2% de hoy como una mejora: es una muestra de 21 y arrastra el sesgo
+del punto siguiente.
+
+### Los timeouts de la API de inspección no son aleatorios
+
+De las 25 URLs inspeccionadas hoy, 4 dieron timeout. **Las 4 son exactamente las 4 que llevan
+`%C2%BF` en el slug** —el `¿` heredado de WordPress—, y ninguna de las 20 sin ese signo falló.
+Con 5 URLs de ese tipo en la muestra, 4 fallaron.
+
+Importa porque el script **excluye los errores del denominador**: hoy eso da 95,2% (20/21), y
+contarlos como no indexados daría 80% (20/25), que encaja con toda la serie histórica. Como el
+sitio tiene 218 posts con ese slug, el sesgo es estructural, no anecdótico.
+
+**Regla para los próximos informes: mirar `errorCount` antes que `indexedRatePercent`.**
+
+Cobertura acumulada del muestreo rotativo: 50 de 696 URLs, ejecución nº 2 del ciclo actual.
