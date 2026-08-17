@@ -239,3 +239,70 @@ sitio tiene 218 posts con ese slug, el sesgo es estructural, no anecdótico.
 **Regla para los próximos informes: mirar `errorCount` antes que `indexedRatePercent`.**
 
 Cobertura acumulada del muestreo rotativo: 50 de 696 URLs, ejecución nº 2 del ciclo actual.
+
+---
+
+## Addenda 2026-08-17 (2): consolidación de posts noindex y cierre de hipótesis
+
+### Indexación: 74,6% sobre media muestra del sitemap
+
+Dos ejecuciones más hoy (n=150 y n=200, ambas con 0 errores) llevan la cobertura acumulada
+a **349 de 696 URLs distintas**. Tasa consolidada: **74,6%** (IC 95% 69,8-78,9%, n=350).
+Extrapolado, **~177 URLs con contenido real fuera del índice**.
+
+**Cerradas todas las hipótesis sobre «Rastreada: actualmente sin indexar»** (45 de 53 casos
+en la muestra grande, ~85% del problema):
+
+| Hipótesis | Resultado |
+| --- | --- |
+| Longitud del texto | Descartada. n=150 daba 67/74/80/83% (p ≈ 0,16); n=200 lo deshace, 64/76/70/77% (p = 0,46) |
+| Duplicación semántica | Descartada. Jaccard mediano idéntico (0,333); solapamiento alto menos frecuente entre no indexadas |
+| Antigüedad | Descartada. 2007-10: 76% · 2011-15: 73% · 2016+: 78% |
+| `¿` (`%C2%BF`) en el slug | Descartada. 76% vs 76%, con la mitad del sitemap afectada |
+
+**Autocorrección dentro del mismo día:** con n=150 se leyó el gradiente de longitud como
+señal y se escribió que la conclusión previa («descartada») era «demasiado tajante». La
+muestra de n=200 lo desmiente. La conclusión previa era correcta. La lección de método es
+que un gradiente monótono sobre cuatro tramos y n=101 no es un hallazgo.
+
+Único resto accionable: las URLs en **«Google no reconoce esta URL»** (3 de 36 y 5 de 53).
+Están en el sitemap, responden 200 y no tienen problema de codificación.
+
+### Publicados: 5 artículos de consolidación
+
+Los 145 posts con `noindex` no son «artículos sin publicar»: suman **7.108 palabras entre
+todos**, mediana de 44, y 84 están por debajo de 50 palabras. Quitarles el `noindex` no los
+posicionaría y agravaría el problema dominante del sitio.
+
+En su lugar se han consolidado por tema. De los 145, **62 son caducos** (vídeos muertos,
+felicitaciones, eventos de 2007). De los 83 restantes, 29 se funden en 5 artículos:
+
+| Artículo | Palabras | Posts origen |
+| --- | ---: | ---: |
+| I+D, competitividad y adopción tecnológica en la empresa española | 1009 | 6 |
+| Éxito y fracaso en la empresa de software | 965 | 5 |
+| Marca, segmentación y arquetipos | 952 | 7 |
+| Liderar o gestionar | 946 | 4 |
+| Identidad digital y login federado | 862 | 7 |
+
+**Caveat declarado:** los 29 posts origen suman 2.006 palabras y los artículos 4.734. Más de
+la mitad del texto es nuevo. El valor está en el análisis de qué se cumplió y qué no, pero
+no es consolidación pura.
+
+Errores detectados en revisión y corregidos antes de publicar:
+
+- **Cifra incorrecta.** El artículo de identidad digital decía que OpenID pasó «de 120 a 250
+  millones» con Yahoo. Verificado contra fuente de la época: Yahoo anunció el 17-ene-2008
+  soporte para sus **248 millones** de usuarios, sobre ~120 millones de cuentas previas. El
+  error venía del post original de 2008 y se propagó. El artículo ahora lo dice explícitamente.
+- **12 enlaces rotos** en formato `./fichero.md`. Reescritos a URL real y verificados: todos 200.
+- El 80% del tiempo de gestión dedicado a comunicación se publica **declarado como no
+  verificado** dentro del propio artículo, no como dato duro.
+
+### Experimento falsable
+
+Los 5 artículos entran al sitemap (696 → 701 URLs) el 2026-08-17. **Predicción: al menos 3 de
+los 5 deben estar indexados en la revisión del 2026-08-24.** Si a los 7 días hay 1 o ninguno
+indexado, entonces publicar contenido nuevo tampoco entra al índice con facilidad, y el
+problema es del dominio y no de las páginas concretas — lo que reorientaría todo el trabajo
+de indexación. Comprobar con `seo:gsc:indexation --match=` sobre los 5 slugs.
