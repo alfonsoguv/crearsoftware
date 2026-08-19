@@ -354,3 +354,70 @@ y el umbral es decisión de Alfonso.
 
 Con el AI Overview encima esto no devuelve clics. Donde puede importar es en cómo un modelo
 valora la frescura del contenido al elegir a quién citar.
+
+---
+
+## Addenda 2026-08-19: AI Performance de Bing — 184 citas, 0 clics
+
+Alfonso exportó a mano los CSV de «AI Performance» (Bing Webmaster Tools, beta, sin API).
+Archivados en `data/bing-ai-performance/` porque la ventana del panel es limitada y sin
+archivarlos el dato se pierde. **Es la primera medición cuantitativa de citación de este
+sitio.**
+
+### El dato
+
+Del 4 al 17 de agosto de 2026: **184 citas en 14 días**, media de 13,1/día, sobre 1 a 5
+páginas citadas cada día.
+
+En la ventana del 4 al 13 de agosto, que es la misma del informe de Bing de esta semana:
+
+| | |
+| --- | --- |
+| Impresiones | 365 |
+| **Citas** | **126** |
+| Clics | **0** |
+| Ratio citas/impresiones | **34,5%** |
+
+**Una de cada tres impresiones acaba en cita. Ninguna acaba en visita.** Es la confirmación
+cuantitativa de lo que la SERP de Google mostró a ojo el 17-ago: el sitio funciona como
+fuente y ha dejado de funcionar como destino.
+
+Para dimensionarlo: en esos mismos 14 días Google trajo unos **30 clics**. Las citas de Bing
+son **6 veces más volumen de señal** que la métrica que se venía usando para medir el sitio.
+
+### Dónde se concentra: un post de 2007
+
+| Consulta | Intent | Citas | Citation share |
+| --- | --- | ---: | ---: |
+| input y output | Informational | 35 | **16,20%** |
+| «en la analogía histórica que se presenta en el módulo, ¿qué tienen en común la escritura, la imprenta, las calculadoras, los buscadores de internet y la ia?» | Learn and Solve | 27 | **37,50%** |
+| input y output significado | Informational | 18 | 14,29% |
+| qué es input y output | Informational | 8 | 12,70% |
+
+Las 4 consultas listadas suman 88 citas, el **48% del total**. De ellas, **el 69% son sobre
+input/output**: el post de 2007 que también aparece citado en el AI Overview de Google.
+
+Dos lecturas:
+
+1. **El citation share es alto para un blog personal.** 16,2% en su tema estrella significa
+   que en una de cada seis respuestas generadas sobre «input y output» aparece este sitio.
+2. **El activo es minúsculo en superficie y enorme en concentración.** De 701 URLs, solo 1-5
+   se citan cada día, y prácticamente todas las citas vienen de un tema.
+
+El segundo filón es la consulta de la analogía histórica: **37,5% de citation share**, la
+cuota más alta, y es literalmente una pregunta de un módulo formativo pegada en el buscador.
+Es demanda real que llega desde cursos de e-learning.
+
+### Caveat estadístico
+
+La serie diaria va de 2 a 30 citas. Media 13,1, varianza 84,3: **índice de dispersión
+φ = 6,41**, casi el doble de sobredispersión que el contador de agentes (φ = 3,45).
+**No aplicar Poisson a esta serie tampoco.** Con 14 días no hay base para declarar tendencia.
+
+### Consecuencia para la estrategia de contenido
+
+Los datos dicen que este sitio se cita por **definiciones claras de conceptos técnicos
+básicos**, no por ensayos de gestión. Conviene contrastarlo con lo publicado el 17-ago: los 5
+artículos de consolidación tratan de liderazgo, marca y éxito empresarial, que es
+precisamente el tipo de contenido que no aparece en esta tabla. La predicción del 24-ago
+sobre su indexación sigue en pie, pero su probabilidad de generar citas es baja.
