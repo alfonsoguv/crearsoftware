@@ -306,3 +306,51 @@ los 5 deben estar indexados en la revisión del 2026-08-24.** Si a los 7 días h
 indexado, entonces publicar contenido nuevo tampoco entra al índice con facilidad, y el
 problema es del dominio y no de las páginas concretas — lo que reorientaría todo el trabajo
 de indexación. Comprobar con `seo:gsc:indexation --match=` sobre los 5 slugs.
+
+---
+
+## Addenda 2026-08-17 (3): AI Overview confirmado — y el sitio SÍ está citado
+
+Auditoría manual de la SERP (Google, España, escritorio), consulta **`inputs y outputs`**:
+326 impresiones, 2 clics, posición media 4,7 en los últimos 28 días. CTR 0,6% donde lo
+normal en esa posición es 5-7%.
+
+**Lo que se ve:**
+
+1. La **«Vista creada con IA» ocupa la pantalla completa** y responde la pregunta entera:
+   definición de input, de output, aplicaciones. No queda ni un resultado orgánico visible
+   sin hacer scroll.
+2. Debajo del bloque de IA hay **otro bloque**, «Más preguntas», con cuatro acordeones.
+3. Solo entonces aparecen los resultados: Bestinver primero, **crearsoftware.com segundo**.
+
+**El sitio está citado dentro del AI Overview, dos veces:** como fuente de la definición de
+«Output (Salida)» en el cuerpo del texto, y en el panel de fuentes con el título completo del
+artículo — por delante de Bestinver.
+
+### Conclusión: el −73% interanual queda cerrado como estructural
+
+No es un problema de posicionamiento ni de snippet. El sitio está en el segundo resultado
+orgánico y citado en la respuesta generada. Lo que ha desaparecido es la visita, no la
+visibilidad. **No volver a proponer reescribir títulos y metadescripciones para recuperar
+esos clics.**
+
+Consecuencia para la medición: **los clics de Google dejan de medir el éxito de este sitio.**
+Y la cita en AI Overview **no es observable desde el servidor**: Google responde desde su
+propio índice, así que no genera peticiones de ChatGPT-User ni de ningún agente. Ni el
+contador ni `searchAppearance` (0 filas, verificado el 03-ago) la ven. La única vía es la
+auditoría manual periódica con batería fija. La batería queda definida:
+`inputs y outputs`, `input y output significado`, `input output`, `crear software`.
+
+### Hallazgo colateral: el archivo entero se presenta con fecha de 2007
+
+El snippet del resultado muestra **«23 jun 2007»**. El post no tiene `dateModified`, pese a
+haberse editado cuatro veces en 2026 (mayo, junio y agosto) y haber pasado de 937 a 1.649
+palabras. **Solo 20 de 833 posts tienen `dateModified`.**
+
+Se puede rellenar desde el historial de git, pero **no se ha hecho**: muchos commits fueron
+migraciones masivas que tocaron los 827 ficheros sin cambiar el contenido, y fechar una
+actualización que no existió sería falsearlo. Requiere filtrar por volumen de cambio real,
+y el umbral es decisión de Alfonso.
+
+Con el AI Overview encima esto no devuelve clics. Donde puede importar es en cómo un modelo
+valora la frescura del contenido al elegir a quién citar.
