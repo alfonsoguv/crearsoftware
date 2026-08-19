@@ -2,6 +2,7 @@
 title: "Después de un mal momento sólo viene uno bueno"
 slug: "despues-de-un-mal-momento-solo-viene-uno-bueno"
 date: "2010-10-13"
+dateModified: "2026-06-01"
 oldUrl: "/2010/10/13/despues-de-un-mal-momento-solo-viene-uno-bueno/"
 description: "Una reflexión sobre éxito y fracaso: nunca sabríamos de los buenos momentos si no experimentáramos los malos. El bien y el mal son necesarios para vivir."
 category: "tecnologia-empresarial"

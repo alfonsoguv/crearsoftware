@@ -2,6 +2,7 @@
 title: "Estrategia Funcional: Qué Es, Tipos y Ejemplos Empresariales"
 slug: "¿que-es-la-estrategia-funcional"
 date: "2007-04-26"
+dateModified: "2026-06-01"
 oldUrl: "/2007/04/26/%c2%bfque-es-la-estrategia-funcional/"
 description: "Qué es la estrategia funcional y sus tipos (producción, I+D, RRHH, comercial). Cómo alinear las funciones de tu empresa con la estrategia corporativa."
 category: "tecnologia-empresarial"

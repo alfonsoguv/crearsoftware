@@ -2,6 +2,7 @@
 title: "Realismo, Idealismo y Constructivismo: Diferencias y Definición"
 slug: "realismo-idealismo-y-constructivismo"
 date: "2009-02-14"
+dateModified: "2026-06-01"
 oldUrl: "/2009/02/14/realismo-idealismo-y-constructivismo/"
 description: "Diferencias entre realismo, idealismo y constructivismo: tres corrientes filosóficas sobre cómo conocemos la realidad, explicadas con claridad y ejemplos."
 category: "tecnologia-empresarial"

@@ -2,6 +2,7 @@
 title: "¿Qué es una Tienda Outlet? Cómo Funciona su Marketing Mix"
 slug: "las-tiendas-outlet"
 date: "2007-06-23"
+dateModified: "2026-05-31"
 oldUrl: "/2007/06/23/las-tiendas-outlet/"
 description: "Qué es una tienda outlet y cómo funciona: análisis de su marketing mix (producto, precio, promoción y plaza), por qué es más barata y el riesgo de canibalización."
 category: "tecnologia-empresarial"

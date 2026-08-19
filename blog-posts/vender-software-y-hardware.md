@@ -2,6 +2,7 @@
 title: "Vender Software y Hardware: Cloud, Renting y No Perder Dinero"
 slug: "vender-software-y-hardware"
 date: "2013-10-01"
+dateModified: "2026-06-01"
 oldUrl: "/2013/10/01/vender-software-y-hardware/"
 description: "Cómo combinar la venta de software y hardware sin perder dinero: soluciones cloud, renting y por qué el hardware debe ser accesorio de tu negocio de software."
 category: "desarrollo-software"

@@ -2,6 +2,7 @@
 title: "Tipos de Organigramas: 6 Modelos de Organización Empresarial"
 slug: "¿tipos-de-organigramas-y-organizacion"
 date: "2008-04-02"
+dateModified: "2026-06-01"
 oldUrl: "/2008/04/02/%c2%bftipos-de-organigramas-y-organizacion/"
 description: "Tipos de organigramas y modelos de organización empresarial: funcional, por clientes, matricial, por productos, lineal y lineo-funcional, con ejemplos."
 category: "tecnologia-empresarial"

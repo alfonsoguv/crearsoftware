@@ -2,6 +2,7 @@
 title: "Cómo crear un programa o software en 5 pasos"
 slug: "como-crear-programas"
 date: "2012-04-04"
+dateModified: "2026-05-31"
 oldUrl: "/2012/04/04/como-crear-programas/"
 description: "Cómo crear un programa o software paso a paso: analiza al usuario, diseña el flujo de datos, monta el proyecto, prueba los cimientos y diseña el interfaz."
 category: "desarrollo-software"

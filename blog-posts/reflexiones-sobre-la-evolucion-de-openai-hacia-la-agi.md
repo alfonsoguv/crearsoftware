@@ -2,6 +2,7 @@
 title: "Reflexiones sobre la Evolución de OpenAI hacia la AGI"
 slug: "reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi"
 date: "2025-01-06"
+dateModified: "2026-05-31"
 oldUrl: "/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/"
 description: "Reflexionamos sobre la evolución de OpenAI hacia la AGI a partir de las palabras de Sam Altman: crecimiento, gobernanza, ética y lecciones."
 category: "inteligencia-artificial"

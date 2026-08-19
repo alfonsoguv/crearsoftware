@@ -2,6 +2,7 @@
 title: "¿Qué es el Nokia 888? El Concepto de Teléfono Flexible de 2005"
 slug: "¿que-es-el-nokia-888"
 date: "2010-09-13"
+dateModified: "2026-06-01"
 oldUrl: "/2010/09/13/%c2%bfque-es-el-nokia-888/"
 description: "Qué es el Nokia 888 concept: el diseño futurista de teléfono flexible de Tamer Nakisci que ganó el Benelux Design Contest en 2005. Una visión del móvil del futuro."
 category: "innovacion-digital"

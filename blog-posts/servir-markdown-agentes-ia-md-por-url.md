@@ -2,7 +2,7 @@
 title: "Servir Markdown a los agentes de IA: la versión .md de cada página"
 slug: "servir-markdown-agentes-ia-md-por-url"
 date: "2026-08-02"
-dateModified: "2026-08-02"
+dateModified: "2026-08-09"
 description: "Cómo publicar una versión Markdown de cada URL para que ChatGPT, Claude y Perplexity lean tu contenido sin plantilla: convenciones, implementación y cómo medir si sirve de algo."
 category: "inteligencia-artificial"
 tags: ["GEO", "inteligencia artificial", "agentes", "llms.txt", "markdown", "SEO"]

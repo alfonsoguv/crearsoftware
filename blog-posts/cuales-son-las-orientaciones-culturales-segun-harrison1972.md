@@ -2,6 +2,7 @@
 title: "Orientaciones Culturales de Harrison: los 4 Tipos de Cultura Organizacional"
 slug: "¿cuales-son-las-orientaciones-culturales-segun-harrison1972"
 date: "2007-10-27"
+dateModified: "2026-06-01"
 oldUrl: "/2007/10/27/%c2%bfcuales-son-las-orientaciones-culturales-segun-harrison1972/"
 description: "Las 4 orientaciones culturales de Harrison: poder, rol, tareas y personas. Clasificación empírica de las culturas organizacionales."
 category: "tecnologia-empresarial"

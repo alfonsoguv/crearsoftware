@@ -2,6 +2,7 @@
 title: "¿Qué son las variables de control?"
 slug: "¿que-son-las-variables-de-control"
 date: "2009-09-16"
+dateModified: "2026-06-01"
 oldUrl: "/2009/09/16/%c2%bfque-son-las-variables-de-control/"
 description: "Qué son las variables de control en el control de gestión: definición, función y cómo medir los objetivos de cada centro de responsabilidad."
 category: "tecnologia-empresarial"

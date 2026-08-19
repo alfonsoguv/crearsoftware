@@ -2,6 +2,7 @@
 title: "Qué es la percepción: concepto, factores y cultura"
 slug: "percepcion-y-cultura"
 date: "2009-02-14"
+dateModified: "2026-05-31"
 oldUrl: "/2009/02/14/percepcion-y-cultura/"
 description: "Concepto de percepción y los factores que influyen en ella: cultura, entorno social y experiencias. Cómo construimos nuestra percepción de la realidad."
 category: "productividad-herramientas"

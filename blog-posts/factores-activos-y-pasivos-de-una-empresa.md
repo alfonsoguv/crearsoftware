@@ -2,6 +2,7 @@
 title: "Factores Activos y Pasivos de una Empresa: Tangibles e Intangibles"
 slug: "factores-activos-y-pasivos-de-una-empresa"
 date: "2007-03-19"
+dateModified: "2026-06-01"
 oldUrl: "/2007/03/19/factores-activos-y-pasivos-de-una-empresa/"
 description: "Clasificación de los factores activos y pasivos de una empresa en tangibles e intangibles, con ejemplos prácticos de cada tipo para entender tu negocio."
 category: "tecnologia-empresarial"

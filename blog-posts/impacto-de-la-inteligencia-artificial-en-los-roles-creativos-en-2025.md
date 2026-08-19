@@ -2,6 +2,7 @@
 title: "Impacto de la Inteligencia Artificial en los Roles Creativos en 2025"
 slug: "impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025"
 date: "2025-01-05"
+dateModified: "2026-06-01"
 oldUrl: "/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/"
 description: "Cómo la IA está transformando los roles creativos en 2025: automatización, nuevas habilidades, colaboración humano-máquina y desafíos éticos."
 category: "inteligencia-artificial"

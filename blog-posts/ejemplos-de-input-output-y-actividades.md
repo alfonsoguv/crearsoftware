@@ -2,6 +2,7 @@
 title: "Input y Output: qué son, diferencias y ejemplos"
 slug: "ejemplos-de-input-output-y-actividades"
 date: "2007-06-23"
+dateModified: "2026-08-01"
 oldUrl: "/2007/06/23/ejemplos-de-input-output-y-actividades/"
 description: "Qué es un input y un output: definición clara de entradas y salidas, su diferencia y ejemplos prácticos (fábrica, hospital, banco). Guía rápida con tabla."
 category: "tecnologia-empresarial"

@@ -2,6 +2,7 @@
 title: "¿Cuál es la historia del Corte Inglés?"
 slug: "¿cual-es-la-historia-del-corte-ingles"
 date: "2008-05-18"
+dateModified: "2026-05-31"
 oldUrl: "/2008/05/18/%c2%bfcual-es-la-historia-del-corte-ingles/"
 description: "Historia de El Corte Inglés: cómo Ramón Areces convirtió una pequeña sastrería de Madrid (1934) en el mayor grupo de distribución de España y líder mundial."
 category: "tecnologia-empresarial"

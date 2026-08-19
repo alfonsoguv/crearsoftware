@@ -2,6 +2,7 @@
 title: "¿Qué es un DAFO? Análisis de Debilidades, Amenazas, Fortalezas y Oportunidades"
 slug: "¿que-es-un-dafo"
 date: "2007-10-14"
+dateModified: "2026-06-01"
 oldUrl: "/2007/10/14/%c2%bfque-es-un-dafo/"
 description: "Qué es un análisis DAFO: significado de Debilidades, Amenazas, Fortalezas y Oportunidades, cómo hacerlo paso a paso y un ejemplo práctico para tu empresa."
 category: "tecnologia-empresarial"

@@ -2,6 +2,7 @@
 title: "Ventas Inteligentes por VOZ"
 slug: "ventas-inteligentes-por-voz"
 date: "2024-10-24"
+dateModified: "2026-08-01"
 oldUrl: "/2024/10/24/ventas-inteligentes-por-voz/"
 description: "Victoria, el agente de IA de voz de Vidiv, cualifica oportunidades comerciales en tiempo real, funciona 24/7 y se integra con tu CRM."
 category: "tecnologia-empresarial"

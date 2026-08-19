@@ -2,6 +2,7 @@
 title: "Cultura Oriental vs Occidental: Diferencias Clave en el Trabajo"
 slug: "cultura-oriental-vs-cultura-occidental"
 date: "2008-12-07"
+dateModified: "2026-05-31"
 oldUrl: "/2008/12/07/cultura-oriental-vs-cultura-occidental/"
 description: "Diferencias entre la cultura oriental y occidental: individualismo vs colectivismo, jerarquía, eficiencia, innovación y colaboración en el trabajo en equipo."
 category: "innovacion-digital"

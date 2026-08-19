@@ -2,6 +2,7 @@
 title: "Carta de Bill Gates en favor del software propietario"
 slug: "carta-de-bill-gates-en-favor-del-software-propietario"
 date: "2007-04-27"
+dateModified: "2026-06-01"
 oldUrl: "/2007/04/27/carta-de-bill-gates-en-favor-del-software-propietario/"
 description: "La carta de Bill Gates de 1976 que marcó el inicio del software propietario y el nacimiento del imperio Microsoft. Traducción completa."
 category: "desarrollo-software"

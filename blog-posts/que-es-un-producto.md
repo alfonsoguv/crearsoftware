@@ -2,6 +2,7 @@
 title: "¿Qué es un producto? Definición, Niveles y Tipos en Marketing"
 slug: "¿que-es-un-producto"
 date: "2008-03-12"
+dateModified: "2026-05-31"
 oldUrl: "/2008/03/12/%c2%bfque-es-un-producto/"
 description: "Qué es un producto en marketing: definición, los 3 niveles de producto según Kotler, tipos de productos y ejemplos para entender el concepto con claridad."
 category: "tecnologia-empresarial"

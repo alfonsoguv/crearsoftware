@@ -2,6 +2,7 @@
 title: "Lecciones Históricas de Resistencias Tecnológicas: De la Imprenta a la Inteligencia Artificial"
 slug: "lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial"
 date: "2025-01-12"
+dateModified: "2026-06-01"
 oldUrl: "/2025/01/12/lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial/"
 description: "Cada gran avance tecnológico, de la imprenta a la IA, ha enfrentado resistencias. Qué nos enseña la historia para gestionarlas en el desarrollo de software."
 category: "inteligencia-artificial"

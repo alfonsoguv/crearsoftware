@@ -2,6 +2,7 @@
 title: "Agentes de voz con IA para empresas: guía y plataformas (España y Europa)"
 slug: "plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana"
 date: "2025-03-29"
+dateModified: "2026-08-01"
 oldUrl: "/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/"
 description: "Guía de agentes de voz con IA para empresas: compara las mejores plataformas en España y Europa, precios, casos de uso y cómo elegir la tuya."
 category: "inteligencia-artificial"

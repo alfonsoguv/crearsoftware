@@ -2,6 +2,7 @@
 title: "¿Qué es un Pasivo? Balance de Situación y Cuenta de PyG"
 slug: "¿que-es-un-pasivo"
 date: "2007-09-26"
+dateModified: "2026-06-01"
 oldUrl: "/2007/09/26/%c2%bfque-es-un-pasivo/"
 description: "Conceptos básicos de contabilidad: qué es el Pasivo, el Balance de Situación y la Cuenta de Pérdidas y Ganancias, explicados de forma sencilla."
 category: "tecnologia-empresarial"

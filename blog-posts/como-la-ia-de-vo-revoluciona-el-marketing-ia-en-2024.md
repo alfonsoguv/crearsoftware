@@ -2,6 +2,7 @@
 title: "Cómo la IA de Voz Revoluciona el Marketing IA en 2024"
 slug: "como-la-ia-de-vo-revoluciona-el-marketing-ia-en-2024"
 date: "2024-12-15"
+dateModified: "2026-08-01"
 oldUrl: "/2024/12/15/como-la-ia-de-vo-revoluciona-el-marketing-ia-en-2024/"
 description: "Guía de marketing con IA de voz en 2024: SEO por voz, chatbots, voice commerce, publicidad y analítica para conectar mejor con tus clientes."
 category: "inteligencia-artificial"

@@ -2,6 +2,7 @@
 title: "¿Qué son las estrategias de innovación?"
 slug: "¿que-son-las-estrategias-de-innovacion"
 date: "2008-05-31"
+dateModified: "2026-06-01"
 oldUrl: "/2008/05/31/%c2%bfque-son-las-estrategias-de-innovacion/"
 description: "Qué son las estrategias de innovación y sus tipos: de producto, de procesos, de gestión y social, y según su grado (incremental, radical y abierta). Con ejemplos."
 category: "tecnologia-empresarial"

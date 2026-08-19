@@ -2,6 +2,7 @@
 title: "¿Cuáles son las diferentes orientaciones hacia el mercado de las empresas?"
 slug: "¿cuales-son-las-diferentes-orientaciones-hacia-el-mercado-de-las-empresas"
 date: "2007-10-14"
+dateModified: "2026-06-01"
 oldUrl: "/2007/10/14/%c2%bfcuales-son-las-diferentes-orientaciones-hacia-el-mercado-de-las-empresas/"
 description: "Las 4 orientaciones empresariales hacia el mercado: producción, producto, ventas y marketing. Cómo elegir según la oferta y demanda de tu sector."
 category: "tecnologia-empresarial"

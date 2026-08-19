@@ -2,6 +2,7 @@
 title: "El Tamaño de las Empresas: Clasificación por Empleados y Facturación"
 slug: "el-tamano-de-las-empresas"
 date: "2007-03-19"
+dateModified: "2026-06-01"
 oldUrl: "/2007/03/19/el-tamano-de-las-empresas/"
 description: "Cómo se clasifica el tamaño de una empresa: microempresa, pequeña, mediana y gran empresa según el número de empleados, la facturación y el balance."
 category: "tecnologia-empresarial"

@@ -2,7 +2,7 @@
 title: "Modelos de Voz a Voz (S2S): La Revolución en la IA Conversacional"
 slug: "modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional"
 date: "2025-01-04"
-dateModified: "2026-06-04"
+dateModified: "2026-08-01"
 oldUrl: "/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/"
 description: "Qué son los modelos de Voz a Voz (S2S), cómo funcionan, sus aplicaciones en atención al cliente, salud y educación, y su impacto en la IA conversacional."
 category: "inteligencia-artificial"

@@ -2,6 +2,7 @@
 title: "¿Qué es un Briefing? Definición, Para Qué Sirve y Qué Incluye"
 slug: "¿que-es-un-briefing"
 date: "2009-11-17"
+dateModified: "2026-06-01"
 oldUrl: "/2009/11/17/%c2%bfque-es-un-briefing/"
 description: "Qué es un briefing: el documento que recoge la información y los objetivos de un proyecto o campaña. Para qué sirve, qué debe incluir y un ejemplo práctico."
 category: "tecnologia-empresarial"

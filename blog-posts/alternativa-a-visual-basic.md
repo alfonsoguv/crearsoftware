@@ -2,6 +2,7 @@
 title: "Alternativa a Visual Basic"
 slug: "alternativa-a-visual-basic"
 date: "2012-12-26"
+dateModified: "2026-06-01"
 oldUrl: "/2012/12/26/alternativa-a-visual-basic/"
 description: "Velneo como alternativa a Visual Basic para desarrollo de aplicaciones empresariales multiplataforma: Windows, Linux, Mac y Android."
 category: "desarrollo-software"

@@ -2,6 +2,7 @@
 title: "Historia del CRM: del Rolodex a Salesforce y la IA"
 slug: "historia-del-crm"
 date: "2015-05-18"
+dateModified: "2026-05-31"
 oldUrl: "/2015/05/18/historia-del-crm/"
 description: "Retrospectiva del CRM: de los tarjeteros Rolodex a ACT, Goldmine, Siebel y Salesforce, hasta los asistentes de voz e IA en ventas."
 category: "tecnologia-empresarial"

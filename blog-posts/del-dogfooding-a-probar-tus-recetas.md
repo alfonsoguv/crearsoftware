@@ -2,6 +2,7 @@
 title: "Qué es el Dogfooding: Probar tu Propio Producto (Origen y Ejemplos)"
 slug: "del-dogfooding-a-probar-tus-recetas"
 date: "2020-12-24"
+dateModified: "2026-06-01"
 oldUrl: "/2020/12/24/del-dogfooding-a-probar-tus-recetas/"
 description: "Dogfooding: usar tus propios productos antes que los clientes. Su origen, sus alternativas y cómo Visual MS aplica esta cultura desde hace 21 años."
 category: "tecnologia-empresarial"
