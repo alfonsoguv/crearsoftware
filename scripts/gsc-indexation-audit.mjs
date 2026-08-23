@@ -253,15 +253,34 @@ async function main() {
   const [ciLow, ciHigh] = wilsonInterval(indexed.length, decided);
   const indexedRate = decided ? (indexed.length / decided) * 100 : 0;
 
-  const coveredSet = new Set([...cursor.inspected, ...urls]);
-  const nextStart = (start + limit) % Math.max(1, filteredUrls.length);
+  // Solo cuenta como cubierta la URL de la que Google devolvio un veredicto: una
+  // inspeccion fallida no aporta informacion, asi que inflar `coveredCount` con
+  // ella estrecharia el IC sin base. Y si la ejecucion entera fallo (token sin
+  // permiso, propiedad sin verificar, corte de red), el cursor NO avanza: de lo
+  // contrario cada ejecucion rota quemaria un tramo del sitemap en silencio.
+  const decidedUrls = results
+    .filter((result) => !result.error)
+    .map((result) => result.url);
+  const coveredSet = new Set([...cursor.inspected, ...decidedUrls]);
+  const allFailed = decided === 0;
+
+  if (allFailed) {
+    console.error(
+      `\nAVISO: las ${results.length} inspecciones fallaron. El cursor se deja en ${start} ` +
+        'y la cobertura acumulada no se toca. Revisa el permiso sobre la propiedad antes de reintentar.',
+    );
+  }
+
+  const nextStart = allFailed
+    ? start
+    : (start + limit) % Math.max(1, filteredUrls.length);
   await mkdir(DATA_DIR, { recursive: true });
   await writeFile(
     CURSOR_PATH,
     `${JSON.stringify(
       {
         start: nextStart,
-        runs: cursor.runs + 1,
+        runs: allFailed ? cursor.runs : cursor.runs + 1,
         sitemapSize: filteredUrls.length,
         coveredCount: coveredSet.size,
         updatedAt: generatedAt,
@@ -283,7 +302,7 @@ async function main() {
       sitemapSize: filteredUrls.length,
       start,
       nextStart,
-      run: cursor.runs + 1,
+      run: allFailed ? cursor.runs : cursor.runs + 1,
       cumulativeCoverage: coveredSet.size,
     },
     indexedRatePercent: Number(indexedRate.toFixed(1)),
@@ -313,7 +332,7 @@ async function main() {
     '',
     `- Metodo: sistematico con arranque rotativo sobre las ${filteredUrls.length} URLs del sitemap`,
     `- Arranque de esta ejecucion: ${start} (la siguiente empezara en ${nextStart})`,
-    `- Ejecucion numero ${cursor.runs + 1}; cobertura acumulada: ${coveredSet.size}/${filteredUrls.length} URLs distintas`,
+    `- Ejecucion numero ${allFailed ? cursor.runs : cursor.runs + 1}; cobertura acumulada: ${coveredSet.size}/${filteredUrls.length} URLs distintas`,
     `- **Tasa de indexacion estimada del sitio: ${indexedRate.toFixed(1)}%** (IC 95%: ${ciLow.toFixed(1)}% - ${ciHigh.toFixed(1)}%, n=${decided})`,
     '',
     '## Estados de cobertura',

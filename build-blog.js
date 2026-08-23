@@ -565,6 +565,44 @@ function resolveAuthor(post) {
   };
 }
 
+// Nodo Person del autor, con `@id` estable.
+//
+// Sin `@id`, cada artículo declara un autor llamado "Alfonso Gutiérrez" y un
+// parser no tiene forma de saber que los 700 son la misma persona: son 700
+// cadenas de texto iguales. Con un `@id` único y repetido, todas las apariciones
+// se fusionan en una sola entidad, que es lo que permite atribuir autoría al
+// citar. Es lo mismo que hace `sameAs`, pero hacia dentro del sitio.
+//
+// `sameAs` emite todos los perfiles externos declarados, no solo LinkedIn: hasta
+// el 23-ago-2026 el código solo miraba `links.linkedin`, que está vacío, así que
+// el `github` relleno no llegaba nunca al marcado.
+const AUTHOR_ID_BASE = `${SITE_URL}/sobre/#`;
+
+function buildAuthorNode(author, { includeProfile = false } = {}) {
+  const node = {
+    "@type": "Person",
+    "@id": `${AUTHOR_ID_BASE}${author.slug}`,
+    "name": author.name,
+  };
+
+  const profiles = Object.entries(author.links || {})
+    .filter(([key, url]) => key !== 'website' && typeof url === 'string' && url.trim())
+    .map(([, url]) => url.trim());
+
+  if (profiles.length) node.sameAs = profiles;
+  if (includeProfile) {
+    if (author.role) node.jobTitle = author.role;
+    if (author.bio) node.description = author.bio;
+    if (author.image) node.image = getAbsoluteImageUrl(author.image);
+    if (author.links && author.links.website) node.url = author.links.website;
+    if (Array.isArray(author.expertise) && author.expertise.length) {
+      node.knowsAbout = author.expertise;
+    }
+  }
+
+  return node;
+}
+
 // ---------------------------------------------------------------------------
 // Read and parse all posts
 // ---------------------------------------------------------------------------
@@ -851,10 +889,7 @@ for (const post of posts) {
     "description": metaDescription,
     "datePublished": post.date,
     "dateModified": post.dateModified || post.date,
-    "author": {
-      "@type": "Person",
-      "name": author.name,
-    },
+    "author": buildAuthorNode(author),
     "publisher": {
       "@type": "Organization",
       "name": SITE_NAME,
@@ -870,10 +905,6 @@ for (const post of posts) {
   };
 
   jsonLdObj.image = getAbsoluteImageUrl(post.resolvedImage);
-
-  if (author.links && author.links.linkedin) {
-    jsonLdObj.author.sameAs = [author.links.linkedin];
-  }
 
   const breadcrumbsJsonLd = buildBreadcrumbJsonLd([
     { name: 'Inicio', url: SITE_URL },
@@ -1056,6 +1087,12 @@ if (templates['manifest-page']) {
       "name": SITE_NAME,
       "url": SITE_URL,
     },
+    // `/sobre/` es la URL donde vive el `@id` del autor, así que es la página
+    // que debe llevar la definicion completa de la entidad: el resto del sitio
+    // solo la referencia.
+    "mainEntity": buildAuthorNode(resolveAuthor({ author: 'Alfonso Gutiérrez' }), {
+      includeProfile: true,
+    }),
   };
   const aboutBreadcrumbs = buildBreadcrumbJsonLd([
     { name: 'Inicio', url: SITE_URL },
@@ -1180,10 +1217,7 @@ for (const guide of guides) {
     "dateModified": guide.dateModified || guide.date,
     "url": guideUrl,
     "inLanguage": "es",
-    "author": {
-      "@type": "Person",
-      "name": "Alfonso Gutiérrez",
-    },
+    "author": buildAuthorNode(resolveAuthor({ author: 'Alfonso Gutiérrez' })),
     "publisher": {
       "@type": "Organization",
       "name": SITE_NAME,

@@ -2,7 +2,7 @@
 title: "Input y Output: qué son, diferencias y ejemplos"
 slug: "ejemplos-de-input-output-y-actividades"
 date: "2007-06-23"
-dateModified: "2026-08-01"
+dateModified: "2026-08-23"
 oldUrl: "/2007/06/23/ejemplos-de-input-output-y-actividades/"
 description: "Qué es un input y un output: definición clara de entradas y salidas, su diferencia y ejemplos prácticos (fábrica, hospital, banco). Guía rápida con tabla."
 category: "tecnologia-empresarial"
@@ -201,3 +201,7 @@ Algunos ejemplos claros: en una **fábrica**, las piezas son el input y el coche
 ## Inputs, outputs y desarrollo de software
 
 Este modelo de **inputs → actividades → outputs** es la base de cualquier proceso que se quiere automatizar o digitalizar. En desarrollo de software, definir bien las entradas y salidas de cada proceso es el primer paso antes de empezar a programar la solución. Si quieres llevar esta lógica a un sistema real, te ayudará entender [el ciclo de vida de un proyecto de software](/2013/10/31/ciclo-de-vida-de-un-proyecto-de-software/), [cómo empezar un proyecto de software empresarial](/2011/09/15/%c2%bfcomo-empezar-un-proyecto-de-software-empresarial/), [cómo crear programas](/2012/04/04/como-crear-programas/).
+
+## Inputs y outputs en la era de los modelos de lenguaje
+
+El mismo esquema sigue vigente cuando el proceso lo ejecuta una inteligencia artificial, solo que ahí las entradas y las salidas se miden en una unidad propia: el token. Si trabajas con modelos de lenguaje, conviene tener clara la definición, porque de ella dependen el coste y el límite de lo que puedes pedir: [qué es un token en inteligencia artificial](/blog/que-es-un-token-en-ia-definicion/).
