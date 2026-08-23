@@ -1,203 +1,491 @@
 {
-  "generatedAt": "2026-08-23T08:14:07.153Z",
+  "generatedAt": "2026-08-23T08:47:15.858Z",
   "siteUrl": "sc-domain:crearsoftware.com",
   "requestedSiteUrl": "sc-domain:crearsoftware.com",
   "usedFallbackProperty": false,
   "sampling": {
     "method": "systematic-rotating",
-    "sitemapSize": 701,
+    "sitemapSize": 702,
     "start": 400,
-    "nextStart": 400,
-    "run": 4,
-    "cumulativeCoverage": 349
+    "nextStart": 425,
+    "run": 6,
+    "cumulativeCoverage": 359
   },
-  "indexedRatePercent": 0,
+  "indexedRatePercent": 76,
   "indexedRateCI95": [
-    0,
-    0
+    56.6,
+    88.5
   ],
   "inspectedUrlCount": 25,
-  "indexedCount": 0,
-  "notIndexedCount": 0,
-  "errorCount": 25,
-  "byCoverageState": {},
-  "indexed": [],
-  "notIndexed": [],
-  "errors": [
+  "indexedCount": 19,
+  "notIndexedCount": 6,
+  "errorCount": 0,
+  "byCoverageState": {
+    "Rastreada: actualmente sin indexar": 5,
+    "Descubierta: actualmente sin indexar": 1
+  },
+  "indexed": [
     {
-      "url": "https://crearsoftware.com/2008/09/29/lecciones-de-steve-jobs-parte-2/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2008/05/02/v7-que-viene-que-viene/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2008/05/02/v7-que-viene-que-viene/",
+      "userCanonical": "https://crearsoftware.com/2008/05/02/v7-que-viene-que-viene/",
+      "lastCrawlTime": "2026-07-23T17:48:17Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://alfonsogu.com/2008/05/02/v7-que-viene-que-viene/",
+        "https://crearsoftware.com/2008/05/03/%C2%BFpor-que-estamos-en-crisis-financiera/",
+        "https://crearsoftware.com/2008/04/30/nokia-internet-tablets-soportara-qt/"
+      ],
+      "sitemaps": []
     },
     {
-      "url": "https://crearsoftware.com/2008/06/27/eligiendo-un-nicho-en-software/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2008/03/09/velneo-esquema-de-distribucion-comercializacion/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2008/03/09/velneo-esquema-de-distribucion-comercializacion/",
+      "userCanonical": "https://crearsoftware.com/2008/03/09/velneo-esquema-de-distribucion-comercializacion/",
+      "lastCrawlTime": "2026-08-22T18:34:12Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/page/27/?s_=saas",
+        "https://crearsoftware.com/2008/03/09/velneo-esquema-de-distribucion-comercializacion/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
     },
     {
-      "url": "https://crearsoftware.com/2008/04/30/nokia-internet-tablets-soportara-qt/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2008/01/12/velneo-ltd/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2008/01/12/velneo-ltd/",
+      "userCanonical": "https://crearsoftware.com/2008/01/12/velneo-ltd/",
+      "lastCrawlTime": "2026-06-27T22:04:25Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://alfonsogu.com/2008/01/12/velneo-ltd/",
+        "https://crearsoftware.com/2008/01/12/red-social-velneo/",
+        "https://crearsoftware.com/tag/irlanda/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
     },
     {
-      "url": "https://crearsoftware.com/2008/03/07/velneo-estrategia-y-necesidades/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2007/10/30/p2p-vs-centralizacion/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2007/10/30/p2p-vs-centralizacion/",
+      "userCanonical": "https://crearsoftware.com/2007/10/30/p2p-vs-centralizacion/",
+      "lastCrawlTime": "2026-08-01T01:23:54Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/2007/10/30/que-es-una-erp/"
+      ],
+      "sitemaps": []
     },
     {
-      "url": "https://crearsoftware.com/2008/01/10/los-9-principios-para-la-creacion-de-productos-google/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2007/09/17/%C2%BFcuales-son-los-problemas-de-la-programacion/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2007/09/17/%C2%BFcuales-son-los-problemas-de-la-programacion/",
+      "userCanonical": "https://crearsoftware.com/2007/09/17/%C2%BFcuales-son-los-problemas-de-la-programacion/",
+      "lastCrawlTime": "2026-07-24T22:58:14Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://wp.me/p3FOR-4J",
+        "http://crearsoftware.com/2007/09/17/%C2%BFcuales-son-los-problemas-de-la-programacion/",
+        "https://crearsoftware.com/2007/09/15/google-compra-postini/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
     },
     {
-      "url": "https://crearsoftware.com/2007/10/30/%C2%BFpor-que-la-redes-sociales-estan-tan-de-moda/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2007/07/05/marketing-mix-de-telefonica/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2007/07/05/marketing-mix-de-telefonica/",
+      "userCanonical": "https://crearsoftware.com/2007/07/05/marketing-mix-de-telefonica/",
+      "lastCrawlTime": "2026-07-28T14:57:51Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://wp.me/p3FOR-3D",
+        "http://crearsoftware.com/2007/07/05/marketing-mix-de-telefonica/",
+        "https://crearsoftware.com/2007/07/06/%C2%BF-por-que-la-inteligencia-emocional/"
+      ],
+      "sitemaps": []
     },
     {
-      "url": "https://crearsoftware.com/2007/09/15/google-compra-postini/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2007/05/01/%C2%BFque-es-un-proceso/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2007/05/01/%C2%BFque-es-un-proceso/",
+      "userCanonical": "https://crearsoftware.com/2007/05/01/%C2%BFque-es-un-proceso/",
+      "lastCrawlTime": "2026-08-01T11:36:37Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://alfonsogu.com/2007/05/01/%C2%BFque-es-un-proceso/",
+        "http://crearsoftware.com/2007/05/01/%C2%BFque-es-un-proceso/",
+        "https://crearsoftware.com/2007/05/03/%C2%BFcuales-son-las-5-fuerzas-de-porter/"
+      ],
+      "sitemaps": []
     },
     {
-      "url": "https://crearsoftware.com/2007/07/04/%C2%BFque-tipos-de-crecimiento-ha-seguido-telefonica-en-los-ultimos-anos/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2007/03/27/software-libre-compartir-conocimiento-pero-distinto-de-gratis/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2007/03/27/software-libre-compartir-conocimiento-pero-distinto-de-gratis/",
+      "userCanonical": "https://crearsoftware.com/2007/03/27/software-libre-compartir-conocimiento-pero-distinto-de-gratis/",
+      "lastCrawlTime": "2026-08-01T02:02:35Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/2010/03/08/rework-nuevo-libro-de-37signals/",
+        "http://alfonsogu.com/2007/03/27/software-libre-compartir-conocimiento-pero-distinto-de-gratis/",
+        "https://alfonsogu.com/2007/03/25/velneo-%C2%BFmoda-o-tendencia/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
     },
     {
-      "url": "https://crearsoftware.com/2007/05/25/la-sgae-y-su-canon/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/blog/identidad-digital-web-social-login-federado/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/blog/identidad-digital-web-social-login-federado/",
+      "userCanonical": "https://crearsoftware.com/blog/identidad-digital-web-social-login-federado/",
+      "lastCrawlTime": "2026-08-18T21:24:57Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/feed.xml"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
     },
     {
-      "url": "https://crearsoftware.com/2007/04/30/india-y-china-%C2%BFlos-dragones-dormidos/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2014/09/03/crea-una-empresa-de-software-olvida-las-start-up/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/09/03/crea-una-empresa-de-software-olvida-las-start-up/",
+      "userCanonical": "https://crearsoftware.com/2014/09/03/crea-una-empresa-de-software-olvida-las-start-up/",
+      "lastCrawlTime": "2026-06-16T10:47:18Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://wp.me/p3FOR-1NN",
+        "http://crearsoftware.com/2014/09/03/crea-una-empresa-de-software-olvida-las-start-up/"
+      ],
+      "sitemaps": []
     },
     {
-      "url": "https://crearsoftware.com/2007/03/25/velneo-%C2%BFmoda-o-tendencia/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2013/06/17/vender-software-por-internet/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2013/06/17/vender-software-por-internet/",
+      "userCanonical": "https://crearsoftware.com/2013/06/17/vender-software-por-internet/",
+      "lastCrawlTime": "2026-08-02T23:00:01Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?cst&app-download=windowsphone&query-0-page=9",
+        "http://wp.me/p3FOR-1Gk",
+        "https://crearsoftware.com/2013/05/29/test-software/"
+      ],
+      "sitemaps": []
     },
     {
-      "url": "https://crearsoftware.com/blog/marca-segmentacion-arquetipos-a-quien-le-hablas/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2012/11/19/1-000-000-de-visitas-en-crear-software-el-blog-de-alfonsogu/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2012/11/19/1-000-000-de-visitas-en-crear-software-el-blog-de-alfonsogu/",
+      "userCanonical": "https://crearsoftware.com/2012/11/19/1-000-000-de-visitas-en-crear-software-el-blog-de-alfonsogu/",
+      "lastCrawlTime": "2026-06-21T04:15:36Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/2012/10/25/evento-software/"
+      ],
+      "sitemaps": []
     },
     {
-      "url": "https://crearsoftware.com/2024/12/15/como-la-ia-de-vo-revoluciona-el-marketing-ia-en-2024/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2012/01/16/el-software-primera-version/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2012/01/16/el-software-primera-version/",
+      "userCanonical": "https://crearsoftware.com/2012/01/16/el-software-primera-version/",
+      "lastCrawlTime": "2026-08-04T05:26:07Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/sitemap.xml",
+        "https://crearsoftware.com/2012/01/16/el-software-primera-version/",
+        "https://crearsoftware.com/2012/01/13/programa-para-hacer-programas/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
     },
     {
-      "url": "https://crearsoftware.com/2014/08/26/vender-software-por-telefono/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2011/04/07/10-principios-para-testear-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2011/04/07/10-principios-para-testear-software/",
+      "userCanonical": "https://crearsoftware.com/2011/04/07/10-principios-para-testear-software/",
+      "lastCrawlTime": "2026-07-25T00:08:38Z",
+      "referringUrls": [
+        "https://crearsoftware.com/page/25/?query-0-page=20&app-download=windowsphone",
+        "http://wp.me/p3FOR-11B",
+        "https://crearsoftware.com/2011/04/05/producto-completo-en-software-whole-product-concept/",
+        "https://crearsoftware.com/tag/testing/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
     },
     {
-      "url": "https://crearsoftware.com/2013/05/29/test-software/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2010/10/29/listado-de-consultoras-espanolas-en-shangai/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2010/10/29/listado-de-consultoras-espanolas-en-shangai/",
+      "userCanonical": "https://crearsoftware.com/2010/10/29/listado-de-consultoras-espanolas-en-shangai/",
+      "lastCrawlTime": "2026-07-27T01:20:28Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://alfonsogu.com/2010/10/29/listado-de-consultoras-espanolas-en-shangai/",
+        "https://crearsoftware.com/2010/10/28/%C2%BFque-pasa-si-eres-el-lider-de-mercado/"
+      ],
+      "sitemaps": []
     },
     {
-      "url": "https://crearsoftware.com/2012/10/25/evento-software/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2010/06/22/%C2%BFque-es-la-vision-de-una-empresa/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2010/06/22/%C2%BFque-es-la-vision-de-una-empresa/",
+      "userCanonical": "https://crearsoftware.com/2010/06/22/%C2%BFque-es-la-vision-de-una-empresa/",
+      "lastCrawlTime": "2026-08-10T03:04:39Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://wp.me/p3FOR-LP",
+        "https://crearsoftware.com/2010/06/21/problemas-del-software-empresarial/",
+        "https://crearsoftware.com/2010/06/23/%C2%BFque-es-facetime-videoconferencia-movil/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
     },
     {
-      "url": "https://crearsoftware.com/2012/01/02/como-crear-software/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2009/09/24/nokia-el-portatil/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2009/09/24/nokia-el-portatil/",
+      "userCanonical": "https://crearsoftware.com/2009/09/24/nokia-el-portatil/",
+      "lastCrawlTime": "2026-08-05T20:55:37Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/tag/velneo/",
+        "https://crearsoftware.com/2009/09/28/%C2%BFes-bueno-el-fracaso/",
+        "https://crearsoftware.com/tag/qt/"
+      ],
+      "sitemaps": []
     },
     {
-      "url": "https://crearsoftware.com/2011/04/05/producto-completo-en-software-whole-product-concept/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2009/05/14/e-business-vs-comercio-electronico/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2009/05/14/e-business-vs-comercio-electronico/",
+      "userCanonical": "https://crearsoftware.com/2009/05/14/e-business-vs-comercio-electronico/",
+      "lastCrawlTime": "2026-07-23T16:59:13Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/2009/05/17/%C2%BFque-es-la-evaluacion-del-desempeno/?ak_action=reject_mobile",
+        "http://alfonsogu.com/2009/05/14/e-business-vs-comercio-electronico/trackback/",
+        "https://crearsoftware.com/2009/05/17/%C2%BFque-es-la-evaluacion-del-desempeno/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
     },
     {
-      "url": "https://crearsoftware.com/2010/10/28/%C2%BFque-pasa-si-eres-el-lider-de-mercado/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
-    },
-    {
-      "url": "https://crearsoftware.com/2010/06/21/problemas-del-software-empresarial/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
-    },
-    {
-      "url": "https://crearsoftware.com/2010/01/18/%C2%BFque-es-la-resiliencia/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
-    },
-    {
-      "url": "https://crearsoftware.com/2009/09/16/%C2%BFque-son-las-variables-de-control/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
-    },
-    {
-      "url": "https://crearsoftware.com/2009/05/12/%C2%BFque-son-las-entrevistas-de-incidentes-criticos/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
-    },
-    {
-      "url": "https://crearsoftware.com/2009/02/14/%C2%BFes-sexista-el-lenguaje/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
-    },
-    {
-      "url": "https://crearsoftware.com/2008/12/21/%C2%BFque-es-el-teletrabajo/",
-      "error": {
-        "status": 403,
-        "body": "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"You do not own this site, or the inspected URL is not part of this property.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
-      }
+      "url": "https://crearsoftware.com/2009/02/14/ergonomia-y-percepcion/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2009/02/14/ergonomia-y-percepcion/",
+      "userCanonical": "https://crearsoftware.com/2009/02/14/ergonomia-y-percepcion/",
+      "lastCrawlTime": "2026-08-12T06:13:10Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://wp.me/p3FOR-kZ",
+        "http://crearsoftware.com/2009/02/14/ergonomia-y-percepcion/",
+        "https://crearsoftware.com/2009/02/09/v7velneoes/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
     }
-  ]
+  ],
+  "notIndexed": [
+    {
+      "url": "https://crearsoftware.com/2008/10/02/%C2%BFpor-que-velneo-no-apoya-en-proyectos-finales/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2008/10/02/%C2%BFpor-que-velneo-no-apoya-en-proyectos-finales/",
+      "userCanonical": "https://crearsoftware.com/2008/10/02/%C2%BFpor-que-velneo-no-apoya-en-proyectos-finales/",
+      "lastCrawlTime": "2026-05-15T04:14:18Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/?query-0-page=53&cst",
+        "https://crearsoftware.com/2008/10/05/%C2%BFpor-que-todo-es-relativo/",
+        "https://crearsoftware.com/2008/09/29/lecciones-de-steve-jobs-parte-2/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2008/07/01/%C2%BFlos-buscadores-pueden-buscar-en-un-flash/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2008/07/01/%C2%BFlos-buscadores-pueden-buscar-en-un-flash/",
+      "userCanonical": "https://crearsoftware.com/2008/07/01/%C2%BFlos-buscadores-pueden-buscar-en-un-flash/",
+      "lastCrawlTime": "2026-03-24T09:18:54Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/author/alfonsogu/page/26/",
+        "https://crearsoftware.com/2008/06/27/plantilla-para-definir-un-nicho-en-software/",
+        "https://crearsoftware.com/2008/07/02/jovenes-en-la-red-dominio-gratis/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2007/05/28/vista-y-explorer/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2007/05/28/vista-y-explorer/",
+      "userCanonical": "https://crearsoftware.com/2007/05/28/vista-y-explorer/",
+      "lastCrawlTime": "2026-06-14T03:12:37Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/2007/05/25/la-sgae-y-su-canon/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/",
+      "userCanonical": "https://crearsoftware.com/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/",
+      "lastCrawlTime": "2026-05-15T02:00:15Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/?query-0-page=3&s_=saas",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2010/01/25/viaje-sin-vuelta/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2010/01/25/viaje-sin-vuelta/",
+      "userCanonical": "https://crearsoftware.com/2010/01/25/viaje-sin-vuelta/",
+      "lastCrawlTime": "2026-04-21T15:37:27Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/page/3/?query-0-page=32&cst",
+        "https://crearsoftware.com/2010/01/26/lecciones-de-steve-jobs-parte-5/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2008/12/21/%C2%BFque-es-el-marketing-interno/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Descubierta: actualmente sin indexar",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://crearsoftware.com/2008/10/25/problemas-de-comunicacion-ascendente/?like=1",
+        "https://crearsoftware.com/2008/12/21/%C2%BFque-es-el-teletrabajo/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    }
+  ],
+  "errors": []
 }

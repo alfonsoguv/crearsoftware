@@ -1,12 +1,15 @@
 # Informe semanal SEO/GEO — 2026-08-23
 
-## ⚠️ BLOQUEO: Search Console ha degradado la cuenta a `siteUnverifiedUser`
+## Search Console: bloqueado por la mañana, resuelto el mismo día
 
-`npm run seo:gsc:indexation` falla con **403 PERMISSION_DENIED** en las 25 URLs.
-**No es el `invalid_grant` de julio: el token OAuth funciona perfectamente.** El
-`refresh_token` canjea sin problema y el `access_token` que devuelve tiene el scope
-`https://www.googleapis.com/auth/webmasters`. Lo que ha cambiado es el permiso sobre la
-propiedad. `GET /webmasters/v3/sites` devuelve:
+> **RESUELTO el 23-ago-2026.** Se deja escrito el diagnóstico porque la causa no era la
+> que el ciclo llevaba dos meses asumiendo.
+
+`npm run seo:gsc:indexation` falló con **403 PERMISSION_DENIED** en las 25 URLs.
+**No era el `invalid_grant` de julio: el token OAuth funcionaba perfectamente.** El
+`refresh_token` canjeaba sin problema y el `access_token` traía el scope
+`https://www.googleapis.com/auth/webmasters`. Lo que había cambiado era el permiso sobre
+la propiedad. `GET /webmasters/v3/sites` devolvía:
 
 | Propiedad | Nivel de permiso |
 | --- | --- |
@@ -14,34 +17,28 @@ propiedad. `GET /webmasters/v3/sites` devuelve:
 | `http://www.alfonsogu.com/` | **siteUnverifiedUser** |
 | `https://deepdna.ai/` | siteOwner |
 
-El 17 de agosto esta misma cuenta inspeccionó 200 URLs sin un solo error. Entre el 17 y
-el 23 de agosto ha perdido la verificación de propiedad sobre crearsoftware.com.
+El 17 de agosto esa misma cuenta había inspeccionado 200 URLs sin un solo error. Entre el
+17 y el 23 perdió la verificación de propiedad sobre crearsoftware.com.
 
-Lo que **no** es la causa, ya comprobado:
+Descartado en el momento, y conviene que quede escrito para no repetirlo:
 
-- **No es el DNS.** El registro sigue publicado y resuelve:
-  `google-site-verification=XyBajVEdRSYj6GAeRUisS3L3-TRaMBWqmvaIQ_Yrkic`. Los NS son de
-  Cloudflare y responden.
-- **No es el token ni la app OAuth.** El canje funciona y el scope es el correcto.
-- **No es una caída de la API.** La misma credencial es `siteOwner` de deepdna.ai, así
-  que la llamada es válida; lo que se rechaza es esta propiedad concreta.
-- **No es Bing.** `npm run seo:bing` responde con «Propiedad verificada: sí». El problema
-  es específico de Google.
+- **No era el DNS.** El registro seguía publicado y resolvía:
+  `google-site-verification=XyBajVEdRSYj6GAeRUisS3L3-TRaMBWqmvaIQ_Yrkic`.
+- **No era el token ni la app OAuth.** El canje funcionaba y el scope era el correcto.
+- **No era una caída de la API.** La misma credencial seguía siendo `siteOwner` de
+  deepdna.ai, así que la llamada era válida; lo rechazado era esta propiedad concreta.
+- **No era Bing**, que respondía «Propiedad verificada: sí».
 
-Cada cuenta de Google tiene su propio token de verificación, así que un TXT válido en el
-DNS junto a una cuenta sin verificar apunta a que **el TXT publicado pertenece a otra
-cuenta de Google distinta de la que autoriza el script**, o a que la verificación de esta
-se revocó.
+**Cómo se resolvió.** Alfonso reverificó la propiedad el mismo día desde Search Console,
+por el flujo automático de DNS con Cloudflare —el botón «Iniciar verificación», que
+autoriza a Google a crear el registro él mismo. Confirmado contra la API: la propiedad
+pasó a **`siteOwner`**.
 
-**Solo Alfonso puede resolverlo**, y son cinco minutos: entrar en
-[Search Console](https://search.google.com/search-console) **con la misma cuenta que
-autorizó `npm run seo:gsc:connect`**, abrir la propiedad `crearsoftware.com` y pulsar
-«Verificar». Si dice que el token TXT no coincide, copiar el que muestre y añadirlo en
-Cloudflare DNS junto al que ya hay: se pueden tener varios registros de verificación a la
-vez, uno por cada cuenta propietaria.
-
-Consecuencia mientras dure: **sin indexación, sin rendimiento y sin envío de sitemap por
-API en Google.** Bing, el contador de agentes y el resto del ciclo funcionan.
+**La lección de método:** un 403 y un `invalid_grant` se parecen desde el script —ambos
+dejan el ciclo sin datos de Google— y tienen causas y arreglos distintos. Regenerar el
+token, que era el ritual aprendido en julio, aquí no habría arreglado nada. Antes de tocar
+credenciales conviene mirar `/webmasters/v3/sites`, que dice en una línea si el problema
+es de identidad o de permiso.
 
 ### Comprobaciones bloqueantes restantes
 
@@ -73,12 +70,50 @@ Corregido en `scripts/gsc-indexation-audit.mjs`:
 - Si la ejecución entera falla, el cursor **no avanza** y `runs` no se incrementa.
 - Avisa por `stderr` en vez de terminar con un «Generated files» tranquilizador.
 
-Verificado reejecutando: falla igual con 403, y el cursor queda intacto en `start: 400`,
-`runs: 4`, `coveredCount: 349`. Revertido a mano el avance en falso de la primera
-ejecución.
+Verificado reejecutando mientras el 403 seguía vivo: falló igual y el cursor quedó intacto
+en `start: 400`, `runs: 4`, `coveredCount: 349`. Revertido a mano el avance en falso de la
+primera ejecución.
 
 Esto no tiene relación con el sesgo de `%C2%BF` documentado el 17-ago, que era un fallo
 parcial. Es el caso del fallo total, que no estaba contemplado.
+
+## Indexación: 76,0% sobre n=25, y una trampa de red que casi se cuela
+
+Con la propiedad ya reverificada, el muestreo rotativo volvió a correr. La **primera**
+ejecución dio esto:
+
+- 25 inspeccionadas, 7 indexadas, 3 no indexadas, **15 errores**
+- «Tasa de indexación estimada del sitio: **70,0%** (IC 95%: 39,7% – 89,2%, n=10)»
+
+Ese 70% no vale nada, y el encargo ya avisa de por qué: **mirar `errorCount` antes que
+`indexedRatePercent`**. Con 15 errores el denominador se queda en 10 y el intervalo mide
+50 puntos de ancho. Los errores tampoco eran los de siempre: 14 de 15 eran `fetch failed`
+—fallo de red local, no respuesta de la API— y **no seguían el sesgo del `%C2%BF`** (2 de 6
+con el carácter frente a 13 de 19 sin él), así que era ruido de conexión y no el problema
+de codificación conocido.
+
+Repetido el mismo tramo con `--offset=401`:
+
+| | Indexadas | No indexadas | Errores | Tasa | IC 95% |
+| --- | --- | --- | --- | --- | --- |
+| 1ª ejecución | 7 | 3 | **15** | 70,0% | 39,7 – 89,2% (n=10) |
+| 2ª ejecución | **19** | **6** | **0** | **76,0%** | 56,6 – 88,5% (n=25) |
+
+**76,0% con cero errores**, en línea exacta con el 74,6% acumulado del histórico. No hay
+hallazgo nuevo aquí, que es justo lo que se esperaba: la tasa lleva estable todo el año.
+Cobertura acumulada: **359 de 702 URLs distintas**.
+
+Los estados de las 6 no indexadas: **5 «Rastreada: actualmente sin indexar»** y 1
+«Descubierta: actualmente sin indexar». Sigue mandando la misma causa dominante y sin
+explicación, con las cinco declarando `INDEXING_ALLOWED`. Ninguna en «Google no reconoce
+esta URL» esta vez, así que no hay candidatas nuevas para el experimento de indexación
+manual del punto abierto nº 1.
+
+**Lo que esto añade al método:** una ejecución con muchos errores no solo pierde muestra,
+es que **publica una tasa plausible sobre un denominador roto**. 70% y 76% se parecen
+bastante, y sin mirar el `errorCount` nadie habría notado que el primero salía de 10
+observaciones. Repetir el tramo cuesta un minuto y es lo correcto siempre que `errorCount`
+pase de unos pocos.
 
 ## Agentes de IA: serie plana, sin nada que declarar
 
@@ -205,8 +240,8 @@ infraestructura ya está puesta; lo que falta es que el perfil confirme.
 
 ## Para Alfonso — pendientes, por orden de impacto
 
-1. **Reverificar la propiedad en Search Console.** Es el bloqueo de la semana y sin ello
-   no hay ninguna métrica de Google. Ver la primera sección: cinco minutos.
+1. ~~Reverificar la propiedad en Search Console.~~ **Hecho el mismo día.** La propiedad
+   volvió a `siteOwner` y el muestreo de indexación, parado dos semanas, ya ha corrido.
 2. **Añadir el enlace de vuelta en el perfil de GitHub** (campo «Website» →
    `https://crearsoftware.com`) y **rellenar `linkedin` en
    `authors/alfonso-gutierrez.json`**. Sin reciprocidad, el `sameAs` que se acaba de
