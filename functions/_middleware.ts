@@ -210,7 +210,32 @@ function canonicaDeVariante(pathname: string): string | null {
   return SLUG_MAP[conBarra] ?? SLUG_MAP[decoded] ?? null;
 }
 
+// `www` servía el sitio entero con 200 en vez de redirigir (detectado el
+// 23-ago-2026). El canonical apuntaba bien a la versión sin `www`, así que no
+// había daño de indexación —Google las clasifica como «página alternativa con
+// etiqueta canónica adecuada»—, pero sí de rastreo: eran ~847 páginas
+// duplicadas, con su propio `/sitemap.xml` de 702 URLs, y hasta registrado como
+// sitemap en Bing. Un rastreador podía gastar la mitad de sus peticiones en el
+// duplicado, que es justo lo que importa aquí.
+//
+// El 301 va lo primero de todo, antes de `context.next()`: así ni se genera la
+// página ni se cuenta el hit en el contador de agentes.
+//
+// Solo actúa sobre el prefijo `www.` literal. Los dominios `*.pages.dev` de
+// previsualización quedan fuera a propósito: redirigirlos a producción rompería
+// la verificación de los despliegues de preview.
+function redireccionSinWww(request: Request): Response | null {
+  const url = new URL(request.url);
+  if (!url.hostname.startsWith("www.")) return null;
+
+  url.hostname = url.hostname.slice(4);
+  return Response.redirect(url.toString(), 301);
+}
+
 export const onRequest: PagesFunction<Env> = async (context) => {
+  const sinWww = redireccionSinWww(context.request);
+  if (sinWww) return sinWww;
+
   const response = await context.next();
 
   if (response.status === 404) {
