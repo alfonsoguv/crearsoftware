@@ -238,6 +238,87 @@ enlace de vuelta. Un `sameAs` unilateral es el sitio afirmando algo sobre sí mi
 exactamente lo que el marcado estructurado sirve para no tener que creerse a ciegas. La
 infraestructura ya está puesta; lo que falta es que el perfil confirme.
 
+## Las «1.929 páginas no indexadas» del panel: qué son de verdad
+
+*(Añadido el 29-ago-2026, a raíz de que Alfonso mirara el panel de cobertura.)*
+
+Search Console muestra **532 indexadas y 1.929 no indexadas**. Leído a bote pronto parece
+un desastre. No lo es: **«no indexadas» no significa «páginas que deberían estar en Google
+y no están»**, sino «URLs que Google conoce y no están en el índice», e incluye todas las
+que deliberadamente no queremos indexar.
+
+**El sitio real son 702 URLs y 532 están indexadas: el 75,8%.** Y aquí está lo que
+convierte esto en una validación y no en una anécdota:
+
+| | Muestreo (n=25, esta semana) | Censo de Google (panel) |
+| --- | --- | --- |
+| Indexadas | 76,0% → 533,5 URLs esperadas | **532** |
+| No indexadas | 24,0% → 168,5 esperadas | **170** |
+
+La estimación por muestra y el censo completo coinciden con un margen de una unidad y
+media. **El muestreo rotativo está bien calibrado**, lo cual es tranquilizador porque es
+la única herramienta que teníamos para vigilar esto entre semanas.
+
+### De dónde salen las otras 1.759
+
+1.759 de las 1.929 no indexadas **ni siquiera están en el sitemap**. La causa principal
+resultó ser un fallo real y hasta ahora invisible:
+
+**`https://www.crearsoftware.com/` respondía 200 en vez de redirigir.** El sitio entero
+existía duplicado en `www` —847 páginas HTML— con su propio `/sitemap.xml` de 702 URLs, e
+incluso registrado como sitemap en Bing. 847 × 2 = 1.694, muy cerca de esas 1.759.
+
+Lo verificado, URL a URL contra producción:
+
+- El canonical de `www` **sí apuntaba** a la versión sin `www`, así que no había daño de
+  indexación: Google las clasifica como «página alternativa con etiqueta canónica
+  adecuada». Estado sano.
+- Las URLs heredadas de WordPress están resueltas: `/feed/`, `/tag/`, `/page/2/`,
+  `/author/` y `/category/` devuelven **301** a destinos correctos.
+- Las de tipo `/?p=123`, `?replytocom=` y `/?s=` devuelven 200 **con canonical a la home o
+  al post**, así que también son duplicados sanos.
+- `/wp-json/`, `/xmlrpc.php` y las URLs de adjunto devuelven 404.
+
+La descomposición del resto es aritmética que cuadra, no un censo verificado. Lo
+verificado son los canonicals, las redirecciones y la coincidencia 532 ≈ 533,5.
+
+**Conclusión: de las 1.929, solo ~170 son contenido real fuera del índice**, y son
+exactamente las que ya perseguimos en el punto abierto nº 1 —«Rastreada: actualmente sin
+indexar»—, todavía sin explicación tras descartar longitud del texto, antigüedad, enlaces
+internos, el `¿` del slug y la duplicación semántica.
+
+**Corrección explícita a lo que se venía diciendo:** los informes anteriores hablaban de
+«unas 177 URLs con contenido real fuera del índice» extrapolando desde la muestra. La cifra
+era buena —el censo dice 170—, pero se presentaba como una estimación con incertidumbre.
+Ya no lo es: es un recuento.
+
+### Arreglo desplegado: 301 de `www` a no-`www`
+
+El canonical evitaba el daño de indexación, pero **no el de rastreo**: un agente podía
+gastar la mitad de sus peticiones leyendo el sitio duplicado, que es justo la métrica del
+encargo. Implementado en `functions/_middleware.ts`, no como regla del panel de Cloudflare,
+para que quede versionado y sea reversible con un `git revert`.
+
+El 301 va **antes de `context.next()`**, así que la petición a `www` ni genera la página ni
+suma un hit al contador de agentes. Los dominios `*.pages.dev` quedan excluidos a
+propósito: redirigirlos a producción rompería la verificación de los despliegues de
+preview.
+
+Verificado en producción tras el despliegue:
+
+| Comprobación | Resultado |
+| --- | --- |
+| `www` → no-`www`, home, post, `/sitemap.xml`, `.md` y con query string | 301 correcto, ruta y query preservadas |
+| no-`www`: home, `/blog/`, `/sitemap.xml`, `/robots.txt`, `/llms.txt`, `/sobre/`, `/feed.xml`, gemelo `.md` | 200, intacto |
+| ChatGPT-User, Claude-User, PerplexityBot, GPTBot en `/robots.txt` | 200, sin bloqueo |
+| Redirecciones heredadas (`/feed/`, `/tag/`, `/category/`, `/page/2/`) | 301, siguen vivas |
+| `/api/bots` | responde, contador intacto |
+
+**Qué esperar.** El índice no debería moverse: esas URLs ya estaban fuera por canonical. Lo
+que debería bajar es el rastreo duplicado. Es medible con el contador de agentes, pero la
+señal es indirecta y φ ≈ 2,6 hace que el ruido semanal se coma casi cualquier efecto, así
+que **no conviene declarar nada antes de un mes**.
+
 ## Para Alfonso — pendientes, por orden de impacto
 
 1. ~~Reverificar la propiedad en Search Console.~~ **Hecho el mismo día.** La propiedad
@@ -249,7 +330,11 @@ infraestructura ya está puesta; lo que falta es que el perfil confirme.
 3. **Exportar «AI Performance» de bing.com/webmasters** cuando toque (cadencia mensual, el
    último es del 19-ago). Sigue sin endpoint y la ventana del panel es limitada: sin
    archivar el CSV el dato se pierde. Es la única fuente cuantitativa de citación.
-4. **Borrar el token de Cloudflare** que quedó expuesto en una conversación. Sigue
+4. **Quitar el sitemap de `www` en Bing Webmaster Tools.** Estaba registrado
+   `https://www.crearsoftware.com/sitemap.xml` con 696 URLs. Desde el 301 devuelve una
+   redirección, así que no hace daño, pero conviene borrarlo de la lista para que el
+   informe de sitemaps deje de mezclar dos entradas del mismo sitio.
+5. **Borrar el token de Cloudflare** que quedó expuesto en una conversación. Sigue
    pendiente desde hace semanas.
 
 ## Ficheros ya modificados que no entran en este commit
