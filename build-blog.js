@@ -1052,7 +1052,12 @@ if (posts.length > 0) {
           <h2>${escapeHtml(guide.title)}</h2>
           <p>${escapeHtml(guide.metaDescription || guide.description || '')}</p>
         </a>`)
-      .join(''),
+      .join('') + `
+        <a href="/glosario/" class="entry">
+          <div class="entry-meta"><span class="cat">Glosario</span></div>
+          <h2>Glosario de conceptos</h2>
+          <p>Todas las definiciones del blog en una sola página, con ancla propia por término y enlace al artículo que lo desarrolla.</p>
+        </a>`,
     newsletterAction: '/api/subscribe',
     socialMeta: buildSocialMeta({
       title: `${SITE_NAME} — Blog de Desarrollo de Software, IA y Tecnología Empresarial`,
@@ -1272,6 +1277,157 @@ for (const guide of guides) {
 // ---------------------------------------------------------------------------
 const today = new Date().toISOString().slice(0, 10);
 
+// ---------------------------------------------------------------------------
+// GEO: /glosario/ — DefinedTermSet con todas las definiciones del sitio
+//
+// Por qué existe: la medición de Bing AI Performance del 19-ago-2026 mostró que
+// este sitio se cita casi siempre por definiciones de conceptos básicos (el 69%
+// de las citas listadas eran del post de input/output, de 2007), no por los
+// ensayos de gestión. Resulta que el blog lleva 93 artículos cuyo título es
+// literalmente "¿Qué es X?", pero estaban dispersos entre 700 URLs y sin ninguna
+// página que los agrupara: un agente tenía que tropezarse con cada uno.
+//
+// El glosario los reúne en una sola URL de alta densidad, con `DefinedTerm` por
+// término y un ancla estable por concepto, de forma que un modelo pueda resolver
+// "qué es X según crearsoftware.com" en una petición en vez de rastrear el sitio.
+// Se genera solo a partir de los títulos y las meta-descripciones ya existentes:
+// no hay texto escrito a mano que mantener ni que pueda quedar desincronizado.
+// ---------------------------------------------------------------------------
+const GLOSSARY_URL = `${SITE_URL}/glosario/`;
+
+function cleanGlossaryTerm(value = '') {
+  const stripped = value
+    .replace(/^(el|la|los|las|un|una|unos|unas)\s+/i, '')
+    .replace(/[?¿]/g, '')
+    .replace(/\.$/, '')
+    .trim();
+  return stripped ? stripped[0].toLocaleUpperCase('es') + stripped.slice(1) : '';
+}
+
+// Los títulos definitorios del blog tienen dos formas, porque 2007 y 2026 no
+// titulaban igual: "¿Qué es el long tail?" y "Input y Output: qué son,
+// diferencias y ejemplos". La segunda pone el término delante de los dos puntos.
+function extractGlossaryTerm(title = '') {
+  let text = title.trim();
+  const colon = text.indexOf(':');
+  if (colon > 0) {
+    const head = text.slice(0, colon).trim();
+    const tail = text.slice(colon + 1).trim();
+    const headIsQuestion = /^¿?\s*qué\s+(?:es|son)\b/i.test(head);
+    if (!headIsQuestion && /^¿?\s*qué\s+(?:es|son)\b/i.test(tail)) return cleanGlossaryTerm(head);
+    text = head;
+  }
+  const match = text.match(/^¿?\s*qué\s+(?:es|son)\s+(.+?)\s*\??$/i);
+  return match ? cleanGlossaryTerm(match[1]) : '';
+}
+
+const glossaryTerms = [];
+const glossarySeen = new Set();
+for (const post of posts.filter(p => !p.noindex)) {
+  const term = extractGlossaryTerm(post.title || '');
+  if (!term) continue;
+  const key = term.toLocaleLowerCase('es');
+  // `posts` va de más reciente a más antiguo y hay conceptos definidos varias
+  // veces a lo largo de los años (tres artículos sobre cloud computing). Se
+  // queda la definición más nueva.
+  if (glossarySeen.has(key)) continue;
+  glossarySeen.add(key);
+
+  // Se prefiere la `description` del frontmatter a `metaDescription`: esta última
+  // descarta cualquier texto de más de 170 caracteres —el límite útil de la SERP— y
+  // lo sustituye por un extracto cortado a 160 con puntos suspensivos. Para una
+  // etiqueta <meta> es lo correcto; para una entrada de glosario, una definición
+  // partida a media frase es peor que una definición larga.
+  const raw = normalizeWhitespace(stripMarkdown(post.description || ''));
+  const usable = raw.length >= 60 && !/\.\.\.|…|Ã|Â/.test(raw);
+  const definition = usable ? raw : normalizeWhitespace(stripMarkdown(post.metaDescription || getMetaDescription(post) || ''));
+  if (!definition) continue;
+
+  glossaryTerms.push({
+    term,
+    slug: slugify(term),
+    definition,
+    articleTitle: post.title,
+    articleUrl: getPostUrl(post),
+    date: post.dateModified || post.date || '',
+  });
+}
+glossaryTerms.sort((a, b) => a.term.localeCompare(b.term, 'es'));
+
+if (glossaryTerms.length) {
+  const glossaryDir = join(OUTPUT_DIR, 'glosario');
+  mkdirSync(glossaryDir, { recursive: true });
+
+  const glossaryToc = `<ul>${glossaryTerms
+    .map(t => `<li><a href="#${t.slug}">${escapeHtml(t.term)}</a></li>`)
+    .join('')}</ul>`;
+
+  const glossaryContent = glossaryTerms
+    .map(t => `<h2 id="${t.slug}">${escapeHtml(t.term)}</h2>
+<p>${escapeHtml(t.definition)}</p>
+<p><a href="${encodeUrlPath(t.articleUrl)}">Leer el artículo completo: ${escapeHtml(t.articleTitle)}</a></p>`)
+    .join('\n');
+
+  const glossaryJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTermSet',
+    '@id': `${GLOSSARY_URL}#glosario`,
+    name: `Glosario de ${SITE_NAME}`,
+    description: `Definiciones de ${glossaryTerms.length} conceptos de desarrollo de software, inteligencia artificial y gestión de empresas tecnológicas, cada una enlazada al artículo que la desarrolla.`,
+    url: GLOSSARY_URL,
+    inLanguage: 'es',
+    publisher: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL },
+    hasDefinedTerm: glossaryTerms.map(t => ({
+      '@type': 'DefinedTerm',
+      '@id': `${GLOSSARY_URL}#${t.slug}`,
+      name: t.term,
+      description: t.definition,
+      inDefinedTermSet: `${GLOSSARY_URL}#glosario`,
+      url: `${GLOSSARY_URL}#${t.slug}`,
+      subjectOf: {
+        '@type': 'Article',
+        name: t.articleTitle,
+        url: `${SITE_URL}${encodeUrlPath(t.articleUrl)}`,
+      },
+    })),
+  };
+
+  const glossaryDescription = `Definiciones breves de ${glossaryTerms.length} conceptos de software, inteligencia artificial y gestión, cada una enlazada al artículo que la desarrolla. Glosario de ${SITE_NAME}, en español.`;
+
+  writeFileSync(join(glossaryDir, 'index.html'), renderTemplate(templates['guide-page'], {
+    siteName: SITE_NAME,
+    siteUrl: SITE_URL,
+    headTitle: escapeHtml(`Glosario: ${glossaryTerms.length} conceptos de software e IA definidos`),
+    title: 'Glosario',
+    description: glossaryDescription,
+    metaDescription: escapeHtml(glossaryDescription),
+    canonicalUrl: GLOSSARY_URL,
+    markdownUrl: getMarkdownUrl('/glosario/'),
+    toc: glossaryToc,
+    content: glossaryContent,
+    date: today,
+    dateFormatted: formatDate(today),
+    relatedPosts: '',
+    socialMeta: buildSocialMeta({
+      title: `Glosario de ${SITE_NAME}`,
+      description: glossaryDescription,
+      url: GLOSSARY_URL,
+      type: 'article',
+      author: 'Alfonso Gutiérrez',
+      modifiedTime: today,
+    }),
+    jsonLd: `<script type="application/ld+json">${JSON.stringify([
+      glossaryJsonLd,
+      buildBreadcrumbJsonLd([
+        { name: 'Inicio', url: SITE_URL },
+        { name: 'Glosario', url: GLOSSARY_URL },
+      ]),
+    ])}</script>`,
+  }));
+  console.log(`  [glosario] /glosario/ (${glossaryTerms.length} términos)`);
+}
+
+
 const sitemapEntries = [
   // Home page
   { loc: '/', lastmod: today, freq: 'weekly', priority: '1.0' },
@@ -1280,6 +1436,10 @@ const sitemapEntries = [
   // About page
   { loc: '/sobre/', lastmod: today, freq: 'monthly', priority: '0.6' },
 ];
+
+if (glossaryTerms.length) {
+  sitemapEntries.push({ loc: '/glosario/', lastmod: today, freq: 'weekly', priority: '0.8' });
+}
 
 // Post entries (using their actual URLs - old or new)
 for (const post of posts) {
@@ -1430,6 +1590,14 @@ function llmsLine(title, url, description) {
 }
 
 const llmsSections = [];
+
+if (glossaryTerms.length) {
+  // El glosario va el primero: para un agente que solo va a hacer una petición
+  // más, es la que más definiciones por byte le devuelve.
+  llmsSections.push(`## Glosario
+
+- [Glosario de ${SITE_NAME}](${GLOSSARY_URL}): ${glossaryTerms.length} conceptos definidos en una sola página, cada uno con ancla propia (${GLOSSARY_URL}#termino) y enlace al artículo que lo desarrolla.`);
+}
 
 llmsSections.push(`## Guías pilar\n\n${guides
   .map(guide => llmsLine(
@@ -1594,6 +1762,24 @@ for (const guide of guides) {
     author: 'Alfonso Gutiérrez',
     category: 'Guía',
     rawContent: guide.rawContent,
+  }));
+}
+
+if (glossaryTerms.length) {
+  writeMarkdownTwin('/glosario/', buildMarkdownTwin({
+    title: `Glosario de ${SITE_NAME}`,
+    url: '/glosario/',
+    description: `Definiciones breves de ${glossaryTerms.length} conceptos de software, inteligencia artificial y gestión, cada una enlazada al artículo que la desarrolla.`,
+    dateModified: today,
+    author: 'Alfonso Gutiérrez',
+    category: 'Glosario',
+    rawContent: glossaryTerms
+      .map(t => `## ${t.term}
+
+${t.definition}
+
+Desarrollado en: [${t.articleTitle}](${SITE_URL}${encodeUrlPath(t.articleUrl)})`)
+      .join('\n\n'),
   }));
 }
 
