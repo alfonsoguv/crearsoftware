@@ -87,17 +87,10 @@
     }
     .nav-toggle svg { width: 24px; height: 24px; }
 
-    /* ---------- Intro ---------- */
-    .intro { padding-top: var(--space-16); padding-bottom: var(--space-12); }
-    .intro p {
-      font-family: var(--font-heading); font-size: var(--text-lg); line-height: 1.6;
-      color: var(--color-text); max-width: 30ch;
-    }
-    .intro .by { font-family: var(--font-body); font-size: var(--text-sm); color: var(--color-text-muted); margin-top: var(--space-5); }
-    .intro .by strong { color: var(--color-text); font-weight: 600; }
-
     /* ---------- Post list ---------- */
     .list { padding-bottom: var(--space-16); }
+    /* la primera lista abre la página: separa del encabezado */
+    main > .list:first-of-type { padding-top: var(--space-16); }
     .list-label { margin-bottom: var(--space-2); }
     .entry { display: block; padding-block: var(--space-8); border-top: 1px solid var(--color-border); }
     .entry:last-of-type { border-bottom: 1px solid var(--color-border); }
@@ -168,14 +161,6 @@
 
   <main>
     <h1 class="sr-only">{{siteName}} — desarrollo de software, inteligencia artificial y el oficio de crear tecnología</h1>
-    <!-- Intro -->
-    <section class="intro">
-      <div class="col">
-        <p>Notas sobre desarrollo de software, IA y el oficio de crear tecnología que importa.</p>
-        <p class="by">Por <strong>Alfonso Gutiérrez</strong> · escribiendo desde 2007</p>
-      </div>
-    </section>
-
     <!-- Post list -->
     <section class="list" aria-label="Últimos artículos">
       <div class="col">
