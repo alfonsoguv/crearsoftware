@@ -108,9 +108,12 @@
       margin: 0 auto;
       padding: 0 var(--space-8);
       display: grid;
-      grid-template-columns: 1fr;
+      grid-template-columns: minmax(0, 1fr);
       gap: var(--space-8);
     }
+
+    /* los hijos del grid tampoco se ensanchan con su contenido */
+    .article-layout > * { min-width: 0; }
 
     /* --- TOC (sidebar) --- */
     .toc-sidebar {
@@ -345,7 +348,7 @@
     }
     .related-grid {
       display: grid;
-      grid-template-columns: 1fr;
+      grid-template-columns: minmax(0, 1fr);
       gap: var(--space-6);
     }
     .related-card {
@@ -416,7 +419,7 @@
     /* --- Desktop (1024px+) --- */
     @media (min-width: 1024px) {
       .article-layout {
-        grid-template-columns: 220px 1fr;
+        grid-template-columns: 220px minmax(0, 1fr);
         gap: var(--space-12);
       }
       .toc-mobile { display: none; }
@@ -475,6 +478,33 @@
       .article-layout { padding: 0 var(--space-4); }
       .post-header h1 { font-size: 1.8rem; }
       .site-footer { padding: var(--space-8) var(--space-4); }
+    }
+
+
+    /* --- Ajuste movil: nada debe desbordar el ancho de la pantalla --- */
+    /* Una URL larga o una tabla ancha ensanchaban el layout y el texto se
+       salia por la derecha en el movil (detectado el 24-sep-2026). */
+    .article-content a,
+    .article-content p,
+    .article-content li,
+    .article-content h2,
+    .article-content h3,
+    .article-content blockquote,
+    .post-header h1,
+    .breadcrumbs,
+    .toc-toggle {
+      overflow-wrap: anywhere;
+    }
+    .article-content pre { overflow-x: auto; }
+    @media (max-width: 767px) {
+      /* la tabla se desplaza dentro de su caja en vez de ensanchar la pagina */
+      .article-content table {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+      }
+      .article-content th, .article-content td { white-space: normal; }
     }
 
     /* --- Print --- */

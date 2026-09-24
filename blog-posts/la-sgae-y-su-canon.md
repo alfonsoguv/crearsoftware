@@ -3,7 +3,7 @@ title: "La SGAE y su canon"
 slug: "la-sgae-y-su-canon"
 date: "2007-05-25"
 oldUrl: "/2007/05/25/la-sgae-y-su-canon/"
-description: "Esta es la entrevista que leí esta mañana en Baquia: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\..."
+description: "Entrevista a Pedro Farré, abogado de la SGAE, publicada en Baquia: el canon digital, la copia privada y los argumentos de la entidad."
 category: "desarrollo-software"
 tags: ["software libre"]
 readingTime: 4

@@ -222,6 +222,13 @@
       body { background: white; color: black; font-size: 12pt; }
       .manifest { padding: 0; }
     }
+
+    /* nada desborda el ancho de la pantalla en movil (24-sep-2026) */
+    .post-item-excerpt, .post-item-title, .entry, .entry p, .entry h2,
+    h1, h2, h3, p, li, td, th, blockquote, .breadcrumbs {
+      overflow-wrap: anywhere;
+    }
+
   </style>
   {{jsonLd}}
 </head>
