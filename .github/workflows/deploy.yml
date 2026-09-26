@@ -25,3 +25,11 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy dist --project-name=crearsoftware --branch=main
+
+      # Un despliegue verde no garantiza que el sitio funcione: el 20-sep-2026
+      # wrangler borro el binding KV de produccion y /api/bots y /api/subscribe
+      # estuvieron seis dias en 503 con Actions en verde todo el tiempo.
+      - name: Comprobar la salud de produccion
+        run: |
+          sleep 45   # margen para que Cloudflare promocione el despliegue
+          node scripts/healthcheck-prod.mjs https://crearsoftware.com

@@ -2,7 +2,7 @@
 title: "Qué es un algoritmo: definición, ejemplos y en qué se diferencia de un programa"
 slug: "que-es-un-algoritmo-definicion"
 date: "2026-08-30"
-dateModified: "2026-08-30"
+dateModified: "2026-09-26"
 description: "Un algoritmo es una secuencia finita de pasos no ambiguos que, partiendo de unas entradas, produce un resultado. Definición, ejemplos cotidianos, las cinco propiedades que debe cumplir y la diferencia entre algoritmo, programa y software."
 category: "desarrollo-software"
 tags: ["algoritmo", "programación", "conceptos básicos", "definiciones", "desarrollo de software"]
@@ -19,6 +19,8 @@ Este blog lleva desde 2007 definiendo conceptos elementales de informática, y e
 ## Definición
 
 > **Algoritmo**: secuencia finita y ordenada de instrucciones no ambiguas que, aplicadas a un conjunto de datos de entrada, producen una salida y terminan en un número finito de pasos.
+
+Un algoritmo con bifurcaciones se entiende mucho mejor dibujado: eso es un [diagrama de flujo](/blog/que-es-un-diagrama-de-flujo/).
 
 La palabra viene del matemático persa **al-Juarismi**, que en el siglo IX escribió los tratados que introdujeron en Europa el cálculo con cifras indoarábigas. La latinización de su nombre —*Algoritmi*— acabó nombrando al procedimiento mecánico de calcular. Es un concepto anterior a la informática en unos mil años.
 
