@@ -2,15 +2,15 @@
 title: "¿Qué es un producto? Definición, Niveles y Tipos en Marketing"
 slug: "¿que-es-un-producto"
 date: "2008-03-12"
-dateModified: "2026-05-31"
+dateModified: "2026-09-26"
 oldUrl: "/2008/03/12/%c2%bfque-es-un-producto/"
-description: "Qué es un producto en marketing: definición, los 3 niveles de producto según Kotler, tipos de productos y ejemplos para entender el concepto con claridad."
+description: "Un producto es todo aquello que una empresa ofrece en un mercado para satisfacer una necesidad o un deseo. Definición de Kotler y Santesmases, los 3 niveles de producto, los 4 tipos de producto de consumo, ejemplos y qué significa producto en marketing, economía y matemáticas."
 category: "tecnologia-empresarial"
 tags: ["estrategia", "gestión empresarial", "marketing"]
-readingTime: 4
+readingTime: 8
 author: "Alfonso Gutiérrez"
 commentCount: 0
-wordCount: 620
+wordCount: 1400
 image: "/wp-content/uploads/2008/03/producto.png"
 ---
 
@@ -40,11 +40,40 @@ Esta distinción ayuda a competir: muchas empresas se diferencian en el **produc
 
 ## Tipos de productos
 
-Una clasificación habitual distingue entre:
+Hay tres clasificaciones que conviene no mezclar, porque responden a preguntas distintas.
 
-- **Productos de consumo:** dirigidos al consumidor final (de conveniencia, de compra esporádica, de especialidad o no buscados).
-- **Productos industriales:** adquiridos por empresas para producir otros bienes o para su funcionamiento (materias primas, componentes, equipos, suministros).
-- **Bienes, servicios e ideas:** según su grado de tangibilidad. Un software, por ejemplo, combina elementos de producto y de servicio.
+### Según quién lo compra
+
+| Tipo | Quién lo compra | Ejemplos |
+| --- | --- | --- |
+| **De consumo** | El consumidor final, para su uso personal | Alimentos, ropa, un móvil |
+| **Industriales** | Empresas, para producir otros bienes o para funcionar | Materias primas, componentes, maquinaria, software de gestión |
+
+### Según el esfuerzo de compra (productos de consumo)
+
+Es la clasificación clásica de Kotler, y la más útil para decidir cómo se vende cada cosa:
+
+1. **De conveniencia:** compra frecuente, inmediata y con poco esfuerzo de comparación. Pan, prensa, pilas.
+2. **De compra esporádica:** el cliente compara calidad, precio y estilo antes de decidir. Muebles, electrodomésticos, ropa.
+3. **De especialidad:** tienen características únicas por las que un grupo de compradores hace un esfuerzo especial. Un coche de una marca concreta, un instrumento profesional.
+4. **No buscados:** el cliente no los conoce o no piensa en comprarlos hasta que surge la necesidad. Seguros de vida, servicios funerarios.
+
+### Según su tangibilidad
+
+- **Bienes:** tienen entidad física y se pueden almacenar.
+- **Servicios:** se producen y consumen a la vez, y no se almacenan.
+- **Ideas y experiencias:** un curso, una consultoría, un evento.
+
+El software vive a caballo entre los tres: se fabrica una vez como un bien, se entrega como un servicio y lo que el cliente compra de verdad suele ser el resultado.
+
+## El producto en marketing y en otras disciplinas
+
+La palabra «producto» significa cosas distintas según el contexto, y es una confusión habitual:
+
+- **En marketing y mercadotecnia** —el sentido de este artículo— es lo que una organización ofrece al mercado para satisfacer una necesidad. Es la primera de las **cuatro P** del *marketing mix*: producto, precio, punto de venta y promoción. Las otras tres se deciden después de saber qué es el producto.
+- **En economía y producción**, el producto es el resultado (*output*) de un proceso que transforma unos recursos (*inputs*). Es la acepción que usamos al hablar de [inputs y outputs](/2007/06/23/ejemplos-de-input-output-y-actividades/).
+- **En matemáticas**, el producto es el resultado de multiplicar dos o más factores. No tiene relación con las anteriores más allá de la raíz latina *productum*, «lo producido».
+- **En desarrollo de software**, el producto es la aplicación entendida como algo que se vende y se mantiene en el tiempo, frente al proyecto, que empieza y acaba.
 
 ## Ejemplos de producto
 
@@ -63,6 +92,18 @@ Es cualquier cosa —un bien, un servicio o una idea— que una empresa ofrece p
 ### ¿Cuál es la diferencia entre producto y servicio?
 
 El producto suele asociarse a algo tangible y el servicio a algo intangible, pero en marketing ambos son "productos": un servicio es un producto cuyo valor reside en la experiencia o el resultado, no en un objeto físico.
+
+### ¿Cuáles son los 4 tipos de productos de consumo?
+
+De conveniencia (compra frecuente y sin comparar), de compra esporádica (el cliente compara antes de decidir), de especialidad (tienen algo único por lo que el comprador hace un esfuerzo extra) y no buscados (no se piensa en ellos hasta que surge la necesidad).
+
+### ¿Qué es un producto en mercadotecnia?
+
+Lo mismo que en marketing: todo aquello que se ofrece en un mercado para satisfacer una necesidad o un deseo. «Mercadotecnia» es el término más usado en México y buena parte de Latinoamérica; «marketing», en España.
+
+### ¿Qué es un producto en matemáticas?
+
+El resultado de una multiplicación. Es una acepción distinta de la de marketing y no debe confundirse con ella: comparten la raíz latina *productum*, «lo producido», y poco más.
 
 ### ¿Qué son los niveles de producto?
 

@@ -6,7 +6,7 @@ dateModified: "2026-09-26"
 description: "Un algoritmo es una secuencia finita de pasos no ambiguos que, partiendo de unas entradas, produce un resultado. Definición, ejemplos cotidianos, las cinco propiedades que debe cumplir y la diferencia entre algoritmo, programa y software."
 category: "desarrollo-software"
 tags: ["algoritmo", "programación", "conceptos básicos", "definiciones", "desarrollo de software"]
-readingTime: 8
+readingTime: 11
 author: "Alfonso Gutiérrez"
 wordCount: 1500
 image: ""
@@ -93,11 +93,43 @@ Cuatro pasos que funcionan igual en 2007 y hoy:
 
 Solo después de eso conviene abrir el editor. Si el proceso completo te interesa, lo desarrollé en [cómo crear un programa en 5 pasos](/2012/04/04/como-crear-programas/).
 
+## Los tipos de algoritmo
+
+No hay una única clasificación, pero estas son las cuatro familias que se enseñan siempre, ordenadas por cómo resuelven el problema:
+
+| Tipo | Cómo trabaja | Ejemplo típico |
+| --- | --- | --- |
+| **Secuencial** | Ejecuta los pasos uno tras otro, sin condiciones | Calcular el total de una factura |
+| **Condicional** | Se bifurca según una condición | Decidir si se aplica un descuento |
+| **Iterativo** | Repite un bloque mientras se cumpla algo | Recorrer una lista de clientes |
+| **Recursivo** | Se llama a sí mismo sobre un problema más pequeño | Calcular un factorial, recorrer un árbol |
+
+Casi todo algoritmo real combina los cuatro. Y si se clasifican por *estrategia* en lugar de por estructura, las familias habituales son otras: divide y vencerás, voraces, programación dinámica y de fuerza bruta.
+
+## El algoritmo en internet y en la inteligencia artificial
+
+Cuando en la prensa se habla de «el algoritmo de Instagram» o «el algoritmo de Google», se usa la palabra en un sentido más laxo: no es un procedimiento de pasos fijos que alguien escribió, sino un **sistema de recomendación o de ordenación** compuesto por muchos algoritmos y, cada vez más, por modelos estadísticos entrenados con datos.
+
+Esa es la diferencia con un algoritmo clásico, y no es menor:
+
+- **Un algoritmo clásico** lo escribe una persona paso a paso, y se puede leer para saber exactamente qué hará.
+- **Un modelo de aprendizaje automático** no tiene pasos escritos a mano: se ajusta a partir de ejemplos, y ni siquiera quien lo entrena puede explicar cada decisión concreta.
+
+Por eso decir que la IA «es un algoritmo» es correcto de forma general —hay algoritmos de entrenamiento y de inferencia— pero engañoso: lo que produce la respuesta no es una lista de instrucciones, sino un conjunto de parámetros aprendidos. Un modelo de lenguaje, por ejemplo, funciona prediciendo [tokens](/blog/que-es-un-token-en-ia-definicion/).
+
 ## Preguntas frecuentes
 
 ### ¿Qué es un algoritmo?
 
 Una secuencia finita y ordenada de instrucciones no ambiguas que, a partir de unos datos de entrada, producen una salida y terminan en un número finito de pasos. No requiere un ordenador: una receta de cocina cumple la definición.
+
+### ¿Cuáles son los 4 tipos de algoritmos?
+
+Por su estructura: secuenciales (pasos uno tras otro), condicionales (se bifurcan según una condición), iterativos (repiten un bloque) y recursivos (se llaman a sí mismos sobre un problema menor). Casi todo algoritmo real combina los cuatro.
+
+### ¿Qué es el algoritmo en la inteligencia artificial?
+
+En sentido estricto, los algoritmos de la IA son los de entrenamiento y los de inferencia. Pero cuando se dice «el algoritmo» de una IA o de una red social se habla de otra cosa: un sistema que decide a partir de parámetros aprendidos con datos, no de pasos escritos por una persona. Por eso no se puede leer para saber qué hará en cada caso.
 
 ### ¿Cuál es la diferencia entre un algoritmo y un programa?
 
