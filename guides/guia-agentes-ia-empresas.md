@@ -39,6 +39,8 @@ Como exploramos en nuestro articulo sobre [los agentes que estan llegando](/2025
 
 Los agentes de voz representan una de las categorias mas maduras y con mayor impacto comercial. Estos sistemas pueden mantener conversaciones telefonicas naturales, cualificar leads, responder preguntas de clientes y programar citas, todo sin intervencion humana.
 
+Si quieres el detalle de implantacion, hemos publicado una guia especifica sobre [como montar un agente de voz con IA que atienda las llamadas de tu empresa](/blog/montar-agente-de-voz-ia-que-atienda-llamadas/), con las rutas posibles, la arquitectura y el coste.
+
 Segun nuestro [analisis del panorama de agentes de voz en 2025](/2025/03/10/agentes-de-voz-con-ia-analisis-completo-del-panorama-2025/), el mercado ha experimentado un crecimiento explosivo, con empresas como ElevenLabs (Serie B de 80M$), Hippocratic AI (141M$) y Decagon (65M$) liderando la innovacion.
 
 **Casos de uso principales:**
@@ -157,6 +159,8 @@ Existen multiples opciones segun tus necesidades:
 - **Plataformas especializadas en voz:** Cognigy, PolyAI, Voiceflow
 - **Soluciones verticales:** Para ventas (Victoria by Vidiv), para salud (Nuance), para banca (Kasisto)
 - **Frameworks de desarrollo:** LangChain, CrewAI, AutoGen para equipos tecnicos que quieran construir desde cero
+
+Para agentes de voz, la decision entre comprar plataforma, desarrollar a medida o contratar una agencia depende de cuantas integraciones necesitas: lo desglosamos en [como montar un agente de voz que atienda llamadas](/blog/montar-agente-de-voz-ia-que-atienda-llamadas/).
 
 ### 5.3 Estrategia de despliegue
 
