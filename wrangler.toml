@@ -1,10 +1,21 @@
 name = "crearsoftware"
-compatibility_date = "2024-01-01"
+compatibility_date = "2026-03-29"
 pages_build_output_dir = "dist"
 
-# KV Namespace binding — replace NAMESPACE_ID once created
-# To create: npx wrangler kv namespace create CS_KV
-# Then paste the id below
-# [[kv_namespaces]]
-# binding = "CS_KV"
-# id = "NAMESPACE_ID"
+# IMPORTANTE (24-sep-2026): estos bindings TIENEN que estar aquí.
+# El despliegue se hace con `wrangler pages deploy`, y wrangler aplica este
+# fichero al proyecto: lo que no esté escrito aquí se BORRA del panel de
+# Cloudflare. Al migrar de cloudflare/pages-action a wrangler-action el
+# 20-sep-2026, producción se quedó sin CS_KV y durante seis días el contador
+# de agentes (/api/bots) y el alta de newsletter (/api/subscribe) devolvieron
+# 503. No comentar ni quitar.
+[[kv_namespaces]]
+binding = "CS_KV"
+id = "53d77454c84c46359dfe1c499937efb3"
+
+[env.preview]
+compatibility_date = "2026-03-29"
+
+[[env.preview.kv_namespaces]]
+binding = "CS_KV"
+id = "53d77454c84c46359dfe1c499937efb3"
