@@ -35,7 +35,7 @@ const CHECKS = [
   },
   {
     name: 'contador de agentes (KV)',
-    path: '/api/bots?days=1',
+    path: '/api/bots?days=7',
     porQue: 'es la metrica GEO del sitio; si el binding KV se cae, deja de contar y no se nota',
     check: ({ status, json }) => {
       if (status !== 200) return `HTTP ${status}${json?.error ? ` — ${json.error}` : ''}`;
@@ -83,7 +83,9 @@ const CHECKS = [
   },
 ];
 
-async function ejecutar(c) {
+const esperar = (ms) => new Promise((r) => setTimeout(r, ms));
+
+async function intento(c) {
   const url = `${ORIGIN}${c.path}`;
   try {
     const res = await fetch(url, {
@@ -97,10 +99,29 @@ async function ejecutar(c) {
     } catch {
       /* no es JSON: varias comprobaciones no lo necesitan */
     }
-    return { ...c, url, fallo: c.check({ status: res.status, text, json }) };
+    return c.check({ status: res.status, text, json });
   } catch (err) {
-    return { ...c, url, fallo: `no se pudo conectar: ${err.message}` };
+    return `no se pudo conectar: ${err.message}`;
   }
+}
+
+/**
+ * Reintenta antes de dar algo por roto. Justo despues de un despliegue, el
+ * primer intento puede fallar porque Cloudflare todavia esta propagando la
+ * nueva version: paso el 26-sep-2026 y tumbo el workflow con el sitio sano.
+ * Un healthcheck con falsos positivos ensena a ignorar el rojo, que es peor
+ * que no tenerlo.
+ */
+async function ejecutar(c) {
+  const url = `${ORIGIN}${c.path}`;
+  const esperas = [0, 15000, 30000];
+  let fallo = null;
+  for (let i = 0; i < esperas.length; i++) {
+    if (esperas[i]) await esperar(esperas[i]);
+    fallo = await intento(c);
+    if (!fallo) return { ...c, url, fallo: null, intentos: i + 1 };
+  }
+  return { ...c, url, fallo: `${fallo} (tras ${esperas.length} intentos)`, intentos: esperas.length };
 }
 
 const resultados = [];
@@ -111,7 +132,7 @@ for (const c of CHECKS) {
 
 console.log(`Comprobacion de salud de ${ORIGIN}\n`);
 for (const r of resultados) {
-  console.log(`${r.fallo ? 'FALLA ' : 'OK    '} ${r.name}  (${r.path})`);
+  console.log(`${r.fallo ? 'FALLA ' : 'OK    '} ${r.name}  (${r.path})${r.intentos > 1 && !r.fallo ? `  [ok al intento ${r.intentos}]` : ''}`);
   if (r.fallo) console.log(`        ${r.fallo}\n        importa porque: ${r.porQue}`);
 }
 
