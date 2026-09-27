@@ -122,7 +122,7 @@ Son tres formas de expresar lo mismo, y se confunden a menudo:
 | --- | --- | --- |
 | **Algoritmo** | La secuencia de pasos en sí, independientemente de cómo se escriba | Es el concepto; las otras dos son maneras de representarlo |
 | **Diagrama de flujo** | Su representación gráfica con símbolos normalizados | Cuando hay bifurcaciones y hay que enseñárselo a alguien que no programa |
-| **Pseudocódigo** | Su representación escrita, en lenguaje natural estructurado | Cuando el algoritmo es largo o va a convertirse en código enseguida |
+| **[Pseudocódigo](/blog/que-es-el-pseudocodigo/)** | Su representación escrita, en lenguaje natural estructurado | Cuando el algoritmo es largo o va a convertirse en código enseguida |
 
 La regla práctica: si el proceso cabe en una lista numerada sin condiciones, escríbalo como lista. Si tiene tres o más decisiones encadenadas, dibújelo.
 

@@ -20,7 +20,7 @@ Este blog lleva desde 2007 definiendo conceptos elementales de informática, y e
 
 > **Algoritmo**: secuencia finita y ordenada de instrucciones no ambiguas que, aplicadas a un conjunto de datos de entrada, producen una salida y terminan en un número finito de pasos.
 
-Un algoritmo con bifurcaciones se entiende mucho mejor dibujado: eso es un [diagrama de flujo](/blog/que-es-un-diagrama-de-flujo/).
+Un algoritmo con bifurcaciones se entiende mucho mejor dibujado: eso es un [diagrama de flujo](/blog/que-es-un-diagrama-de-flujo/). Y escrito como texto estructurado, antes de pasarlo a código, es [pseudocódigo](/blog/que-es-el-pseudocodigo/).
 
 La palabra viene del matemático persa **al-Juarismi**, que en el siglo IX escribió los tratados que introdujeron en Europa el cálculo con cifras indoarábigas. La latinización de su nombre —*Algoritmi*— acabó nombrando al procedimiento mecánico de calcular. Es un concepto anterior a la informática en unos mil años.
 
@@ -145,7 +145,7 @@ De la latinización del nombre del matemático persa al-Juarismi, autor en el si
 
 ### ¿Un algoritmo tiene que estar escrito en código?
 
-No. Puede escribirse en lenguaje natural, en pseudocódigo o dibujarse como diagrama de flujo. Escribirlo en código es un paso posterior y opcional: sirve para que lo ejecute una máquina, no para que sea un algoritmo.
+No. Puede escribirse en lenguaje natural, en [pseudocódigo](/blog/que-es-el-pseudocodigo/) o dibujarse como diagrama de flujo. Escribirlo en código es un paso posterior y opcional: sirve para que lo ejecute una máquina, no para que sea un algoritmo.
 
 ### ¿La inteligencia artificial funciona con algoritmos?
 
