@@ -20,7 +20,7 @@ Este blog lleva desde 2007 definiendo conceptos elementales de informática, y e
 
 > **Algoritmo**: secuencia finita y ordenada de instrucciones no ambiguas que, aplicadas a un conjunto de datos de entrada, producen una salida y terminan en un número finito de pasos.
 
-Un algoritmo con bifurcaciones se entiende mucho mejor dibujado: eso es un [diagrama de flujo](/blog/que-es-un-diagrama-de-flujo/). Y escrito como texto estructurado, antes de pasarlo a código, es [pseudocódigo](/blog/que-es-el-pseudocodigo/).
+Un algoritmo con bifurcaciones se entiende mucho mejor dibujado: eso es un [diagrama de flujo](/blog/que-es-un-diagrama-de-flujo/). Y escrito como texto estructurado, antes de pasarlo a código, es [pseudocódigo](/blog/que-es-el-pseudocodigo/). Los datos que el algoritmo va manejando entre un paso y otro se guardan en [variables](/blog/que-es-una-variable-en-programacion/).
 
 La palabra viene del matemático persa **al-Juarismi**, que en el siglo IX escribió los tratados que introdujeron en Europa el cálculo con cifras indoarábigas. La latinización de su nombre —*Algoritmi*— acabó nombrando al procedimiento mecánico de calcular. Es un concepto anterior a la informática en unos mil años.
 

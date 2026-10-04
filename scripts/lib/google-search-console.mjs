@@ -395,3 +395,72 @@ export async function runGSCDesktopOAuthFlow(params) {
     redirectUri,
   };
 }
+
+// URL Inspection API. Funciona con el scope `webmasters.readonly`. Devuelve el
+// estado de cobertura y, ojo, `referringUrls` y `sitemaps` tal como Google los
+// conoce, no como estan en el sitio: una URL enlazada y en el sitemap puede
+// volver con las dos listas vacias si Google nunca llego a procesar esas rutas.
+export async function inspectUrl({ url, siteUrl, accessToken }) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 20_000);
+
+  try {
+    const response = await fetch(
+      'https://searchconsole.googleapis.com/v1/urlInspection/index:inspect',
+      {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${accessToken}`,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          inspectionUrl: url,
+          siteUrl,
+          languageCode: 'es-ES',
+        }),
+        signal: controller.signal,
+      },
+    );
+
+    const text = await response.text();
+    if (!response.ok) {
+      return {
+        url,
+        error: {
+          status: response.status,
+          body: text,
+        },
+      };
+    }
+
+    const data = JSON.parse(text);
+    const indexStatus = data.inspectionResult?.indexStatusResult ?? {};
+
+    return {
+      url,
+      verdict: indexStatus.verdict ?? null,
+      coverageState: indexStatus.coverageState ?? null,
+      indexingState: indexStatus.indexingState ?? null,
+      pageFetchState: indexStatus.pageFetchState ?? null,
+      robotsTxtState: indexStatus.robotsTxtState ?? null,
+      googleCanonical: indexStatus.googleCanonical ?? null,
+      userCanonical: indexStatus.userCanonical ?? null,
+      lastCrawlTime: indexStatus.lastCrawlTime ?? null,
+      referringUrls: indexStatus.referringUrls ?? [],
+      sitemaps: indexStatus.sitemap ?? [],
+    };
+  } catch (error) {
+    return {
+      url,
+      error: {
+        status:
+          error instanceof Error && error.name === 'AbortError'
+            ? 'timeout'
+            : 'unknown',
+        body: error instanceof Error ? error.message : String(error),
+      },
+    };
+  } finally {
+    clearTimeout(timeout);
+  }
+}

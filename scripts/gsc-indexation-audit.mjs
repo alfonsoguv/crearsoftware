@@ -4,6 +4,7 @@ import path from 'node:path';
 import { loadLocalEnv } from './lib/load-local-env.mjs';
 import {
   getGSCSiteUrl,
+  inspectUrl,
   requireGSCAccessToken,
   resolveGSCSiteUrl,
 } from './lib/google-search-console.mjs';
@@ -122,71 +123,6 @@ async function loadSitemapUrls(siteUrl) {
   }
 
   return parseSitemapUrls(await response.text());
-}
-
-async function inspectUrl({ url, siteUrl, accessToken }) {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 20_000);
-
-  try {
-    const response = await fetch(
-      'https://searchconsole.googleapis.com/v1/urlInspection/index:inspect',
-      {
-        method: 'POST',
-        headers: {
-          Authorization: `Bearer ${accessToken}`,
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          inspectionUrl: url,
-          siteUrl,
-          languageCode: 'es-ES',
-        }),
-        signal: controller.signal,
-      },
-    );
-
-    const text = await response.text();
-    if (!response.ok) {
-      return {
-        url,
-        error: {
-          status: response.status,
-          body: text,
-        },
-      };
-    }
-
-    const data = JSON.parse(text);
-    const indexStatus = data.inspectionResult?.indexStatusResult ?? {};
-
-    return {
-      url,
-      verdict: indexStatus.verdict ?? null,
-      coverageState: indexStatus.coverageState ?? null,
-      indexingState: indexStatus.indexingState ?? null,
-      pageFetchState: indexStatus.pageFetchState ?? null,
-      robotsTxtState: indexStatus.robotsTxtState ?? null,
-      googleCanonical: indexStatus.googleCanonical ?? null,
-      userCanonical: indexStatus.userCanonical ?? null,
-      lastCrawlTime: indexStatus.lastCrawlTime ?? null,
-      referringUrls: indexStatus.referringUrls ?? [],
-      sitemaps: indexStatus.sitemap ?? [],
-    };
-  } catch (error) {
-    return {
-      url,
-      error: {
-        status:
-          error instanceof Error && error.name === 'AbortError'
-            ? 'timeout'
-            : 'unknown',
-        body: error instanceof Error ? error.message : String(error),
-      },
-    };
-  } finally {
-    clearTimeout(timeout);
-  }
 }
 
 async function main() {

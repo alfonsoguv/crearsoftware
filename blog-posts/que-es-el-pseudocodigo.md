@@ -2,7 +2,7 @@
 title: "Qué es el pseudocódigo: definición, reglas y ejemplos resueltos"
 slug: "que-es-el-pseudocodigo"
 date: "2026-09-27"
-dateModified: "2026-09-27"
+dateModified: "2026-10-04"
 description: "El pseudocódigo es la descripción de un algoritmo en lenguaje natural estructurado: se lee como texto, pero se organiza como un programa. Definición, las tres estructuras de control, dos ejemplos resueltos, las reglas para escribirlo bien y en qué se diferencia de un diagrama de flujo y del código."
 category: "desarrollo-software"
 tags: ["pseudocódigo", "algoritmo", "programación", "conceptos básicos", "definiciones", "desarrollo de software"]
@@ -35,7 +35,7 @@ Cualquier algoritmo, por complejo que sea, se puede escribir combinando solo tre
 | **Selección** | Elige un camino según una condición | SI … ENTONCES … SINO … FINSI · SEGÚN … HACER |
 | **Repetición** | Repite un bloque mientras se cumpla algo | MIENTRAS … HACER · PARA … HASTA · REPETIR … HASTA QUE |
 
-A esas se añaden dos operaciones que no son estructuras, pero aparecen en todo pseudocódigo porque son el input y el output del algoritmo: **LEER** (entra un dato) y **ESCRIBIR** (sale un resultado). Y la **asignación**, que guarda un valor en una variable y se escribe con una flecha (`total ← 0`) o con un signo igual.
+A esas se añaden dos operaciones que no son estructuras, pero aparecen en todo pseudocódigo porque son el input y el output del algoritmo: **LEER** (entra un dato) y **ESCRIBIR** (sale un resultado). Y la **asignación**, que guarda un valor en una [variable](/blog/que-es-una-variable-en-programacion/) y se escribe con una flecha (`total ← 0`) o con un signo igual.
 
 ## Ejemplo 1: par o impar
 
