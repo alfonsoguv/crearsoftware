@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-04T18:23:42.768Z",
+  "generatedAt": "2026-10-11T18:15:38.625Z",
   "siteUrl": "https://crearsoftware.com/",
   "verified": true,
   "totals": {
-    "clicks": 45,
-    "impressions": 4121,
-    "ctrPercent": 1.09
+    "clicks": 53,
+    "impressions": 5229,
+    "ctrPercent": 1.01
   },
-  "daysWithData": 60,
+  "daysWithData": 67,
   "traffic": [
     {
       "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
@@ -368,6 +368,48 @@
       "Clicks": 0,
       "Date": "/Date(1790899200000)/",
       "Impressions": 108
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 0,
+      "Date": "/Date(1790985600000)/",
+      "Impressions": 85
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 0,
+      "Date": "/Date(1791072000000)/",
+      "Impressions": 78
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 4,
+      "Date": "/Date(1791158400000)/",
+      "Impressions": 118
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 0,
+      "Date": "/Date(1791244800000)/",
+      "Impressions": 167
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 2,
+      "Date": "/Date(1791331200000)/",
+      "Impressions": 204
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 1,
+      "Date": "/Date(1791417600000)/",
+      "Impressions": 231
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 1,
+      "Date": "/Date(1791504000000)/",
+      "Impressions": 225
     }
   ],
   "queries": [
@@ -379,6 +421,15 @@
       "Date": "/Date(1790899200000)/",
       "Impressions": 8,
       "Query": "que es algoritmo"
+    },
+    {
+      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
+      "AvgClickPosition": -1,
+      "AvgImpressionPosition": 1,
+      "Clicks": 2,
+      "Date": "/Date(1791504000000)/",
+      "Impressions": 2,
+      "Query": "inputs ejemplos"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -428,11 +479,11 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
-      "AvgImpressionPosition": 1,
+      "AvgImpressionPosition": 10,
       "Clicks": 1,
       "Date": "/Date(1789084800000)/",
       "Impressions": 2,
-      "Query": "input y output ejemplos"
+      "Query": "orientaciones del desarrollo de software"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -446,11 +497,11 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
-      "AvgImpressionPosition": 10,
+      "AvgImpressionPosition": 1,
       "Clicks": 1,
       "Date": "/Date(1789084800000)/",
       "Impressions": 2,
-      "Query": "orientaciones del desarrollo de software"
+      "Query": "input y output ejemplos"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -473,6 +524,15 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
+      "AvgImpressionPosition": 3,
+      "Clicks": 1,
+      "Date": "/Date(1790294400000)/",
+      "Impressions": 2,
+      "Query": "que es la cultura del poder segun roger harrinson"
+    },
+    {
+      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
+      "AvgClickPosition": -1,
       "AvgImpressionPosition": 2,
       "Clicks": 1,
       "Date": "/Date(1790294400000)/",
@@ -484,9 +544,9 @@
       "AvgClickPosition": -1,
       "AvgImpressionPosition": 3,
       "Clicks": 1,
-      "Date": "/Date(1790294400000)/",
+      "Date": "/Date(1790899200000)/",
       "Impressions": 2,
-      "Query": "que es la cultura del poder segun roger harrinson"
+      "Query": "mcp signficado y desarollo web"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -500,11 +560,20 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
-      "AvgImpressionPosition": 3,
+      "AvgImpressionPosition": 1,
       "Clicks": 1,
-      "Date": "/Date(1790899200000)/",
+      "Date": "/Date(1791504000000)/",
       "Impressions": 2,
-      "Query": "mcp signficado y desarollo web"
+      "Query": "ejemplos de input"
+    },
+    {
+      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
+      "AvgClickPosition": -1,
+      "AvgImpressionPosition": 7,
+      "Clicks": 1,
+      "Date": "/Date(1787270400000)/",
+      "Impressions": 1,
+      "Query": "lista de crms de los 90s"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -523,33 +592,6 @@
       "Date": "/Date(1787270400000)/",
       "Impressions": 1,
       "Query": "• ingeniería de productos de software: introducción al desarrollo moderno"
-    },
-    {
-      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
-      "AvgClickPosition": -1,
-      "AvgImpressionPosition": 3,
-      "Clicks": 1,
-      "Date": "/Date(1787270400000)/",
-      "Impressions": 1,
-      "Query": "idealismo, realismo y construccionismo"
-    },
-    {
-      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
-      "AvgClickPosition": -1,
-      "AvgImpressionPosition": 7,
-      "Clicks": 1,
-      "Date": "/Date(1787270400000)/",
-      "Impressions": 1,
-      "Query": "lista de crms de los 90s"
-    },
-    {
-      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
-      "AvgClickPosition": -1,
-      "AvgImpressionPosition": 4,
-      "Clicks": 1,
-      "Date": "/Date(1787875200000)/",
-      "Impressions": 1,
-      "Query": "ia generativa en creacion de contenidos ejemplos"
     }
   ],
   "feeds": [
@@ -557,12 +599,12 @@
       "__type": "Feed:#Microsoft.Bing.Webmaster.Api",
       "Compressed": false,
       "FileSize": 0,
-      "LastCrawled": "/Date(1790947599000)/",
+      "LastCrawled": "/Date(1791548390000)/",
       "Status": "Success",
       "Submitted": "/Date(1785767092344)/",
       "Type": "Sitemap",
       "Url": "https://crearsoftware.com/sitemap.xml",
-      "UrlCount": 708
+      "UrlCount": 710
     }
   ]
 }

@@ -1,0 +1,415 @@
+{
+  "ok": true,
+  "days": 28,
+  "generatedAt": "2026-10-11T18:16:49.165Z",
+  "totalHits": 5653,
+  "totals": {
+    "Amazonbot": 832,
+    "Bingbot": 774,
+    "Googlebot": 662,
+    "ChatGPT-User": 218,
+    "ClaudeBot": 368,
+    "PerplexityBot": 125,
+    "OAI-SearchBot": 90,
+    "Meta-ExternalAgent": 1195,
+    "Claude-User": 26,
+    "GPTBot": 1318,
+    "CCBot": 45
+  },
+  "daily": {
+    "2026-10-11": {
+      "Amazonbot": 27,
+      "Bingbot": 23,
+      "Googlebot": 12,
+      "ChatGPT-User": 12,
+      "ClaudeBot": 4,
+      "PerplexityBot": 5,
+      "OAI-SearchBot": 6
+    },
+    "2026-10-10": {
+      "Bingbot": 32,
+      "Googlebot": 30,
+      "Amazonbot": 52,
+      "ClaudeBot": 288,
+      "OAI-SearchBot": 3,
+      "ChatGPT-User": 4,
+      "Meta-ExternalAgent": 16,
+      "PerplexityBot": 2
+    },
+    "2026-10-09": {
+      "Amazonbot": 38,
+      "Bingbot": 40,
+      "PerplexityBot": 4,
+      "Googlebot": 34,
+      "ChatGPT-User": 7,
+      "OAI-SearchBot": 5,
+      "Claude-User": 2,
+      "GPTBot": 3,
+      "ClaudeBot": 1
+    },
+    "2026-10-08": {
+      "Amazonbot": 53,
+      "Bingbot": 32,
+      "ChatGPT-User": 9,
+      "Claude-User": 1,
+      "Googlebot": 23,
+      "PerplexityBot": 4,
+      "CCBot": 32,
+      "OAI-SearchBot": 3,
+      "ClaudeBot": 3
+    },
+    "2026-10-07": {
+      "Amazonbot": 37,
+      "Bingbot": 28,
+      "ChatGPT-User": 12,
+      "Meta-ExternalAgent": 2,
+      "ClaudeBot": 3,
+      "Googlebot": 29,
+      "PerplexityBot": 5,
+      "OAI-SearchBot": 3,
+      "Claude-User": 2,
+      "CCBot": 1
+    },
+    "2026-10-06": {
+      "Bingbot": 31,
+      "Googlebot": 16,
+      "Meta-ExternalAgent": 34,
+      "Amazonbot": 37,
+      "ChatGPT-User": 12,
+      "GPTBot": 1,
+      "OAI-SearchBot": 8,
+      "PerplexityBot": 3
+    },
+    "2026-10-05": {
+      "Bingbot": 37,
+      "Googlebot": 22,
+      "Meta-ExternalAgent": 32,
+      "Claude-User": 4,
+      "ChatGPT-User": 12,
+      "Amazonbot": 29,
+      "GPTBot": 2,
+      "PerplexityBot": 8,
+      "ClaudeBot": 1
+    },
+    "2026-10-04": {
+      "Amazonbot": 24,
+      "Bingbot": 35,
+      "ChatGPT-User": 11,
+      "Googlebot": 49,
+      "Meta-ExternalAgent": 10,
+      "ClaudeBot": 8,
+      "PerplexityBot": 2
+    },
+    "2026-10-03": {
+      "ChatGPT-User": 6,
+      "Googlebot": 42,
+      "Amazonbot": 53,
+      "PerplexityBot": 6,
+      "Bingbot": 29,
+      "OAI-SearchBot": 4,
+      "Claude-User": 3,
+      "GPTBot": 1,
+      "CCBot": 12,
+      "ClaudeBot": 5,
+      "Meta-ExternalAgent": 3
+    },
+    "2026-10-02": {
+      "Amazonbot": 34,
+      "Bingbot": 32,
+      "ChatGPT-User": 8,
+      "ClaudeBot": 5,
+      "Googlebot": 40,
+      "PerplexityBot": 3,
+      "GPTBot": 1302,
+      "OAI-SearchBot": 7,
+      "Meta-ExternalAgent": 10
+    },
+    "2026-10-01": {
+      "Amazonbot": 49,
+      "Bingbot": 36,
+      "ChatGPT-User": 10,
+      "Googlebot": 46,
+      "PerplexityBot": 4,
+      "OAI-SearchBot": 2,
+      "Meta-ExternalAgent": 2,
+      "GPTBot": 1,
+      "ClaudeBot": 4
+    },
+    "2026-09-30": {
+      "Amazonbot": 34,
+      "Bingbot": 42,
+      "Googlebot": 43,
+      "Meta-ExternalAgent": 1053,
+      "OAI-SearchBot": 11,
+      "PerplexityBot": 7,
+      "ChatGPT-User": 15,
+      "ClaudeBot": 2
+    },
+    "2026-09-29": {
+      "Bingbot": 46,
+      "Googlebot": 29,
+      "ChatGPT-User": 9,
+      "Amazonbot": 37,
+      "OAI-SearchBot": 9,
+      "GPTBot": 1,
+      "Meta-ExternalAgent": 1,
+      "PerplexityBot": 5,
+      "ClaudeBot": 1,
+      "Claude-User": 1
+    },
+    "2026-09-28": {
+      "ClaudeBot": 5,
+      "Googlebot": 34,
+      "Bingbot": 37,
+      "ChatGPT-User": 13,
+      "Amazonbot": 26,
+      "Meta-ExternalAgent": 3,
+      "PerplexityBot": 8,
+      "OAI-SearchBot": 6,
+      "Claude-User": 1
+    },
+    "2026-09-27": {
+      "Amazonbot": 25,
+      "Googlebot": 35,
+      "Bingbot": 46,
+      "ChatGPT-User": 17,
+      "ClaudeBot": 9,
+      "GPTBot": 1,
+      "PerplexityBot": 1
+    },
+    "2026-09-26": {
+      "Amazonbot": 21,
+      "Bingbot": 20,
+      "Claude-User": 1,
+      "ClaudeBot": 3,
+      "Googlebot": 16,
+      "ChatGPT-User": 8,
+      "GPTBot": 1,
+      "Meta-ExternalAgent": 3,
+      "PerplexityBot": 2
+    },
+    "2026-09-20": {
+      "Amazonbot": 26,
+      "Bingbot": 26,
+      "Googlebot": 21,
+      "ChatGPT-User": 6,
+      "Claude-User": 2,
+      "Meta-ExternalAgent": 10,
+      "OAI-SearchBot": 3,
+      "ClaudeBot": 4,
+      "PerplexityBot": 1
+    },
+    "2026-09-19": {
+      "Bingbot": 19,
+      "Googlebot": 35,
+      "PerplexityBot": 19,
+      "Amazonbot": 53,
+      "ChatGPT-User": 4,
+      "OAI-SearchBot": 3,
+      "ClaudeBot": 4,
+      "GPTBot": 2
+    },
+    "2026-09-18": {
+      "Amazonbot": 33,
+      "Bingbot": 37,
+      "ChatGPT-User": 5,
+      "Googlebot": 26,
+      "OAI-SearchBot": 3,
+      "PerplexityBot": 2,
+      "ClaudeBot": 1,
+      "Meta-ExternalAgent": 2
+    },
+    "2026-09-17": {
+      "ChatGPT-User": 9,
+      "Googlebot": 15,
+      "Amazonbot": 51,
+      "Bingbot": 40,
+      "Meta-ExternalAgent": 2,
+      "OAI-SearchBot": 3,
+      "ClaudeBot": 7,
+      "PerplexityBot": 1,
+      "Claude-User": 1
+    },
+    "2026-09-16": {
+      "Amazonbot": 35,
+      "Bingbot": 35,
+      "Googlebot": 23,
+      "PerplexityBot": 10,
+      "ChatGPT-User": 9,
+      "ClaudeBot": 3,
+      "OAI-SearchBot": 3,
+      "Meta-ExternalAgent": 3,
+      "GPTBot": 2
+    },
+    "2026-09-15": {
+      "Bingbot": 35,
+      "Googlebot": 19,
+      "Meta-ExternalAgent": 8,
+      "PerplexityBot": 5,
+      "ChatGPT-User": 12,
+      "OAI-SearchBot": 3,
+      "Amazonbot": 33,
+      "ClaudeBot": 4,
+      "Claude-User": 1
+    },
+    "2026-09-14": {
+      "Bingbot": 36,
+      "ChatGPT-User": 8,
+      "Googlebot": 23,
+      "Amazonbot": 25,
+      "PerplexityBot": 18,
+      "ClaudeBot": 3,
+      "OAI-SearchBot": 5,
+      "Claude-User": 7,
+      "Meta-ExternalAgent": 1,
+      "GPTBot": 1
+    }
+  },
+  "topPaths": [
+    {
+      "path": "/",
+      "hits": 380
+    },
+    {
+      "path": "/blog/",
+      "hits": 137
+    },
+    {
+      "path": "/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
+      "hits": 44
+    },
+    {
+      "path": "/2008/03/12/%C2%BFque-es-un-producto/",
+      "hits": 38
+    },
+    {
+      "path": "/2007/06/23/ejemplos-de-input-output-y-actividades/",
+      "hits": 38
+    },
+    {
+      "path": "/blog/que-es-un-algoritmo-definicion/",
+      "hits": 34
+    },
+    {
+      "path": "/blog/que-es-un-diagrama-de-flujo/",
+      "hits": 27
+    },
+    {
+      "path": "/guia/guia-agentes-ia-empresas/",
+      "hits": 26
+    },
+    {
+      "path": "/2009/03/22/la-venta-personal-en-internet-saas-paas/",
+      "hits": 22
+    },
+    {
+      "path": "/blog/que-es-un-servicio-nativo-de-ia/",
+      "hits": 20
+    },
+    {
+      "path": "/blog/la-fabricacion-vibe-ya-esta-aqui/",
+      "hits": 18
+    },
+    {
+      "path": "/blog/que-es-un-forward-deployed-engineer/",
+      "hits": 16
+    },
+    {
+      "path": "/blog/que-es-el-pseudocodigo/",
+      "hits": 15
+    },
+    {
+      "path": "/2013/06/17/vender-software-por-internet/",
+      "hits": 15
+    },
+    {
+      "path": "/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/",
+      "hits": 14
+    },
+    {
+      "path": "/2009/06/04/que-son-los-stakeholder/",
+      "hits": 14
+    },
+    {
+      "path": "/llms.txt",
+      "hits": 13
+    },
+    {
+      "path": "/guia/guia-herramientas-productividad-2026/",
+      "hits": 13
+    },
+    {
+      "path": "/blog/que-es-un-token-en-ia-definicion/",
+      "hits": 12
+    },
+    {
+      "path": "/blog/que-es-una-variable-en-programacion/",
+      "hits": 12
+    },
+    {
+      "path": "/categoria/desarrollo-software/",
+      "hits": 12
+    },
+    {
+      "path": "/2012/04/04/como-crear-programas/",
+      "hits": 12
+    },
+    {
+      "path": "/2010/09/16/%C2%BFcual-es-la-estrategia-de-nokia/",
+      "hits": 11
+    },
+    {
+      "path": "/guia/guia-transformacion-digital-pymes/",
+      "hits": 11
+    },
+    {
+      "path": "/2008/05/18/%C2%BFcual-es-la-historia-del-corte-ingles/",
+      "hits": 11
+    }
+  ],
+  "formats": {
+    "Amazonbot": {
+      "html": 826,
+      "md": 6
+    },
+    "Bingbot": {
+      "html": 632,
+      "md": 142
+    },
+    "Googlebot": {
+      "html": 652,
+      "llms": 10
+    },
+    "ChatGPT-User": {
+      "html": 218
+    },
+    "ClaudeBot": {
+      "html": 362,
+      "md": 6
+    },
+    "PerplexityBot": {
+      "html": 125
+    },
+    "OAI-SearchBot": {
+      "html": 74,
+      "md": 16
+    },
+    "Meta-ExternalAgent": {
+      "md": 498,
+      "html": 695,
+      "llms": 2
+    },
+    "Claude-User": {
+      "html": 26
+    },
+    "GPTBot": {
+      "html": 750,
+      "md": 568
+    },
+    "CCBot": {
+      "html": 31,
+      "md": 13,
+      "llms": 1
+    }
+  }
+}

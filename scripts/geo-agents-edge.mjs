@@ -20,6 +20,21 @@
  *   semanal se salta más de una semana, esos días se pierden.
  * - una consulta por día de datos.
  *
+ * Verificación (añadida el 11-oct-2026): cada agente guarda también
+ * `unverified`, las peticiones que Cloudflare NO reconoce como ese bot por IP
+ * (dimensión verifiedBotCategory vacía). Motivo: hay escáneres de
+ * vulnerabilidades que se anuncian como "ChatGPT-User" para pedir /.env y
+ * similares; esos no cuentan porque no son páginas, pero si un día pidieran
+ * HTML entrarían en la métrica del encargo. Ojo al leerlo: Cloudflare no
+ * verifica PerplexityBot ni CCBot, así que para ellos "sin verificar" es el
+ * 100 % y no significa suplantación. Los días anteriores al 03-oct-2026 no
+ * tienen el campo (la API no retiene más).
+ *
+ * La tabla separa además los agentes en vivo que piden la home de los que
+ * piden contenido: el 11-oct-2026 la home era el 68 % de esa familia (202 de
+ * 297 en 21 días), con peticiones verificadas de OpenAI repartidas por todo
+ * el día. Una visita a la home no es la cita de un artículo.
+ *
  * Caveat: httpRequestsAdaptiveGroups es un dataset con muestreo adaptativo. Con
  * el volumen de este sitio el muestreo es prácticamente 1:1, pero el recuento
  * es una estimación, igual que el de KV (que pierde hits en ráfagas).
@@ -118,7 +133,7 @@ async function fetchDay(token, zone, date) {
     httpRequestsAdaptiveGroups(
       limit: 10000
       filter: { datetime_geq: "${date}T00:00:00Z", datetime_leq: "${date}T23:59:59Z", OR: [${or}] }
-    ) { count dimensions { userAgent clientRequestPath edgeResponseStatus } }
+    ) { count dimensions { userAgent clientRequestPath edgeResponseStatus verifiedBotCategory } }
   } } }`;
   const body = await cf(token, `${API}/graphql`, { method: 'POST', body: JSON.stringify({ query }) });
   if (body.errors?.length) throw new Error(`GraphQL ${date}: ${body.errors.map((e) => e.message).join(' | ')}`);
@@ -136,9 +151,10 @@ async function fetchDay(token, zone, date) {
       descartadas += count;
       continue;
     }
-    const a = (agents[agent] ??= { total: 0, md: 0, llms: 0, html: 0 });
+    const a = (agents[agent] ??= { total: 0, md: 0, llms: 0, html: 0, unverified: 0 });
     a.total += count;
     a[format] += count;
+    if (!d.verifiedBotCategory) a.unverified += count;
     const p = (paths[d.clientRequestPath] ??= {});
     p[agent] = (p[agent] ?? 0) + count;
   }
@@ -174,13 +190,21 @@ async function main() {
   const fechas = Object.keys(history.days);
   console.log(`Días añadidos: ${añadidos.join(', ') || 'ninguno'}`);
   console.log(`Histórico: ${fechas[0]} -> ${fechas.at(-1)} (${fechas.length} días)`);
-  console.log('\nfecha       total  vivo  ChatGPT-User  Claude-User  Perplexity-User');
+  console.log('\nfecha       total  vivo  home  contenido  ChatGPT-User  Claude-User  Perplexity-User  vivo sin verificar');
   const vivos = ['ChatGPT-User', 'Claude-User', 'Perplexity-User'];
   for (const f of fechas) {
-    const a = history.days[f].agents;
+    const { agents: a, paths } = history.days[f];
     const total = Object.values(a).reduce((s, x) => s + x.total, 0);
     const v = vivos.map((n) => a[n]?.total ?? 0);
-    console.log(`${f}  ${String(total).padStart(5)}  ${String(v[0] + v[1] + v[2]).padStart(4)}  ${v.map((x) => String(x).padStart(12)).join(' ')}`);
+    const home = vivos.reduce((s, n) => s + (paths['/']?.[n] ?? 0), 0);
+    const vivo = v[0] + v[1] + v[2];
+    const sinVerificar = vivos.some((n) => a[n] && a[n].unverified === undefined)
+      ? '-'
+      : String(vivos.reduce((s, n) => s + (a[n]?.unverified ?? 0), 0));
+    console.log(
+      `${f}  ${String(total).padStart(5)}  ${String(vivo).padStart(4)}  ${String(home).padStart(4)}  ${String(vivo - home).padStart(9)}  ` +
+        `${v.map((x) => String(x).padStart(12)).join(' ')}  ${sinVerificar.padStart(18)}`,
+    );
   }
 }
 

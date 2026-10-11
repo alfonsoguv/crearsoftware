@@ -114,7 +114,7 @@ INICIO
 FIN
 ```
 
-El usuario termina escribiendo un número negativo. Dos detalles: **las dos variables se inicializan antes del bucle**, no dentro (dentro, se pondrían a cero en cada vuelta y la media saldría siempre la última nota); y **se comprueba que el contador no sea cero antes de dividir**, porque dividir entre cero no da un resultado: da un error.
+El usuario termina escribiendo un número negativo. Dos detalles: **las dos variables se inicializan antes del [bucle](/blog/que-es-un-bucle-en-programacion/)**, no dentro (dentro, se pondrían a cero en cada vuelta y la media saldría siempre la última nota); y **se comprueba que el contador no sea cero antes de dividir**, porque dividir entre cero no da un resultado: da un error.
 
 ## Ejemplo resuelto: intercambiar dos valores
 
