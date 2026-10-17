@@ -8,7 +8,7 @@ category: "inteligencia-artificial"
 tags: ["inteligencia artificial", "agentes de ia", "futuro del trabajo", "alan kay", "cultura de empresa", "visual ms"]
 readingTime: 9
 author: "Alfonso Gutiérrez"
-wordCount: 2040
+wordCount: 1970
 image: "/images/blog/inventarlo-juntos/soviet.jpg"
 ---
 
@@ -87,8 +87,6 @@ Hoy me pasa lo mismo. Me apasiona discutir con Bea, con Jesús, con Mario, con M
 Discutimos mientras construimos, no en vez de construir. Y cuando no estás solo, todo es más fácil.
 
 La frase que me viene siempre que me siento inseguro, la que hemos usado en todas las crisis y en todos los grandes cambios de Visual, es la de Alan Kay: «La mejor forma de predecir el futuro es inventarlo». En el primer Mano Alzada del COVID, la reunión con toda la empresa, la retorcimos: «La mejor forma de predecir el futuro es… mirar a Italia, Corea y Wuhan». Hoy le añado una palabra: juntos.
-
-Se lo digo al agente mientras camino, y me corrige: no es la primera vez. En abril de 2024, en el post de los 25 años de Visual, ya escribí «No existe mejor forma de predecir el futuro que crearlo juntos». Fue en el apartado que abría una frase de Vilán: «Hacer software con gente a la que quiero». No me acordaba. Dos años y medio después, Vilán está probando la profesión nueva. A lo mejor la palabra ya estaba puesta.
 
 Todo parece muy distinto y en el fondo es lo de siempre: hacer cosas con la gente a la que quiero y atreverme a probar lo nuevo.
 
