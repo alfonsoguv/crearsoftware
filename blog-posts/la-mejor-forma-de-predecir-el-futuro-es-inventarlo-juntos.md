@@ -24,11 +24,11 @@ Otro paseo. Este año os he contado unos cuantos. En marzo, en *Tambores de guer
 
 ## Odiaba la mecanografía, me fascinaba el MS-DOS
 
-Tenía doce años y mi hermano David, diez. Ya iba de mala hostia: nos tocaba el verano en Orense, a pasar calor lejos de mis amigos de Madrid y de mi gente. Entonces llegó mi padre y nos dijo:
+Tenía doce años y mi hermano David, diez. Ya iba de mala hostia: nos tocaba el verano en Orense, a pasar calor. Entonces llegó mi padre y nos dijo:
 
 —Este verano vais a hacer mecanografía y MS-DOS.
 
-Pensé: ¿y encima esto? ¿Qué coño voy a hacer este verano, si lo he aprobado todo, absolutamente todo? No entendía nada. No tenía ni idea de qué era la mecanografía, y menos aún el MS-DOS.
+Pensé: ¿y encima esto? ¿Qué coño voy a hacer aquí, lejos de mis amigos, si lo he aprobado todo, absolutamente todo? No entendía nada. No tenía ni idea de qué era la mecanografía, y menos aún el MS-DOS.
 
 Mi padre tampoco. Y me lo dijo tal cual:
 
