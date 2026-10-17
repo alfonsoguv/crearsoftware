@@ -20,11 +20,11 @@ Otro paseo. Este año os he contado unos cuantos. En marzo, en *Tambores de guer
 
 ## Odiaba la mecanografía, me fascinaba el MS-DOS
 
-Tenía once o doce años. Hacía un calor enorme y estaba jugando al fútbol con mis amigos; mi hermano, un par de años menor, andaba cerca. Acabábamos de aprobar todo, absolutamente todo, y yo estaba feliz. Entonces llegó mi padre y nos dijo:
+Tenía doce años y mi hermano, diez. Yo ya iba de mala hostia: nos tocaba el verano en Orense, a pasar calor lejos de mis amigos de Madrid y de mi gente. Entonces llegó mi padre y nos dijo:
 
 —Este verano vais a hacer mecanografía y MS-DOS.
 
-Pensé: ¿pero qué coño voy a hacer yo este verano, si lo he aprobado todo? No entendía nada. No tenía ni idea de qué era la mecanografía, y menos aún el MS-DOS.
+Pensé: ¿y encima esto? ¿Qué coño voy a hacer yo este verano, si lo he aprobado todo, absolutamente todo? No entendía nada. No tenía ni idea de qué era la mecanografía, y menos aún el MS-DOS.
 
 Mi padre tampoco. Y me lo dijo tal cual:
 
@@ -32,7 +32,7 @@ Mi padre tampoco. Y me lo dijo tal cual:
 
 En *Tambores de guerra* os conté que toda mi familia vivía de la mina, y que llevábamos décadas oyendo que «este año se acaba». Hoy lo veo con otros ojos: aquel verano cayó un tractor del cielo en mi casa. Mi padre no sabía de dónde había salido ni cómo se conducía. Pero nos subió encima.
 
-Odié la mecanografía y me fascinó el MS-DOS. Lo que parecía un castigo se convirtió en una pasión. Mi hermano y yo empezamos a hacer cosas juntos, a discutirlas, a probarlas, y poco después acabamos programando un videojuego que se llamaba *Soviet*. Años más tarde fundé Grupo Visual MS con él y con unos amigos de la infancia.
+Odié la mecanografía y me fascinó el MS-DOS. Lo que parecía un castigo se convirtió en una pasión. Mi hermano y yo empezamos a hacer cosas juntos, a discutirlas, a probarlas, y poco después acabamos programando una aventura gráfica, *Soviet*. Nos apasionaban las aventuras gráficas de los ochenta.
 
 No fue la última vez que algo que al principio odiaba acabó siendo lo que más quería. En la primera guerra, la de Atica, me tocó pasar diez años vendiendo a programadores, un negocio que no había elegido, y acabé queriendo Velneo con todo mi corazón. Pero la primera vez fue aquel verano.
 
