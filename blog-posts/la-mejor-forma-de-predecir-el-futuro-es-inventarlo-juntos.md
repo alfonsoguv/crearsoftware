@@ -72,7 +72,7 @@ Haz lo que sientas que quieres hacer. Y si sale mal, en Visual siempre habrá ma
 
 Si miro atrás, nunca he hecho nada solo. El primero fue David, mi hermano: nos preguntábamos, discutíamos, rompíamos cosas y las arreglábamos juntos. Con él empecé discutiendo cómo programar que la puerta de aquel juego pareciera abrirse; hoy discutimos cómo tienen que estar los agentes en Visual Trans. Tanto tiempo, tan diferente, y en el fondo todo igual. Después vino José Luis, el primero que se sumó a Visual en 1999, que tantas veces me miró con media sonrisa cuando le contaba una idea nueva: «¿Se te ha ido la cabeza?». Con él aprendí que un no con argumentos vale más que diez síes por quedar bien. Y así toda la vida.
 
-Hoy me pasa lo mismo. Me apasiona discutir con Bea, con Jesús Arboleya, con Tommy, con Mario, con Marcos en Vidiv, con toda la gente que está aprendiendo esto de los agentes. Esos días de llamadas, de «va por aquí», «no, va por allá», en los que no paro de replantearme adónde irá esto, cómo será la profesión y cómo será mi trabajo. Esa incertidumbre es la misma que tenía aquel verano. La diferencia es que ahora la comparto. Y a veces el no con argumentos me lo da un agente.
+Hoy me pasa lo mismo. Me apasiona discutir con Bea, con Jesús Arboleya, con Mario, con Marcos en Vidiv, con toda la gente que está aprendiendo esto de los agentes. Esos días de llamadas, de «va por aquí», «no, va por allá», en los que no paro de replantearme adónde irá esto, cómo será la profesión y cómo será mi trabajo. Esa incertidumbre es la misma que tenía aquel verano. La diferencia es que ahora la comparto. Y a veces el no con argumentos me lo da un agente.
 
 Discutimos mientras construimos, no en vez de construir. Y cuando no estás solo, todo es más fácil.
 
