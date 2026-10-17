@@ -14,21 +14,21 @@ image: "/images/blog/inventarlo-juntos/soviet.jpg"
 
 > **Nota.** Escribí este texto para los vimis, las personas que trabajamos en Grupo Visual MS, y por eso os hablo de tú a tú. Cita otros textos internos del grupo, sobre todo *Tambores de guerra* (marzo de 2026), en el que avisé de que la IA venía directamente a por nuestros puestos de trabajo y de nuestros negocios, y de que íbamos a ser los primeros en cambiarlos.
 
+Entro en la tienda. Voy a comprar champú y una maquinilla. Con los cascos puestos, hablo con mi agente: me pregunta cómo se titula el post y qué quiero contar, y entre los dos vamos puliendo cada párrafo. No he tocado una sola tecla.
+
+Otro paseo. Este año os he contado unos cuantos. En marzo, en *Tambores de guerra*, empujaba el carrito de mi hija pequeña por el Parador de Baiona y pensaba en mis bisabuelos. En septiembre, en *Tened fe*, salí con los cascos mientras los agentes me traían las cuentas de la competencia y no conseguía quitarme de la cabeza a José Luis, que se jubilaba después de veintisiete años. Hoy el paseo me lleva más atrás: a un verano de los años ochenta, y a mi padre.
+
 ![Dibujo a mano en un cuaderno de cuadros: la portada de Soviet, la aventura gráfica que programé con mi hermano David, con la puerta de acero de un búnker cerrándose y los verbos copiados de Monkey Island](/images/blog/inventarlo-juntos/soviet.jpg)
 
 *Soviet, recreado a mano: la puerta del búnker y los verbos copiados de Monkey Island.*
 
-Entro en la tienda. Voy a comprar champú y una maquinilla. Con los cascos puestos, hablo con mi agente: me pregunta cómo se titula el post y qué quiero contar, y entre los dos vamos puliendo cada párrafo. No he tocado una sola tecla.
-
-Otro paseo. Este año os he contado unos cuantos. En marzo, en *Tambores de guerra*, empujaba el carrito de mi hija pequeña por el Parador de Baiona y pensaba en mis bisabuelos. En septiembre, en *Tened fe*, salí con los cascos mientras los agentes me traían las cuentas de la competencia y yo no conseguía quitarme de la cabeza a José Luis, que se jubilaba después de veintisiete años. Hoy el paseo me lleva más atrás: a un verano de los años ochenta, y a mi padre.
-
 ## Odiaba la mecanografía, me fascinaba el MS-DOS
 
-Tenía doce años y mi hermano David, diez. Yo ya iba de mala hostia: nos tocaba el verano en Orense, a pasar calor lejos de mis amigos de Madrid y de mi gente. Entonces llegó mi padre y nos dijo:
+Tenía doce años y mi hermano David, diez. Ya iba de mala hostia: nos tocaba el verano en Orense, a pasar calor lejos de mis amigos de Madrid y de mi gente. Entonces llegó mi padre y nos dijo:
 
 —Este verano vais a hacer mecanografía y MS-DOS.
 
-Pensé: ¿y encima esto? ¿Qué coño voy a hacer yo este verano, si lo he aprobado todo, absolutamente todo? No entendía nada. No tenía ni idea de qué era la mecanografía, y menos aún el MS-DOS.
+Pensé: ¿y encima esto? ¿Qué coño voy a hacer este verano, si lo he aprobado todo, absolutamente todo? No entendía nada. No tenía ni idea de qué era la mecanografía, y menos aún el MS-DOS.
 
 Mi padre tampoco. Y me lo dijo tal cual:
 
@@ -36,11 +36,11 @@ Mi padre tampoco. Y me lo dijo tal cual:
 
 En *Tambores de guerra* os conté que toda mi familia vivía de la mina, y que llevábamos décadas oyendo que «este año se acaba». Hoy lo veo con otros ojos: aquel verano cayó un tractor del cielo en mi casa. Mi padre no sabía de dónde había salido ni cómo se conducía. Pero nos subió encima.
 
-Odié la mecanografía y me fascinó el MS-DOS. Lo que parecía un castigo se convirtió en una pasión. Mi hermano y yo empezamos a hacer cosas juntos, a discutirlas, a probarlas. Años después, ya con el Spectrum, nos pusimos a programar una aventura gráfica: *Soviet*. Nos apasionaban las aventuras gráficas, y yo estaba enganchado a *[The Secret of Monkey Island](https://es.wikipedia.org/wiki/The_Secret_of_Monkey_Island)* (Lucasfilm Games, 1990). En ella nos inspiramos, y también en las películas americanas de rusos de la Guerra Fría que veíamos entonces.
+Odié la mecanografía y me fascinó el MS-DOS. Lo que parecía un castigo se convirtió en una pasión. Con mi hermano empecé a hacer cosas, a discutirlas, a probarlas. Años después, ya con el Spectrum, nos pusimos a programar una aventura gráfica: *Soviet*. Nos apasionaban las aventuras gráficas, y me tenía enganchado *[The Secret of Monkey Island](https://es.wikipedia.org/wiki/The_Secret_of_Monkey_Island)* (Lucasfilm Games, 1990). En ella nos inspiramos, y también en las películas americanas de rusos de la Guerra Fría que veíamos entonces.
 
 No fue la última vez que algo que al principio odiaba acabó siendo lo que más quería. En la primera guerra, la de Atica, me tocó pasar diez años vendiendo a programadores, un negocio que no había elegido, y acabé queriendo Velneo con todo mi corazón. Pero la primera vez fue aquel verano.
 
-Probablemente aquella decisión de mi padre, tomada sin saber nada del tema, es la razón de que hoy esté escribiendo esto y me dedique a lo que me dedico. Él no sabía si yo valía para aquello. Nadie lo sabía. Solo intuyó que era el futuro, y nos mandó.
+Probablemente aquella decisión de mi padre, tomada sin saber nada del tema, es la razón de que hoy esté escribiendo esto y me dedique a lo que me dedico. Él no sabía si aquello era lo mío. Nadie lo sabía. Solo intuyó que era el futuro, y nos mandó.
 
 ## No sé qué es esta profesión
 
@@ -54,9 +54,9 @@ Hay dos escalas en esta historia. La pequeña es la de un niño que odia una cla
 
 ## Esto no es un curso de verano
 
-Pero hay una diferencia, y no quiero esconderla: esto no es un curso de verano que te manda tu padre. Esto es tu trabajo. Entiendo el miedo, porque yo también lo he sentido. El primer día lo dije, y en *Tambores de guerra* lo escribí sin rodeos: «La IA va a acabar con todos los puestos de trabajo. El primero es el mío». Por eso tenemos que ser los primeros en hacerlo con nuestro propio trabajo, antes de que lo haga otro.
+Pero hay una diferencia, y no quiero esconderla: esto no es un curso de verano que te manda tu padre. Esto es tu trabajo. Entiendo el miedo, porque también lo he sentido. El primer día lo dije, y en *Tambores de guerra* lo escribí sin rodeos: «La IA va a acabar con todos los puestos de trabajo. El primero es el mío». Por eso tenemos que ser los primeros en hacerlo con nuestro propio trabajo, antes de que lo haga otro.
 
-Por eso construí Vitela. Vitela contesta a los consejeros y a los CEOs sobre cualquier dato de la empresa. Antes, para responder, yo tenía que entrar en varias aplicaciones, entenderlas y cruzar la información. Ahora Vitela lo entiende antes que yo: contesta, pregunta y lleva el día a día. Y lo más sorprendente es que la gente discute con Vitela por correo. Ya no discuten conmigo si un dato está bien o mal, o de dónde sale: discuten con un agente. Me parece ciencia ficción, como ver volar un coche el otro día en la presentación de Tesla. Mi trabajo ha cambiado, y gracias a eso estoy aprendiendo más que en muchos años. Esa es mi apuesta: si algo va a cambiar mi trabajo, quiero ser yo quien lo cambie.
+Por eso construí Vitela. Vitela contesta a los consejeros y a los CEOs sobre cualquier dato de la empresa. Antes, para responder, tenía que entrar en varias aplicaciones, entenderlas y cruzar la información. Ahora Vitela se me adelanta: lo entiende, contesta, pregunta y lleva el día a día. Y lo más sorprendente es que la gente discute con Vitela por correo. Ya no discuten conmigo si un dato está bien o mal, o de dónde sale: discuten con un agente. Me parece ciencia ficción, como ver volar un coche el otro día en la presentación de Tesla. Mi trabajo ha cambiado, y gracias a eso estoy aprendiendo más que en muchos años. Esa es mi apuesta: si algo va a cambiar mi trabajo, quiero ser quien lo cambie.
 
 No he sido el único. El mismo día que publiqué *Tambores de guerra*, Jesús Arboleya publicó *VelNews, o cómo empezar a cargarme mi puesto de trabajo*. Hoy dirige [Visual Inteligencia](https://visualms.com/inteligencia/), la empresa del grupo que vende trabajo administrativo hecho por agentes, y firma sus correos como Chief Agents Officer. Bea Domínguez coordinaba personas en administración; hoy es analista de procesos de negocio con IA. Ninguno de los dos tenía manual ni a nadie en casa que lo hubiera hecho antes. Bea lo resumió mejor que nadie: «Estamos reconvirtiendo el trabajo de las personas en otro trabajo diferente».
 
@@ -66,7 +66,7 @@ No puedo pedir que nadie tenga miedo al cambio que viene. Sí quiero que nadie l
 
 ## Que nadie te diga lo que vales
 
-Que nadie te diga lo que puedes y lo que no puedes hacer. Que nadie te diga si estás preparado para esta profesión o si eres el mejor perfil. La verdad es que nadie lo sabe. Ni yo, que ni siquiera sé qué es esta profesión. Mi padre tampoco me dijo si valía: me mandó a probar. Cada uno tiene que construir su propio camino y su propio producto.
+Que nadie te diga lo que puedes y lo que no puedes hacer. Que nadie te diga si estás preparado para esta profesión o si eres el mejor perfil. La verdad es que nadie lo sabe, empezando por mí, que ni siquiera sé qué es esta profesión. Mi padre tampoco me dijo si valía: me mandó a probar. Cada uno tiene que construir su propio camino y su propio producto.
 
 Y hay algo que hace esta época distinta de todas las anteriores: con la IA, todo se puede validar rapidísimo. Tardas menos en probarlo que en discutirlo, y menos en discutirlo que en teorizarlo. Jesús lo dijo en septiembre, preparando la presentación a un cliente: «Olvidaos de los tiempos: aquí los tiempos son diferentes, no tienen nada que ver. Esto se prueba en horas». Así que no teorices si vales o no vales: pruébalo. Valida con la realidad, no con opiniones; ni siquiera con las mías. Y no hace falta dejarlo todo, porque, como dije en marzo, es más importante dedicarle un minuto al día que dedicarle ocho horas un sábado.
 
@@ -96,6 +96,6 @@ Algún verano me tocará a mí. Mi hija pequeña, la que se dormía en el carrit
 
 Gracias, papá. Por no entender nada y mandarnos igualmente.
 
-Nadie sabe cómo acaba esto. Yo tampoco. Pero sé que va por aquí.
+Nadie sabe cómo acaba esto, y me incluyo. Pero sé que va por aquí.
 
 **Vamos a inventarlo juntos.**
