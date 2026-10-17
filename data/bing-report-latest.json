@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T18:15:38.625Z",
+  "generatedAt": "2026-10-17T16:15:37.401Z",
   "siteUrl": "https://crearsoftware.com/",
   "verified": true,
   "totals": {
-    "clicks": 53,
-    "impressions": 5229,
-    "ctrPercent": 1.01
+    "clicks": 62,
+    "impressions": 6250,
+    "ctrPercent": 0.99
   },
-  "daysWithData": 67,
+  "daysWithData": 73,
   "traffic": [
     {
       "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
@@ -410,6 +410,42 @@
       "Clicks": 1,
       "Date": "/Date(1791504000000)/",
       "Impressions": 225
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 0,
+      "Date": "/Date(1791590400000)/",
+      "Impressions": 65
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 0,
+      "Date": "/Date(1791676800000)/",
+      "Impressions": 66
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 3,
+      "Date": "/Date(1791763200000)/",
+      "Impressions": 132
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 3,
+      "Date": "/Date(1791849600000)/",
+      "Impressions": 231
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 0,
+      "Date": "/Date(1791936000000)/",
+      "Impressions": 266
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 3,
+      "Date": "/Date(1792022400000)/",
+      "Impressions": 261
     }
   ],
   "queries": [
@@ -434,10 +470,37 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
+      "AvgImpressionPosition": 2,
+      "Clicks": 2,
+      "Date": "/Date(1792108800000)/",
+      "Impressions": 2,
+      "Query": "crear modelo con ia crear contenido esplicito"
+    },
+    {
+      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
+      "AvgClickPosition": -1,
+      "AvgImpressionPosition": 4,
+      "Clicks": 1,
+      "Date": "/Date(1792108800000)/",
+      "Impressions": 105,
+      "Query": "que es algoritmo"
+    },
+    {
+      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
+      "AvgClickPosition": -1,
       "AvgImpressionPosition": 9,
       "Clicks": 1,
       "Date": "/Date(1789084800000)/",
       "Impressions": 91,
+      "Query": "qué es un algoritmo"
+    },
+    {
+      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
+      "AvgClickPosition": -1,
+      "AvgImpressionPosition": 8,
+      "Clicks": 1,
+      "Date": "/Date(1792108800000)/",
+      "Impressions": 54,
       "Query": "qué es un algoritmo"
     },
     {
@@ -479,11 +542,11 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
-      "AvgImpressionPosition": 10,
+      "AvgImpressionPosition": 1,
       "Clicks": 1,
       "Date": "/Date(1789084800000)/",
       "Impressions": 2,
-      "Query": "orientaciones del desarrollo de software"
+      "Query": "input y output ejemplos"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -497,20 +560,11 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
-      "AvgImpressionPosition": 1,
+      "AvgImpressionPosition": 10,
       "Clicks": 1,
       "Date": "/Date(1789084800000)/",
       "Impressions": 2,
-      "Query": "input y output ejemplos"
-    },
-    {
-      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
-      "AvgClickPosition": -1,
-      "AvgImpressionPosition": 1,
-      "Clicks": 1,
-      "Date": "/Date(1789689600000)/",
-      "Impressions": 2,
-      "Query": "ejemplos de inputs de una empresa"
+      "Query": "orientaciones del desarrollo de software"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -524,11 +578,11 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
-      "AvgImpressionPosition": 3,
+      "AvgImpressionPosition": 1,
       "Clicks": 1,
-      "Date": "/Date(1790294400000)/",
+      "Date": "/Date(1789689600000)/",
       "Impressions": 2,
-      "Query": "que es la cultura del poder segun roger harrinson"
+      "Query": "ejemplos de inputs de una empresa"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -544,9 +598,9 @@
       "AvgClickPosition": -1,
       "AvgImpressionPosition": 3,
       "Clicks": 1,
-      "Date": "/Date(1790899200000)/",
+      "Date": "/Date(1790294400000)/",
       "Impressions": 2,
-      "Query": "mcp signficado y desarollo web"
+      "Query": "que es la cultura del poder segun roger harrinson"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -560,38 +614,20 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
+      "AvgImpressionPosition": 3,
+      "Clicks": 1,
+      "Date": "/Date(1790899200000)/",
+      "Impressions": 2,
+      "Query": "mcp signficado y desarollo web"
+    },
+    {
+      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
+      "AvgClickPosition": -1,
       "AvgImpressionPosition": 1,
       "Clicks": 1,
       "Date": "/Date(1791504000000)/",
       "Impressions": 2,
       "Query": "ejemplos de input"
-    },
-    {
-      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
-      "AvgClickPosition": -1,
-      "AvgImpressionPosition": 7,
-      "Clicks": 1,
-      "Date": "/Date(1787270400000)/",
-      "Impressions": 1,
-      "Query": "lista de crms de los 90s"
-    },
-    {
-      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
-      "AvgClickPosition": -1,
-      "AvgImpressionPosition": 2,
-      "Clicks": 1,
-      "Date": "/Date(1787270400000)/",
-      "Impressions": 1,
-      "Query": "definicion  aportacionpecunaria"
-    },
-    {
-      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
-      "AvgClickPosition": -1,
-      "AvgImpressionPosition": 4,
-      "Clicks": 1,
-      "Date": "/Date(1787270400000)/",
-      "Impressions": 1,
-      "Query": "• ingeniería de productos de software: introducción al desarrollo moderno"
     }
   ],
   "feeds": [
@@ -599,12 +635,12 @@
       "__type": "Feed:#Microsoft.Bing.Webmaster.Api",
       "Compressed": false,
       "FileSize": 0,
-      "LastCrawled": "/Date(1791548390000)/",
+      "LastCrawled": "/Date(1792100431000)/",
       "Status": "Success",
       "Submitted": "/Date(1785767092344)/",
       "Type": "Sitemap",
       "Url": "https://crearsoftware.com/sitemap.xml",
-      "UrlCount": 710
+      "UrlCount": 715
     }
   ]
 }

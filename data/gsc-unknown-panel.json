@@ -19,6 +19,14 @@
           "lastCrawlTime": "2026-10-11T08:06:01Z",
           "referringUrls": 3,
           "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-14T08:08:40Z",
+          "referringUrls": 3,
+          "sitemaps": 0
         }
       ]
     },
@@ -40,6 +48,14 @@
           "lastCrawlTime": "2026-10-04T17:37:37Z",
           "referringUrls": 3,
           "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T17:37:37Z",
+          "referringUrls": 3,
+          "sitemaps": 1
         }
       ]
     },
@@ -56,6 +72,14 @@
         },
         {
           "date": "2026-10-11",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-06-22T01:42:35Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
           "coverageState": "Rastreada: actualmente sin indexar",
           "verdict": "NEUTRAL",
           "lastCrawlTime": "2026-06-22T01:42:35Z",
@@ -82,6 +106,14 @@
           "lastCrawlTime": "2026-04-21T15:35:25Z",
           "referringUrls": 4,
           "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-21T15:35:25Z",
+          "referringUrls": 4,
+          "sitemaps": 0
         }
       ]
     },
@@ -98,6 +130,14 @@
         },
         {
           "date": "2026-10-11",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-02T04:09:09Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
           "coverageState": "Enviada e indexada",
           "verdict": "PASS",
           "lastCrawlTime": "2026-08-02T04:09:09Z",
@@ -124,6 +164,14 @@
           "lastCrawlTime": "2026-10-05T23:29:48Z",
           "referringUrls": 4,
           "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-05T23:29:48Z",
+          "referringUrls": 4,
+          "sitemaps": 0
         }
       ]
     },
@@ -140,6 +188,14 @@
         },
         {
           "date": "2026-10-11",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-07-31T09:55:35Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
           "coverageState": "Enviada e indexada",
           "verdict": "PASS",
           "lastCrawlTime": "2026-07-31T09:55:35Z",
@@ -166,6 +222,14 @@
           "lastCrawlTime": "2026-04-25T17:38:34Z",
           "referringUrls": 4,
           "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-25T17:38:34Z",
+          "referringUrls": 4,
+          "sitemaps": 1
         }
       ]
     },
@@ -187,6 +251,14 @@
           "lastCrawlTime": "2026-06-07T22:52:42Z",
           "referringUrls": 4,
           "sitemaps": 1
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-14T14:23:04Z",
+          "referringUrls": 4,
+          "sitemaps": 0
         }
       ]
     },
@@ -208,6 +280,14 @@
           "lastCrawlTime": null,
           "referringUrls": 0,
           "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
         }
       ]
     },
@@ -224,6 +304,14 @@
         },
         {
           "date": "2026-10-11",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T16:08:11Z",
+          "referringUrls": 2,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
           "coverageState": "Enviada e indexada",
           "verdict": "PASS",
           "lastCrawlTime": "2026-10-04T16:08:11Z",
@@ -250,6 +338,14 @@
           "lastCrawlTime": null,
           "referringUrls": 4,
           "sitemaps": 1
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
         }
       ]
     },
@@ -271,6 +367,14 @@
           "lastCrawlTime": null,
           "referringUrls": 4,
           "sitemaps": 1
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
         }
       ]
     },
@@ -292,6 +396,14 @@
           "lastCrawlTime": null,
           "referringUrls": 0,
           "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 3,
+          "sitemaps": 1
         }
       ]
     },
@@ -313,6 +425,14 @@
           "lastCrawlTime": "2026-09-21T21:05:03Z",
           "referringUrls": 4,
           "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-21T21:05:03Z",
+          "referringUrls": 4,
+          "sitemaps": 1
         }
       ]
     },
@@ -334,6 +454,14 @@
           "lastCrawlTime": null,
           "referringUrls": 4,
           "sitemaps": 1
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
         }
       ]
     },
@@ -355,6 +483,14 @@
           "lastCrawlTime": "2026-09-27T15:03:26Z",
           "referringUrls": 4,
           "sitemaps": 1
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-27T15:03:26Z",
+          "referringUrls": 4,
+          "sitemaps": 0
         }
       ]
     },
@@ -376,6 +512,14 @@
           "lastCrawlTime": null,
           "referringUrls": 0,
           "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
         }
       ]
     },
@@ -397,6 +541,14 @@
           "lastCrawlTime": null,
           "referringUrls": 0,
           "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
         }
       ]
     },
@@ -418,6 +570,14 @@
           "lastCrawlTime": null,
           "referringUrls": 0,
           "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
         }
       ]
     },
@@ -439,6 +599,14 @@
           "lastCrawlTime": null,
           "referringUrls": 2,
           "sitemaps": 1
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
         }
       ]
     },
@@ -460,6 +628,14 @@
           "lastCrawlTime": null,
           "referringUrls": 0,
           "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
         }
       ]
     },
@@ -468,6 +644,40 @@
       "history": [
         {
           "date": "2026-10-11",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 3,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/01/12/red-social-velneo/": {
+      "firstSeen": "2026-10-17",
+      "history": [
+        {
+          "date": "2026-10-17",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2011/05/10/problemas-de-los-emprendedores-ceos-directivos-en-empresas-de-software/": {
+      "firstSeen": "2026-10-17",
+      "history": [
+        {
+          "date": "2026-10-17",
           "coverageState": "Google no reconoce esta URL",
           "verdict": "NEUTRAL",
           "lastCrawlTime": null,

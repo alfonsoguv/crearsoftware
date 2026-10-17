@@ -13322,6 +13322,2496 @@
         }
       },
       "descartadas": 381
+    },
+    "2026-10-11": {
+      "agents": {
+        "Googlebot": {
+          "total": 17,
+          "md": 0,
+          "llms": 0,
+          "html": 17,
+          "unverified": 0
+        },
+        "Amazonbot": {
+          "total": 30,
+          "md": 0,
+          "llms": 0,
+          "html": 30,
+          "unverified": 0
+        },
+        "Bingbot": {
+          "total": 49,
+          "md": 7,
+          "llms": 0,
+          "html": 42,
+          "unverified": 0
+        },
+        "ClaudeBot": {
+          "total": 7,
+          "md": 1,
+          "llms": 0,
+          "html": 6,
+          "unverified": 0
+        },
+        "PerplexityBot": {
+          "total": 10,
+          "md": 0,
+          "llms": 0,
+          "html": 10,
+          "unverified": 10
+        },
+        "OAI-SearchBot": {
+          "total": 7,
+          "md": 2,
+          "llms": 0,
+          "html": 5,
+          "unverified": 0
+        },
+        "ChatGPT-User": {
+          "total": 14,
+          "md": 0,
+          "llms": 0,
+          "html": 14,
+          "unverified": 0
+        }
+      },
+      "paths": {
+        "/2007/10/27/%C2%BFcuales-son-las-orientaciones-culturales-segun-harrison1972/": {
+          "Googlebot": 2
+        },
+        "/2010/05/13/papa-%C2%BFpor-que-somos-del-atleti/": {
+          "Amazonbot": 1
+        },
+        "/2008/01/16/1000-millones-por-mysql/": {
+          "Bingbot": 1
+        },
+        "/guia/guia-herramientas-productividad-2026/": {
+          "Bingbot": 1
+        },
+        "/2016/06/27/software-crm-para-vendedores/": {
+          "Amazonbot": 1
+        },
+        "/2014/05/08/como-programar-y-ganar-dinero/": {
+          "ClaudeBot": 1
+        },
+        "/blog/que-es-un-algoritmo-definicion/": {
+          "PerplexityBot": 1,
+          "OAI-SearchBot": 1
+        },
+        "/blog/arquitectura-de-confianza-superinteligencia-satya-nadella/": {
+          "PerplexityBot": 1,
+          "Googlebot": 1,
+          "OAI-SearchBot": 1,
+          "Bingbot": 1,
+          "ChatGPT-User": 1
+        },
+        "/blog/agentes-en-la-economia-patrick-collison/": {
+          "Amazonbot": 1,
+          "OAI-SearchBot": 1,
+          "PerplexityBot": 1,
+          "ChatGPT-User": 5
+        },
+        "/2011/03/10/%C2%BFdesarrollo-mi-aplicacion-en-multiplataforma/": {
+          "Bingbot": 1
+        },
+        "/2010/10/11/camara-de-comercio-espanola-en-china-shanghai/": {
+          "Bingbot": 1
+        },
+        "/2008/04/27/%C2%BFcuales-son-las-fases-de-la-direccione-estrategica.md": {
+          "Bingbot": 1
+        },
+        "/2013/07/14/ganar-dinero-programando/": {
+          "Amazonbot": 1
+        },
+        "/2012/10/09/crear-software-facil/": {
+          "Amazonbot": 1
+        },
+        "/2008/03/12/%C2%BFque-es-un-producto/": {
+          "Googlebot": 2,
+          "Bingbot": 1,
+          "PerplexityBot": 1
+        },
+        "/guia/guia-ia-generativa-creacion-contenido/": {
+          "Bingbot": 1
+        },
+        "/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/": {
+          "Amazonbot": 1
+        },
+        "/2007/12/23/el-horario-flexible/": {
+          "Amazonbot": 1
+        },
+        "/2011/05/03/que-es-el-inbound-marketing/": {
+          "Amazonbot": 1
+        },
+        "/": {
+          "ChatGPT-User": 7,
+          "Googlebot": 3,
+          "PerplexityBot": 1,
+          "Bingbot": 2,
+          "ClaudeBot": 1
+        },
+        "/blog/agentes-en-la-economia-patrick-collison.md": {
+          "OAI-SearchBot": 1
+        },
+        "/2009/11/16/%C2%BFcual-es-la-evolucion-de-apple-google-ibm-y-microsoft/": {
+          "Bingbot": 1
+        },
+        "/2008/04/23/las-50-empresas-mas-innovadoras-del-mundo/": {
+          "Amazonbot": 1
+        },
+        "/2021/04/24/plataforma-para-eventos-online/": {
+          "Amazonbot": 1
+        },
+        "/guia/guia-transformacion-digital-pymes/": {
+          "Bingbot": 3
+        },
+        "/2012/09/11/software-para-hacer-software/": {
+          "Bingbot": 1
+        },
+        "/guia/guia-agentes-ia-empresas/": {
+          "PerplexityBot": 1,
+          "Bingbot": 1
+        },
+        "/2013/11/20/desarrollo-de-aplicaciones-empresariales/": {
+          "Amazonbot": 1
+        },
+        "/2007/11/02/%C2%BFque-es-la-planificacion-estrategica/": {
+          "Amazonbot": 1
+        },
+        "/2010/09/16/%C2%BFcual-es-la-estrategia-de-nokia/": {
+          "Bingbot": 1,
+          "Amazonbot": 1
+        },
+        "/2025/03/10/agentes-de-voz-con-ia-analisis-completo-del-panorama-2025/": {
+          "Bingbot": 1
+        },
+        "/2013/06/17/vender-software-por-internet/": {
+          "Googlebot": 1
+        },
+        "/2009/04/02/cultura-empresarial-moderna/": {
+          "ClaudeBot": 1,
+          "Amazonbot": 1
+        },
+        "/2014/03/26/crear-software-online/": {
+          "Amazonbot": 1
+        },
+        "/guia/guia-desarrollo-software-moderno/": {
+          "Googlebot": 1,
+          "Bingbot": 1
+        },
+        "/blog/": {
+          "Bingbot": 4,
+          "Googlebot": 3,
+          "OAI-SearchBot": 1,
+          "ClaudeBot": 1
+        },
+        "/blog/que-es-un-servicio-nativo-de-ia/": {
+          "PerplexityBot": 1
+        },
+        "/2007/04/28/definicion-de-auto-regulacion/": {
+          "Bingbot": 1
+        },
+        "/categoria/tecnologia-empresarial/": {
+          "Bingbot": 1
+        },
+        "/2007/09/11/vigo-madrid-shannon-limerick-dublin/": {
+          "Amazonbot": 1
+        },
+        "/2008/10/11/el-poder-del-gratis/": {
+          "Bingbot": 1
+        },
+        "/2008/03/07/velneo-estrategia-y-necesidades/": {
+          "Amazonbot": 1
+        },
+        "/2013/04/04/crecimiento-de-una-empresa-de-software/": {
+          "Amazonbot": 1
+        },
+        "/2009/01/17/qt-anade-la-licencia-lgpl/": {
+          "Amazonbot": 1
+        },
+        "/2007/04/26/renta-per-capita-vs-felicidad/": {
+          "Googlebot": 1
+        },
+        "/2007/11/29/12-senales-de-que-eres-un-mal-programador/": {
+          "Amazonbot": 1
+        },
+        "/2009/05/27/publicidad-vs-propaganda/": {
+          "Amazonbot": 1
+        },
+        "/2007/04/03/inversion-privada-publica-y-formacion/": {
+          "Bingbot": 1
+        },
+        "/2012/01/25/demostracion-de-software/": {
+          "Amazonbot": 1
+        },
+        "/2025/01/22/stargate-project-vs-proyecto-manhattan-un-salto-cuantico-en-la-inversion-tecnologica/": {
+          "Googlebot": 1
+        },
+        "/2013/03/19/inbound-marketing-y-empresas-de-software/": {
+          "Amazonbot": 1
+        },
+        "/guia/guia-transformacion-digital-pymes.md": {
+          "Bingbot": 1
+        },
+        "/2007/10/30/p2p-vs-centralizacion.md": {
+          "Bingbot": 1
+        },
+        "/glosario/": {
+          "PerplexityBot": 1,
+          "Bingbot": 1
+        },
+        "/2007/12/22/%C2%BFque-es-y-cual-es-el-objetivo-de-eures/": {
+          "Bingbot": 1
+        },
+        "/blog/que-es-un-diagrama-de-flujo/": {
+          "Googlebot": 1,
+          "OAI-SearchBot": 1
+        },
+        "/2015/07/07/cuando-dejas-de-programar/": {
+          "Bingbot": 1
+        },
+        "/2007/04/29/el-avance-de-la-tecnologia/": {
+          "Bingbot": 10
+        },
+        "/blog/que-es-un-token-en-ia-definicion/": {
+          "PerplexityBot": 1
+        },
+        "/2025/02/24/guia-para-hacer-prompts-en-google-veo-2.md": {
+          "Bingbot": 1
+        },
+        "/blog/arquitectura-de-confianza-superinteligencia-satya-nadella.md": {
+          "OAI-SearchBot": 1
+        },
+        "/2008/10/16/dinero-y-deuda/": {
+          "Bingbot": 1
+        },
+        "/2009/05/14/e-business-vs-comercio-electronico/": {
+          "Amazonbot": 1
+        },
+        "/2007/08/20/historia-de-v7/": {
+          "ClaudeBot": 1
+        },
+        "/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/": {
+          "Bingbot": 1
+        },
+        "/2009/02/14/%C2%BFque-es-el-relativismo-linguistico/": {
+          "Amazonbot": 1
+        },
+        "/blog/la-fabricacion-vibe-ya-esta-aqui/": {
+          "PerplexityBot": 1
+        },
+        "/2011/04/11/principios-universales-del-diseno-la-regla-8020.md": {
+          "Bingbot": 1
+        },
+        "/2009/11/10/%C2%BFque-es-el-tratado-de-lisboa.md": {
+          "Bingbot": 1
+        },
+        "/2009/04/05/%C2%BFque-papel-juega-la-cultura-en-la-organizacion/": {
+          "Amazonbot": 1
+        },
+        "/2007/10/10/el-futuro-de-micro-blog/": {
+          "Googlebot": 1
+        },
+        "/blog/que-es-un-bucle-en-programacion/": {
+          "ClaudeBot": 1
+        },
+        "/blog/que-es-el-pseudocodigo/": {
+          "ChatGPT-User": 1
+        },
+        "/2007/04/02/el-poder-del-fracaso/": {
+          "Amazonbot": 1
+        },
+        "/2008/05/18/%C2%BFpor-que-las-empresas-triunfan/": {
+          "Bingbot": 1
+        },
+        "/2010/09/02/%C2%BFcomo-convertir-mi-nokia-en-una-base-wifi.md": {
+          "Bingbot": 1
+        },
+        "/2008/01/27/trolltech-adopta-la-gplv3-para-las-librerias-qt/": {
+          "Amazonbot": 1
+        },
+        "/2009/06/17/%C2%BFque-es-el-vdataclient/": {
+          "Amazonbot": 1
+        },
+        "/2009/08/26/la-regla-1-9-90/": {
+          "Amazonbot": 1
+        },
+        "/blog/que-es-un-bucle-en-programacion.md": {
+          "ClaudeBot": 1
+        }
+      },
+      "descartadas": 121
+    },
+    "2026-10-12": {
+      "agents": {
+        "Googlebot": {
+          "total": 36,
+          "md": 0,
+          "llms": 1,
+          "html": 35,
+          "unverified": 0
+        },
+        "Amazonbot": {
+          "total": 30,
+          "md": 1,
+          "llms": 0,
+          "html": 29,
+          "unverified": 0
+        },
+        "PerplexityBot": {
+          "total": 9,
+          "md": 0,
+          "llms": 0,
+          "html": 9,
+          "unverified": 9
+        },
+        "Bingbot": {
+          "total": 45,
+          "md": 4,
+          "llms": 0,
+          "html": 41,
+          "unverified": 0
+        },
+        "ClaudeBot": {
+          "total": 3,
+          "md": 1,
+          "llms": 0,
+          "html": 2,
+          "unverified": 0
+        },
+        "ChatGPT-User": {
+          "total": 15,
+          "md": 0,
+          "llms": 0,
+          "html": 15,
+          "unverified": 0
+        },
+        "OAI-SearchBot": {
+          "total": 9,
+          "md": 3,
+          "llms": 0,
+          "html": 6,
+          "unverified": 0
+        },
+        "Claude-User": {
+          "total": 2,
+          "md": 0,
+          "llms": 0,
+          "html": 2,
+          "unverified": 1
+        },
+        "Meta-ExternalAgent": {
+          "total": 1,
+          "md": 0,
+          "llms": 0,
+          "html": 1,
+          "unverified": 0
+        }
+      },
+      "paths": {
+        "/2007/12/08/vuelta-a-casa-por-navidad/": {
+          "Googlebot": 1
+        },
+        "/2007/07/31/viaje-a-lyon/": {
+          "Amazonbot": 1
+        },
+        "/blog/que-es-un-algoritmo-definicion/": {
+          "PerplexityBot": 1,
+          "OAI-SearchBot": 1,
+          "Bingbot": 1
+        },
+        "/2007/06/12/oss07-%C2%BF-se-impone-el-termino-floss-oss-dentro-del-software-libre/": {
+          "Amazonbot": 1,
+          "Bingbot": 1
+        },
+        "/2010/07/20/%C2%BFa-donde-exportan-las-empresas-espanolas/": {
+          "Bingbot": 1
+        },
+        "/blog/embudo-capacidad-llm-andrej-karpathy.md": {
+          "ClaudeBot": 1,
+          "Bingbot": 1,
+          "OAI-SearchBot": 1
+        },
+        "/2007/07/22/libertad-y-justicia/": {
+          "Googlebot": 1
+        },
+        "/2009/02/14/individualismo-vs-colectivismo/": {
+          "Amazonbot": 1
+        },
+        "/2009/09/10/fases-implantacion-control-de-gestion/": {
+          "Googlebot": 1
+        },
+        "/2010/03/04/velneo-integracion-con-google-y-skype/": {
+          "Amazonbot": 1
+        },
+        "/blog/agentes-en-la-economia-patrick-collison.md": {
+          "Amazonbot": 1
+        },
+        "/2009/04/29/el-efecto-resaca/": {
+          "Bingbot": 1
+        },
+        "/2007/04/18/implantacion-de-software-libre-ayuntamiento-zaragoza/": {
+          "Googlebot": 1
+        },
+        "/2009/12/28/velneo-factura-en-25-paises/": {
+          "Amazonbot": 1
+        },
+        "/2013/06/25/software-la-cuarta-revolucion-industrial/": {
+          "Googlebot": 1
+        },
+        "/blog/embudo-capacidad-llm-andrej-karpathy/": {
+          "ClaudeBot": 1,
+          "Googlebot": 1,
+          "OAI-SearchBot": 1,
+          "Bingbot": 1
+        },
+        "/": {
+          "ChatGPT-User": 11,
+          "Claude-User": 1,
+          "Googlebot": 4,
+          "Bingbot": 6,
+          "ClaudeBot": 1
+        },
+        "/blog/que-es-un-bucle-en-programacion.md": {
+          "OAI-SearchBot": 1
+        },
+        "/2007/06/23/las-tiendas-outlet/": {
+          "Amazonbot": 1
+        },
+        "/blog/que-es-una-variable-en-programacion/": {
+          "PerplexityBot": 1
+        },
+        "/blog/agentes-en-la-economia-patrick-collison/": {
+          "Bingbot": 3
+        },
+        "/2009/08/14/y-tu-%C2%BFque-quieres-ser-de-mayor/": {
+          "Amazonbot": 1
+        },
+        "/2007/10/23/velneo-vs-oracle-vs-sql/": {
+          "ChatGPT-User": 1
+        },
+        "/2007/04/27/carta-de-bill-gates-en-favor-del-software-propietario/": {
+          "Amazonbot": 1
+        },
+        "/2010/09/16/%C2%BFcual-es-la-estrategia-de-nokia/": {
+          "Bingbot": 2
+        },
+        "/2012/04/04/como-crear-programas/": {
+          "Bingbot": 1,
+          "Googlebot": 2
+        },
+        "/2013/02/02/10-preguntas-antes-de-empezar-a-programar/": {
+          "PerplexityBot": 1
+        },
+        "/2009/03/20/%C2%BFque-es-pmm/": {
+          "Googlebot": 1
+        },
+        "/blog/que-es-un-bucle-en-programacion/": {
+          "Googlebot": 1,
+          "Bingbot": 1,
+          "PerplexityBot": 1,
+          "OAI-SearchBot": 1
+        },
+        "/blog/": {
+          "Bingbot": 2,
+          "Googlebot": 2,
+          "OAI-SearchBot": 1
+        },
+        "/2008/03/12/%C2%BFque-es-un-producto/": {
+          "Googlebot": 2,
+          "Bingbot": 1
+        },
+        "/blog/arquitectura-de-confianza-superinteligencia-satya-nadella/": {
+          "Bingbot": 2,
+          "Amazonbot": 1
+        },
+        "/2009/10/28/paradoja-de-los-cristales-rotos/": {
+          "Googlebot": 1
+        },
+        "/2009/02/23/velneo-v7-vs-crisis/": {
+          "Bingbot": 1
+        },
+        "/2008/03/26/%C2%BFque-tiene-que-tener-un-objetivo-para-ser-factible/": {
+          "Bingbot": 1
+        },
+        "/blog/que-es-el-pseudocodigo/": {
+          "PerplexityBot": 1
+        },
+        "/2025/02/25/open-ai-presenta-deep-research/": {
+          "ChatGPT-User": 1
+        },
+        "/categoria/desarrollo-software/": {
+          "Bingbot": 1,
+          "PerplexityBot": 1
+        },
+        "/2017/05/19/que-es-un-product-manager/": {
+          "Bingbot": 1
+        },
+        "/2007/06/23/segmentacion-o-posicionamiento/": {
+          "Amazonbot": 1
+        },
+        "/categoria/productividad-herramientas/": {
+          "Bingbot": 1
+        },
+        "/2007/10/10/%C2%BFque-pasa-con-las-wikis/": {
+          "Googlebot": 1
+        },
+        "/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp.md": {
+          "OAI-SearchBot": 1
+        },
+        "/2008/06/23/%C2%BFpor-que-paypal/": {
+          "Googlebot": 1
+        },
+        "/2009/05/24/%C2%BFeres-un-emprendedor/": {
+          "Bingbot": 1
+        },
+        "/2008/02/05/google-el-bueno/": {
+          "Amazonbot": 1
+        },
+        "/2007/03/19/el-tamano-de-las-empresas/": {
+          "Amazonbot": 1
+        },
+        "/2008/05/20/las-reuniones-del-futuro.md": {
+          "Bingbot": 1
+        },
+        "/2007/03/31/imd-world-competitiveness-yearbook-2006.md": {
+          "Bingbot": 1
+        },
+        "/2007/05/09/las-recetas-de-cocina-y-el-software-libre/": {
+          "Amazonbot": 1
+        },
+        "/2008/09/15/el-efecto-paraguas/": {
+          "Bingbot": 1,
+          "Googlebot": 1
+        },
+        "/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/": {
+          "OAI-SearchBot": 1,
+          "PerplexityBot": 1
+        },
+        "/blog/que-es-un-diagrama-de-flujo/": {
+          "PerplexityBot": 1,
+          "OAI-SearchBot": 1
+        },
+        "/2007/10/27/%C2%BFcuales-son-las-orientaciones-culturales-segun-harrison1972/": {
+          "ChatGPT-User": 1,
+          "Googlebot": 1
+        },
+        "/2012/02/21/empresas-de-software-y-modelos-de-negocio/": {
+          "Amazonbot": 1
+        },
+        "/2007/06/19/los-rrhh-en-telefonica/": {
+          "Amazonbot": 1
+        },
+        "/2007/07/21/cork-y-la-ucc/": {
+          "Amazonbot": 1
+        },
+        "/2009/08/31/tendencias-de-navegacion-web/": {
+          "Amazonbot": 1
+        },
+        "/2007/09/15/google-compra-postini/": {
+          "Bingbot": 1
+        },
+        "/2011/10/27/de-programador-a-coordinador-gerente-ceo-responsable/": {
+          "Amazonbot": 1
+        },
+        "/2007/04/26/%C2%BFque-es-la-estrategia-funcional/": {
+          "Googlebot": 1
+        },
+        "/2007/03/16/%C2%BFque-es-la-innovacion/": {
+          "Amazonbot": 1
+        },
+        "/2007/06/23/ejemplos-de-input-output-y-actividades/": {
+          "Bingbot": 1
+        },
+        "/2008/03/19/apple-sube-al-14/": {
+          "Amazonbot": 1
+        },
+        "/2008/07/03/%C2%BFcomo-es-el-ciclo-de-adopcion-tecnologica/": {
+          "Amazonbot": 1,
+          "Googlebot": 1
+        },
+        "/2009/07/08/8-conceptos-basicos-para-la-excelencia/": {
+          "Googlebot": 1
+        },
+        "/2007/10/30/%C2%BFpor-que-la-redes-sociales-estan-tan-de-moda/": {
+          "Bingbot": 1
+        },
+        "/2009/09/16/%C2%BFque-son-las-variables-de-control/": {
+          "Googlebot": 1
+        },
+        "/llms.txt": {
+          "Googlebot": 1
+        },
+        "/2008/07/16/%C2%BFse-puede-buscar-dentro-de-un-video/": {
+          "Bingbot": 1
+        },
+        "/2007/05/13/psoe-software-libre-y-conocimiento-libre-libremeeting-2007/": {
+          "Amazonbot": 1
+        },
+        "/blog/la-fabricacion-vibe-ya-esta-aqui/": {
+          "Claude-User": 1,
+          "Bingbot": 1
+        },
+        "/2007/04/12/las-3-i-irlanda-india-e-israel/": {
+          "Amazonbot": 1
+        },
+        "/2009/03/22/la-venta-personal-en-internet-saas-paas/": {
+          "Googlebot": 2
+        },
+        "/2007/07/12/el-poder-de-la-comunicacion/": {
+          "Bingbot": 1
+        },
+        "/2010/06/16/priorizar-en-el-software/": {
+          "Amazonbot": 1
+        },
+        "/2007/06/12/oss07-%C2%BFa-quien-protege-el-copyright/": {
+          "Bingbot": 1
+        },
+        "/2011/05/31/define-el-posicionamiento-de-tu-software-en-dos-frases-i/": {
+          "Bingbot": 1
+        },
+        "/2008/09/02/la-mejores-presentaciones-del-mundo/": {
+          "Amazonbot": 1
+        },
+        "/2008/05/31/10-principios-para-encontrar-estrategias/": {
+          "Googlebot": 1
+        },
+        "/2007/04/03/inversion-privada-publica-y-formacion.md": {
+          "Bingbot": 1
+        },
+        "/2009/06/02/%C2%BFque-licencia-de-software-libre-debo-usar/": {
+          "Googlebot": 1
+        },
+        "/2010/02/11/%C2%BFvirus-en-facebook/": {
+          "Bingbot": 1
+        },
+        "/2025/03/09/meta-acelera-su-estrategia-de-ia-por-voz-innovacion-llama-4-y-el-futuro-de-la-conversacion-digital/": {
+          "Meta-ExternalAgent": 1
+        },
+        "/2007/05/13/dia-2-libremeeting-2007-introduccion/": {
+          "Googlebot": 1
+        },
+        "/guia/guia-desarrollo-software-moderno/": {
+          "ChatGPT-User": 1
+        },
+        "/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/": {
+          "Googlebot": 1
+        },
+        "/2012/06/27/inbound-marketing/": {
+          "Googlebot": 1,
+          "Bingbot": 1
+        },
+        "/2008/03/21/la-felixibilidad-horaria-la-clave/": {
+          "Amazonbot": 1
+        },
+        "/blog/que-es-un-forward-deployed-engineer/": {
+          "Bingbot": 1
+        },
+        "/2007/10/15/el-mercado-y-el-estado/": {
+          "Amazonbot": 1
+        },
+        "/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/": {
+          "PerplexityBot": 1
+        },
+        "/2007/03/19/%C2%BF-por-que-los-lideres-tienen-que-tener-blog/": {
+          "Googlebot": 1
+        },
+        "/2012/05/16/como-se-hacer-crecer-una-empresa-de-software/": {
+          "Amazonbot": 1
+        },
+        "/2009/02/14/relativismo-vs-universalismo/": {
+          "Amazonbot": 1
+        }
+      },
+      "descartadas": 349
+    },
+    "2026-10-13": {
+      "agents": {
+        "Bingbot": {
+          "total": 46,
+          "md": 3,
+          "llms": 0,
+          "html": 43,
+          "unverified": 0
+        },
+        "Amazonbot": {
+          "total": 33,
+          "md": 1,
+          "llms": 0,
+          "html": 32,
+          "unverified": 0
+        },
+        "PerplexityBot": {
+          "total": 7,
+          "md": 0,
+          "llms": 0,
+          "html": 7,
+          "unverified": 7
+        },
+        "Googlebot": {
+          "total": 21,
+          "md": 0,
+          "llms": 0,
+          "html": 21,
+          "unverified": 0
+        },
+        "ChatGPT-User": {
+          "total": 12,
+          "md": 0,
+          "llms": 0,
+          "html": 12,
+          "unverified": 0
+        },
+        "GPTBot": {
+          "total": 11,
+          "md": 5,
+          "llms": 0,
+          "html": 6,
+          "unverified": 0
+        },
+        "OAI-SearchBot": {
+          "total": 3,
+          "md": 0,
+          "llms": 0,
+          "html": 3,
+          "unverified": 0
+        },
+        "Claude-User": {
+          "total": 1,
+          "md": 0,
+          "llms": 0,
+          "html": 1,
+          "unverified": 1
+        },
+        "ClaudeBot": {
+          "total": 1,
+          "md": 0,
+          "llms": 0,
+          "html": 1,
+          "unverified": 0
+        }
+      },
+      "paths": {
+        "/2013/01/05/5-lecciones-de-amancio-ortega-para-las-empresas-de-software/": {
+          "Bingbot": 1
+        },
+        "/2009/06/02/%C2%BFque-licencia-de-software-libre-debo-usar/": {
+          "Amazonbot": 1
+        },
+        "/2008/10/25/problemas-de-la-comunicacion-horizontal/": {
+          "Amazonbot": 1
+        },
+        "/2008/03/02/%C2%BFque-paso-en-febrero-de-2008/": {
+          "Bingbot": 1
+        },
+        "/2009/04/06/google-app-engine-soporta-fortran-77/": {
+          "Amazonbot": 1
+        },
+        "/blog/arquitectura-de-confianza-superinteligencia-satya-nadella/": {
+          "PerplexityBot": 1,
+          "Bingbot": 3
+        },
+        "/2010/03/31/cambio-del-iva-de-2010-el-software/": {
+          "Amazonbot": 1
+        },
+        "/2009/02/14/relativismo-vs-universalismo/": {
+          "Googlebot": 1
+        },
+        "/2009/06/04/que-son-los-stakeholder/": {
+          "Googlebot": 1
+        },
+        "/2007/09/12/dublin-shannon-limerick/": {
+          "Amazonbot": 1
+        },
+        "/2013/01/15/software-programacion/": {
+          "Amazonbot": 1
+        },
+        "/2025/03/10/agentes-de-voz-con-ia-analisis-completo-del-panorama-2025/": {
+          "Amazonbot": 1
+        },
+        "/2025/01/01/los-agentes-estan-llegando-por-que-el-invierno-de-la-ia-no-sera-tan-frio.md": {
+          "Bingbot": 1
+        },
+        "/": {
+          "ChatGPT-User": 5,
+          "Googlebot": 3,
+          "PerplexityBot": 1,
+          "Bingbot": 9
+        },
+        "/2009/06/23/8-errores-del-proceso-de-cambio/": {
+          "Bingbot": 1
+        },
+        "/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/": {
+          "Googlebot": 1
+        },
+        "/blog/agentes-en-la-economia-patrick-collison/": {
+          "Bingbot": 3,
+          "PerplexityBot": 1
+        },
+        "/2008/12/07/cultura-oriental-vs-cultura-occidental/": {
+          "Amazonbot": 1
+        },
+        "/categoria/innovacion-digital/": {
+          "Bingbot": 1
+        },
+        "/2008/07/17/%C2%BFque-es-paas/": {
+          "Amazonbot": 1
+        },
+        "/blog/que-es-un-servicio-nativo-de-ia/": {
+          "ChatGPT-User": 2
+        },
+        "/blog/que-es-un-bucle-en-programacion/": {
+          "Amazonbot": 1
+        },
+        "/2007/07/15/elementos-del-blog/": {
+          "Amazonbot": 1
+        },
+        "/2025/01/03/tendencias-de-la-sintesis-de-voz-por-ia-para-2025/": {
+          "GPTBot": 1
+        },
+        "/blog/arquitectura-de-confianza-superinteligencia-satya-nadella.md": {
+          "Amazonbot": 1
+        },
+        "/2012/05/23/burocracia/": {
+          "Bingbot": 1
+        },
+        "/2007/05/06/%C2%BFque-es-la-cultura-de-empresa/": {
+          "Amazonbot": 1
+        },
+        "/2013/01/22/los-programadores-somos-unos-mentirosos/": {
+          "Bingbot": 1
+        },
+        "/blog/": {
+          "Bingbot": 6,
+          "Googlebot": 1,
+          "OAI-SearchBot": 1,
+          "GPTBot": 1
+        },
+        "/2012/12/26/alternativa-a-visual-basic/": {
+          "Bingbot": 1
+        },
+        "/2007/07/08/las-noticias-en-la-pagina-principal/": {
+          "Amazonbot": 1
+        },
+        "/2009/05/14/e-business-vs-comercio-electronico.md": {
+          "GPTBot": 1
+        },
+        "/2007/06/03/se-esta-acabando-el-canon/": {
+          "Amazonbot": 1
+        },
+        "/2008/02/14/conceptos-contables/": {
+          "Amazonbot": 1
+        },
+        "/guia/guia-agentes-ia-empresas/": {
+          "ChatGPT-User": 1,
+          "Bingbot": 2
+        },
+        "/2007/07/16/caracteristicas-de-un-blog/": {
+          "GPTBot": 1
+        },
+        "/blog/que-es-un-algoritmo-definicion/": {
+          "OAI-SearchBot": 1
+        },
+        "/2012/01/16/el-software-primera-version/": {
+          "Googlebot": 1
+        },
+        "/categoria/desarrollo-software/": {
+          "Bingbot": 1
+        },
+        "/2011/11/30/nuevo-libro-sobre-software-empresarial/": {
+          "Googlebot": 1
+        },
+        "/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/": {
+          "Amazonbot": 1
+        },
+        "/2025/01/03/tendencias-de-la-sintesis-de-voz-por-ia-para-2025.md": {
+          "GPTBot": 2
+        },
+        "/2009/02/14/percepcion-y-cultura/": {
+          "Googlebot": 1
+        },
+        "/2007/10/02/open-source-vs-software-propietario/": {
+          "Amazonbot": 1
+        },
+        "/2009/05/24/%C2%BFeres-un-emprendedor/": {
+          "Bingbot": 1
+        },
+        "/blog/embudo-capacidad-llm-andrej-karpathy/": {
+          "ChatGPT-User": 1,
+          "Amazonbot": 1,
+          "Bingbot": 1,
+          "PerplexityBot": 1
+        },
+        "/2008/05/12/pas-web-30/": {
+          "Amazonbot": 1
+        },
+        "/2013/02/10/5-verdades-sobre-el-diseno-de-software/": {
+          "Bingbot": 1
+        },
+        "/2014/02/06/crear-software-sin-programar/": {
+          "Amazonbot": 1
+        },
+        "/2010/10/08/gracias-alfonsogu-com-supera-las-500-000-visitas/": {
+          "Bingbot": 1
+        },
+        "/2007/09/26/%C2%BFque-es-un-pasivo/": {
+          "Bingbot": 1
+        },
+        "/guia/guia-desarrollo-software-moderno/": {
+          "Bingbot": 1,
+          "ChatGPT-User": 1
+        },
+        "/2008/07/01/%C2%BFlos-buscadores-pueden-buscar-en-un-flash/": {
+          "Amazonbot": 1
+        },
+        "/2010/07/22/%C2%BFen-que-se-parecen-google-y-apple/": {
+          "Amazonbot": 1
+        },
+        "/2008/03/16/estrategias-de-desarrollo-de-marca.md": {
+          "Bingbot": 1
+        },
+        "/2007/07/14/%C2%BFque-es-un-blog/": {
+          "Googlebot": 1
+        },
+        "/2009/05/10/%C2%BFque-es-la-gestion-por-competencias/": {
+          "Amazonbot": 1
+        },
+        "/2008/05/31/%C2%BFque-son-las-estrategias-de-innovacion/": {
+          "Bingbot": 1
+        },
+        "/2008/06/18/%C2%BFcomo-es-el-crecimiento-de-velneo/": {
+          "Amazonbot": 1
+        },
+        "/2010/09/28/%C2%BFque-hay-que-saber-para-invertir-en-china/": {
+          "Amazonbot": 1
+        },
+        "/2010/12/08/shangai/": {
+          "Amazonbot": 1
+        },
+        "/2009/02/14/universalismo-cultural/": {
+          "Amazonbot": 1
+        },
+        "/2008/02/27/%C2%BFcomo-es-el-mercado-japones/": {
+          "Googlebot": 1
+        },
+        "/blog/la-fabricacion-vibe-ya-esta-aqui/": {
+          "Amazonbot": 1,
+          "PerplexityBot": 1,
+          "ChatGPT-User": 2
+        },
+        "/2009/11/30/el-fracaso-es-el-camino-hacia-el-exito/": {
+          "Googlebot": 1
+        },
+        "/2011/03/16/%C2%BFque-es-saas-paas/": {
+          "Amazonbot": 1
+        },
+        "/2025/01/05/impacto-de-la-inteligencia-artificial-en-los-roles-creativos-en-2025/": {
+          "GPTBot": 1,
+          "Googlebot": 1
+        },
+        "/blog/que-es-una-variable-en-programacion/": {
+          "Bingbot": 2
+        },
+        "/2009/03/20/glosario-de-terminos-contables/": {
+          "Googlebot": 1
+        },
+        "/2008/02/06/%C2%BFque-es-el-hurling/": {
+          "Bingbot": 1
+        },
+        "/blog/montar-agente-de-voz-ia-que-atienda-llamadas/": {
+          "Claude-User": 1
+        },
+        "/2009/02/14/realismo-idealismo-y-constructivismo/": {
+          "Googlebot": 1
+        },
+        "/2008/04/10/%C2%BFcuando-se-recuerda-un-nombre/": {
+          "Bingbot": 1
+        },
+        "/2011/03/21/no-todo-es-smartphone-ni-todos-somos-frikies/": {
+          "Googlebot": 1
+        },
+        "/2007/04/08/el-poder-del-tiempo/": {
+          "Googlebot": 1
+        },
+        "/2010/07/14/gestion-conflictos/": {
+          "Googlebot": 1
+        },
+        "/2009/06/30/%C2%BFcomo-motivar/": {
+          "Amazonbot": 1
+        },
+        "/2007/07/16/caracteristicas-de-un-blog.md": {
+          "GPTBot": 1
+        },
+        "/blog/que-es-un-diagrama-de-flujo/": {
+          "OAI-SearchBot": 1
+        },
+        "/blog/que-es-un-servicio-nativo-de-ia.md": {
+          "Bingbot": 1
+        },
+        "/2015/04/29/el-software-la-persistencia-y-la-venta/": {
+          "ClaudeBot": 1
+        },
+        "/2008/10/09/nombres-descripciones-y-principios/": {
+          "Googlebot": 1
+        },
+        "/2008/03/12/%C2%BFque-es-un-producto/": {
+          "PerplexityBot": 1
+        },
+        "/2008/05/18/%C2%BFcual-es-la-historia-del-corte-ingles/": {
+          "GPTBot": 2
+        },
+        "/2007/09/17/%C2%BFcuales-son-los-problemas-de-la-programacion/": {
+          "Amazonbot": 1
+        },
+        "/2009/03/22/la-venta-personal-en-internet-saas-paas/": {
+          "Googlebot": 1
+        },
+        "/2008/05/18/%C2%BFque-son-las-barreras-de-entrada/": {
+          "Amazonbot": 1
+        },
+        "/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/": {
+          "PerplexityBot": 1
+        },
+        "/2009/12/23/propiedad-vs-alquiler/": {
+          "Bingbot": 1
+        },
+        "/2008/05/18/%C2%BFcual-es-la-historia-del-corte-ingles.md": {
+          "GPTBot": 1
+        }
+      },
+      "descartadas": 137
+    },
+    "2026-10-14": {
+      "agents": {
+        "Amazonbot": {
+          "total": 23,
+          "md": 2,
+          "llms": 0,
+          "html": 21,
+          "unverified": 0
+        },
+        "OAI-SearchBot": {
+          "total": 4,
+          "md": 1,
+          "llms": 0,
+          "html": 3,
+          "unverified": 0
+        },
+        "Meta-ExternalAgent": {
+          "total": 1,
+          "md": 0,
+          "llms": 0,
+          "html": 1,
+          "unverified": 0
+        },
+        "PerplexityBot": {
+          "total": 10,
+          "md": 0,
+          "llms": 0,
+          "html": 10,
+          "unverified": 10
+        },
+        "Googlebot": {
+          "total": 29,
+          "md": 0,
+          "llms": 1,
+          "html": 28,
+          "unverified": 1
+        },
+        "Bingbot": {
+          "total": 38,
+          "md": 6,
+          "llms": 1,
+          "html": 31,
+          "unverified": 0
+        },
+        "ChatGPT-User": {
+          "total": 12,
+          "md": 0,
+          "llms": 0,
+          "html": 12,
+          "unverified": 0
+        },
+        "Claude-User": {
+          "total": 1,
+          "md": 0,
+          "llms": 0,
+          "html": 1,
+          "unverified": 1
+        },
+        "ClaudeBot": {
+          "total": 2,
+          "md": 0,
+          "llms": 0,
+          "html": 2,
+          "unverified": 0
+        }
+      },
+      "paths": {
+        "/2009/02/02/la-preventa/": {
+          "Amazonbot": 1
+        },
+        "/2007/11/09/diferentes-tipos-de-estrategias/": {
+          "OAI-SearchBot": 1
+        },
+        "/blog/agentes-en-la-economia-patrick-collison/": {
+          "Meta-ExternalAgent": 1,
+          "Bingbot": 1
+        },
+        "/blog/que-es-un-algoritmo-definicion/": {
+          "PerplexityBot": 1,
+          "Googlebot": 1,
+          "Bingbot": 1
+        },
+        "/2009/11/16/%C2%BFcual-es-la-evolucion-de-apple-google-ibm-y-microsoft/": {
+          "Googlebot": 1
+        },
+        "/2007/10/25/%C2%BFcomo-elegir-una-plataforma-libre/": {
+          "Bingbot": 1
+        },
+        "/2008/08/14/definicion-de-paas/": {
+          "Bingbot": 1
+        },
+        "/2007/06/05/por-fin-irlanda/": {
+          "Amazonbot": 1
+        },
+        "/2012/06/18/que-son-las-apps/": {
+          "Amazonbot": 1
+        },
+        "/blog/la-fabricacion-vibe-ya-esta-aqui/": {
+          "Googlebot": 2,
+          "ChatGPT-User": 2
+        },
+        "/2008/08/11/%C2%BFque-es-la-teoria-de-bolos/": {
+          "Amazonbot": 1
+        },
+        "/": {
+          "ChatGPT-User": 6,
+          "Googlebot": 3,
+          "PerplexityBot": 1,
+          "ClaudeBot": 2,
+          "Bingbot": 9
+        },
+        "/blog/que-es-una-variable-en-programacion/": {
+          "PerplexityBot": 1
+        },
+        "/2007/07/31/second-life/": {
+          "Amazonbot": 1
+        },
+        "/guia/guia-agentes-ia-empresas/": {
+          "PerplexityBot": 1,
+          "Googlebot": 1
+        },
+        "/2015/02/06/16-anos-creando-software/": {
+          "Googlebot": 1
+        },
+        "/2013/02/02/10-preguntas-antes-de-empezar-a-programar/": {
+          "PerplexityBot": 1
+        },
+        "/2007/11/09/diferentes-tipos-de-estrategias.md": {
+          "OAI-SearchBot": 1
+        },
+        "/2013/06/17/vender-software-por-internet/": {
+          "Googlebot": 1
+        },
+        "/2013/02/10/5-verdades-sobre-el-diseno-de-software/": {
+          "Googlebot": 1
+        },
+        "/2009/05/12/%C2%BFque-son-las-entrevistas-de-incidentes-criticos/": {
+          "Googlebot": 1
+        },
+        "/2008/06/27/plantilla-para-definir-un-nicho-en-software/": {
+          "Googlebot": 1
+        },
+        "/2007/05/08/medidas-para-mejorar-los-indicadores-de-innovacion-en-espana/": {
+          "Bingbot": 1
+        },
+        "/blog/": {
+          "Bingbot": 3,
+          "Googlebot": 2,
+          "OAI-SearchBot": 1
+        },
+        "/2010/06/28/definicion-de-mision-de-una-empresa/": {
+          "Amazonbot": 1
+        },
+        "/2008/10/05/%C2%BFpor-que-todo-es-relativo/": {
+          "Googlebot": 1
+        },
+        "/2013/03/24/software-funcionalidad/": {
+          "Amazonbot": 1
+        },
+        "/2008/03/07/velneo-estrategia-y-necesidades.md": {
+          "Bingbot": 1
+        },
+        "/blog/arquitectura-de-confianza-superinteligencia-satya-nadella/": {
+          "Bingbot": 1
+        },
+        "/2009/02/05/el-plan-v/": {
+          "Bingbot": 1
+        },
+        "/2007/06/23/ejemplos-de-input-output-y-actividades/": {
+          "PerplexityBot": 1,
+          "ChatGPT-User": 1
+        },
+        "/2008/06/04/%C2%BFcomo-se-invierte-en-china/": {
+          "Amazonbot": 1
+        },
+        "/2009/01/28/lecciones-de-steve-parte-4/": {
+          "Googlebot": 1
+        },
+        "/2007/10/10/%C2%BFque-pasa-con-las-wikis/": {
+          "Googlebot": 1
+        },
+        "/blog/que-es-un-bucle-en-programacion/": {
+          "Bingbot": 1,
+          "PerplexityBot": 1
+        },
+        "/2007/05/14/software-libre-en-japon-vs-microsoft/": {
+          "Amazonbot": 1
+        },
+        "/2009/05/24/%C2%BFeres-un-emprendedor/": {
+          "Bingbot": 1
+        },
+        "/2009/10/29/%C2%BFque-es-paranormal-activity/": {
+          "Amazonbot": 1
+        },
+        "/blog/que-es-un-diagrama-de-flujo/": {
+          "PerplexityBot": 1,
+          "OAI-SearchBot": 1
+        },
+        "/2009/02/02/encuesta-de-valoracion-de-una-demostracion/": {
+          "PerplexityBot": 1
+        },
+        "/2009/07/05/la-gestion-del-cambio-en-el-software/": {
+          "Amazonbot": 1
+        },
+        "/2011/10/06/muere-el-visionario-del-software/": {
+          "Amazonbot": 1
+        },
+        "/blog/montar-agente-de-voz-ia-que-atienda-llamadas/": {
+          "Claude-User": 1
+        },
+        "/2009/05/05/%C2%BFque-es-el-assessment-center/": {
+          "Googlebot": 1
+        },
+        "/2008/03/06/%C2%BFque-tipos-de-clientes-se-acercan-a-velneo/": {
+          "Bingbot": 1
+        },
+        "/2010/09/06/%C2%BFque-es-una-sociedad-limitada/": {
+          "Amazonbot": 1
+        },
+        "/2020/12/24/del-dogfooding-a-probar-tus-recetas/": {
+          "Googlebot": 1
+        },
+        "/2014/08/26/vender-software-por-telefono/": {
+          "Googlebot": 1
+        },
+        "/2007/05/28/ken-blanchard-liderazgo-cita/": {
+          "Amazonbot": 1
+        },
+        "/2008/03/12/%C2%BFque-es-un-producto/": {
+          "Bingbot": 1
+        },
+        "/2007/05/25/la-sgae-y-su-canon/": {
+          "Bingbot": 1
+        },
+        "/2008/09/27/%C2%BFque-demonios-es-cloud-computing/": {
+          "Amazonbot": 1
+        },
+        "/2008/04/27/cosas-que-son-verdad-segun-google/": {
+          "Amazonbot": 1
+        },
+        "/2007/07/21/cork-y-la-ucc/": {
+          "Googlebot": 1
+        },
+        "/2008/02/06/%C2%BFque-es-el-hurling/": {
+          "Bingbot": 1
+        },
+        "/2012/02/01/libro-para-empresas-de-software/": {
+          "Amazonbot": 1
+        },
+        "/2007/03/19/los-rrhh-del-futuro/": {
+          "Amazonbot": 1
+        },
+        "/llms.txt": {
+          "Googlebot": 1,
+          "Bingbot": 1
+        },
+        "/2007/12/22/el-efecto-gimnasio/": {
+          "Bingbot": 1
+        },
+        "/2009/02/14/individualismo-y-colectivismo-en-la-empresa/": {
+          "Amazonbot": 1
+        },
+        "/2009/05/10/%C2%BFque-es-la-gestion-por-competencias/": {
+          "Googlebot": 2
+        },
+        "/blog/que-es-un-bucle-en-programacion.md": {
+          "Amazonbot": 1
+        },
+        "/2007/09/26/%C2%BFque-es-un-pasivo/": {
+          "Amazonbot": 1
+        },
+        "/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz.md": {
+          "Bingbot": 1
+        },
+        "/blog/embudo-capacidad-llm-andrej-karpathy/": {
+          "Bingbot": 2
+        },
+        "/blog/que-es-un-servicio-nativo-de-ia.md": {
+          "Bingbot": 1
+        },
+        "/2010/06/28/definicion-de-mision-de-una-empresa.md": {
+          "Bingbot": 1
+        },
+        "/2007/06/23/las-tiendas-outlet/": {
+          "ChatGPT-User": 1
+        },
+        "/2013/08/25/el-85-del-software-empresarial-se-ejecuta-en-microsoft-windows/": {
+          "Bingbot": 1
+        },
+        "/2010/05/18/%C2%BFsomos-mas-inteligentes-que-los-monos/": {
+          "Amazonbot": 1
+        },
+        "/2008/12/07/cultura-oriental-vs-cultura-occidental/": {
+          "Googlebot": 1
+        },
+        "/2009/02/02/la-demostracion-de-software/": {
+          "PerplexityBot": 1
+        },
+        "/blog/geo-optimizar-web-agentes-ia-llms-txt/": {
+          "Bingbot": 1
+        },
+        "/2009/03/22/la-venta-personal-en-internet-saas-paas/": {
+          "Googlebot": 1
+        },
+        "/2007/03/19/%C2%BF-por-que-los-lideres-tienen-que-tener-blog/": {
+          "Bingbot": 1
+        },
+        "/guia/guia-desarrollo-software-moderno/": {
+          "ChatGPT-User": 1
+        },
+        "/2012/06/27/inbound-marketing/": {
+          "Googlebot": 1
+        },
+        "/blog/embudo-capacidad-llm-andrej-karpathy.md": {
+          "Amazonbot": 1
+        },
+        "/2008/11/20/google-tambien-fracasa.md": {
+          "Bingbot": 1
+        },
+        "/2009/02/14/%C2%BFque-es-el-relativismo-linguistico/": {
+          "Googlebot": 1
+        },
+        "/2011/09/08/el-secreto-del-exito-de-las-empresas-de-software.md": {
+          "Bingbot": 1
+        },
+        "/2007/08/20/historia-de-v7/": {
+          "ChatGPT-User": 1
+        }
+      },
+      "descartadas": 359
+    },
+    "2026-10-15": {
+      "agents": {
+        "ClaudeBot": {
+          "total": 137,
+          "md": 1,
+          "llms": 0,
+          "html": 136,
+          "unverified": 0
+        },
+        "Googlebot": {
+          "total": 37,
+          "md": 0,
+          "llms": 0,
+          "html": 37,
+          "unverified": 0
+        },
+        "Bingbot": {
+          "total": 34,
+          "md": 5,
+          "llms": 0,
+          "html": 29,
+          "unverified": 0
+        },
+        "Amazonbot": {
+          "total": 15,
+          "md": 0,
+          "llms": 0,
+          "html": 15,
+          "unverified": 0
+        },
+        "ChatGPT-User": {
+          "total": 5,
+          "md": 0,
+          "llms": 0,
+          "html": 5,
+          "unverified": 1
+        },
+        "PerplexityBot": {
+          "total": 8,
+          "md": 0,
+          "llms": 0,
+          "html": 8,
+          "unverified": 8
+        },
+        "OAI-SearchBot": {
+          "total": 2,
+          "md": 0,
+          "llms": 0,
+          "html": 2,
+          "unverified": 0
+        },
+        "Claude-User": {
+          "total": 1,
+          "md": 0,
+          "llms": 0,
+          "html": 1,
+          "unverified": 1
+        }
+      },
+      "paths": {
+        "/2012/10/25/evento-software/": {
+          "ClaudeBot": 1
+        },
+        "/2009/10/05/trabajar-mucho-%C2%BFes-bueno/": {
+          "ClaudeBot": 1
+        },
+        "/blog/servir-markdown-agentes-ia-md-por-url/": {
+          "Googlebot": 1
+        },
+        "/2007/05/01/%C2%BFque-es-un-proceso/": {
+          "ClaudeBot": 1
+        },
+        "/2009/09/29/%C2%BFcomo-mejorar-la-organizacion/": {
+          "ClaudeBot": 1
+        },
+        "/2007/12/08/vuelta-a-casa-por-navidad/": {
+          "Googlebot": 1
+        },
+        "/blog/ser-mas-ambicioso-con-la-ia-felix-rieseberg/": {
+          "Bingbot": 1,
+          "ClaudeBot": 1,
+          "Googlebot": 1,
+          "PerplexityBot": 1
+        },
+        "/2007/10/14/%C2%BFcuales-son-las-diferentes-orientaciones-hacia-el-mercado-de-las-empresas/": {
+          "ClaudeBot": 1
+        },
+        "/2007/07/03/%C2%BFpor-que-cada-pais-es-diferente/": {
+          "ClaudeBot": 1
+        },
+        "/2009/08/24/evolucion-de-internet/": {
+          "ClaudeBot": 1
+        },
+        "/2008/10/25/%C2%BFcomo-mejorar-la-comunicacion-en-la-empresa/": {
+          "ClaudeBot": 1
+        },
+        "/2012/12/17/el-software-y-la-muerte-del-hardware/": {
+          "Amazonbot": 1
+        },
+        "/2007/10/01/%C2%BFque-pasa-en-irlanda/": {
+          "ClaudeBot": 1
+        },
+        "/2014/09/03/crea-una-empresa-de-software-olvida-las-start-up/": {
+          "Bingbot": 1
+        },
+        "/2007/12/27/de-regalo-de-reyes-%C2%BFel-canon/": {
+          "ClaudeBot": 1
+        },
+        "/2009/12/17/%C2%BFcual-es-el-video-mas-visto-del-2009/": {
+          "ClaudeBot": 2
+        },
+        "/2010/10/28/%C2%BFque-pasa-si-eres-el-lider-de-mercado/": {
+          "ClaudeBot": 1
+        },
+        "/2010/04/29/james-gosling-deja-sun-%C2%BFque-pasara-con-java/": {
+          "ClaudeBot": 1
+        },
+        "/2008/09/20/%C2%BFcuanto-va-a-durar-la-recesion/": {
+          "ClaudeBot": 1
+        },
+        "/2008/02/12/%C2%BFquien-triunfa-en-internet/": {
+          "ClaudeBot": 1
+        },
+        "/2010/05/13/papa-%C2%BFpor-que-somos-del-atleti/": {
+          "ClaudeBot": 1
+        },
+        "/guia/guia-ia-generativa-creacion-contenido/": {
+          "Bingbot": 1,
+          "ClaudeBot": 1
+        },
+        "/2009/01/26/guion-de-telemarketing/": {
+          "Bingbot": 1
+        },
+        "/2008/07/13/%C2%BFcomo-tiene-que-ser-un-blog-corporativo/": {
+          "ClaudeBot": 1
+        },
+        "/2011/03/29/priorizar-el-testeo-de-software/": {
+          "Amazonbot": 1
+        },
+        "/2018/02/27/que-puede-aprender-el-software-de-otros-sectores/": {
+          "Amazonbot": 1
+        },
+        "/2007/09/17/%C2%BFcuales-son-los-problemas-de-la-programacion/": {
+          "ClaudeBot": 1
+        },
+        "/": {
+          "ChatGPT-User": 1,
+          "Googlebot": 5,
+          "PerplexityBot": 1,
+          "ClaudeBot": 1,
+          "Bingbot": 3
+        },
+        "/blog/ser-mas-ambicioso-con-la-ia-felix-rieseberg.md": {
+          "ClaudeBot": 1,
+          "Bingbot": 1
+        },
+        "/2008/04/22/%C2%BFque-es-una-subvencion-donacion-legado/": {
+          "ClaudeBot": 1
+        },
+        "/2021/04/24/plataforma-para-eventos-online.md": {
+          "Bingbot": 1
+        },
+        "/guia/guia-herramientas-productividad-2026/": {
+          "ClaudeBot": 1
+        },
+        "/2011/05/03/que-es-el-inbound-marketing/": {
+          "Bingbot": 1
+        },
+        "/2007/11/09/%C2%BFtienes-miedo-a-perder/": {
+          "ClaudeBot": 1,
+          "Googlebot": 1
+        },
+        "/2008/10/18/%C2%BFpodemos-hablar-de-la-existencia-de-una-sola-psicologia-como-disciplina-cientifica-unitaria/": {
+          "ClaudeBot": 1
+        },
+        "/blog/geo-optimizar-web-agentes-ia-llms-txt/": {
+          "ChatGPT-User": 1
+        },
+        "/2009/03/16/%C2%BFpor-que-es-una-oportunidad-el-paas/": {
+          "ClaudeBot": 1
+        },
+        "/2014/08/26/vender-software-por-telefono.md": {
+          "Bingbot": 1
+        },
+        "/2007/04/30/india-y-china-%C2%BFlos-dragones-dormidos/": {
+          "ClaudeBot": 1
+        },
+        "/2009/12/14/%C2%BFcomo-ganar-dineromoney/": {
+          "ClaudeBot": 1
+        },
+        "/2007/04/26/%C2%BFque-es-la-estrategia-funcional/": {
+          "ClaudeBot": 1
+        },
+        "/2011/09/15/%C2%BFcomo-empezar-un-proyecto-de-software-empresarial/": {
+          "ClaudeBot": 1
+        },
+        "/2007/03/16/%C2%BFque-es-la-innovacion/": {
+          "ClaudeBot": 1
+        },
+        "/2008/04/14/google-salesforce/": {
+          "Googlebot": 1,
+          "Amazonbot": 1
+        },
+        "/2010/02/22/%C2%BFtiene-miedo-microft-de-google-apps/": {
+          "ClaudeBot": 1
+        },
+        "/2008/05/13/sun-tambien-paas/": {
+          "Amazonbot": 1
+        },
+        "/blog/que-es-un-servicio-nativo-de-ia/": {
+          "ChatGPT-User": 2
+        },
+        "/2011/03/15/mantenimientos-y-suscripciones-en-software-%C2%BFmensuales-o-anuales/": {
+          "ClaudeBot": 1
+        },
+        "/2008/05/03/%c2%bfpor-que-estamos-en-crisis-financiera/": {
+          "ClaudeBot": 1
+        },
+        "/2008/04/02/promocion-on-line/": {
+          "ClaudeBot": 1
+        },
+        "/2007/07/14/%C2%BFque-es-un-blog/": {
+          "ClaudeBot": 1
+        },
+        "/2009/05/07/%C2%BFque-es-el-modelo-efqm/": {
+          "ClaudeBot": 1
+        },
+        "/2009/06/05/video-motivacion-final-copa-de-europa/": {
+          "Bingbot": 1,
+          "ClaudeBot": 1
+        },
+        "/2010/05/05/%C2%BFque-es-la-pereza-digital/": {
+          "ClaudeBot": 1
+        },
+        "/2010/01/26/lecciones-de-steve-jobs-parte-5/": {
+          "ClaudeBot": 1
+        },
+        "/2010/06/23/%C2%BFque-es-facetime-videoconferencia-movil/": {
+          "ClaudeBot": 1
+        },
+        "/2007/04/02/el-poder-del-fracaso/": {
+          "Bingbot": 1
+        },
+        "/blog/": {
+          "Bingbot": 5,
+          "OAI-SearchBot": 1
+        },
+        "/2008/05/18/%C2%BFpor-que-las-empresas-triunfan/": {
+          "ClaudeBot": 1
+        },
+        "/2008/10/05/%C2%BFpor-que-todo-es-relativo/": {
+          "Googlebot": 1
+        },
+        "/2009/10/22/vuelta-a-casa/": {
+          "ClaudeBot": 1
+        },
+        "/guia/guia-agentes-ia-empresas/": {
+          "ClaudeBot": 1,
+          "Bingbot": 1
+        },
+        "/2010/05/17/%C2%BFcuales-son-las-previsiones-economicas-del-mundo/": {
+          "ClaudeBot": 1
+        },
+        "/2016/06/27/software-crm-para-vendedores/": {
+          "ClaudeBot": 1
+        },
+        "/2016/04/26/software-para-equipos-de-ventas/": {
+          "ClaudeBot": 1
+        },
+        "/2009/09/07/%C2%BFque-relacion-existe-entre-las-diferentes-estrategias/": {
+          "ClaudeBot": 1
+        },
+        "/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/": {
+          "Googlebot": 2,
+          "ChatGPT-User": 1,
+          "PerplexityBot": 1
+        },
+        "/2008/03/29/%C2%BFque-es-la-innovacion-discontinua/": {
+          "ClaudeBot": 1
+        },
+        "/2010/03/04/velneo-integracion-con-google-y-skype/": {
+          "Googlebot": 1
+        },
+        "/2008/07/22/ciclo-de-adopcion-tecnologica-3%C2%BA-parte/": {
+          "ClaudeBot": 1
+        },
+        "/2009/09/16/%C2%BFque-son-las-variables-de-control/": {
+          "ClaudeBot": 1
+        },
+        "/2007/10/27/%C2%BFcuales-son-las-orientaciones-culturales-segun-harrison1972/": {
+          "ClaudeBot": 1,
+          "Googlebot": 1
+        },
+        "/blog/id-competitividad-adopcion-tecnologia-empresa-espanola/": {
+          "PerplexityBot": 1
+        },
+        "/2008/03/01/%C2%BFcomo-se-redisena-una-web/": {
+          "ClaudeBot": 1
+        },
+        "/2007/10/30/%C2%BFpor-que-la-redes-sociales-estan-tan-de-moda/": {
+          "ClaudeBot": 1
+        },
+        "/2009/10/29/%C2%BFque-es-paranormal-activity/": {
+          "ClaudeBot": 1
+        },
+        "/2012/01/16/el-software-primera-version/": {
+          "Googlebot": 1
+        },
+        "/categoria/desarrollo-software/": {
+          "Bingbot": 1
+        },
+        "/2008/03/26/%C2%BFque-tiene-que-tener-un-objetivo-para-ser-factible/": {
+          "ClaudeBot": 1
+        },
+        "/2025/01/12/lecciones-historicas-de-resistencias-tecnologicas-de-la-imprenta-a-la-inteligencia-artificial/": {
+          "Googlebot": 1
+        },
+        "/2007/07/15/elementos-del-blog/": {
+          "Googlebot": 1
+        },
+        "/2007/09/26/%C2%BFque-es-un-pasivo/": {
+          "Googlebot": 1,
+          "ClaudeBot": 1
+        },
+        "/2010/02/11/%C2%BFvirus-en-facebook/": {
+          "ClaudeBot": 1
+        },
+        "/2007/06/12/oss07-%C2%BF-se-impone-el-termino-floss-oss-dentro-del-software-libre/": {
+          "ClaudeBot": 1
+        },
+        "/2007/05/31/%C2%BFque-es-la-mision-de-una-empresa/": {
+          "ClaudeBot": 1
+        },
+        "/blog/que-es-un-algoritmo-definicion/": {
+          "Googlebot": 2,
+          "ClaudeBot": 1
+        },
+        "/blog/que-es-un-bucle-en-programacion/": {
+          "Bingbot": 2
+        },
+        "/guia/guia-desarrollo-software-moderno/": {
+          "ClaudeBot": 1,
+          "Googlebot": 2
+        },
+        "/2010/09/06/%C2%BFque-es-una-sociedad-limitada/": {
+          "ClaudeBot": 1
+        },
+        "/2008/07/03/%c2%bfcomo-es-el-ciclo-de-adopcion-tecnologica/": {
+          "ClaudeBot": 1
+        },
+        "/2009/05/09/%C2%BFque-es-el-modelo-abc-de-costes/": {
+          "ClaudeBot": 1
+        },
+        "/2007/06/11/oss-en-universidad-de-limerick/": {
+          "Bingbot": 1
+        },
+        "/2008/06/18/%C2%BFcomo-es-el-crecimiento-de-velneo/": {
+          "Googlebot": 1
+        },
+        "/2008/03/09/velneo-esquema-de-distribucion-comercializacion/": {
+          "ClaudeBot": 1
+        },
+        "/2013/02/02/10-preguntas-antes-de-empezar-a-programar/": {
+          "Googlebot": 1
+        },
+        "/2008/03/27/acta-sobre-reunion-de-activaciones/": {
+          "Googlebot": 1
+        },
+        "/2007/06/19/los-rrhh-en-telefonica/": {
+          "Bingbot": 1
+        },
+        "/2010/07/20/%C2%BFa-donde-exportan-las-empresas-espanolas/": {
+          "ClaudeBot": 1
+        },
+        "/2009/05/17/%C2%BFque-es-la-evaluacion-del-desempeno/": {
+          "ClaudeBot": 1
+        },
+        "/2007/06/23/ejemplos-de-input-output-y-actividades/": {
+          "Googlebot": 2,
+          "Bingbot": 1
+        },
+        "/blog/que-es-un-diagrama-de-flujo/": {
+          "PerplexityBot": 1,
+          "OAI-SearchBot": 1
+        },
+        "/2008/04/10/%C2%BFcuando-se-recuerda-un-nombre/": {
+          "ClaudeBot": 1
+        },
+        "/2011/01/11/%C2%BFque-son-las-aportaciones-pecuniarias/": {
+          "ClaudeBot": 1
+        },
+        "/2009/02/14/individualismo-vs-colectivismo/": {
+          "Bingbot": 1
+        },
+        "/2009/05/10/%C2%BFque-es-la-gestion-por-competencias/": {
+          "ClaudeBot": 1
+        },
+        "/blog/agentes-en-la-economia-patrick-collison/": {
+          "PerplexityBot": 1
+        },
+        "/2009/10/19/hay-que-reconocer-cuando-te-equivocas/": {
+          "ClaudeBot": 1
+        },
+        "/2011/03/10/%C2%BFdesarrollo-mi-aplicacion-en-multiplataforma/": {
+          "ClaudeBot": 1
+        },
+        "/2009/06/17/%C2%BFque-es-el-vdataclient/": {
+          "Bingbot": 1
+        },
+        "/2008/09/01/computer-history-museum/": {
+          "Amazonbot": 1
+        },
+        "/2007/05/06/%C2%BFque-es-la-cultura-de-empresa/": {
+          "ClaudeBot": 1
+        },
+        "/2009/09/28/%C2%BFes-bueno-el-fracaso/": {
+          "ClaudeBot": 1
+        },
+        "/blog/montar-agente-de-voz-ia-que-atienda-llamadas/": {
+          "Claude-User": 1
+        },
+        "/2009/10/13/%C2%BFque-es-la-teoria-del-subconsumo/": {
+          "ClaudeBot": 1
+        },
+        "/2009/05/18/%C2%BFque-es-videopress/": {
+          "ClaudeBot": 1
+        },
+        "/guia/guia-transformacion-digital-pymes.md": {
+          "Bingbot": 1
+        },
+        "/2007/08/29/%C2%BF-cual-es-la-historia-de-los-blogs/": {
+          "ClaudeBot": 1
+        },
+        "/2010/07/05/%C2%BFque-es-un-plan-de-negocio/": {
+          "ClaudeBot": 1
+        },
+        "/2009/02/14/%C2%BFque-es-el-relativismo-linguistico/": {
+          "ClaudeBot": 1
+        },
+        "/2009/09/02/%C2%BFcomo-esta-el-mercado-de-os-en-moviles/": {
+          "ClaudeBot": 1
+        },
+        "/2008/03/16/estrategias-de-desarrollo-de-marca/": {
+          "Amazonbot": 1
+        },
+        "/2008/08/11/%C2%BFque-es-la-teoria-de-bolos/": {
+          "ClaudeBot": 1
+        },
+        "/2012/06/08/tipos-de-software/": {
+          "Googlebot": 1
+        },
+        "/2007/03/19/%E2%80%9Cel-exito-es-algo-tan-sencillo-como-que-tu-madre-te-quiera-y-este-orgullosa-de-ti%E2%80%9D/": {
+          "ClaudeBot": 1
+        },
+        "/2007/07/07/%C2%BF-por-que-la-motivacion/": {
+          "ClaudeBot": 1
+        },
+        "/2009/03/10/%C2%BFcomo-licencio-mi-software/": {
+          "ClaudeBot": 1
+        },
+        "/2010/10/15/%C2%BFcomo-crear-buenas-presentaciones/": {
+          "ClaudeBot": 1
+        },
+        "/2010/06/22/%C2%BFque-es-la-vision-de-una-empresa/": {
+          "Amazonbot": 1
+        },
+        "/2008/12/21/%C2%BFque-es-el-teletrabajo/": {
+          "ClaudeBot": 1
+        },
+        "/2008/02/03/informe-mensual-enero-2008/": {
+          "ClaudeBot": 1
+        },
+        "/2009/09/09/%C2%BFque-es-business-of-software/": {
+          "ClaudeBot": 1
+        },
+        "/2008/02/06/%C2%BFque-es-el-hurling/": {
+          "Amazonbot": 1
+        },
+        "/2010/10/18/%C2%BFque-es-un-buen-diseno/": {
+          "ClaudeBot": 1
+        },
+        "/2008/10/28/%C2%BFque-es-el-periodo-medio-de-maduracion.md": {
+          "Bingbot": 1
+        },
+        "/2007/10/10/%C2%BFque-pasa-con-las-wikis/": {
+          "ClaudeBot": 1
+        },
+        "/2008/02/10/%C2%BFen-que-idioma-hago-mi-web-software/": {
+          "ClaudeBot": 1
+        },
+        "/2008/09/26/crisis-%C2%BFque-cono-de-crisis/": {
+          "ClaudeBot": 1
+        },
+        "/guia/guia-transformacion-digital-pymes/": {
+          "ClaudeBot": 1
+        },
+        "/2007/07/06/%C2%BF-por-que-la-inteligencia-emocional/": {
+          "ClaudeBot": 1
+        },
+        "/2007/03/30/el-poder-de-decidir-%C2%BFdecidimos/": {
+          "ClaudeBot": 1
+        },
+        "/2009/05/14/e-business-vs-comercio-electronico/": {
+          "ClaudeBot": 1
+        },
+        "/2009/07/16/en-10-palabras-y-5-minutos-%C2%BFcomo-pasar-la-crisis/": {
+          "ClaudeBot": 2
+        },
+        "/2008/12/07/cultura-oriental-vs-cultura-occidental/": {
+          "PerplexityBot": 1
+        },
+        "/2007/11/02/%C2%BFque-es-la-planificacion-estrategica/": {
+          "ClaudeBot": 1
+        },
+        "/2010/07/08/%C2%BFcomo-presentar-un-producto-empresa/": {
+          "ClaudeBot": 1
+        },
+        "/2009/05/27/publicidad-vs-propaganda/": {
+          "ClaudeBot": 1
+        },
+        "/2007/10/13/la-travesia/": {
+          "Amazonbot": 1
+        },
+        "/2008/11/24/%C2%BFhasta-cuando-va-a-durar-la-crisis/": {
+          "ClaudeBot": 1
+        },
+        "/2010/09/16/%C2%BFcual-es-la-estrategia-de-nokia/": {
+          "ClaudeBot": 1
+        },
+        "/2008/05/22/%C2%BFhacia-donde-van-los-blogs/": {
+          "Bingbot": 1
+        },
+        "/2008/01/11/historia-youtube/": {
+          "ClaudeBot": 1
+        },
+        "/2007/10/25/%C2%BFcomo-elegir-una-plataforma-libre/": {
+          "ClaudeBot": 1
+        },
+        "/2009/02/14/%C2%BFque-es-el-mobbing/": {
+          "ClaudeBot": 1
+        },
+        "/2008/07/21/%C2%BFcomo-ver-la-formula1-por-internet/": {
+          "ClaudeBot": 1
+        },
+        "/2007/09/29/terminos-anglosajones-de-moda-sobre-rrhh/": {
+          "Googlebot": 1
+        },
+        "/blog/que-es-un-token-en-ia-definicion/": {
+          "Googlebot": 2
+        },
+        "/blog/embudo-capacidad-llm-andrej-karpathy/": {
+          "Bingbot": 1,
+          "PerplexityBot": 1
+        },
+        "/2008/07/17/%C2%BFque-es-paas/": {
+          "ClaudeBot": 1
+        },
+        "/2009/05/05/%C2%BFque-es-el-assessment-center/": {
+          "ClaudeBot": 1
+        },
+        "/glosario/": {
+          "ClaudeBot": 1
+        },
+        "/2011/09/01/el-diseno-de-software-empresarial/": {
+          "Googlebot": 1
+        },
+        "/2007/09/23/%C2%BFcuando-se-impondra-el-open-source/": {
+          "Amazonbot": 1
+        },
+        "/2013/12/20/5-aprendizajes-para-crear-software/": {
+          "ClaudeBot": 1
+        },
+        "/2008/07/01/%C2%BFlos-buscadores-pueden-buscar-en-un-flash/": {
+          "ClaudeBot": 1
+        },
+        "/blog/identidad-digital-web-social-login-federado/": {
+          "Googlebot": 1
+        },
+        "/2009/03/11/%C2%BFque-es-el-cloud-computing/": {
+          "Amazonbot": 1
+        },
+        "/2010/05/27/acceso-a-internet-en-china/": {
+          "Bingbot": 1
+        },
+        "/2008/02/27/%C2%BFcomo-es-el-mercado-japones/": {
+          "ClaudeBot": 1
+        },
+        "/2008/11/18/%C2%BFcuando-dejo-de-ser-autonomo/": {
+          "ClaudeBot": 1
+        },
+        "/2007/05/25/la-sgae-y-su-canon/": {
+          "Googlebot": 1
+        },
+        "/2008/06/04/%C2%BFcomo-se-invierte-en-china/": {
+          "ClaudeBot": 1
+        },
+        "/2009/11/16/%C2%BFcual-es-la-evolucion-de-apple-google-ibm-y-microsoft/": {
+          "ClaudeBot": 1
+        },
+        "/2009/04/06/google-app-engine-soporta-fortran-77/": {
+          "ClaudeBot": 1
+        },
+        "/2008/05/18/%C2%BFque-son-las-barreras-de-entrada/": {
+          "ClaudeBot": 1
+        },
+        "/2011/01/26/%C2%BFque-falta-vs-%C2%BFque-sobra/": {
+          "ClaudeBot": 1
+        },
+        "/2009/02/14/realismo-idealismo-y-constructivismo/": {
+          "Amazonbot": 1
+        },
+        "/2009/02/14/%C2%BFes-sexista-el-lenguaje/": {
+          "ClaudeBot": 1
+        },
+        "/2009/05/28/%C2%BFte-preocupa-quien-es-tu-companero-de-mesa/": {
+          "ClaudeBot": 1
+        },
+        "/2007/07/03/%C2%BFfondos-propios-o-fondos-ajenos/": {
+          "ClaudeBot": 1
+        },
+        "/2007/04/19/evaluacio%CC%81n-de-la-usabilidad-en-sistemas-de-informacion/": {
+          "ClaudeBot": 1
+        },
+        "/2008/11/17/%C2%BFquieres-hacer-un-estandard-vertical-en-software/": {
+          "ClaudeBot": 1
+        },
+        "/2009/03/22/la-venta-personal-en-internet-saas-paas/": {
+          "Googlebot": 1
+        },
+        "/2009/03/20/%C2%BFque-es-pmm/": {
+          "ClaudeBot": 1
+        },
+        "/2008/05/22/%C2%BFsomos-felices/": {
+          "ClaudeBot": 1
+        },
+        "/2009/10/08/%C2%BFque-es-liderar/": {
+          "ClaudeBot": 2
+        },
+        "/2008/01/15/la-videoconferencia-del-futuro/": {
+          "Googlebot": 1
+        },
+        "/2007/11/13/instrucciones-para-una-vida/": {
+          "Bingbot": 1
+        },
+        "/2007/04/18/implantacion-de-software-libre-ayuntamiento-zaragoza/": {
+          "Amazonbot": 1
+        },
+        "/2008/12/21/%C2%BFque-es-el-marketing-interno/": {
+          "Amazonbot": 1,
+          "ClaudeBot": 1
+        },
+        "/2007/04/22/%C2%BFpor-que-la-empatia/": {
+          "ClaudeBot": 1
+        },
+        "/2008/10/02/%C2%BFpor-que-velneo-no-apoya-en-proyectos-finales/": {
+          "ClaudeBot": 1
+        },
+        "/2009/06/30/%C2%BFcomo-motivar/": {
+          "ClaudeBot": 1
+        },
+        "/2009/10/28/paradoja-de-los-cristales-rotos/": {
+          "ClaudeBot": 1
+        },
+        "/2007/09/14/velneocomunidad-el-oracle-de-la-pyme/": {
+          "Bingbot": 1
+        },
+        "/2009/01/07/%C2%BFcomo-gestionar-tu-dinero/": {
+          "ClaudeBot": 1
+        }
+      },
+      "descartadas": 152
+    },
+    "2026-10-16": {
+      "agents": {
+        "Amazonbot": {
+          "total": 46,
+          "md": 0,
+          "llms": 0,
+          "html": 46,
+          "unverified": 0
+        },
+        "PerplexityBot": {
+          "total": 8,
+          "md": 0,
+          "llms": 0,
+          "html": 8,
+          "unverified": 8
+        },
+        "OAI-SearchBot": {
+          "total": 8,
+          "md": 3,
+          "llms": 0,
+          "html": 5,
+          "unverified": 0
+        },
+        "Bingbot": {
+          "total": 25,
+          "md": 6,
+          "llms": 0,
+          "html": 19,
+          "unverified": 0
+        },
+        "Googlebot": {
+          "total": 37,
+          "md": 0,
+          "llms": 1,
+          "html": 36,
+          "unverified": 0
+        },
+        "ChatGPT-User": {
+          "total": 8,
+          "md": 0,
+          "llms": 0,
+          "html": 8,
+          "unverified": 0
+        },
+        "ClaudeBot": {
+          "total": 16,
+          "md": 0,
+          "llms": 0,
+          "html": 16,
+          "unverified": 0
+        },
+        "Claude-User": {
+          "total": 1,
+          "md": 0,
+          "llms": 0,
+          "html": 1,
+          "unverified": 1
+        },
+        "Meta-ExternalAgent": {
+          "total": 2,
+          "md": 0,
+          "llms": 0,
+          "html": 2,
+          "unverified": 0
+        }
+      },
+      "paths": {
+        "/2007/04/19/evaluacio%CC%81n-de-la-usabilidad-en-sistemas-de-informacion/": {
+          "Amazonbot": 1
+        },
+        "/blog/que-es-un-algoritmo-definicion/": {
+          "PerplexityBot": 1,
+          "Amazonbot": 1,
+          "Bingbot": 1
+        },
+        "/2007/08/24/tipologia-de-blogs.md": {
+          "OAI-SearchBot": 1
+        },
+        "/2012/12/17/el-software-y-la-muerte-del-hardware/": {
+          "Amazonbot": 1,
+          "Googlebot": 1
+        },
+        "/2009/10/13/%C2%BFque-es-la-teoria-del-subconsumo/": {
+          "Amazonbot": 1
+        },
+        "/2010/10/11/camara-de-comercio-espanola-en-china-shanghai.md": {
+          "Bingbot": 1
+        },
+        "/2009/02/14/percepcion-y-cultura/": {
+          "Googlebot": 2
+        },
+        "/2009/11/16/%C2%BFcual-es-la-evolucion-de-apple-google-ibm-y-microsoft/": {
+          "Googlebot": 1
+        },
+        "/2007/04/12/las-3-i-irlanda-india-e-israel/": {
+          "PerplexityBot": 1,
+          "Googlebot": 1
+        },
+        "/2011/07/20/la-muerte-del-portatil-en-el-software-empresarial/": {
+          "Amazonbot": 1
+        },
+        "/2007/08/20/historia-de-v7/": {
+          "Amazonbot": 1
+        },
+        "/2007/09/20/el-arte-de-escribir-10-consejos/": {
+          "Amazonbot": 1
+        },
+        "/2008/03/12/%C2%BFque-es-un-producto/": {
+          "Googlebot": 2
+        },
+        "/2007/03/19/la-estrategia-de-las-empresas-tecnologicas/": {
+          "Amazonbot": 1
+        },
+        "/2007/10/30/que-es-una-erp.md": {
+          "Bingbot": 1
+        },
+        "/2011/02/10/%C2%BFcomo-disenar-el-interfaz-de-un-software/": {
+          "Bingbot": 1
+        },
+        "/2008/08/14/definicion-de-paas/": {
+          "Amazonbot": 1
+        },
+        "/2017/05/19/que-es-un-product-manager/": {
+          "Amazonbot": 1
+        },
+        "/2021/01/23/api-apps-y-extensiones/": {
+          "Bingbot": 1
+        },
+        "/": {
+          "ChatGPT-User": 3,
+          "Googlebot": 2,
+          "Bingbot": 7,
+          "ClaudeBot": 3
+        },
+        "/2025/01/09/transforma-tu-marketing-con-ia-beneficios-y-aplicaciones-clave/": {
+          "ClaudeBot": 1
+        },
+        "/2007/08/24/tipologia-de-blogs/": {
+          "Amazonbot": 1,
+          "OAI-SearchBot": 1
+        },
+        "/2008/07/31/randy-pausch/": {
+          "Amazonbot": 1
+        },
+        "/2008/04/02/%C2%BFtipos-de-organigramas-y-organizacion/": {
+          "Amazonbot": 1
+        },
+        "/guia/guia-agentes-ia-empresas/": {
+          "PerplexityBot": 1
+        },
+        "/2013/04/27/el-formulario-de-100-000-euros/": {
+          "Googlebot": 1
+        },
+        "/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/": {
+          "Amazonbot": 1,
+          "Googlebot": 2
+        },
+        "/2010/01/25/viaje-sin-vuelta/": {
+          "ClaudeBot": 1
+        },
+        "/2008/06/18/%c2%bfcomo-es-el-crecimiento-de-velneo/": {
+          "ClaudeBot": 1
+        },
+        "/blog/que-es-un-servicio-nativo-de-ia/": {
+          "ChatGPT-User": 1
+        },
+        "/2011/03/23/tester-vs-programador/": {
+          "Googlebot": 1
+        },
+        "/2009/10/07/la-tirania-del-pensamiento-empobrecido/": {
+          "Amazonbot": 1
+        },
+        "/2009/03/20/%C2%BFque-es-pmm/": {
+          "Googlebot": 1
+        },
+        "/2010/03/23/%C2%BFque-personalidad-tiene-tu-software/": {
+          "ClaudeBot": 1
+        },
+        "/2020/12/24/del-dogfooding-a-probar-tus-recetas/": {
+          "Amazonbot": 1
+        },
+        "/2007/09/12/dublin-shannon-limerick/": {
+          "Bingbot": 1
+        },
+        "/2010/12/27/%C2%BFnecesito-un-disenador-en-mi-empresa.md": {
+          "Bingbot": 1
+        },
+        "/blog/": {
+          "Bingbot": 2,
+          "Amazonbot": 1,
+          "Googlebot": 1,
+          "OAI-SearchBot": 1
+        },
+        "/2010/07/07/%C2%BFque-es-un-plan-estrategico/": {
+          "Googlebot": 1
+        },
+        "/blog/ser-mas-ambicioso-con-la-ia-felix-rieseberg.md": {
+          "OAI-SearchBot": 1
+        },
+        "/2008/05/18/%C2%BFque-es-el-aprendizaje-organizacional/": {
+          "Amazonbot": 1
+        },
+        "/2008/12/21/%C2%BFque-es-el-marketing-interno/": {
+          "PerplexityBot": 1
+        },
+        "/blog/que-es-el-pseudocodigo.md": {
+          "OAI-SearchBot": 1
+        },
+        "/2012/06/08/tipos-de-software/": {
+          "Googlebot": 1
+        },
+        "/2024/12/15/como-la-ia-de-vo-revoluciona-el-marketing-ia-en-2024/": {
+          "ClaudeBot": 1
+        },
+        "/2010/10/13/despues-de-un-mal-momento-solo-viene-uno-bueno/": {
+          "Googlebot": 1
+        },
+        "/2012/04/24/que-es-una-interface/": {
+          "Amazonbot": 1
+        },
+        "/2009/11/03/%C2%BFcual-es-la-vision-de-google/": {
+          "Bingbot": 1
+        },
+        "/2008/06/07/las-proximas-innovaciones-segun-microsoft/": {
+          "Amazonbot": 1
+        },
+        "/2009/05/10/%C2%BFque-es-la-gestion-por-competencias/": {
+          "Googlebot": 1
+        },
+        "/2007/12/02/destino-el-mundo/": {
+          "Bingbot": 1
+        },
+        "/2007/10/27/conceptos-web-20/": {
+          "Amazonbot": 1
+        },
+        "/2007/10/27/%C2%BFcuales-son-las-orientaciones-culturales-segun-harrison1972/": {
+          "Amazonbot": 1
+        },
+        "/2008/04/14/google-salesforce/": {
+          "Amazonbot": 1
+        },
+        "/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/": {
+          "ClaudeBot": 1
+        },
+        "/2013/09/20/presupuestos-de-una-empresa-de-software/": {
+          "Googlebot": 3
+        },
+        "/2013/01/09/crear-software-en-la-nube/": {
+          "Amazonbot": 2
+        },
+        "/2012/04/04/como-crear-programas/": {
+          "Amazonbot": 1
+        },
+        "/blog/ser-mas-ambicioso-con-la-ia-felix-rieseberg/": {
+          "Googlebot": 1,
+          "OAI-SearchBot": 1
+        },
+        "/2010/02/01/el-poder-del-ahora/": {
+          "ClaudeBot": 1
+        },
+        "/2007/04/19/model-de-negocio-del-software-libre-floss/": {
+          "Googlebot": 1
+        },
+        "/2020/08/21/como-creo-steve-jobs-el-iphone/": {
+          "Amazonbot": 1
+        },
+        "/2007/04/10/la-importancia-de-rrhh-en-la-empresa-tecnologica/": {
+          "Amazonbot": 1
+        },
+        "/2007/06/23/ejemplos-de-input-output-y-actividades/": {
+          "Googlebot": 1
+        },
+        "/2011/12/14/elegir-el-nombre-del-software-las-palabras-clave-y-descripcion/": {
+          "Googlebot": 1
+        },
+        "/blog/que-es-un-diagrama-de-flujo/": {
+          "PerplexityBot": 1,
+          "OAI-SearchBot": 1
+        },
+        "/2009/04/29/el-efecto-resaca/": {
+          "Googlebot": 1
+        },
+        "/2008/05/18/%C2%BFpor-que-las-empresas-triunfan/": {
+          "Amazonbot": 1
+        },
+        "/2007/04/27/carta-de-bill-gates-en-favor-del-software-propietario/": {
+          "ChatGPT-User": 1
+        },
+        "/2007/11/04/%C2%BFcuales-son-las-4p-del-marketing-marketing-mix/": {
+          "Bingbot": 1
+        },
+        "/2009/06/17/%C2%BFque-es-el-vdataclient/": {
+          "ClaudeBot": 1
+        },
+        "/2012/01/16/el-software-primera-version/": {
+          "Amazonbot": 1
+        },
+        "/2007/10/28/fases-dentro-del-trabajo-en-equipo/": {
+          "Amazonbot": 1
+        },
+        "/2009/11/30/el-fracaso-es-el-camino-hacia-el-exito/": {
+          "ClaudeBot": 1
+        },
+        "/2007/12/08/vuelta-a-casa-por-navidad/": {
+          "Amazonbot": 1
+        },
+        "/2010/09/13/%C2%BFque-es-el-nokia-888/": {
+          "Googlebot": 1
+        },
+        "/2012/12/26/alternativa-a-visual-basic/": {
+          "Amazonbot": 1,
+          "Googlebot": 1
+        },
+        "/2012/02/21/empresas-de-software-y-modelos-de-negocio.md": {
+          "Bingbot": 1
+        },
+        "/2008/10/15/aportaciones-de-las-diferentes-tendencias-psicologicas/": {
+          "Amazonbot": 1
+        },
+        "/2010/06/28/definicion-de-mision-de-una-empresa/": {
+          "Googlebot": 1
+        },
+        "/2010/09/08/n9-vs-iphone-4-vs-htc/": {
+          "Amazonbot": 1
+        },
+        "/2025/02/24/guia-para-hacer-prompts-en-google-veo-2.md": {
+          "Bingbot": 1
+        },
+        "/2025/02/24/guia-para-hacer-prompts-en-google-veo-2/": {
+          "Amazonbot": 1
+        },
+        "/2007/03/25/velneo-%C2%BFmoda-o-tendencia/": {
+          "Amazonbot": 1
+        },
+        "/llms.txt": {
+          "Googlebot": 1
+        },
+        "/2014/05/01/desarrollo-de-software-iterativo-e-incremental/": {
+          "Amazonbot": 1
+        },
+        "/2009/09/10/fases-implantacion-control-de-gestion/": {
+          "ClaudeBot": 1
+        },
+        "/2008/09/15/el-efecto-paraguas/": {
+          "Amazonbot": 1
+        },
+        "/2008/01/27/delicious/": {
+          "Bingbot": 1
+        },
+        "/2011/06/22/errores-no-reproducibles-en-el-software/": {
+          "Amazonbot": 1
+        },
+        "/2010/10/29/listado-de-consultoras-espanolas-en-shangai/": {
+          "PerplexityBot": 1
+        },
+        "/blog/embudo-capacidad-llm-andrej-karpathy/": {
+          "Bingbot": 1,
+          "Meta-ExternalAgent": 1
+        },
+        "/2010/05/05/%C2%BFque-es-la-pereza-digital/": {
+          "Googlebot": 1
+        },
+        "/2009/12/23/propiedad-vs-alquiler/": {
+          "Amazonbot": 1,
+          "ClaudeBot": 1
+        },
+        "/2009/02/09/v7velneoes/": {
+          "Amazonbot": 1
+        },
+        "/blog/que-es-un-forward-deployed-engineer/": {
+          "Claude-User": 1
+        },
+        "/2008/03/29/%C2%BFque-es-la-innovacion-discontinua/": {
+          "Amazonbot": 1
+        },
+        "/2007/05/14/software-libre-en-japon-vs-microsoft/": {
+          "Googlebot": 1
+        },
+        "/2009/10/05/trabajar-mucho-%c2%bfes-bueno/": {
+          "ClaudeBot": 1
+        },
+        "/2011/04/07/10-principios-para-testear-software/": {
+          "Amazonbot": 1
+        },
+        "/blog/que-es-un-bucle-en-programacion/": {
+          "Meta-ExternalAgent": 1
+        },
+        "/2008/11/24/%C2%BFhasta-cuando-va-a-durar-la-crisis/": {
+          "Googlebot": 1
+        },
+        "/2009/01/12/ipc-2009/": {
+          "Googlebot": 1
+        },
+        "/2009/11/12/%C2%BFquien-es-alessandro-cigno/": {
+          "Googlebot": 1
+        },
+        "/2010/11/29/icex-en-shangai/": {
+          "PerplexityBot": 1
+        },
+        "/2009/12/28/velneo-factura-en-25-paises/": {
+          "ClaudeBot": 1
+        },
+        "/2010/09/16/%C2%BFcual-es-la-estrategia-de-nokia.md": {
+          "Bingbot": 1
+        },
+        "/blog/la-fabricacion-vibe-ya-esta-aqui/": {
+          "ChatGPT-User": 3
+        },
+        "/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/": {
+          "PerplexityBot": 1
+        },
+        "/blog/que-es-el-pseudocodigo/": {
+          "OAI-SearchBot": 1
+        },
+        "/2012/02/15/cuadro-de-mando-para-una-empresa-de-software/": {
+          "Amazonbot": 1
+        },
+        "/2007/05/09/las-recetas-de-cocina-y-el-software-libre/": {
+          "Bingbot": 1
+        },
+        "/2007/06/23/las-tiendas-outlet/": {
+          "Googlebot": 1
+        },
+        "/2008/07/08/google-esta-creando-un-second-life/": {
+          "Amazonbot": 1
+        }
+      },
+      "descartadas": 300
     }
   }
 }
