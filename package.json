@@ -17,6 +17,7 @@
     "seo:gsc:indexation": "node scripts/gsc-indexation-audit.mjs && node scripts/gsc-unknown-panel.mjs",
     "seo:gsc:unknown": "node scripts/gsc-unknown-panel.mjs",
     "seo:gsc:submit-sitemap": "node scripts/gsc-submit-sitemap.mjs",
+    "seo:gsc:ai": "node scripts/gsc-ai-report.mjs",
     "geo:agents": "node scripts/geo-agents-report.mjs && node scripts/geo-agents-edge.mjs",
     "cf:traffic": "node scripts/cf-traffic-report.mjs",
     "seo:indexnow": "node scripts/indexnow-submit.mjs",

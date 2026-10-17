@@ -162,6 +162,9 @@ export async function querySearchConsole(params) {
         dimensions: params.dimensions,
         rowLimit: params.rowLimit ?? 25,
         startRow: params.startRow ?? 0,
+        // Opcionales: sin ellos la API usa type=web y dataState=final.
+        type: params.type,
+        dataState: params.dataState,
       }),
     },
     { context: 'GSC searchAnalytics.query' },

@@ -14,3 +14,7 @@ test-results/
 .env.local
 .migration-review/
 .design-import/
+
+# El ZIP del informe de IA generativa de GSC se descomprime en data/gsc-ai/<fecha>/;
+# lo que se versiona son los CSV.
+data/gsc-ai/*.zip
