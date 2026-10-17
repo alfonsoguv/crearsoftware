@@ -20,7 +20,7 @@ Otro paseo. Este año os he contado unos cuantos. En marzo, en *Tambores de guer
 
 ## Odiaba la mecanografía, me fascinaba el MS-DOS
 
-Tenía doce años y mi hermano, diez. Yo ya iba de mala hostia: nos tocaba el verano en Orense, a pasar calor lejos de mis amigos de Madrid y de mi gente. Entonces llegó mi padre y nos dijo:
+Tenía doce años y mi hermano David, diez. Yo ya iba de mala hostia: nos tocaba el verano en Orense, a pasar calor lejos de mis amigos de Madrid y de mi gente. Entonces llegó mi padre y nos dijo:
 
 —Este verano vais a hacer mecanografía y MS-DOS.
 
@@ -52,7 +52,7 @@ Hay dos escalas en esta historia. La pequeña es la de un niño que odia una cla
 
 Pero hay una diferencia, y no quiero esconderla: esto no es un curso de verano que te manda tu padre. Esto es tu trabajo. Entiendo el miedo, porque yo también lo he sentido. El primer día lo dije, y en *Tambores de guerra* lo escribí sin rodeos: «La IA va a acabar con todos los puestos de trabajo. El primero es el mío». Por eso tenemos que ser los primeros en hacerlo con nuestro propio trabajo, antes de que lo haga otro.
 
-Por eso construí Vitela. Vitela contesta a los consejeros y a los CEOs sobre cualquier dato de la empresa. Antes, para responder, yo tenía que entrar en varias aplicaciones, entenderlas y cruzar la información. Ahora Vitela lo entiende antes que yo: contesta, pregunta y lleva el día a día. Mi trabajo ha cambiado, y gracias a eso estoy aprendiendo más que en muchos años. Esa es mi apuesta: si algo va a cambiar mi trabajo, quiero ser yo quien lo cambie.
+Por eso construí Vitela. Vitela contesta a los consejeros y a los CEOs sobre cualquier dato de la empresa. Antes, para responder, yo tenía que entrar en varias aplicaciones, entenderlas y cruzar la información. Ahora Vitela lo entiende antes que yo: contesta, pregunta y lleva el día a día. Y lo más sorprendente es que la gente discute con Vitela por correo. Ya no discuten conmigo si un dato está bien o mal, o de dónde sale: discuten con un agente. Me parece ciencia ficción, como ver volar un coche el otro día en la presentación de Tesla. Mi trabajo ha cambiado, y gracias a eso estoy aprendiendo más que en muchos años. Esa es mi apuesta: si algo va a cambiar mi trabajo, quiero ser yo quien lo cambie.
 
 No he sido el único. El mismo día que publiqué *Tambores de guerra*, Jesús Arboleya publicó *VelNews, o cómo empezar a cargarme mi puesto de trabajo*. Seis meses después dirige Visual Inteligencia, la empresa del grupo que vende trabajo administrativo hecho por agentes, y firma sus correos como Chief Agents Officer. Bea Domínguez coordinaba personas en administración; hoy es analista de procesos de negocio con IA. Ninguno de los dos tenía manual ni a nadie en casa que lo hubiera hecho antes. Bea lo resumió mejor que nadie: «Estamos reconvirtiendo el trabajo de las personas en otro trabajo diferente».
 
@@ -70,9 +70,9 @@ Haz lo que sientas que quieres hacer. Y si sale mal, en Visual siempre habrá ma
 
 ## Juntos
 
-Si miro atrás, nunca he hecho nada solo. El primero fue mi hermano: nos preguntábamos, discutíamos, rompíamos cosas y las arreglábamos juntos. Luego vino David, con quien también discutía y hacía programas. Después José Luis, el primero que se sumó a Visual en 1999, que tantas veces me miró con media sonrisa cuando le contaba una idea nueva: «¿Se te ha ido la cabeza?». Con él aprendí que un no con argumentos vale más que diez síes por quedar bien. Y así toda la vida.
+Si miro atrás, nunca he hecho nada solo. El primero fue David, mi hermano: nos preguntábamos, discutíamos, rompíamos cosas y las arreglábamos juntos. Con él empecé discutiendo cómo programar que la puerta de aquel juego pareciera abrirse; hoy discutimos cómo tienen que estar los agentes en Visual Trans. Tanto tiempo, tan diferente, y en el fondo todo igual. Después vino José Luis, el primero que se sumó a Visual en 1999, que tantas veces me miró con media sonrisa cuando le contaba una idea nueva: «¿Se te ha ido la cabeza?». Con él aprendí que un no con argumentos vale más que diez síes por quedar bien. Y así toda la vida.
 
-Hoy me pasa lo mismo. Me apasiona discutir con Bea, con Jesús «Arbolilla», con Tommy, con Mario, con Marcos en Vidiv, con toda la gente que está aprendiendo esto de los agentes. Esos días de llamadas, de «va por aquí», «no, va por allá», en los que no paro de replantearme adónde irá esto, cómo será la profesión y cómo será mi trabajo. Esa incertidumbre es la misma que tenía aquel verano. La diferencia es que ahora la comparto. Y a veces el no con argumentos me lo da un agente.
+Hoy me pasa lo mismo. Me apasiona discutir con Bea, con Jesús Arboleya, con Tommy, con Mario, con Marcos en Vidiv, con toda la gente que está aprendiendo esto de los agentes. Esos días de llamadas, de «va por aquí», «no, va por allá», en los que no paro de replantearme adónde irá esto, cómo será la profesión y cómo será mi trabajo. Esa incertidumbre es la misma que tenía aquel verano. La diferencia es que ahora la comparto. Y a veces el no con argumentos me lo da un agente.
 
 Discutimos mientras construimos, no en vez de construir. Y cuando no estás solo, todo es más fácil.
 
