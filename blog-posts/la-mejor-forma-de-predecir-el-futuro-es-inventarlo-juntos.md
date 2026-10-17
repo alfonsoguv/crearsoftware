@@ -32,7 +32,7 @@ Mi padre tampoco. Y me lo dijo tal cual:
 
 En *Tambores de guerra* os conté que toda mi familia vivía de la mina, y que llevábamos décadas oyendo que «este año se acaba». Hoy lo veo con otros ojos: aquel verano cayó un tractor del cielo en mi casa. Mi padre no sabía de dónde había salido ni cómo se conducía. Pero nos subió encima.
 
-Odié la mecanografía y me fascinó el MS-DOS. Lo que parecía un castigo se convirtió en una pasión. Mi hermano y yo empezamos a hacer cosas juntos, a discutirlas, a probarlas, y poco después acabamos programando una aventura gráfica, *Soviet*. Nos apasionaban las aventuras gráficas de los ochenta.
+Odié la mecanografía y me fascinó el MS-DOS. Lo que parecía un castigo se convirtió en una pasión. Mi hermano y yo empezamos a hacer cosas juntos, a discutirlas, a probarlas, y poco después acabamos programando una aventura gráfica, *Soviet*. Nos apasionaban las aventuras gráficas de los ochenta, de *The Hobbit* a *La abadía del crimen*.
 
 No fue la última vez que algo que al principio odiaba acabó siendo lo que más quería. En la primera guerra, la de Atica, me tocó pasar diez años vendiendo a programadores, un negocio que no había elegido, y acabé queriendo Velneo con todo mi corazón. Pero la primera vez fue aquel verano.
 
