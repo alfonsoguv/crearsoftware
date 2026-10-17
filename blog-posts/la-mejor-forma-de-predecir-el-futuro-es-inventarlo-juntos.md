@@ -8,7 +8,7 @@ category: "inteligencia-artificial"
 tags: ["inteligencia artificial", "agentes de ia", "futuro del trabajo", "alan kay", "cultura de empresa", "visual ms"]
 readingTime: 9
 author: "Alfonso Gutiérrez"
-wordCount: 2030
+wordCount: 2010
 image: "/images/blog/inventarlo-juntos/soviet.jpg"
 ---
 
@@ -72,7 +72,7 @@ No puedo pediros que no tengáis miedo al cambio que viene. Lo que sí quiero es
 
 Que nadie te diga lo que puedes y lo que no puedes hacer. Que nadie te diga si estás preparado para esta profesión o si eres el mejor perfil. La verdad es que nadie lo sabe, empezando por mí. Mi padre tampoco me dijo si valía: me mandó a probar. Cada uno tiene que construir su propio camino y su propio producto.
 
-Y hay algo que hace esta época distinta de todas las anteriores: con la IA, todo se puede validar rapidísimo. Tardas menos en probarlo que en discutirlo, y menos en discutirlo que en teorizarlo. Jesús lo dijo en septiembre, preparando la presentación a un cliente: «Olvidaos de los tiempos: aquí los tiempos son diferentes, no tienen nada que ver. Esto se prueba en horas». Así que no teorices si vales o no vales: pruébalo. Valida con la realidad, no con opiniones; ni siquiera con las mías. Y no hace falta dejarlo todo: como dije en marzo, es más importante dedicarle un minuto al día que dedicarle ocho horas un sábado.
+Y hay algo que hace esta época distinta de todas las anteriores: con la IA, todo se puede validar rapidísimo. Tardas menos en probarlo que en discutirlo, y menos en discutirlo que en teorizarlo. Jesús lo dijo en septiembre, preparando la presentación a un cliente: «Olvidaos de los tiempos: aquí los tiempos son diferentes, no tienen nada que ver. Esto se prueba en horas». Así que no teorices si vales o no vales: pruébalo. Valida con la realidad, no con opiniones; ni siquiera con las mías.
 
 Haz lo que sientas que quieres hacer. Y si sale mal, en Visual siempre habrá marcha atrás.
 
