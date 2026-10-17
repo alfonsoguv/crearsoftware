@@ -14,7 +14,7 @@ image: ""
 
 > **Nota.** Escribí este texto para los vimis, las personas que trabajamos en Grupo Visual MS, y por eso os hablo de tú a tú. Cita otros textos internos del grupo, sobre todo *Tambores de guerra* (marzo de 2026), en el que avisé de que la IA venía directamente a por nuestros puestos de trabajo y de nuestros negocios, y de que íbamos a ser los primeros en cambiarlos.
 
-Escribo esto entrando en una tienda, con los cascos puestos, hablando con mi agente. Me pregunta cómo se titula el post y qué quiero contar, y entre los dos vamos puliendo cada párrafo. No he tocado una sola tecla.
+Entro en la tienda. Voy a comprar champú y una maquinilla. Con los cascos puestos, hablo con mi agente: me pregunta cómo se titula el post y qué quiero contar, y entre los dos vamos puliendo cada párrafo. No he tocado una sola tecla.
 
 Otro paseo. Este año os he contado unos cuantos. En marzo, en *Tambores de guerra*, empujaba el carrito de mi hija pequeña por el Parador de Baiona y pensaba en mis bisabuelos. En septiembre, en *Tened fe*, salí con los cascos mientras los agentes me traían las cuentas de la competencia y yo no conseguía quitarme de la cabeza a José Luis, que se jubilaba después de veintisiete años. Hoy el paseo me lleva más atrás: a un verano de los años ochenta, y a mi padre.
 
