@@ -40,7 +40,7 @@ La mecanografía la odié; el MS-DOS, en cambio, me fascinó. Lo que parecía un
 
 No fue la última vez que un castigo acabó en pasión. En la primera guerra, la de Atica, me tocó pasar diez años vendiendo a programadores, un negocio que no había elegido, y acabé queriendo Velneo con todo mi corazón. Pero la primera vez fue aquel verano.
 
-Probablemente aquella decisión de mi padre, tomada sin saber nada del tema, es la razón de que hoy me dedique a lo que me dedico. Él no sabía si aquello era lo mío. Nadie lo sabía. Solo intuyó que era el futuro, y nos mandó.
+Probablemente aquella decisión de mi padre, tomada sin saber nada del tema, es la razón de que hoy me dedique al software. Él no sabía si aquello era lo mío. Nadie lo sabía. Solo intuyó que era el futuro, y nos mandó.
 
 Salgo de la tienda con el champú y la maquinilla. Sigo hablando con el agente.
 
