@@ -9,10 +9,14 @@ tags: ["inteligencia artificial", "agentes de ia", "futuro del trabajo", "alan k
 readingTime: 9
 author: "Alfonso Gutiérrez"
 wordCount: 1950
-image: ""
+image: "/images/blog/inventarlo-juntos/soviet.jpg"
 ---
 
 > **Nota.** Escribí este texto para los vimis, las personas que trabajamos en Grupo Visual MS, y por eso os hablo de tú a tú. Cita otros textos internos del grupo, sobre todo *Tambores de guerra* (marzo de 2026), en el que avisé de que la IA venía directamente a por nuestros puestos de trabajo y de nuestros negocios, y de que íbamos a ser los primeros en cambiarlos.
+
+![Dibujo a mano en un cuaderno de cuadros: la portada de Soviet, la aventura gráfica que programé con mi hermano David, con la puerta de acero de un búnker cerrándose y los verbos copiados de Monkey Island](/images/blog/inventarlo-juntos/soviet.jpg)
+
+*Soviet, recreado a mano: la puerta del búnker y los verbos copiados de Monkey Island.*
 
 Entro en la tienda. Voy a comprar champú y una maquinilla. Con los cascos puestos, hablo con mi agente: me pregunta cómo se titula el post y qué quiero contar, y entre los dos vamos puliendo cada párrafo. No he tocado una sola tecla.
 
@@ -32,7 +36,7 @@ Mi padre tampoco. Y me lo dijo tal cual:
 
 En *Tambores de guerra* os conté que toda mi familia vivía de la mina, y que llevábamos décadas oyendo que «este año se acaba». Hoy lo veo con otros ojos: aquel verano cayó un tractor del cielo en mi casa. Mi padre no sabía de dónde había salido ni cómo se conducía. Pero nos subió encima.
 
-Odié la mecanografía y me fascinó el MS-DOS. Lo que parecía un castigo se convirtió en una pasión. Mi hermano y yo empezamos a hacer cosas juntos, a discutirlas, a probarlas, y poco después acabamos programando una aventura gráfica, *Soviet*. Nos apasionaban las aventuras gráficas de los ochenta, de *The Hobbit* a *La abadía del crimen*.
+Odié la mecanografía y me fascinó el MS-DOS. Lo que parecía un castigo se convirtió en una pasión. Mi hermano y yo empezamos a hacer cosas juntos, a discutirlas, a probarlas, y poco después acabamos programando una aventura gráfica, *Soviet*. Nos apasionaban las aventuras gráficas, y yo estaba enganchado a *[The Secret of Monkey Island](https://es.wikipedia.org/wiki/The_Secret_of_Monkey_Island)* (Lucasfilm Games, 1990). En ella nos inspiramos para *Soviet*, y en las películas americanas de rusos de la Guerra Fría que veíamos entonces.
 
 No fue la última vez que algo que al principio odiaba acabó siendo lo que más quería. En la primera guerra, la de Atica, me tocó pasar diez años vendiendo a programadores, un negocio que no había elegido, y acabé queriendo Velneo con todo mi corazón. Pero la primera vez fue aquel verano.
 
