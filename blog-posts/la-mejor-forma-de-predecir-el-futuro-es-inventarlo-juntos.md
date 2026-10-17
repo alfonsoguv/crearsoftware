@@ -8,7 +8,7 @@ category: "inteligencia-artificial"
 tags: ["inteligencia artificial", "agentes de ia", "futuro del trabajo", "alan kay", "cultura de empresa", "visual ms"]
 readingTime: 9
 author: "Alfonso Gutiérrez"
-wordCount: 2010
+wordCount: 2040
 image: "/images/blog/inventarlo-juntos/soviet.jpg"
 ---
 
@@ -82,13 +82,15 @@ Si miro atrás, nunca he hecho nada solo. El primero fue David, mi hermano: nos 
 
 Después vino José Luis, el primero que se sumó a Visual en 1999, que tantas veces me miró con media sonrisa cuando le contaba una idea nueva: «¿Se te ha ido la cabeza?». Con él aprendí que un no con argumentos vale más que diez síes por quedar bien. Y así toda la vida.
 
-Hoy me pasa lo mismo. Me apasiona discutir con Bea, con Jesús, con Mario, con Marcos en Vidiv, con toda la gente que está aprendiendo esto de los agentes. Esos días de llamadas, de «va por aquí», «no, va por allá», en los que no paro de replantearme adónde irá esto, cómo será la profesión y cómo será mi trabajo. Esa incertidumbre es la misma que tenía aquel verano. La diferencia es que ahora la comparto. Y a veces el no con argumentos me lo da un agente.
+Hoy me pasa lo mismo. Me apasiona discutir con Bea, con Jesús, con Mario, con Marcos en Vidiv, con Javier Cañada, con Domi y con tantos vimis con los que intercambio visiones sobre el futuro de la IA. Esos días de llamadas, de «va por aquí», «no, va por allá», en los que no paro de replantearme adónde irá esto, cómo será la profesión y cómo será mi trabajo. Esa incertidumbre es la misma que tenía aquel verano. La diferencia es que ahora la comparto. Y a veces el no con argumentos me lo da un agente.
 
 Discutimos mientras construimos, no en vez de construir. Y cuando no estás solo, todo es más fácil.
 
 La frase que me viene siempre que me siento inseguro, la que hemos usado en todas las crisis y en todos los grandes cambios de Visual, es la de Alan Kay: «La mejor forma de predecir el futuro es inventarlo». En el primer Mano Alzada del COVID, la reunión con toda la empresa, la retorcimos: «La mejor forma de predecir el futuro es… mirar a Italia, Corea y Wuhan». Hoy le añado una palabra: juntos.
 
 Se lo digo al agente mientras camino, y me corrige: no es la primera vez. En abril de 2024, en el post de los 25 años de Visual, ya escribí «No existe mejor forma de predecir el futuro que crearlo juntos». Fue en el apartado que abría una frase de Vilán: «Hacer software con gente a la que quiero». No me acordaba. Dos años y medio después, Vilán está probando la profesión nueva. A lo mejor la palabra ya estaba puesta.
+
+Todo parece muy distinto y en el fondo es lo de siempre: hacer cosas con la gente a la que quiero y atreverme a probar lo nuevo.
 
 ## Este post no lo he tecleado
 
