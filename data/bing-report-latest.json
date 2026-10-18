@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-17T16:15:37.401Z",
+  "generatedAt": "2026-10-18T09:39:55.035Z",
   "siteUrl": "https://crearsoftware.com/",
   "verified": true,
   "totals": {
     "clicks": 62,
-    "impressions": 6250,
-    "ctrPercent": 0.99
+    "impressions": 6452,
+    "ctrPercent": 0.96
   },
-  "daysWithData": 73,
+  "daysWithData": 74,
   "traffic": [
     {
       "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
@@ -446,6 +446,12 @@
       "Clicks": 3,
       "Date": "/Date(1792022400000)/",
       "Impressions": 261
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 0,
+      "Date": "/Date(1792108800000)/",
+      "Impressions": 202
     }
   ],
   "queries": [
@@ -551,6 +557,15 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
+      "AvgImpressionPosition": 10,
+      "Clicks": 1,
+      "Date": "/Date(1789084800000)/",
+      "Impressions": 2,
+      "Query": "orientaciones del desarrollo de software"
+    },
+    {
+      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
+      "AvgClickPosition": -1,
       "AvgImpressionPosition": 5,
       "Clicks": 1,
       "Date": "/Date(1789084800000)/",
@@ -560,11 +575,11 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
-      "AvgImpressionPosition": 10,
+      "AvgImpressionPosition": 1,
       "Clicks": 1,
-      "Date": "/Date(1789084800000)/",
+      "Date": "/Date(1789689600000)/",
       "Impressions": 2,
-      "Query": "orientaciones del desarrollo de software"
+      "Query": "ejemplos de inputs de una empresa"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -578,11 +593,11 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
-      "AvgImpressionPosition": 1,
+      "AvgImpressionPosition": 3,
       "Clicks": 1,
-      "Date": "/Date(1789689600000)/",
+      "Date": "/Date(1790294400000)/",
       "Impressions": 2,
-      "Query": "ejemplos de inputs de una empresa"
+      "Query": "que es la cultura del poder segun roger harrinson"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -598,9 +613,9 @@
       "AvgClickPosition": -1,
       "AvgImpressionPosition": 3,
       "Clicks": 1,
-      "Date": "/Date(1790294400000)/",
+      "Date": "/Date(1790899200000)/",
       "Impressions": 2,
-      "Query": "que es la cultura del poder segun roger harrinson"
+      "Query": "mcp signficado y desarollo web"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -610,15 +625,6 @@
       "Date": "/Date(1790899200000)/",
       "Impressions": 2,
       "Query": "ejemplo de input y output"
-    },
-    {
-      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
-      "AvgClickPosition": -1,
-      "AvgImpressionPosition": 3,
-      "Clicks": 1,
-      "Date": "/Date(1790899200000)/",
-      "Impressions": 2,
-      "Query": "mcp signficado y desarollo web"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",

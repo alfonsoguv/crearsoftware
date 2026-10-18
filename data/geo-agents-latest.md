@@ -1,32 +1,32 @@
 # Informe de rastreadores de IA (GEO)
 
-Fecha de generacion: 2026-10-17T16:16:51.986Z
+Fecha de generacion: 2026-10-18T09:39:49.902Z
 Origen: https://crearsoftware.com
 Ventana: ultimos 28 dias
-Peticiones de agentes contabilizadas: 5788
+Peticiones de agentes contabilizadas: 5804
 
 ## Por familia
 
 | Familia | Peticiones | Por que importa |
 | --- | --- | --- |
-| Entrenamiento | 3857 | Alimentan el conocimiento base del modelo |
+| Entrenamiento | 3883 | Alimentan el conocimiento base del modelo |
 | Búsqueda generativa | 990 | Construyen el indice que el modelo consulta al responder |
-| Buscador clásico | 693 | SEO tradicional, referencia de comparacion |
-| Agentes en vivo | 248 | Visitan porque un usuario esta preguntando ahora: generan la cita |
+| Buscador clásico | 684 | SEO tradicional, referencia de comparacion |
+| Agentes en vivo | 247 | Visitan porque un usuario esta preguntando ahora: generan la cita |
 
 ## Por agente
 
 | Agente | Familia | Peticiones |
 | --- | --- | --- |
 | GPTBot | Entrenamiento | 1314 |
-| Meta-ExternalAgent | Entrenamiento | 1201 |
-| Amazonbot | Entrenamiento | 816 |
-| Bingbot | Búsqueda generativa | 782 |
-| Googlebot | Buscador clásico | 693 |
-| ClaudeBot | Entrenamiento | 481 |
-| ChatGPT-User | Agentes en vivo | 225 |
-| PerplexityBot | Búsqueda generativa | 111 |
-| OAI-SearchBot | Búsqueda generativa | 97 |
+| Meta-ExternalAgent | Entrenamiento | 1193 |
+| Amazonbot | Entrenamiento | 853 |
+| Bingbot | Búsqueda generativa | 779 |
+| Googlebot | Buscador clásico | 684 |
+| ClaudeBot | Entrenamiento | 478 |
+| ChatGPT-User | Agentes en vivo | 224 |
+| PerplexityBot | Búsqueda generativa | 113 |
+| OAI-SearchBot | Búsqueda generativa | 98 |
 | CCBot | Entrenamiento | 45 |
 | Claude-User | Agentes en vivo | 23 |
 
@@ -34,35 +34,35 @@ Peticiones de agentes contabilizadas: 5788
 
 | Pagina | Peticiones |
 | --- | --- |
-| / | 390 |
-| /blog/ | 138 |
-| /2007/06/23/ejemplos-de-input-output-y-actividades/ | 38 |
-| /blog/que-es-un-diagrama-de-flujo/ | 37 |
-| /blog/que-es-un-algoritmo-definicion/ | 37 |
+| / | 386 |
+| /blog/ | 140 |
+| /blog/que-es-un-algoritmo-definicion/ | 38 |
+| /blog/que-es-un-diagrama-de-flujo/ | 38 |
 | /2008/03/12/%C2%BFque-es-un-producto/ | 37 |
+| /2007/06/23/ejemplos-de-input-output-y-actividades/ | 37 |
 | /blog/la-fabricacion-vibe-ya-esta-aqui/ | 31 |
-| /2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/ | 31 |
-| /guia/guia-agentes-ia-empresas/ | 27 |
+| /2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/ | 30 |
 | /blog/que-es-un-servicio-nativo-de-ia/ | 26 |
-| /2009/03/22/la-venta-personal-en-internet-saas-paas/ | 24 |
-| /blog/agentes-en-la-economia-patrick-collison/ | 20 |
+| /guia/guia-agentes-ia-empresas/ | 26 |
+| /2009/03/22/la-venta-personal-en-internet-saas-paas/ | 25 |
+| /blog/agentes-en-la-economia-patrick-collison/ | 21 |
 | /blog/que-es-un-forward-deployed-engineer/ | 19 |
 | /blog/que-es-el-pseudocodigo/ | 19 |
-| /blog/que-es-una-variable-en-programacion/ | 16 |
-| /categoria/desarrollo-software/ | 15 |
+| /blog/que-es-una-variable-en-programacion/ | 18 |
+| /categoria/desarrollo-software/ | 16 |
+| /guia/guia-desarrollo-software-moderno/ | 16 |
 | /llms.txt | 15 |
-| /guia/guia-desarrollo-software-moderno/ | 15 |
 | /blog/embudo-capacidad-llm-andrej-karpathy/ | 14 |
-| /2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/ | 13 |
+| /2012/04/04/como-crear-programas/ | 13 |
 
 ## Formato servido (md vs HTML)
 
 | Familia | Markdown | llms.txt | HTML | % Markdown | Sin medir |
 | --- | --- | --- | --- | --- | --- |
-| Entrenamiento | 1094 | 3 | 2760 | 28.4% | 0 |
-| Búsqueda generativa | 134 | 1 | 855 | 13.5% | 0 |
-| Buscador clásico | 0 | 11 | 682 | 0.0% | 0 |
-| Agentes en vivo | 0 | 0 | 248 | 0.0% | 0 |
+| Entrenamiento | 1086 | 3 | 2794 | 28.0% | 0 |
+| Búsqueda generativa | 130 | 1 | 859 | 13.1% | 0 |
+| Buscador clásico | 0 | 11 | 673 | 0.0% | 0 |
+| Agentes en vivo | 0 | 0 | 247 | 0.0% | 0 |
 
 `Sin medir` son peticiones contabilizadas antes de instrumentar el formato
 (2026-08-09). No se imputan a HTML: se declaran aparte.

@@ -1,0 +1,3256 @@
+{
+  "note": "Panel fijo de estados de indexacion: cohortes sin-rastrear, rastreada-sin-indexar y control. Se reinspeccionan todas en cada ejecucion (npm run seo:gsc:panel). Ver scripts/gsc-state-panel.mjs.",
+  "urls": {
+    "https://crearsoftware.com/blog/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-03T03:13:59Z",
+          "referringUrls": 2,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-11T08:06:01Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-14T08:08:40Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-14T08:08:40Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/sobre/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T17:37:37Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T17:37:37Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T17:37:37Z",
+          "referringUrls": 3,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T17:37:37Z",
+          "referringUrls": 3,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-06-22T01:42:35Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-06-22T01:42:35Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-06-22T01:42:35Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-06-22T01:42:35Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2017/08/30/software-empresarial-soporte-y-mantenimiento/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-21T15:35:25Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-21T15:35:25Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-21T15:35:25Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-21T15:35:25Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2014/01/22/asi-aprendi-que-vender-software-es-lo-mas-importante/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-02T04:09:09Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-02T04:09:09Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-02T04:09:09Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-02T04:09:09Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/05/25/desarrollo-de-aplicaciones/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-06-19T21:08:06Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-05T23:29:48Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-05T23:29:48Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-05T23:29:48Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/02/27/aprender-a-programar/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-07-31T09:55:35Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-07-31T09:55:35Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-07-31T09:55:35Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-07-31T09:55:35Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/02/16/obama/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-25T17:38:34Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-25T17:38:34Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-25T17:38:34Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-25T17:38:34Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/02/10/5-verdades-sobre-el-diseno-de-software/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-06-07T22:52:42Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-06-07T22:52:42Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-14T14:23:04Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-14T14:23:04Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/01/22/los-programadores-somos-unos-mentirosos/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/blog/geo-optimizar-web-agentes-ia-llms-txt/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-07-31",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T16:08:11Z",
+          "referringUrls": 2,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T16:08:11Z",
+          "referringUrls": 2,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T16:08:11Z",
+          "referringUrls": 2,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T16:08:11Z",
+          "referringUrls": 2,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2025/01/04/modelos-de-voz-a-voz-s2s-la-revolucion-en-la-ia-conversacional/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-07-31",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/05/07/problemas-innovacion-en-espana/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/10/05/trabajar-mucho-%C2%BFes-bueno/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 3,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 3,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/12/27/de-regalo-de-reyes-%C2%BFel-canon/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-21T21:05:03Z",
+          "referringUrls": 5,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-21T21:05:03Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-21T21:05:03Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-21T21:05:03Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/06/12/oss07-%C2%BFpor-que-las-wikis-en-las-empresas/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/06/09/por-fin-para-limerick/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-27T15:03:26Z",
+          "referringUrls": 6,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-27T15:03:26Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-27T15:03:26Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-27T15:03:26Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/05/18/la-gente-no-quiere-pagar-por/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/07/12/el-poder-de-la-comunicacion/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-09-26",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/04/10/la-importancia-de-rrhh-en-la-empresa-tecnologica/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-09-27",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/02/12/%C2%BFquien-triunfa-en-internet/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-10-04",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 2,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 2,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2010/04/28/velneo-v7-y-skype/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-10-04",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-11",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/05/16/%C2%BF-por-que-ser-lider-responsable-jefe/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-10-11",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-17",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 3,
+          "sitemaps": 1
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/01/12/red-social-velneo/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-10-17",
+      "history": [
+        {
+          "date": "2026-10-17",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2011/05/10/problemas-de-los-emprendedores-ceos-directivos-en-empresas-de-software/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-10-17",
+      "history": [
+        {
+          "date": "2026-10-17",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2010/09/06/%C2%BFque-es-una-sociedad-limitada/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-10-18",
+      "history": [
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/05/18/%C2%BFque-es-el-aprendizaje-organizacional/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-10-18",
+      "history": [
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-05-15T02:00:15Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-05-15T02:00:15Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2024/12/26/como-los-bots-de-inteligencia-artificial-estan-transformando-las-ventas-y-el-marketing-en-espana/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "lastCrawlTime": null
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2024/12/15/como-la-ia-de-vo-revoluciona-el-marketing-ia-en-2024/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-08-02",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-06-21T15:58:19Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-29T02:28:47Z",
+          "referringUrls": 3,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2021/01/23/api-apps-y-extensiones/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "lastCrawlTime": null
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2015/02/26/aprender-en-software-nos-da-alas/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2025-11-29T21:27:53Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-22T11:56:13Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2014/05/22/crear-software-cloud/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-09T19:43:15Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-17T00:13:22Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2014/04/18/crear-software-para-windows/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-02T05:19:55Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/12/20/5-aprendizajes-para-crear-software/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-22T15:50:59Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-02T11:30:00Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/11/23/lecciones-de-wordpress-para-el-mundo-del-software/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2025-12-19T04:22:59Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-25T00:39:22Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/08/25/el-85-del-software-empresarial-se-ejecuta-en-microsoft-windows/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2025-11-01T00:23:44Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-05-07T06:40:23Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/08/19/el-coste-de-una-nueva-funcionalidad-en-software/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2025-12-16T05:32:22Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-06-30T10:29:42Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/07/30/futuro-desarrollo-software/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2025-12-13T06:26:52Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-30T18:40:21Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/07/14/ganar-dinero-programando/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-02-17T00:10:46Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/05/08/programador/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-07-29T14:01:09Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-27T00:26:31Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/02/23/usuario-software/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-31T07:09:17Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/01/29/5-webs-donde-cualquiera-puede-aprender-a-programar/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-10-18",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-01T22:58:48Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-01T22:58:48Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/05/29/test-software/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-08-02",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-29T08:38:20Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-07T07:33:00Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2010/06/23/%C2%BFque-es-facetime-videoconferencia-movil/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-04-05T10:07:05Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/10/11/el-poder-del-gratis/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-30T17:34:41Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/07/07/ciclo-de-adopcion-de-tecnologia-parte-2/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-08-02",
+          "source": "muestra",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "lastCrawlTime": null
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-02T10:06:39Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/05/15/que-es-salesforce/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-08-02",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-05-15T13:54:56Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-05-15T13:54:56Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/03/19/apple-sube-al-14/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-30T18:04:47Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/01/25/the-long-tail/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-10-18",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-06-26T11:17:59Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-06-26T11:17:59Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/06/05/171/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-09-26",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-05-07T05:03:50Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-05-07T05:03:50Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/04/02/el-poder-del-fracaso/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-08-02",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-05-27T03:49:14Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-05T06:49:49Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2010/07/08/%C2%BFcomo-presentar-un-producto-empresa/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-04-05T10:06:14Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2010/05/17/%C2%BFcuales-son-las-previsiones-economicas-del-mundo/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-04-21T14:56:45Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-21T14:56:45Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2010/03/01/google-telefonica-rim-y-velneo/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-09-26",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-04-20T10:59:47Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/08/31/tendencias-de-navegacion-web/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-02T05:20:23Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-22T08:33:20Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/04/05/%C2%BFque-papel-juega-la-cultura-en-la-organizacion/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-07-21T11:20:06Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-07-21T11:20:06Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/03/18/10-predicciones-para-el-2009-idc-saas-paas/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-05-13T07:01:43Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-05-13T07:01:43Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/03/10/%C2%BFcomo-licencio-mi-software/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-06-26T04:39:23Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-06-26T04:39:23Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/02/02/la-preventa/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-09-27",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-06-16T21:50:12Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-29T19:40:21Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/11/30/teletrabajo/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-08-04T23:22:12Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-08-04T23:22:12Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/11/20/google-tambien-fracasa/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "lastCrawlTime": null
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/10/02/%C2%BFpor-que-velneo-no-apoya-en-proyectos-finales/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-23",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-05-15T04:14:18Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-05-15T04:14:18Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/09/02/la-mejores-presentaciones-del-mundo/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-04-24T12:13:50Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-24T12:13:50Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/07/21/%C2%BFcomo-ver-la-formula1-por-internet/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-24T02:48:54Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-27T13:44:22Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/07/01/%C2%BFlos-buscadores-pueden-buscar-en-un-flash/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-23",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-24T09:18:54Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-27T13:44:22Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/06/18/%C2%BFcomo-es-el-crecimiento-de-velneo/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-06-06T15:46:45Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-03T13:50:34Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/06/05/hong-kong-de-entrada-en-china/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-04-04T17:35:21Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 3,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/03/24/mab-mercado-alternativo-bursatil/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-09-26",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-20T16:15:33Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-20T16:15:33Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/02/14/conceptos-contables/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-05-08T15:31:11Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-05-08T15:31:11Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/02/02/haoming-un-companero-especial/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-04-14T01:00:12Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/11/09/%C2%BFtienes-miedo-a-perder/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-10-18",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-10-15T05:20:37Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-15T05:20:37Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/10/15/el-mercado-y-el-estado/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-30T20:04:33Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/09/04/microsoft-y-el-estandard/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-30T20:33:53Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/07/31/viaje-a-lyon/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-02-04T21:44:40Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/06/26/%C2%BFcomo-elegir-una-plataforma-libre-para-hacer-una-web/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-05-31T00:23:41Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-10T02:56:22Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/06/03/se-esta-acabando-el-canon/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-04-05T08:39:39Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/05/28/linux-kernel-management-style/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-07-23T21:56:36Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-21T08:28:58Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/05/13/libremeeting-2007-las-conclusiones/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-05-17T20:56:13Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T11:00:57Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/05/08/el-blog-y-las-photos/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-30T22:03:29Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/05/06/las-empresas-y-los-blogs-personales/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-30T22:35:20Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/04/29/el-avance-de-la-tecnologia/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-10-17",
+          "source": "muestra",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "lastCrawlTime": null
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/04/13/el-poder-de-la-ejecucion/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-02-28T01:27:44Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/03/27/innovacion-aplicacion-uso-tic-y-la-competitividad/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-10-18",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-09-10T14:03:36Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-10T14:03:36Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2015/04/29/el-software-la-persistencia-y-la-venta/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-05-12T12:21:21Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-05-12T12:21:21Z",
+          "referringUrls": 3,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2014/03/20/crear-software-para-empresas/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-06-06T07:41:42Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-22T13:53:22Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/11/20/desarrollo-de-aplicaciones-empresariales/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-08-02T10:44:24Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-08-02T10:44:24Z",
+          "referringUrls": 5,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2012/04/30/soporte-tecnico-en-software/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-03-31T06:35:29Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2012/02/15/cuadro-de-mando-para-una-empresa-de-software/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-04-05T13:15:47Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2011/08/30/bienvenido-a-la-realidad/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-09-27",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-08-14T10:52:35Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-08-14T10:52:35Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/05/28/vista-y-explorer/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-23",
+      "history": [
+        {
+          "date": "2026-08-23",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-06-14T03:12:37Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-19T06:11:56Z",
+          "referringUrls": 2,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2010/01/25/viaje-sin-vuelta/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-08-23",
+      "history": [
+        {
+          "date": "2026-08-23",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-04-21T15:37:27Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-04-21T15:37:27Z",
+          "referringUrls": 3,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/12/21/%C2%BFque-es-el-marketing-interno/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-08-23",
+      "history": [
+        {
+          "date": "2026-08-23",
+          "source": "muestra",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "lastCrawlTime": null
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-21T07:38:57Z",
+          "referringUrls": 3,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/03/17/%C2%BFque-es-surchur/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-09-26",
+      "history": [
+        {
+          "date": "2026-09-26",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-06-25T21:59:59Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-06-25T21:59:59Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/01/17/qt-anade-la-licencia-lgpl/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-09-26",
+      "history": [
+        {
+          "date": "2026-10-18",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-06-01T05:41:29Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-06-01T05:41:29Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2010/09/20/pekin-la-ciudad-de-los-contrastes/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-09-27",
+      "history": [
+        {
+          "date": "2026-09-27",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-02-03T05:33:14Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/10/29/%C2%BFque-es-paranormal-activity/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-09-27",
+      "history": [
+        {
+          "date": "2026-09-27",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-04-05T11:37:38Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/07/24/ciclo-de-adopcion-tecnologica-4%C2%BA-parte/": {
+      "cohort": "sin-rastrear",
+      "firstSeen": "2026-09-27",
+      "history": [
+        {
+          "date": "2026-09-27",
+          "source": "muestra",
+          "coverageState": "Descubierta: actualmente sin indexar",
+          "lastCrawlTime": null
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Google no reconoce esta URL",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": null,
+          "referringUrls": 0,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/03/19/%C2%BF-por-que-los-lideres-tienen-que-tener-blog/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-10-11",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-06-03T10:38:41Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-12T07:17:33Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/05/25/la-sgae-y-su-canon/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-10-17",
+      "history": [
+        {
+          "date": "2026-10-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-07-20T15:19:30Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-07-20T15:19:30Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/01/07/%C2%BFcomo-gestionar-tu-dinero/": {
+      "cohort": "rastreada-sin-indexar",
+      "firstSeen": "2026-10-17",
+      "history": [
+        {
+          "date": "2026-10-17",
+          "source": "muestra",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "lastCrawlTime": "2026-06-03T06:38:55Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-06-03T06:38:55Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2024/10/24/ventas-inteligentes-por-voz/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-07-27T05:55:30Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-07T00:53:10Z",
+          "referringUrls": 3,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/04/26/las-teorias-x-e-y-de-douglas-mcgregor/": {
+      "cohort": "control",
+      "firstSeen": "2026-10-11",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-09-28T21:40:24Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-28T21:40:24Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2011/01/10/personas-datos-e-interface/": {
+      "cohort": "control",
+      "firstSeen": "2026-10-18",
+      "history": [
+        {
+          "date": "2026-10-18",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-10-05T15:04:09Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-05T15:04:09Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/01/08/los-mejores-del-2007/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-07-29T10:48:20Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Rastreada: actualmente sin indexar",
+          "verdict": "NEUTRAL",
+          "lastCrawlTime": "2026-07-29T10:48:20Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/08/19/principios-sobre-la-teoria-de-bolos/": {
+      "cohort": "control",
+      "firstSeen": "2026-10-04",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-09-24T20:01:18Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-24T20:01:18Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2011/01/17/comiendo-tu-propia-comida-de-perro/": {
+      "cohort": "control",
+      "firstSeen": "2026-09-27",
+      "history": [
+        {
+          "date": "2026-09-27",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-09-08T05:32:25Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-01T06:03:07Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/10/27/%C2%BFcuales-son-las-orientaciones-culturales-segun-harrison1972/": {
+      "cohort": "control",
+      "firstSeen": "2026-10-11",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-09-27T16:42:28Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-15T15:01:08Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/05/01/%C2%BFque-es-un-proceso/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-23",
+      "history": [
+        {
+          "date": "2026-08-23",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-01T11:36:37Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-07T06:55:04Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2014/03/26/crear-software-online/": {
+      "cohort": "control",
+      "firstSeen": "2026-10-04",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-09-30T14:17:47Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-30T14:17:47Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2012/03/26/definicion-de-blog/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-07-21T22:33:39Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T12:36:02Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2025/01/10/transformacion-digital-claves-de-una-empresa-ia-first/": {
+      "cohort": "control",
+      "firstSeen": "2026-09-26",
+      "history": [
+        {
+          "date": "2026-09-26",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-09-23T03:59:18Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-23T03:59:18Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2014/09/03/crea-una-empresa-de-software-olvida-las-start-up/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-23",
+      "history": [
+        {
+          "date": "2026-08-23",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-06-16T10:47:18Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T00:44:37Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/05/10/%C2%BFque-es-la-gestion-por-competencias/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-14T04:51:39Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-03T02:02:43Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2010/12/08/shangai/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-07-01T21:45:54Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-22T17:52:12Z",
+          "referringUrls": 2,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/10/25/%C2%BFcomo-elegir-una-plataforma-libre/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-08T05:54:09Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T17:52:57Z",
+          "referringUrls": 2,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/12/07/cultura-oriental-vs-cultura-occidental/": {
+      "cohort": "control",
+      "firstSeen": "2026-10-11",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-09-21T06:48:57Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-14T19:56:12Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/06/23/8-errores-del-proceso-de-cambio/": {
+      "cohort": "control",
+      "firstSeen": "2026-09-27",
+      "history": [
+        {
+          "date": "2026-09-27",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-09-15T22:49:10Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-03T18:25:46Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/04/18/implantacion-de-software-libre-ayuntamiento-zaragoza/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-08T14:41:19Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-12T05:02:57Z",
+          "referringUrls": 3,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/10/01/vender-software-y-hardware/": {
+      "cohort": "control",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-03-17T17:22:07Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-24T19:11:16Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/10/25/problemas-de-la-comunicacion-horizontal/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-15T13:06:19Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-29T01:37:49Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/12/08/vuelta-a-casa-por-navidad/": {
+      "cohort": "control",
+      "firstSeen": "2026-10-04",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-10-04T01:05:40Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T01:05:40Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/categoria/productividad-herramientas/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-03T13:01:37Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-03T13:01:37Z",
+          "referringUrls": 2,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2015/05/18/historia-del-crm/": {
+      "cohort": "control",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-03-13T15:01:19Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-09T17:46:40Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2017/02/26/software-empresarial-ventas-vs-producto/": {
+      "cohort": "control",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-03-19T01:25:38Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-28T04:19:29Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2009/01/09/mi-tiempo/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-06-18T00:16:58Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-04T01:34:34Z",
+          "referringUrls": 2,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/blog/ser-mas-ambicioso-con-la-ia-felix-rieseberg/": {
+      "cohort": "control",
+      "firstSeen": "2026-10-18",
+      "history": [
+        {
+          "date": "2026-10-18",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-10-16T09:00:19Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-16T09:00:19Z",
+          "referringUrls": 2,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2015/07/07/cuando-dejas-de-programar/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-09T16:26:59Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-07T22:16:48Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/08/31/la-web-20-y-la-comunicacion-en-las-empresas/": {
+      "cohort": "control",
+      "firstSeen": "2026-10-11",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-09-19T20:41:18Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-19T20:41:18Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/04/10/%C2%BFcuando-se-recuerda-un-nombre/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-01T02:44:36Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-09T19:25:51Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2008/02/27/%C2%BFcomo-es-el-mercado-japones/": {
+      "cohort": "control",
+      "firstSeen": "2026-10-11",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-09-07T08:47:31Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-13T11:43:41Z",
+          "referringUrls": 3,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2011/07/05/efecto-catedral-en-software/": {
+      "cohort": "control",
+      "firstSeen": "2026-10-18",
+      "history": [
+        {
+          "date": "2026-10-18",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-10-02T07:32:53Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-02T07:32:53Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2010/05/05/%C2%BFque-es-la-pereza-digital/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-09T08:51:43Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-16T11:43:36Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2025/03/10/agentes-de-voz-con-ia-analisis-completo-del-panorama-2025/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-01",
+      "history": [
+        {
+          "date": "2026-08-01",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-07-25T13:18:51Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-21T19:35:53Z",
+          "referringUrls": 3,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2007/03/31/imd-world-competitiveness-yearbook-2006/": {
+      "cohort": "control",
+      "firstSeen": "2026-09-26",
+      "history": [
+        {
+          "date": "2026-09-26",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-07-01T04:44:49Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-07-01T04:44:49Z",
+          "referringUrls": 3,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2011/12/14/elegir-el-nombre-del-software-las-palabras-clave-y-descripcion/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-09T10:05:16Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-10-16T15:54:22Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/04/04/crecimiento-de-una-empresa-de-software/": {
+      "cohort": "control",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-04-01T02:43:29Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-27T01:41:35Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2014/06/03/que-puede-aprender-el-software-de-cholo-simeone/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-08-10T02:24:51Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-11T05:43:35Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    },
+    "https://crearsoftware.com/2013/08/12/el-futuro-esta-en-el-desarrollo-de-software/": {
+      "cohort": "control",
+      "firstSeen": "2026-08-17",
+      "history": [
+        {
+          "date": "2026-08-17",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-06-24T12:16:14Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-08-20T17:18:04Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2014/02/02/para-quien-se-desarrolla-un-software/": {
+      "cohort": "control",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-02-19T05:27:27Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-29T05:47:48Z",
+          "referringUrls": 4,
+          "sitemaps": 1
+        }
+      ]
+    },
+    "https://crearsoftware.com/2015/12/27/software-abandono-y-nacimiento/": {
+      "cohort": "control",
+      "firstSeen": "2026-04-01",
+      "history": [
+        {
+          "date": "2026-04-01",
+          "source": "muestra",
+          "coverageState": "Enviada e indexada",
+          "lastCrawlTime": "2026-03-23T16:01:06Z"
+        },
+        {
+          "date": "2026-10-18",
+          "coverageState": "Enviada e indexada",
+          "verdict": "PASS",
+          "lastCrawlTime": "2026-09-22T20:35:53Z",
+          "referringUrls": 4,
+          "sitemaps": 0
+        }
+      ]
+    }
+  },
+  "experiments": {
+    "solicitar-indexacion-2026-10-18": {
+      "start": "2026-10-18",
+      "description": "Alfonso pide «Solicitar indexación» en Search Console para el grupo tratamiento; el control no se toca. Las 20 URLs seguían en «Rastreada: actualmente sin indexar» el 18-oct, sin re-rastreo desde la muestra; reparto al azar con semilla 20261018.",
+      "prediction": "Si la causa es que Google no vuelve a pasar, antes del 08-nov el tratamiento llega a 7 o más indexadas de 10 y el control se queda en 2 o menos. Si el tratamiento se queda en 3 o menos, re-rastrear no basta.",
+      "groups": {
+        "tratamiento": [
+          "https://crearsoftware.com/2007/05/25/la-sgae-y-su-canon/",
+          "https://crearsoftware.com/2008/02/14/conceptos-contables/",
+          "https://crearsoftware.com/2008/09/02/la-mejores-presentaciones-del-mundo/",
+          "https://crearsoftware.com/2008/10/02/%C2%BFpor-que-velneo-no-apoya-en-proyectos-finales/",
+          "https://crearsoftware.com/2009/01/07/%C2%BFcomo-gestionar-tu-dinero/",
+          "https://crearsoftware.com/2009/03/17/%C2%BFque-es-surchur/",
+          "https://crearsoftware.com/2009/03/18/10-predicciones-para-el-2009-idc-saas-paas/",
+          "https://crearsoftware.com/2010/05/17/%C2%BFcuales-son-las-previsiones-economicas-del-mundo/",
+          "https://crearsoftware.com/2011/08/30/bienvenido-a-la-realidad/",
+          "https://crearsoftware.com/2013/11/20/desarrollo-de-aplicaciones-empresariales/"
+        ],
+        "control": [
+          "https://crearsoftware.com/2007/06/05/171/",
+          "https://crearsoftware.com/2008/11/30/teletrabajo/",
+          "https://crearsoftware.com/2009/01/17/qt-anade-la-licencia-lgpl/",
+          "https://crearsoftware.com/2009/03/10/%C2%BFcomo-licencio-mi-software/",
+          "https://crearsoftware.com/2009/04/05/%C2%BFque-papel-juega-la-cultura-en-la-organizacion/",
+          "https://crearsoftware.com/2010/01/25/viaje-sin-vuelta/",
+          "https://crearsoftware.com/2015/04/29/el-software-la-persistencia-y-la-venta/",
+          "https://crearsoftware.com/2017/08/30/software-empresarial-soporte-y-mantenimiento/",
+          "https://crearsoftware.com/2024/12/27/modelos-o3-de-openai-la-ia-que-ya-supera-a-los-mejores-programadores-y-revoluciona-el-futuro-del-trabajo/",
+          "https://crearsoftware.com/2025/01/06/reflexiones-sobre-la-evolucion-de-openai-hacia-la-agi/"
+        ]
+      }
+    }
+  }
+}

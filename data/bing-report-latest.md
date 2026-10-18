@@ -1,21 +1,20 @@
 # Informe de Bing Webmaster Tools
 
-Fecha de generacion: 2026-10-17T16:15:37.401Z
+Fecha de generacion: 2026-10-18T09:39:55.035Z
 Propiedad: https://crearsoftware.com/
 Verificada: si
 
 ## Resumen
 
 - Clics: 62
-- Impresiones: 6250
-- CTR: 0.99%
-- Dias con datos: 73
+- Impresiones: 6452
+- CTR: 0.96%
+- Dias con datos: 74
 
 ## Trafico por dia
 
 | Fecha | Clics | Impresiones |
 | --- | --- | --- |
-| 2026-10-02 | 0 | 108 |
 | 2026-10-03 | 0 | 85 |
 | 2026-10-04 | 0 | 78 |
 | 2026-10-05 | 4 | 118 |
@@ -29,6 +28,7 @@ Verificada: si
 | 2026-10-13 | 3 | 231 |
 | 2026-10-14 | 0 | 266 |
 | 2026-10-15 | 3 | 261 |
+| 2026-10-16 | 0 | 202 |
 
 ## Top queries
 
@@ -45,14 +45,14 @@ Verificada: si
 | 2026-09-25 | datos de entrada (inputs) dame un ejemplo | 1 | 3 | 8 |
 | 2026-09-04 | 2011 "por qué el software se está comiendo el mundo" escrito | 1 | 2 | 8 |
 | 2026-09-11 | input y output ejemplos | 1 | 2 | 1 |
-| 2026-09-11 | entradas input definición en producción | 1 | 2 | 5 |
 | 2026-09-11 | orientaciones del desarrollo de software | 1 | 2 | 10 |
-| 2026-09-18 | relacion entre imput-prpcces-output | 1 | 2 | 1 |
+| 2026-09-11 | entradas input definición en producción | 1 | 2 | 5 |
 | 2026-09-18 | ejemplos de inputs de una empresa | 1 | 2 | 1 |
-| 2026-09-25 | entradas y salidas — input / output | 1 | 2 | 2 |
+| 2026-09-18 | relacion entre imput-prpcces-output | 1 | 2 | 1 |
 | 2026-09-25 | que es la cultura del poder segun roger harrinson | 1 | 2 | 3 |
-| 2026-10-02 | ejemplo de input y output | 1 | 2 | 1 |
+| 2026-09-25 | entradas y salidas — input / output | 1 | 2 | 2 |
 | 2026-10-02 | mcp signficado y desarollo web | 1 | 2 | 3 |
+| 2026-10-02 | ejemplo de input y output | 1 | 2 | 1 |
 | 2026-10-09 | ejemplos de input | 1 | 2 | 1 |
 
 ## Sitemaps
