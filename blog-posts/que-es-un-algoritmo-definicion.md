@@ -125,7 +125,7 @@ Una secuencia finita y ordenada de instrucciones no ambiguas que, a partir de un
 
 ### ¿Cuáles son los 4 tipos de algoritmos?
 
-Por su estructura: secuenciales (pasos uno tras otro), condicionales (se bifurcan según una condición), iterativos (repiten un bloque) y recursivos (se llaman a sí mismos sobre un problema menor). Casi todo algoritmo real combina los cuatro.
+Por su estructura: secuenciales (pasos uno tras otro), [condicionales](/blog/que-es-una-estructura-condicional/) (se bifurcan según una condición), iterativos (repiten un bloque con un [bucle](/blog/que-es-un-bucle-en-programacion/)) y recursivos (se llaman a sí mismos sobre un problema menor). Casi todo algoritmo real combina los cuatro.
 
 ### ¿Qué es el algoritmo en la inteligencia artificial?
 

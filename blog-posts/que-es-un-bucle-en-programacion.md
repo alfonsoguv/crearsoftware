@@ -27,7 +27,7 @@ En la teoría de la programación estructurada, el bucle es una de las **tres es
 | Estructura | Qué hace | Ejemplo |
 | --- | --- | --- |
 | **Secuencia** | Un paso detrás de otro | Leer un dato, calcular, escribir el resultado |
-| **Selección** (condicional) | Elige un camino según una condición | SI la nota ≥ 5 ENTONCES «aprobado» SINO «suspenso» |
+| **Selección** ([condicional](/blog/que-es-una-estructura-condicional/)) | Elige un camino según una condición | SI la nota ≥ 5 ENTONCES «aprobado» SINO «suspenso» |
 | **Repetición** (bucle) | Vuelve a ejecutar un bloque | MIENTRAS queden alumnos, leer su nota |
 
 La diferencia con la selección es la clave para no confundirlos: **un SI se ejecuta como mucho una vez; un bucle puede ejecutarse cero, una o muchas veces.** Los dos llevan una condición, pero el SI la evalúa para decidir por dónde seguir y el bucle la evalúa para decidir si vuelve atrás.

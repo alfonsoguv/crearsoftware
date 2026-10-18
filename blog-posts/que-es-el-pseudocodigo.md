@@ -32,7 +32,7 @@ Cualquier algoritmo, por complejo que sea, se puede escribir combinando solo tre
 | Estructura | Qué hace | Palabras habituales en español |
 | --- | --- | --- |
 | **Secuencia** | Un paso detrás de otro, en orden | (ninguna: una línea por paso) |
-| **Selección** | Elige un camino según una condición | SI … ENTONCES … SINO … FINSI · SEGÚN … HACER |
+| **Selección** | Elige un camino según una condición: es la [estructura condicional](/blog/que-es-una-estructura-condicional/) | SI … ENTONCES … SINO … FINSI · SEGÚN … HACER |
 | **Repetición** | Repite un bloque mientras se cumpla algo: es el [bucle](/blog/que-es-un-bucle-en-programacion/) | MIENTRAS … HACER · PARA … HASTA · REPETIR … HASTA QUE |
 
 A esas se añaden dos operaciones que no son estructuras, pero aparecen en todo pseudocódigo porque son el input y el output del algoritmo: **LEER** (entra un dato) y **ESCRIBIR** (sale un resultado). Y la **asignación**, que guarda un valor en una [variable](/blog/que-es-una-variable-en-programacion/) y se escribe con una flecha (`total ← 0`) o con un signo igual.
