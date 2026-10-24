@@ -5,6 +5,8 @@ date: "2026-10-04"
 dateModified: "2026-10-04"
 description: "Una variable es un espacio de memoria con nombre que guarda un valor que puede cambiar mientras se ejecuta el programa. Definición, sus tres partes, la asignación, los tipos de datos, el contador y el acumulador, ejemplos resueltos y los errores más frecuentes."
 category: "desarrollo-software"
+series: "fundamentos-de-programacion"
+seriesOrder: 4
 tags: ["variable", "programación", "pseudocódigo", "algoritmo", "conceptos básicos", "definiciones", "desarrollo de software"]
 readingTime: 10
 author: "Alfonso Gutiérrez"
@@ -137,7 +139,7 @@ b ← aux    (b vale 3)
 
 Una variable no existe en todo el programa necesariamente. Su **ámbito** es la parte del código desde la que se puede usar:
 
-- **Variable local**: se declara dentro de una función o de un bloque y solo existe ahí. Al terminar la función, desaparece.
+- **Variable local**: se declara dentro de una [función](/blog/que-es-una-funcion-en-programacion/) o de un bloque y solo existe ahí. Al terminar la función, desaparece.
 - **Variable global**: se declara fuera de todo y se puede usar desde cualquier parte del programa.
 
 La regla práctica es usar locales siempre que se pueda. Una global la puede cambiar cualquier línea del programa, y cuando tiene un valor que no debería, encontrar qué línea fue es mucho más difícil.

@@ -663,6 +663,69 @@ for (const post of posts) {
 }
 
 // ---------------------------------------------------------------------------
+// Series: artículos que se leen en orden (frontmatter `series` + `seriesOrder`)
+//
+// Las definiciones de fundamentos (algoritmo, diagrama de flujo, pseudocódigo…)
+// se enlazaban entre sí solo en la prosa de la introducción. Un agente que llega
+// a UNA de ellas —el caso de ChatGPT-User— no sabe que hay más ni en qué orden
+// van. La serie se declara en tres sitios: un índice numerado en el HTML y en el
+// gemelo .md de cada pieza, `isPartOf` + `position` en el JSON-LD, y una
+// sección propia en llms.txt.
+// ---------------------------------------------------------------------------
+const SERIES = {
+  'fundamentos-de-programacion': {
+    name: 'Fundamentos de programación',
+    description: 'Definiciones de los conceptos básicos de la programación, en el orden en que se aprenden: del algoritmo a la función.',
+  },
+};
+
+const seriesPosts = {};
+for (const post of posts) {
+  if (!post.series || post.noindex) continue;
+  if (!SERIES[post.series]) {
+    console.warn(`  [aviso] serie desconocida "${post.series}" en ${post.file}`);
+    continue;
+  }
+  (seriesPosts[post.series] ||= []).push(post);
+}
+for (const list of Object.values(seriesPosts)) {
+  list.sort((a, b) => (a.seriesOrder || 0) - (b.seriesOrder || 0));
+}
+
+function getSeriesContext(post) {
+  const list = post.series && seriesPosts[post.series];
+  if (!list) return null;
+  const index = list.indexOf(post);
+  if (index === -1) return null;
+  return { key: post.series, ...SERIES[post.series], posts: list, index };
+}
+
+function buildSeriesNavHtml(ctx) {
+  const items = ctx.posts.map((p, i) => i === ctx.index
+    ? `<li aria-current="page"><strong>${escapeHtml(p.title)}</strong></li>`
+    : `<li><a href="${getPostUrl(p)}">${escapeHtml(p.title)}</a></li>`)
+    .join('\n          ');
+  const next = ctx.posts[ctx.index + 1];
+  return `<nav class="series-nav" aria-label="Serie: ${escapeHtml(ctx.name)}">
+        <p class="series-nav-title">Serie «${escapeHtml(ctx.name)}» · ${ctx.index + 1} de ${ctx.posts.length}</p>
+        <ol>
+          ${items}
+        </ol>${next ? `
+        <p class="series-nav-next">Siguiente: <a href="${getPostUrl(next)}">${escapeHtml(next.title)}</a></p>` : ''}
+      </nav>`;
+}
+
+function buildSeriesNavMarkdown(ctx) {
+  const items = ctx.posts.map((p, i) => i === ctx.index
+    ? `${i + 1}. **${p.title}** (este artículo)`
+    : `${i + 1}. [${p.title}](${SITE_URL}${encodeUrlPath(getPostUrl(p))})`)
+    .join('\n');
+  return `## Serie «${ctx.name}» (${ctx.index + 1} de ${ctx.posts.length})
+
+${items}`;
+}
+
+// ---------------------------------------------------------------------------
 // Collect categories from posts
 // ---------------------------------------------------------------------------
 const categories = {};
@@ -906,6 +969,17 @@ for (const post of posts) {
 
   jsonLdObj.image = getAbsoluteImageUrl(post.resolvedImage);
 
+  const seriesCtx = getSeriesContext(post);
+  if (seriesCtx) {
+    jsonLdObj.isPartOf = {
+      "@type": "CreativeWorkSeries",
+      "@id": `${SITE_URL}/#serie-${seriesCtx.key}`,
+      "name": seriesCtx.name,
+      "description": seriesCtx.description,
+    };
+    jsonLdObj.position = seriesCtx.index + 1;
+  }
+
   const breadcrumbsJsonLd = buildBreadcrumbJsonLd([
     { name: 'Inicio', url: SITE_URL },
     ...(post.categoryLabel ? [{ name: post.categoryLabel, url: `${SITE_URL}/categoria/${categorySlug}/` }] : []),
@@ -936,6 +1010,7 @@ for (const post of posts) {
     authorBio: author.shortBio || author.bio || '',
     breadcrumbs: breadcrumbsHTML,
     relatedPosts: relatedHTML,
+    seriesNav: seriesCtx ? buildSeriesNavHtml(seriesCtx) : '',
     jsonLd: jsonLd,
     socialMeta: socialMeta,
     siteName: SITE_NAME,
@@ -1599,6 +1674,14 @@ if (glossaryTerms.length) {
 - [Glosario de ${SITE_NAME}](${GLOSSARY_URL}): ${glossaryTerms.length} conceptos definidos en una sola página, cada uno con ancla propia (${GLOSSARY_URL}#termino) y enlace al artículo que lo desarrolla.`);
 }
 
+for (const [key, list] of Object.entries(seriesPosts)) {
+  llmsSections.push(`## Serie: ${SERIES[key].name}
+
+${SERIES[key].description} Se leen en este orden:
+
+${list.map(post => llmsLine(post.title, getPostUrl(post), post.metaDescription)).join('\n')}`);
+}
+
 llmsSections.push(`## Guías pilar\n\n${guides
   .map(guide => llmsLine(
     guide.title,
@@ -1739,6 +1822,7 @@ function writeMarkdownTwin(url, markdown) {
 
 for (const post of indexablePosts) {
   const url = getPostUrl(post);
+  const seriesCtx = getSeriesContext(post);
   writeMarkdownTwin(url, buildMarkdownTwin({
     title: post.title,
     url,
@@ -1747,7 +1831,9 @@ for (const post of indexablePosts) {
     dateModified: post.dateModified,
     author: resolveAuthor(post).name,
     category: post.categoryLabel || '',
-    rawContent: post.rawContent,
+    rawContent: seriesCtx
+      ? `${post.rawContent.trim()}\n\n${buildSeriesNavMarkdown(seriesCtx)}`
+      : post.rawContent,
   }));
 }
 

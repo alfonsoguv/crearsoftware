@@ -5,6 +5,8 @@ date: "2026-09-26"
 dateModified: "2026-09-26"
 description: "Un diagrama de flujo es la representación gráfica de un algoritmo o un proceso mediante símbolos normalizados unidos por flechas que marcan el orden de ejecución. Qué significa cada símbolo, un ejemplo resuelto paso a paso, las reglas que no se pueden saltar y los errores más frecuentes."
 category: "desarrollo-software"
+series: "fundamentos-de-programacion"
+seriesOrder: 2
 tags: ["diagrama de flujo", "algoritmo", "programación", "conceptos básicos", "definiciones", "desarrollo de software"]
 readingTime: 9
 author: "Alfonso Gutiérrez"

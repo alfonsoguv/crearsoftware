@@ -5,6 +5,8 @@ date: "2026-09-27"
 dateModified: "2026-10-04"
 description: "El pseudocódigo es la descripción de un algoritmo en lenguaje natural estructurado: se lee como texto, pero se organiza como un programa. Definición, las tres estructuras de control, dos ejemplos resueltos, las reglas para escribirlo bien y en qué se diferencia de un diagrama de flujo y del código."
 category: "desarrollo-software"
+series: "fundamentos-de-programacion"
+seriesOrder: 3
 tags: ["pseudocódigo", "algoritmo", "programación", "conceptos básicos", "definiciones", "desarrollo de software"]
 readingTime: 9
 author: "Alfonso Gutiérrez"

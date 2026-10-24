@@ -5,6 +5,8 @@ date: "2026-08-30"
 dateModified: "2026-09-26"
 description: "Un algoritmo es una secuencia finita de pasos no ambiguos que, partiendo de unas entradas, produce un resultado. Definición, ejemplos cotidianos, las cinco propiedades que debe cumplir y la diferencia entre algoritmo, programa y software."
 category: "desarrollo-software"
+series: "fundamentos-de-programacion"
+seriesOrder: 1
 tags: ["algoritmo", "programación", "conceptos básicos", "definiciones", "desarrollo de software"]
 readingTime: 11
 author: "Alfonso Gutiérrez"

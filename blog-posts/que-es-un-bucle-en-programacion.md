@@ -5,6 +5,8 @@ date: "2026-10-11"
 dateModified: "2026-10-11"
 description: "Un bucle es una estructura de control que repite un bloque de instrucciones mientras se cumple una condición o un número fijo de veces. Definición, sus cuatro partes, los tres tipos (mientras, para y repetir), ejemplos en pseudocódigo y en código, bucles anidados y los errores más frecuentes."
 category: "desarrollo-software"
+series: "fundamentos-de-programacion"
+seriesOrder: 5
 tags: ["bucle", "programación", "pseudocódigo", "algoritmo", "estructuras de control", "conceptos básicos", "definiciones", "desarrollo de software"]
 readingTime: 11
 author: "Alfonso Gutiérrez"
@@ -175,7 +177,7 @@ Son útiles, pero un bucle con varios `break` repartidos por el cuerpo obliga a 
 
 ## Bucle y recursividad
 
-Hay otra forma de repetir: que una función se llame a sí misma, lo que se llama **recursividad**. Cualquier bucle se puede escribir como una función recursiva y viceversa, pero no son lo mismo en la práctica. El bucle repite reutilizando las mismas variables; la recursión crea una copia nueva de las variables en cada llamada, lo que consume memoria y tiene un límite. Para recorrer una lista o contar, el bucle es lo natural. La recursión brilla cuando el problema tiene forma de árbol: recorrer carpetas dentro de carpetas o un menú con submenús.
+Hay otra forma de repetir: que una [función](/blog/que-es-una-funcion-en-programacion/) se llame a sí misma, lo que se llama **recursividad**. Cualquier bucle se puede escribir como una función recursiva y viceversa, pero no son lo mismo en la práctica. El bucle repite reutilizando las mismas variables; la recursión crea una copia nueva de las variables en cada llamada, lo que consume memoria y tiene un límite. Para recorrer una lista o contar, el bucle es lo natural. La recursión brilla cuando el problema tiene forma de árbol: recorrer carpetas dentro de carpetas o un menú con submenús.
 
 ## Preguntas frecuentes
 

@@ -5,6 +5,8 @@ date: "2026-10-18"
 dateModified: "2026-10-18"
 description: "Una estructura condicional es una estructura de control que ejecuta un bloque de instrucciones u otro según se cumpla o no una condición. Definición, cómo se escribe la condición, los tres tipos (simple, doble y múltiple) en pseudocódigo y en código, condiciones anidadas y compuestas, y los errores más frecuentes."
 category: "desarrollo-software"
+series: "fundamentos-de-programacion"
+seriesOrder: 6
 tags: ["estructura condicional", "condicional", "programación", "pseudocódigo", "algoritmo", "estructuras de control", "conceptos básicos", "definiciones", "desarrollo de software"]
 readingTime: 11
 author: "Alfonso Gutiérrez"
