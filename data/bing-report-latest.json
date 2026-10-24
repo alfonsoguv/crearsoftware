@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-18T09:39:55.035Z",
+  "generatedAt": "2026-10-24T10:49:16.016Z",
   "siteUrl": "https://crearsoftware.com/",
   "verified": true,
   "totals": {
-    "clicks": 62,
-    "impressions": 6452,
+    "clicks": 70,
+    "impressions": 7328,
     "ctrPercent": 0.96
   },
-  "daysWithData": 74,
+  "daysWithData": 79,
   "traffic": [
     {
       "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
@@ -452,6 +452,36 @@
       "Clicks": 0,
       "Date": "/Date(1792108800000)/",
       "Impressions": 202
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 0,
+      "Date": "/Date(1792195200000)/",
+      "Impressions": 106
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 2,
+      "Date": "/Date(1792281600000)/",
+      "Impressions": 75
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 1,
+      "Date": "/Date(1792368000000)/",
+      "Impressions": 242
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 1,
+      "Date": "/Date(1792454400000)/",
+      "Impressions": 223
+    },
+    {
+      "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+      "Clicks": 4,
+      "Date": "/Date(1792540800000)/",
+      "Impressions": 230
     }
   ],
   "queries": [
@@ -593,20 +623,20 @@
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
       "AvgClickPosition": -1,
-      "AvgImpressionPosition": 3,
-      "Clicks": 1,
-      "Date": "/Date(1790294400000)/",
-      "Impressions": 2,
-      "Query": "que es la cultura del poder segun roger harrinson"
-    },
-    {
-      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
-      "AvgClickPosition": -1,
       "AvgImpressionPosition": 2,
       "Clicks": 1,
       "Date": "/Date(1790294400000)/",
       "Impressions": 2,
       "Query": "entradas y salidas — input / output"
+    },
+    {
+      "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
+      "AvgClickPosition": -1,
+      "AvgImpressionPosition": 3,
+      "Clicks": 1,
+      "Date": "/Date(1790294400000)/",
+      "Impressions": 2,
+      "Query": "que es la cultura del poder segun roger harrinson"
     },
     {
       "__type": "QueryStats:#Microsoft.Bing.Webmaster.Api",
@@ -641,12 +671,12 @@
       "__type": "Feed:#Microsoft.Bing.Webmaster.Api",
       "Compressed": false,
       "FileSize": 0,
-      "LastCrawled": "/Date(1792100431000)/",
+      "LastCrawled": "/Date(1792669217000)/",
       "Status": "Success",
       "Submitted": "/Date(1785767092344)/",
       "Type": "Sitemap",
       "Url": "https://crearsoftware.com/sitemap.xml",
-      "UrlCount": 715
+      "UrlCount": 717
     }
   ]
 }

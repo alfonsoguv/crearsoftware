@@ -1,0 +1,466 @@
+{
+  "ok": true,
+  "days": 28,
+  "generatedAt": "2026-10-24T10:38:29.847Z",
+  "totalHits": 6582,
+  "totals": {
+    "Amazonbot": 1060,
+    "Bingbot": 1005,
+    "ChatGPT-User": 248,
+    "Googlebot": 878,
+    "OAI-SearchBot": 126,
+    "PerplexityBot": 144,
+    "ClaudeBot": 534,
+    "Meta-ExternalAgent": 1202,
+    "Claude-User": 26,
+    "GPTBot": 1314,
+    "CCBot": 45
+  },
+  "daily": {
+    "2026-10-24": {
+      "Amazonbot": 37,
+      "Bingbot": 15,
+      "ChatGPT-User": 2,
+      "Googlebot": 8,
+      "OAI-SearchBot": 2,
+      "PerplexityBot": 1,
+      "ClaudeBot": 2
+    },
+    "2026-10-23": {
+      "Amazonbot": 52,
+      "Bingbot": 28,
+      "Googlebot": 25,
+      "OAI-SearchBot": 12,
+      "ClaudeBot": 34,
+      "PerplexityBot": 6,
+      "ChatGPT-User": 3
+    },
+    "2026-10-22": {
+      "Bingbot": 30,
+      "ChatGPT-User": 3,
+      "PerplexityBot": 2,
+      "Googlebot": 34,
+      "ClaudeBot": 5,
+      "OAI-SearchBot": 5,
+      "Amazonbot": 23,
+      "Meta-ExternalAgent": 2
+    },
+    "2026-10-21": {
+      "Amazonbot": 38,
+      "Bingbot": 43,
+      "Claude-User": 2,
+      "Googlebot": 29,
+      "PerplexityBot": 3,
+      "ClaudeBot": 4,
+      "ChatGPT-User": 5,
+      "Meta-ExternalAgent": 4,
+      "OAI-SearchBot": 1
+    },
+    "2026-10-20": {
+      "Amazonbot": 28,
+      "Bingbot": 55,
+      "Googlebot": 60,
+      "ChatGPT-User": 8,
+      "ClaudeBot": 9,
+      "GPTBot": 1,
+      "PerplexityBot": 12,
+      "Meta-ExternalAgent": 3,
+      "Claude-User": 1
+    },
+    "2026-10-19": {
+      "Bingbot": 48,
+      "ClaudeBot": 4,
+      "Googlebot": 34,
+      "ChatGPT-User": 9,
+      "Amazonbot": 23,
+      "PerplexityBot": 5,
+      "OAI-SearchBot": 3,
+      "Claude-User": 1
+    },
+    "2026-10-18": {
+      "Amazonbot": 55,
+      "Bingbot": 36,
+      "Googlebot": 31,
+      "Meta-ExternalAgent": 4,
+      "Claude-User": 1,
+      "OAI-SearchBot": 9,
+      "PerplexityBot": 5,
+      "ChatGPT-User": 4,
+      "ClaudeBot": 1
+    },
+    "2026-10-17": {
+      "Amazonbot": 104,
+      "Bingbot": 28,
+      "PerplexityBot": 4,
+      "Googlebot": 9,
+      "OAI-SearchBot": 2,
+      "ClaudeBot": 5,
+      "ChatGPT-User": 5,
+      "Meta-ExternalAgent": 1,
+      "Claude-User": 1
+    },
+    "2026-10-16": {
+      "Bingbot": 25,
+      "Googlebot": 37,
+      "Amazonbot": 46,
+      "ClaudeBot": 16,
+      "PerplexityBot": 7,
+      "Meta-ExternalAgent": 2,
+      "OAI-SearchBot": 7,
+      "ChatGPT-User": 8,
+      "Claude-User": 1
+    },
+    "2026-10-15": {
+      "Amazonbot": 15,
+      "Claude-User": 1,
+      "Googlebot": 35,
+      "PerplexityBot": 8,
+      "Bingbot": 35,
+      "OAI-SearchBot": 2,
+      "ClaudeBot": 106,
+      "ChatGPT-User": 4
+    },
+    "2026-10-14": {
+      "Amazonbot": 19,
+      "Bingbot": 37,
+      "Googlebot": 29,
+      "PerplexityBot": 9,
+      "ChatGPT-User": 12,
+      "Claude-User": 1,
+      "Meta-ExternalAgent": 1,
+      "OAI-SearchBot": 4,
+      "ClaudeBot": 2
+    },
+    "2026-10-13": {
+      "Bingbot": 44,
+      "Googlebot": 23,
+      "ChatGPT-User": 11,
+      "PerplexityBot": 6,
+      "OAI-SearchBot": 3,
+      "Amazonbot": 33,
+      "GPTBot": 1,
+      "Claude-User": 1,
+      "ClaudeBot": 1
+    },
+    "2026-10-12": {
+      "Bingbot": 45,
+      "ChatGPT-User": 15,
+      "Claude-User": 2,
+      "Googlebot": 37,
+      "ClaudeBot": 3,
+      "Amazonbot": 30,
+      "PerplexityBot": 7,
+      "OAI-SearchBot": 9,
+      "Meta-ExternalAgent": 19
+    },
+    "2026-10-11": {
+      "Amazonbot": 29,
+      "Bingbot": 33,
+      "Googlebot": 15,
+      "ChatGPT-User": 14,
+      "ClaudeBot": 7,
+      "PerplexityBot": 7,
+      "OAI-SearchBot": 6
+    },
+    "2026-10-10": {
+      "Bingbot": 32,
+      "Googlebot": 30,
+      "Amazonbot": 52,
+      "ClaudeBot": 288,
+      "OAI-SearchBot": 3,
+      "ChatGPT-User": 4,
+      "Meta-ExternalAgent": 16,
+      "PerplexityBot": 2
+    },
+    "2026-10-09": {
+      "Amazonbot": 38,
+      "Bingbot": 40,
+      "PerplexityBot": 4,
+      "Googlebot": 34,
+      "ChatGPT-User": 7,
+      "OAI-SearchBot": 5,
+      "Claude-User": 2,
+      "GPTBot": 3,
+      "ClaudeBot": 1
+    },
+    "2026-10-08": {
+      "Amazonbot": 53,
+      "Bingbot": 32,
+      "ChatGPT-User": 9,
+      "Claude-User": 1,
+      "Googlebot": 23,
+      "PerplexityBot": 4,
+      "CCBot": 32,
+      "OAI-SearchBot": 3,
+      "ClaudeBot": 3
+    },
+    "2026-10-07": {
+      "Amazonbot": 37,
+      "Bingbot": 28,
+      "ChatGPT-User": 12,
+      "Meta-ExternalAgent": 2,
+      "ClaudeBot": 3,
+      "Googlebot": 29,
+      "PerplexityBot": 5,
+      "OAI-SearchBot": 3,
+      "Claude-User": 2,
+      "CCBot": 1
+    },
+    "2026-10-06": {
+      "Bingbot": 31,
+      "Googlebot": 16,
+      "Meta-ExternalAgent": 34,
+      "Amazonbot": 37,
+      "ChatGPT-User": 12,
+      "GPTBot": 1,
+      "OAI-SearchBot": 8,
+      "PerplexityBot": 3
+    },
+    "2026-10-05": {
+      "Bingbot": 37,
+      "Googlebot": 22,
+      "Meta-ExternalAgent": 32,
+      "Claude-User": 4,
+      "ChatGPT-User": 12,
+      "Amazonbot": 29,
+      "GPTBot": 2,
+      "PerplexityBot": 8,
+      "ClaudeBot": 1
+    },
+    "2026-10-04": {
+      "Amazonbot": 24,
+      "Bingbot": 35,
+      "ChatGPT-User": 11,
+      "Googlebot": 49,
+      "Meta-ExternalAgent": 10,
+      "ClaudeBot": 8,
+      "PerplexityBot": 2
+    },
+    "2026-10-03": {
+      "ChatGPT-User": 6,
+      "Googlebot": 42,
+      "Amazonbot": 53,
+      "PerplexityBot": 6,
+      "Bingbot": 29,
+      "OAI-SearchBot": 4,
+      "Claude-User": 3,
+      "GPTBot": 1,
+      "CCBot": 12,
+      "ClaudeBot": 5,
+      "Meta-ExternalAgent": 3
+    },
+    "2026-10-02": {
+      "Amazonbot": 34,
+      "Bingbot": 32,
+      "ChatGPT-User": 8,
+      "ClaudeBot": 5,
+      "Googlebot": 40,
+      "PerplexityBot": 3,
+      "GPTBot": 1302,
+      "OAI-SearchBot": 7,
+      "Meta-ExternalAgent": 10
+    },
+    "2026-10-01": {
+      "Amazonbot": 49,
+      "Bingbot": 36,
+      "ChatGPT-User": 10,
+      "Googlebot": 46,
+      "PerplexityBot": 4,
+      "OAI-SearchBot": 2,
+      "Meta-ExternalAgent": 2,
+      "GPTBot": 1,
+      "ClaudeBot": 4
+    },
+    "2026-09-30": {
+      "Amazonbot": 34,
+      "Bingbot": 42,
+      "Googlebot": 43,
+      "Meta-ExternalAgent": 1053,
+      "OAI-SearchBot": 11,
+      "PerplexityBot": 7,
+      "ChatGPT-User": 15,
+      "ClaudeBot": 2
+    },
+    "2026-09-29": {
+      "Bingbot": 46,
+      "Googlebot": 29,
+      "ChatGPT-User": 9,
+      "Amazonbot": 37,
+      "OAI-SearchBot": 9,
+      "GPTBot": 1,
+      "Meta-ExternalAgent": 1,
+      "PerplexityBot": 5,
+      "ClaudeBot": 1,
+      "Claude-User": 1
+    },
+    "2026-09-28": {
+      "ClaudeBot": 5,
+      "Googlebot": 34,
+      "Bingbot": 37,
+      "ChatGPT-User": 13,
+      "Amazonbot": 26,
+      "Meta-ExternalAgent": 3,
+      "PerplexityBot": 8,
+      "OAI-SearchBot": 6,
+      "Claude-User": 1
+    },
+    "2026-09-27": {
+      "Amazonbot": 25,
+      "Googlebot": 35,
+      "Bingbot": 46,
+      "ChatGPT-User": 17,
+      "ClaudeBot": 9,
+      "GPTBot": 1,
+      "PerplexityBot": 1
+    }
+  },
+  "topPaths": [
+    {
+      "path": "/",
+      "hits": 475
+    },
+    {
+      "path": "/blog/",
+      "hits": 180
+    },
+    {
+      "path": "/blog/que-es-un-algoritmo-definicion/",
+      "hits": 48
+    },
+    {
+      "path": "/2007/06/23/ejemplos-de-input-output-y-actividades/",
+      "hits": 46
+    },
+    {
+      "path": "/blog/que-es-un-diagrama-de-flujo/",
+      "hits": 46
+    },
+    {
+      "path": "/2008/03/12/%C2%BFque-es-un-producto/",
+      "hits": 44
+    },
+    {
+      "path": "/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
+      "hits": 34
+    },
+    {
+      "path": "/blog/la-fabricacion-vibe-ya-esta-aqui/",
+      "hits": 33
+    },
+    {
+      "path": "/blog/agentes-en-la-economia-patrick-collison/",
+      "hits": 30
+    },
+    {
+      "path": "/2009/03/22/la-venta-personal-en-internet-saas-paas/",
+      "hits": 30
+    },
+    {
+      "path": "/guia/guia-agentes-ia-empresas/",
+      "hits": 29
+    },
+    {
+      "path": "/blog/que-es-un-servicio-nativo-de-ia/",
+      "hits": 28
+    },
+    {
+      "path": "/blog/que-es-el-pseudocodigo/",
+      "hits": 26
+    },
+    {
+      "path": "/blog/que-es-un-forward-deployed-engineer/",
+      "hits": 26
+    },
+    {
+      "path": "/blog/ser-mas-ambicioso-con-la-ia-felix-rieseberg/",
+      "hits": 24
+    },
+    {
+      "path": "/categoria/desarrollo-software/",
+      "hits": 23
+    },
+    {
+      "path": "/blog/que-es-una-variable-en-programacion/",
+      "hits": 22
+    },
+    {
+      "path": "/blog/embudo-capacidad-llm-andrej-karpathy/",
+      "hits": 18
+    },
+    {
+      "path": "/guia/guia-desarrollo-software-moderno/",
+      "hits": 18
+    },
+    {
+      "path": "/blog/que-es-un-bucle-en-programacion/",
+      "hits": 17
+    },
+    {
+      "path": "/llms.txt",
+      "hits": 17
+    },
+    {
+      "path": "/2012/04/04/como-crear-programas/",
+      "hits": 17
+    },
+    {
+      "path": "/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/",
+      "hits": 17
+    },
+    {
+      "path": "/blog/arquitectura-de-confianza-superinteligencia-satya-nadella/",
+      "hits": 16
+    },
+    {
+      "path": "/2015/05/18/historia-del-crm/",
+      "hits": 15
+    }
+  ],
+  "formats": {
+    "Amazonbot": {
+      "html": 1044,
+      "llms": 1,
+      "md": 15
+    },
+    "Bingbot": {
+      "html": 864,
+      "md": 140,
+      "llms": 1
+    },
+    "ChatGPT-User": {
+      "html": 248
+    },
+    "Googlebot": {
+      "html": 866,
+      "llms": 12
+    },
+    "OAI-SearchBot": {
+      "html": 97,
+      "md": 29
+    },
+    "PerplexityBot": {
+      "html": 144
+    },
+    "ClaudeBot": {
+      "html": 524,
+      "md": 10
+    },
+    "Meta-ExternalAgent": {
+      "md": 490,
+      "html": 710,
+      "llms": 2
+    },
+    "Claude-User": {
+      "html": 26
+    },
+    "GPTBot": {
+      "html": 747,
+      "md": 567
+    },
+    "CCBot": {
+      "html": 31,
+      "md": 13,
+      "llms": 1
+    }
+  }
+}

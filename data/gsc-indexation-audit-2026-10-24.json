@@ -1,0 +1,474 @@
+{
+  "generatedAt": "2026-10-24T10:41:58.511Z",
+  "siteUrl": "sc-domain:crearsoftware.com",
+  "requestedSiteUrl": "sc-domain:crearsoftware.com",
+  "usedFallbackProperty": false,
+  "sampling": {
+    "method": "systematic-rotating",
+    "sitemapSize": 717,
+    "start": 575,
+    "nextStart": 600,
+    "run": 13,
+    "cumulativeCoverage": 447
+  },
+  "indexedRatePercent": 68,
+  "indexedRateCI95": [
+    48.4,
+    82.8
+  ],
+  "inspectedUrlCount": 25,
+  "indexedCount": 17,
+  "notIndexedCount": 8,
+  "errorCount": 0,
+  "byCoverageState": {
+    "Google no reconoce esta URL": 5,
+    "Descubierta: actualmente sin indexar": 2,
+    "Rastreada: actualmente sin indexar": 1
+  },
+  "indexed": [
+    {
+      "url": "https://crearsoftware.com/2007/10/02/open-source-vs-software-propietario/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2007/10/02/open-source-vs-software-propietario/",
+      "userCanonical": "https://crearsoftware.com/2007/10/02/open-source-vs-software-propietario/",
+      "lastCrawlTime": "2026-10-03T20:55:44Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://alfonsogu.com/2007/10/02/open-source-vs-software-propietario/",
+        "http://crearsoftware.com/2007/10/02/open-source-vs-software-propietario/",
+        "https://crearsoftware.com/2007/10/06/publicidadopen-source-licencias/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2007/07/15/elementos-del-blog/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2007/07/15/elementos-del-blog/",
+      "userCanonical": "https://crearsoftware.com/2007/07/15/elementos-del-blog/",
+      "lastCrawlTime": "2026-10-03T20:05:36Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/2007/07/16/caracteristicas-de-un-blog/",
+        "https://alfonsogu.com/2007/07/15/elementos-del-blog/",
+        "https://alfonsogu.com/2007/07/15/cursos-en-la-uoc/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2007/04/02/el-poder-del-fracaso/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2007/04/02/el-poder-del-fracaso/",
+      "userCanonical": "https://crearsoftware.com/2007/04/02/el-poder-del-fracaso/",
+      "lastCrawlTime": "2026-10-05T06:49:49Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://wp.me/p3FOR-H",
+        "http://alfonsogu.com/2007/04/02/el-poder-del-fracaso/",
+        "https://crearsoftware.com/2007/04/03/inversion-privada-publica-y-formacion/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/blog/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/blog/",
+      "userCanonical": "https://crearsoftware.com/blog/",
+      "lastCrawlTime": "2026-10-20T10:15:24Z",
+      "referringUrls": [
+        "https://crearsoftware.com/2012/07/12/aplicaciones-vs-webs/",
+        "https://crearsoftware.com/blog/que-es-un-forward-deployed-engineer/",
+        "https://crearsoftware.com/blog/?query-0-page=30&cst",
+        "https://crearsoftware.com/sitemap.xml"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
+      "userCanonical": "https://crearsoftware.com/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
+      "lastCrawlTime": "2026-10-09T20:16:42Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/author/alfonsogu/feed/",
+        "https://crearsoftware.com/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2020/12/24/del-dogfooding-a-probar-tus-recetas/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2020/12/24/del-dogfooding-a-probar-tus-recetas/",
+      "userCanonical": "https://crearsoftware.com/2020/12/24/del-dogfooding-a-probar-tus-recetas/",
+      "lastCrawlTime": "2026-10-14T23:18:23Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/feed/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2014/03/26/crear-software-online/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2014/03/26/crear-software-online/",
+      "userCanonical": "https://crearsoftware.com/2014/03/26/crear-software-online/",
+      "lastCrawlTime": "2026-10-23T19:45:40Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://wp.me/p3FOR-1LT",
+        "https://crearsoftware.com/2014/03/20/crear-software-para-empresas/",
+        "https://crearsoftware.com/tag/empresas-de-software/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2012/06/22/que-es-un-crm/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2012/06/22/que-es-un-crm/",
+      "userCanonical": "https://crearsoftware.com/2012/06/22/que-es-un-crm/",
+      "lastCrawlTime": "2026-09-30T12:37:47Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://alfonsogu.com/2012/06/22/que-es-un-crm/",
+        "https://crearsoftware.com/2012/06/18/que-son-las-apps/",
+        "https://crearsoftware.com/tag/proveedores-crm/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2011/09/08/el-secreto-del-exito-de-las-empresas-de-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2011/09/08/el-secreto-del-exito-de-las-empresas-de-software/",
+      "userCanonical": "https://crearsoftware.com/2011/09/08/el-secreto-del-exito-de-las-empresas-de-software/",
+      "lastCrawlTime": "2026-10-20T01:06:41Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://alfonsogu.com/2011/09/08/el-secreto-del-exito-de-las-empresas-de-software/",
+        "https://crearsoftware.com/2011/09/08/el-secreto-del-exito-de-las-empresas-de-software/",
+        "https://crearsoftware.com/2011/09/13/%C2%BFque-es-el-diseno-de-software-empresarial/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2009/11/03/%C2%BFcual-es-la-vision-de-google/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2009/11/03/%C2%BFcual-es-la-vision-de-google/",
+      "userCanonical": "https://crearsoftware.com/2009/11/03/%C2%BFcual-es-la-vision-de-google/",
+      "lastCrawlTime": "2026-08-29T19:32:32Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://wp.me/p3FOR-Cq",
+        "https://crearsoftware.com/2009/11/05/%C2%BFcomo-nos-comunicamos-2/",
+        "https://crearsoftware.com/tag/vision/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2009/06/28/%C2%BFque-tengo-que-ensenar-en-una-demo-de-software/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2009/06/28/%C2%BFque-tengo-que-ensenar-en-una-demo-de-software/",
+      "userCanonical": "https://crearsoftware.com/2009/06/28/%C2%BFque-tengo-que-ensenar-en-una-demo-de-software/",
+      "lastCrawlTime": "2026-10-20T10:56:54Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://alfonsogu.com/2009/06/28/%C2%BFque-tengo-que-ensenar-en-una-demo-de-software/trackback/",
+        "http://crearsoftware.com/2009/06/28/%C2%BFque-tengo-que-ensenar-en-una-demo-de-software/trackback/",
+        "https://crearsoftware.com/tag/demo/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2009/03/22/la-venta-personal-en-internet-saas-paas/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2009/03/22/la-venta-personal-en-internet-saas-paas/",
+      "userCanonical": "https://crearsoftware.com/2009/03/22/la-venta-personal-en-internet-saas-paas/",
+      "lastCrawlTime": "2026-10-12T12:55:06Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://wp.me/p3FOR-p1",
+        "http://crearsoftware.com/2009/03/22/la-venta-personal-en-internet-saas-paas/",
+        "https://crearsoftware.com/2009/03/21/introduccion-al-saas/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2009/02/02/la-preventa/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2009/02/02/la-preventa/",
+      "userCanonical": "https://crearsoftware.com/2009/02/02/la-preventa/",
+      "lastCrawlTime": "2026-09-29T19:40:21Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/2009/02/02/la-preventa/feed/",
+        "https://alfonsogu.com/2009/02/02/tmd/",
+        "https://crearsoftware.com/tag/soft/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2008/11/10/%C2%BFcomo-nos-comunicamos/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2008/11/10/%C2%BFcomo-nos-comunicamos/",
+      "userCanonical": "https://crearsoftware.com/2008/11/10/%C2%BFcomo-nos-comunicamos/",
+      "lastCrawlTime": "2026-08-04T22:03:10Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://alfonsogu.com/2008/11/10/%C2%BFcomo-nos-comunicamos/",
+        "https://alfonsogu.com/2008/11/10/%C2%BFcomo-nos-comunicamos/"
+      ],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2008/07/23/%C2%BFque-es-knol-knowledge/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2008/07/23/%C2%BFque-es-knol-knowledge/",
+      "userCanonical": "https://crearsoftware.com/2008/07/23/%C2%BFque-es-knol-knowledge/",
+      "lastCrawlTime": "2026-09-19T00:04:12Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/2008/07/24/ciclo-de-adopcion-tecnologica-4%C2%BA-parte/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2008/03/31/historia-de-oracle/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2008/03/31/historia-de-oracle/",
+      "userCanonical": "https://crearsoftware.com/2008/03/31/historia-de-oracle/",
+      "lastCrawlTime": "2026-10-03T03:22:19Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://wp.me/p3FOR-8J",
+        "http://crearsoftware.com/2008/03/31/historia-de-oracle/",
+        "https://crearsoftware.com/tag/bill-gates/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2007/11/28/estoy-vivo/",
+      "verdict": "PASS",
+      "coverageState": "Enviada e indexada",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2007/11/28/estoy-vivo/",
+      "userCanonical": "https://crearsoftware.com/2007/11/28/estoy-vivo/",
+      "lastCrawlTime": "2026-08-29T21:13:04Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/2007/",
+        "https://crearsoftware.com/2007/11/28/cancion-en-velneo/",
+        "https://crearsoftware.com/2007/11/13/instrucciones-para-una-vida/"
+      ],
+      "sitemaps": []
+    }
+  ],
+  "notIndexed": [
+    {
+      "url": "https://crearsoftware.com/2007/06/07/esa-droga-llamada-internet/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2007/05/07/problemas-innovacion-en-espana/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2013/02/23/usuario-software/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Descubierta: actualmente sin indexar",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/page/41/?query-0-page=11&cst",
+        "https://crearsoftware.com/2013/02/21/porque-el-software-se-esta-comiendo-el-mundo/",
+        "https://crearsoftware.com/tag/programadores/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2011/01/31/open-apps-2011/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2010/09/28/%C2%BFque-hay-que-saber-para-invertir-en-china/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Descubierta: actualmente sin indexar",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "https://crearsoftware.com/page/21/?query-0-page=26&cst&refsite=www.n1ads.com&ref=alexa-traffic-rank",
+        "https://crearsoftware.com/2010/09/30/grandes-frases-de-programadores-3/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2010/04/19/5-pasos-para-conseguir-cambiar-habitos/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Rastreada: actualmente sin indexar",
+      "indexingState": "INDEXING_ALLOWED",
+      "pageFetchState": "SUCCESSFUL",
+      "robotsTxtState": "ALLOWED",
+      "googleCanonical": "https://crearsoftware.com/2010/04/19/5-pasos-para-conseguir-cambiar-habitos/",
+      "userCanonical": "https://crearsoftware.com/2010/04/19/5-pasos-para-conseguir-cambiar-habitos/",
+      "lastCrawlTime": "2026-08-24T02:38:44Z",
+      "referringUrls": [
+        "https://crearsoftware.com/blog/",
+        "http://alfonsogu.com/2010/04/19/5-pasos-para-conseguir-cambiar-habitos/",
+        "https://crearsoftware.com/2010/04/07/fracaso-todos-lo-dias/"
+      ],
+      "sitemaps": [
+        "https://crearsoftware.com/sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://crearsoftware.com/2008/05/22/%C2%BFsomos-felices/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    },
+    {
+      "url": "https://crearsoftware.com/2008/01/31/google-docs/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Google no reconoce esta URL",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "lastCrawlTime": null,
+      "referringUrls": [],
+      "sitemaps": []
+    }
+  ],
+  "errors": []
+}

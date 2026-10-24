@@ -1,31 +1,92 @@
 {
   "ok": true,
   "days": 28,
-  "generatedAt": "2026-10-18T09:39:49.902Z",
-  "totalHits": 5804,
+  "generatedAt": "2026-10-24T10:38:29.847Z",
+  "totalHits": 6582,
   "totals": {
-    "Amazonbot": 853,
-    "Bingbot": 779,
-    "Googlebot": 684,
-    "Meta-ExternalAgent": 1193,
-    "Claude-User": 23,
-    "OAI-SearchBot": 98,
-    "PerplexityBot": 113,
-    "ChatGPT-User": 224,
-    "ClaudeBot": 478,
+    "Amazonbot": 1060,
+    "Bingbot": 1005,
+    "ChatGPT-User": 248,
+    "Googlebot": 878,
+    "OAI-SearchBot": 126,
+    "PerplexityBot": 144,
+    "ClaudeBot": 534,
+    "Meta-ExternalAgent": 1202,
+    "Claude-User": 26,
     "GPTBot": 1314,
     "CCBot": 45
   },
   "daily": {
-    "2026-10-18": {
-      "Amazonbot": 28,
-      "Bingbot": 9,
-      "Googlebot": 11,
-      "Meta-ExternalAgent": 1,
-      "Claude-User": 1,
-      "OAI-SearchBot": 4,
+    "2026-10-24": {
+      "Amazonbot": 37,
+      "Bingbot": 15,
+      "ChatGPT-User": 2,
+      "Googlebot": 8,
+      "OAI-SearchBot": 2,
       "PerplexityBot": 1,
-      "ChatGPT-User": 2
+      "ClaudeBot": 2
+    },
+    "2026-10-23": {
+      "Amazonbot": 52,
+      "Bingbot": 28,
+      "Googlebot": 25,
+      "OAI-SearchBot": 12,
+      "ClaudeBot": 34,
+      "PerplexityBot": 6,
+      "ChatGPT-User": 3
+    },
+    "2026-10-22": {
+      "Bingbot": 30,
+      "ChatGPT-User": 3,
+      "PerplexityBot": 2,
+      "Googlebot": 34,
+      "ClaudeBot": 5,
+      "OAI-SearchBot": 5,
+      "Amazonbot": 23,
+      "Meta-ExternalAgent": 2
+    },
+    "2026-10-21": {
+      "Amazonbot": 38,
+      "Bingbot": 43,
+      "Claude-User": 2,
+      "Googlebot": 29,
+      "PerplexityBot": 3,
+      "ClaudeBot": 4,
+      "ChatGPT-User": 5,
+      "Meta-ExternalAgent": 4,
+      "OAI-SearchBot": 1
+    },
+    "2026-10-20": {
+      "Amazonbot": 28,
+      "Bingbot": 55,
+      "Googlebot": 60,
+      "ChatGPT-User": 8,
+      "ClaudeBot": 9,
+      "GPTBot": 1,
+      "PerplexityBot": 12,
+      "Meta-ExternalAgent": 3,
+      "Claude-User": 1
+    },
+    "2026-10-19": {
+      "Bingbot": 48,
+      "ClaudeBot": 4,
+      "Googlebot": 34,
+      "ChatGPT-User": 9,
+      "Amazonbot": 23,
+      "PerplexityBot": 5,
+      "OAI-SearchBot": 3,
+      "Claude-User": 1
+    },
+    "2026-10-18": {
+      "Amazonbot": 55,
+      "Bingbot": 36,
+      "Googlebot": 31,
+      "Meta-ExternalAgent": 4,
+      "Claude-User": 1,
+      "OAI-SearchBot": 9,
+      "PerplexityBot": 5,
+      "ChatGPT-User": 4,
+      "ClaudeBot": 1
     },
     "2026-10-17": {
       "Amazonbot": 104,
@@ -251,156 +312,146 @@
       "ClaudeBot": 9,
       "GPTBot": 1,
       "PerplexityBot": 1
-    },
-    "2026-09-26": {
-      "Amazonbot": 21,
-      "Bingbot": 20,
-      "Claude-User": 1,
-      "ClaudeBot": 3,
-      "Googlebot": 16,
-      "ChatGPT-User": 8,
-      "GPTBot": 1,
-      "Meta-ExternalAgent": 3,
-      "PerplexityBot": 2
     }
   },
   "topPaths": [
     {
       "path": "/",
-      "hits": 386
+      "hits": 475
     },
     {
       "path": "/blog/",
-      "hits": 140
+      "hits": 180
     },
     {
       "path": "/blog/que-es-un-algoritmo-definicion/",
-      "hits": 38
-    },
-    {
-      "path": "/blog/que-es-un-diagrama-de-flujo/",
-      "hits": 38
-    },
-    {
-      "path": "/2008/03/12/%C2%BFque-es-un-producto/",
-      "hits": 37
+      "hits": 48
     },
     {
       "path": "/2007/06/23/ejemplos-de-input-output-y-actividades/",
-      "hits": 37
+      "hits": 46
     },
     {
-      "path": "/blog/la-fabricacion-vibe-ya-esta-aqui/",
-      "hits": 31
+      "path": "/blog/que-es-un-diagrama-de-flujo/",
+      "hits": 46
+    },
+    {
+      "path": "/2008/03/12/%C2%BFque-es-un-producto/",
+      "hits": 44
     },
     {
       "path": "/2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/",
-      "hits": 30
+      "hits": 34
     },
     {
-      "path": "/blog/que-es-un-servicio-nativo-de-ia/",
-      "hits": 26
-    },
-    {
-      "path": "/guia/guia-agentes-ia-empresas/",
-      "hits": 26
-    },
-    {
-      "path": "/2009/03/22/la-venta-personal-en-internet-saas-paas/",
-      "hits": 25
+      "path": "/blog/la-fabricacion-vibe-ya-esta-aqui/",
+      "hits": 33
     },
     {
       "path": "/blog/agentes-en-la-economia-patrick-collison/",
-      "hits": 21
+      "hits": 30
     },
     {
-      "path": "/blog/que-es-un-forward-deployed-engineer/",
-      "hits": 19
+      "path": "/2009/03/22/la-venta-personal-en-internet-saas-paas/",
+      "hits": 30
+    },
+    {
+      "path": "/guia/guia-agentes-ia-empresas/",
+      "hits": 29
+    },
+    {
+      "path": "/blog/que-es-un-servicio-nativo-de-ia/",
+      "hits": 28
     },
     {
       "path": "/blog/que-es-el-pseudocodigo/",
-      "hits": 19
+      "hits": 26
     },
     {
-      "path": "/blog/que-es-una-variable-en-programacion/",
-      "hits": 18
-    },
-    {
-      "path": "/categoria/desarrollo-software/",
-      "hits": 16
-    },
-    {
-      "path": "/guia/guia-desarrollo-software-moderno/",
-      "hits": 16
-    },
-    {
-      "path": "/llms.txt",
-      "hits": 15
-    },
-    {
-      "path": "/blog/embudo-capacidad-llm-andrej-karpathy/",
-      "hits": 14
-    },
-    {
-      "path": "/2012/04/04/como-crear-programas/",
-      "hits": 13
-    },
-    {
-      "path": "/blog/arquitectura-de-confianza-superinteligencia-satya-nadella/",
-      "hits": 13
+      "path": "/blog/que-es-un-forward-deployed-engineer/",
+      "hits": 26
     },
     {
       "path": "/blog/ser-mas-ambicioso-con-la-ia-felix-rieseberg/",
-      "hits": 13
+      "hits": 24
+    },
+    {
+      "path": "/categoria/desarrollo-software/",
+      "hits": 23
+    },
+    {
+      "path": "/blog/que-es-una-variable-en-programacion/",
+      "hits": 22
+    },
+    {
+      "path": "/blog/embudo-capacidad-llm-andrej-karpathy/",
+      "hits": 18
+    },
+    {
+      "path": "/guia/guia-desarrollo-software-moderno/",
+      "hits": 18
+    },
+    {
+      "path": "/blog/que-es-un-bucle-en-programacion/",
+      "hits": 17
+    },
+    {
+      "path": "/llms.txt",
+      "hits": 17
+    },
+    {
+      "path": "/2012/04/04/como-crear-programas/",
+      "hits": 17
     },
     {
       "path": "/2025/02/13/novedades-de-alexa-la-ia-generativa-revoluciona-asistentes-de-voz/",
-      "hits": 13
+      "hits": 17
     },
     {
-      "path": "/guia/guia-transformacion-digital-pymes/",
-      "hits": 13
+      "path": "/blog/arquitectura-de-confianza-superinteligencia-satya-nadella/",
+      "hits": 16
     },
     {
-      "path": "/2025/04/14/la-guia-definitiva-sobre-el-protocolo-de-contexto-del-modelo-mcp/",
-      "hits": 12
+      "path": "/2015/05/18/historia-del-crm/",
+      "hits": 15
     }
   ],
   "formats": {
     "Amazonbot": {
-      "html": 843,
-      "md": 10
+      "html": 1044,
+      "llms": 1,
+      "md": 15
     },
     "Bingbot": {
-      "html": 671,
-      "md": 107,
+      "html": 864,
+      "md": 140,
       "llms": 1
     },
+    "ChatGPT-User": {
+      "html": 248
+    },
     "Googlebot": {
-      "html": 673,
-      "llms": 11
+      "html": 866,
+      "llms": 12
+    },
+    "OAI-SearchBot": {
+      "html": 97,
+      "md": 29
+    },
+    "PerplexityBot": {
+      "html": 144
+    },
+    "ClaudeBot": {
+      "html": 524,
+      "md": 10
     },
     "Meta-ExternalAgent": {
-      "html": 705,
-      "md": 486,
+      "md": 490,
+      "html": 710,
       "llms": 2
     },
     "Claude-User": {
-      "html": 23
-    },
-    "OAI-SearchBot": {
-      "html": 75,
-      "md": 23
-    },
-    "PerplexityBot": {
-      "html": 113
-    },
-    "ChatGPT-User": {
-      "html": 224
-    },
-    "ClaudeBot": {
-      "html": 468,
-      "md": 10
+      "html": 26
     },
     "GPTBot": {
       "html": 747,

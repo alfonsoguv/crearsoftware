@@ -1,68 +1,68 @@
 # Informe de rastreadores de IA (GEO)
 
-Fecha de generacion: 2026-10-18T09:39:49.902Z
+Fecha de generacion: 2026-10-24T10:38:29.847Z
 Origen: https://crearsoftware.com
 Ventana: ultimos 28 dias
-Peticiones de agentes contabilizadas: 5804
+Peticiones de agentes contabilizadas: 6582
 
 ## Por familia
 
 | Familia | Peticiones | Por que importa |
 | --- | --- | --- |
-| Entrenamiento | 3883 | Alimentan el conocimiento base del modelo |
-| Búsqueda generativa | 990 | Construyen el indice que el modelo consulta al responder |
-| Buscador clásico | 684 | SEO tradicional, referencia de comparacion |
-| Agentes en vivo | 247 | Visitan porque un usuario esta preguntando ahora: generan la cita |
+| Entrenamiento | 4155 | Alimentan el conocimiento base del modelo |
+| Búsqueda generativa | 1275 | Construyen el indice que el modelo consulta al responder |
+| Agentes en vivo | 274 | Visitan porque un usuario esta preguntando ahora: generan la cita |
+| Buscador clásico | 878 | SEO tradicional, referencia de comparacion |
 
 ## Por agente
 
 | Agente | Familia | Peticiones |
 | --- | --- | --- |
 | GPTBot | Entrenamiento | 1314 |
-| Meta-ExternalAgent | Entrenamiento | 1193 |
-| Amazonbot | Entrenamiento | 853 |
-| Bingbot | Búsqueda generativa | 779 |
-| Googlebot | Buscador clásico | 684 |
-| ClaudeBot | Entrenamiento | 478 |
-| ChatGPT-User | Agentes en vivo | 224 |
-| PerplexityBot | Búsqueda generativa | 113 |
-| OAI-SearchBot | Búsqueda generativa | 98 |
+| Meta-ExternalAgent | Entrenamiento | 1202 |
+| Amazonbot | Entrenamiento | 1060 |
+| Bingbot | Búsqueda generativa | 1005 |
+| Googlebot | Buscador clásico | 878 |
+| ClaudeBot | Entrenamiento | 534 |
+| ChatGPT-User | Agentes en vivo | 248 |
+| PerplexityBot | Búsqueda generativa | 144 |
+| OAI-SearchBot | Búsqueda generativa | 126 |
 | CCBot | Entrenamiento | 45 |
-| Claude-User | Agentes en vivo | 23 |
+| Claude-User | Agentes en vivo | 26 |
 
 ## Paginas mas leidas por agentes
 
 | Pagina | Peticiones |
 | --- | --- |
-| / | 386 |
-| /blog/ | 140 |
-| /blog/que-es-un-algoritmo-definicion/ | 38 |
-| /blog/que-es-un-diagrama-de-flujo/ | 38 |
-| /2008/03/12/%C2%BFque-es-un-producto/ | 37 |
-| /2007/06/23/ejemplos-de-input-output-y-actividades/ | 37 |
-| /blog/la-fabricacion-vibe-ya-esta-aqui/ | 31 |
-| /2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/ | 30 |
-| /blog/que-es-un-servicio-nativo-de-ia/ | 26 |
-| /guia/guia-agentes-ia-empresas/ | 26 |
-| /2009/03/22/la-venta-personal-en-internet-saas-paas/ | 25 |
-| /blog/agentes-en-la-economia-patrick-collison/ | 21 |
-| /blog/que-es-un-forward-deployed-engineer/ | 19 |
-| /blog/que-es-el-pseudocodigo/ | 19 |
-| /blog/que-es-una-variable-en-programacion/ | 18 |
-| /categoria/desarrollo-software/ | 16 |
-| /guia/guia-desarrollo-software-moderno/ | 16 |
-| /llms.txt | 15 |
-| /blog/embudo-capacidad-llm-andrej-karpathy/ | 14 |
-| /2012/04/04/como-crear-programas/ | 13 |
+| / | 475 |
+| /blog/ | 180 |
+| /blog/que-es-un-algoritmo-definicion/ | 48 |
+| /2007/06/23/ejemplos-de-input-output-y-actividades/ | 46 |
+| /blog/que-es-un-diagrama-de-flujo/ | 46 |
+| /2008/03/12/%C2%BFque-es-un-producto/ | 44 |
+| /2025/03/29/plataformas-de-agentes-de-voz-con-ia-en-europa-especial-foco-en-espana/ | 34 |
+| /blog/la-fabricacion-vibe-ya-esta-aqui/ | 33 |
+| /blog/agentes-en-la-economia-patrick-collison/ | 30 |
+| /2009/03/22/la-venta-personal-en-internet-saas-paas/ | 30 |
+| /guia/guia-agentes-ia-empresas/ | 29 |
+| /blog/que-es-un-servicio-nativo-de-ia/ | 28 |
+| /blog/que-es-el-pseudocodigo/ | 26 |
+| /blog/que-es-un-forward-deployed-engineer/ | 26 |
+| /blog/ser-mas-ambicioso-con-la-ia-felix-rieseberg/ | 24 |
+| /categoria/desarrollo-software/ | 23 |
+| /blog/que-es-una-variable-en-programacion/ | 22 |
+| /blog/embudo-capacidad-llm-andrej-karpathy/ | 18 |
+| /guia/guia-desarrollo-software-moderno/ | 18 |
+| /blog/que-es-un-bucle-en-programacion/ | 17 |
 
 ## Formato servido (md vs HTML)
 
 | Familia | Markdown | llms.txt | HTML | % Markdown | Sin medir |
 | --- | --- | --- | --- | --- | --- |
-| Entrenamiento | 1086 | 3 | 2794 | 28.0% | 0 |
-| Búsqueda generativa | 130 | 1 | 859 | 13.1% | 0 |
-| Buscador clásico | 0 | 11 | 673 | 0.0% | 0 |
-| Agentes en vivo | 0 | 0 | 247 | 0.0% | 0 |
+| Entrenamiento | 1095 | 4 | 3056 | 26.4% | 0 |
+| Búsqueda generativa | 169 | 1 | 1105 | 13.3% | 0 |
+| Agentes en vivo | 0 | 0 | 274 | 0.0% | 0 |
+| Buscador clásico | 0 | 12 | 866 | 0.0% | 0 |
 
 `Sin medir` son peticiones contabilizadas antes de instrumentar el formato
 (2026-08-09). No se imputan a HTML: se declaran aparte.
